@@ -5,7 +5,7 @@ assignees:
   - axonym
 body:
   - type: textarea
-  - id: osoitteet
+    id: osoitteet
     attributes:
       label: Millä nettisivustolla on huijaus?
       validations:
