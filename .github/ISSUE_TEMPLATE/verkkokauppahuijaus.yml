@@ -14,5 +14,5 @@ body:
     id: syy
     attributes:
       label: Perustelut miksi sivusto tulisi lisätä?
-    validations:
-      required: true
+      validations:
+        required: true
