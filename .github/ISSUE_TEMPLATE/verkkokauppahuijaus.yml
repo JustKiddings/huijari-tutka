@@ -8,11 +8,11 @@ body:
     id: osoitteet
     attributes:
       label: Millä nettisivustolla on huijaus?
-      validations:
-        required: true
+    validations:
+      required: true
   - type: textarea
     id: syy
     attributes:
       label: Perustelut miksi sivusto tulisi lisätä?
-      validations:
-        required: true
+    validations:
+      required: true
