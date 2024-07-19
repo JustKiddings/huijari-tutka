@@ -1,0 +1,18 @@
+name: Verkkokauppahuijaus
+description: Raportoi verkkokauppahuijaukset
+labels: ["huijaus", "tarkistettava"]
+assignees:
+  - axonym
+body:
+  - type: textarea
+  - id: osoitteet
+    attributes:
+      label: Millä nettisivustolla on huijaus?
+      validations:
+        required: true
+  - type: textarea
+    id: syy
+    attributes:
+      label: Perustelut miksi sivusto tulisi lisätä?
+    validations:
+      required: true
