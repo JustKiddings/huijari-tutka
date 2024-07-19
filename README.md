@@ -1,1 +1,1 @@
-# huijari-tutka
+# Verkkokauppahuijaukset pois internetistä!
