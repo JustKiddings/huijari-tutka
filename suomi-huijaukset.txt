@@ -1,0 +1,23 @@
+# Title: Suomalaiset Valeverkkokaupat
+# Description: Lista, joka pyrkii estämään suomalaisia valeverkkokauppoja.
+# Homepage: https://github.com/Axonym/huijari-tutka
+# Last modified: 22 Jul 2024 06:55 UTC
+#
+asics-suomifi.com
+dc-shoessuomi.com
+nblenkkaritsuomi.com
+neweracap.com
+neweracapsuomi.com
+neweralippis.com
+stussy-suomi.fi
+stussyale.fi
+stussyfi-suomi.com
+stussyfinland.fi
+stussyhuppari.fi
+stussyhupparisuomi.fi
+stussys-finland.com
+stussystoresuomi.com
+stussysuomi.eu
+stussysuomi.fi
+stussysuomi.net
+stussysuomi.shop
