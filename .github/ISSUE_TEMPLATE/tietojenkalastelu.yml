@@ -1,0 +1,18 @@
+name: Tietojenkalastelu
+description: Raportoi tietojenkalastelusivut
+labels: ["kalastus", "tarkistettava"]
+assignees:
+  - axonym
+body:
+  - type: textarea
+    id: osoitteet
+    attributes:
+      label: Millä nettisivustoilla on tietojenkalastelua?
+    validations:
+      required: true
+  - type: textarea
+    id: syy
+    attributes:
+      label: Perustelut miksi sivusto tulisi lisätä?
+    validations:
+      required: true
