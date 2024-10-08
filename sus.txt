@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 06/10/2024 08:25 UTC
+# Last modified: 08/10/2024 09:23 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -147,6 +147,7 @@ corteiz-suomi.com
 cossuomi.com
 costadelmarsuomi.com
 croydoninsuomikoulu.org
+croydoninsuomikoulu.org.uk
 cs2suomi.com
 culturvated.life
 culturvatedchef.com
@@ -495,6 +496,7 @@ matkahuolto-paketti-78324915.top
 matkahuolto-paketti-79432435.top
 matkahuolto-paketti-81195262.top
 matkahuolto-paketti-84789985.top
+matkahuolto-paketti-87769305.top
 matkahuolto-paketti.top
 matkahuolto.top
 maviestilofeminino.online
@@ -541,6 +543,7 @@ millikulturvakfi.com
 mizuno-suomi.com
 mizunoinsuomi.com
 mjmusoumini.com
+mobiili-elaakkeella.com
 mobiili-elakkeela.com
 mobiili-elakkeella.com
 mobiili-kampanja-pankki.com
@@ -682,6 +685,7 @@ nu-mobilepay.com
 nudeviesta.buzz
 numobilepay.com
 nutraficorporate.com
+nyrdonsuomi.com
 oh-pollysuomi.com
 ohpollysuomi.com
 oikeusturva.info
@@ -754,6 +758,9 @@ op-turva.com
 opanki.com
 oppankii.com
 oralbsuomi.com
+ornavero-fi.com
+ornavero-fi.info
+ornavero-oy.info
 orvero-product.xyz
 ostaarekisteroityajokortti.com
 ostaatietokantojasuomi.com
@@ -765,6 +772,7 @@ owalasuomifi.com
 oy-trafcom.info
 oyj-trafcom.info
 oytrafcom.info
+paapankki.com
 pajarsuomi.com
 palladiumkengatsuomi.com
 palladiumsuomiale.com
@@ -835,6 +843,7 @@ quero-vero-preco-do-pneu.today
 raabersoumimok.ru
 raflahuolto.com
 rajoittamatonsuomi.com
+rakennustietopankki.com
 ralph-lauren-suomi.com
 rasvero-service.ru
 ravintoterveys.net
@@ -869,6 +878,7 @@ s-pankki-paivita-omat-tietosi-fi-illiiilliiiii.ru
 s-pankki.store
 s-pankkimobile.online
 s-siivouspalvelut.com
+s-terveys.com
 sahkopalvelutsalmi.com
 sainttropezsuomi.com
 salomonsuomistore.com
@@ -1005,6 +1015,7 @@ spr-turvapassi.com
 spr-turvapassi.net
 ssl-omavero.com
 stanleysuomi.com
+sterveys.com
 stevemadenssuomi.com
 stillkissen-suomi.shop
 strandkleid-suomi.shop
@@ -1049,6 +1060,7 @@ suomenkaihdincenter.com
 suomenkasinoarvostelut.com
 suomenkasinoetuja.com
 suomenkasinotarjoukset.com
+suomenkasinothotellit.com
 suomenkattopinta.com
 suomenkirkkoespanjassa.net
 suomenkuntotarkastustalo.com
@@ -1063,6 +1075,32 @@ suomenparhaatkohteet.com
 suomenparhaatlomat.com
 suomenparhaattarjoukset.online
 suomenpelaaminen.com
+suomenpeliedut.blog
+suomenpeliedut.buzz
+suomenpeliedut.cfd
+suomenpeliedut.click
+suomenpeliedut.cyou
+suomenpeliedut.fun
+suomenpeliedut.guru
+suomenpeliedut.help
+suomenpeliedut.icu
+suomenpeliedut.lat
+suomenpeliedut.life
+suomenpeliedut.lol
+suomenpeliedut.mom
+suomenpeliedut.one
+suomenpeliedut.online
+suomenpeliedut.pics
+suomenpeliedut.pro
+suomenpeliedut.quest
+suomenpeliedut.sbs
+suomenpeliedut.shop
+suomenpeliedut.site
+suomenpeliedut.space
+suomenpeliedut.store
+suomenpeliedut.website
+suomenpeliedut.world
+suomenpeliedut.xyz
 suomenpiilot.com
 suomensahkoautohuolto.com
 suomensahkoautokorjaamo.com
@@ -1120,6 +1158,7 @@ suomiao.sbs
 suomiarvostelee.com
 suomibestreviews.com
 suomibettimaster.com
+suomica.ru
 suomicasinosocial.com
 suomicoin.com
 suomiconnect.site
@@ -1141,6 +1180,7 @@ suomifionline.site
 suomifront.co.uk
 suomifront.com
 suomify.com
+suomigame.com
 suomiguide.com
 suomii-fi.com
 suomiifi.site
@@ -1167,6 +1207,7 @@ suomionline.sbs
 suomipelikuuk.com
 suomipelithotelli.com
 suomipictures.org
+suomiporno.top
 suomipremiumhotelli.com
 suomipressu.com
 suomiprime.com
@@ -1189,6 +1230,32 @@ suomispinnas.com
 suomissivous.com
 suomisubit.org
 suomisuositus.com
+suomitarjoukset.blog
+suomitarjoukset.buzz
+suomitarjoukset.cfd
+suomitarjoukset.click
+suomitarjoukset.cyou
+suomitarjoukset.fun
+suomitarjoukset.guru
+suomitarjoukset.help
+suomitarjoukset.icu
+suomitarjoukset.lat
+suomitarjoukset.life
+suomitarjoukset.lol
+suomitarjoukset.mom
+suomitarjoukset.one
+suomitarjoukset.online
+suomitarjoukset.pics
+suomitarjoukset.pro
+suomitarjoukset.quest
+suomitarjoukset.sbs
+suomitarjoukset.shop
+suomitarjoukset.site
+suomitarjoukset.space
+suomitarjoukset.store
+suomitarjoukset.website
+suomitarjoukset.world
+suomitarjoukset.xyz
 suomitodennus.info
 suomitopfinn.com
 suomitopp.com
@@ -1265,6 +1332,7 @@ terveysarvioss.com
 terveysasemat.com
 terveyspiste.com
 tetsuomizu.com
+thefrankieshopsuomi.net
 thenorthface-suomi.com
 thenorthfacessuomi.com
 thermossuomi.com
@@ -1314,6 +1382,7 @@ trafcomoyfi.info
 trafcomoyj-fl.info
 trafcomoyj.info
 trafcomoyx.info
+trafcomtrading.com
 trafconsults.com
 traficom-finland.com
 traficom-oyj.info
@@ -1391,6 +1460,7 @@ uniqlosuomi.com
 uniqlosuomi.shop
 uniroyaltiressuomi.com
 unvero-ai.com
+upeaasuomea.com
 uudet-ilman-rekisteroitymista-fi.com
 uudet-ilman-rekisteroitymista.com
 uwellsuomi.com
@@ -1450,6 +1520,7 @@ vero-fi.sbs
 vero-fiber.com
 vero-finanx.com
 vero-fratello.com
+vero-fs.com
 vero-gaming.com
 vero-green.com
 vero-hurtadolozada.com
