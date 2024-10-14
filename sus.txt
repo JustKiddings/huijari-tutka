@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 13/10/2024 07:18 UTC
+# Last modified: 14/10/2024 07:25 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -21,6 +21,7 @@ air-up-finland.com
 airjordansuomi.com
 airupsuomi.top
 aisuomi.com
+aivoterveysmuotoilu.com
 ajosuomi.com
 akunpalvelut.com
 allekirjoituspalvelu.com
@@ -122,6 +123,7 @@ buenaviesta.online
 by-soumi.de
 bymalenebirgersuomi.com
 caffearomavero.com
+camelactivesuomi.com
 canadagoosesuomi.top
 carpediemvero-24.com
 cartiersuomi.net
@@ -136,6 +138,7 @@ catfootwear-suomi.com
 caturva.org
 charlestyrwhitt-suomi.com
 chaturvate.cam
+chillyssuomi.com
 cityopal.com
 cloudsaastopanki.site
 cloudsuomi.click
@@ -203,6 +206,7 @@ elakkeella-spanki.com
 elakkeella-spankki.com
 elamyspalvelut.net
 eleppizpalvelut.info
+elfbarsuomi.net
 elkkeella-spankki.com
 elkkeellas-pankki.com
 elviestate.com
@@ -382,6 +386,7 @@ k-palvelusavo.com
 k-palvelusavo.net
 kampanjamobiili-elakkeella.com
 kansalaiset-omakanta.com
+kantapalvelufi.info
 kantapalvelut-tunnistautnminen.com
 kantapalvelut-tunnistautuminen.com
 karllagerfeldsuomi.com
@@ -513,6 +518,7 @@ matkahuolto-paketti-23788691.top
 matkahuolto-paketti-36239727.top
 matkahuolto-paketti-40790995.top
 matkahuolto-paketti-41926673.top
+matkahuolto-paketti-49440981.top
 matkahuolto-paketti-60684334.top
 matkahuolto-paketti-78324915.top
 matkahuolto-paketti-79432435.top
@@ -748,6 +754,7 @@ oma-posti.site
 oma-rapeti.com
 oma-slot.site
 oma-smash.ch
+oma-smash.com
 oma-system.net
 oma-talley-design.org
 oma-tech.com
@@ -764,6 +771,7 @@ omavero-fin.com
 omavero-finn.com
 omavero-online.com
 omaverofin25.com
+omaveroinfo.com
 omaveroooxxfi.click
 omaveroxyfin.com
 omaveroyfix.com
@@ -867,6 +875,7 @@ prh-suomi.com
 prhsuomi.com
 pripanki.com
 profuomosuomi.com
+pruthviestates.com
 psuhholoogilineturvalisus.com
 puhdasterveys.com
 puhutaansuomea.com
@@ -899,6 +908,7 @@ ropotodennus.com
 ropoturva.com
 ropoviesti.com
 royaldeviesta.com
+russellathleticsuomi.com
 s-mobiili-elakkeela.com
 s-mobiili.online
 s-mobiilispankki.com
@@ -1018,6 +1028,7 @@ soumissionassurance.online
 soumissionassuranceauto.com
 soumissionassurancecollective.com
 soumissionassuranceviesansexamenmedical.com
+soumissionconfort.com
 soumissionmauricie.com
 soumissionnettoyage.com
 soumissionresidentielle.xyz
@@ -1034,6 +1045,7 @@ soumissionssherbrooke.ca
 soumissionstrois-rivieres.ca
 soumit.tech
 soumitra.link
+soumitrab.com
 soumitradey.com
 soumitrafurniture.com
 soumitrasaha.com
@@ -1045,6 +1057,7 @@ spanki-client.com
 spankii-fi.site
 spankiii-viesti.site
 spankki-elakkeeella.com
+spankki-elakkeela.com
 spankki-elakkeella.com
 spankki-viestit.com
 spankki-viestit.net
@@ -1100,6 +1113,44 @@ suomenhelmi.com
 suomenhevonen.info
 suomenhoteljoukset.com
 suomenhotellitnet.com
+suomenhuipputarjoukset.autos
+suomenhuipputarjoukset.blog
+suomenhuipputarjoukset.boats
+suomenhuipputarjoukset.bond
+suomenhuipputarjoukset.buzz
+suomenhuipputarjoukset.cam
+suomenhuipputarjoukset.cfd
+suomenhuipputarjoukset.click
+suomenhuipputarjoukset.cloud
+suomenhuipputarjoukset.cyou
+suomenhuipputarjoukset.digital
+suomenhuipputarjoukset.fun
+suomenhuipputarjoukset.guru
+suomenhuipputarjoukset.help
+suomenhuipputarjoukset.homes
+suomenhuipputarjoukset.icu
+suomenhuipputarjoukset.ink
+suomenhuipputarjoukset.lat
+suomenhuipputarjoukset.life
+suomenhuipputarjoukset.live
+suomenhuipputarjoukset.lol
+suomenhuipputarjoukset.mom
+suomenhuipputarjoukset.one
+suomenhuipputarjoukset.online
+suomenhuipputarjoukset.pics
+suomenhuipputarjoukset.pro
+suomenhuipputarjoukset.quest
+suomenhuipputarjoukset.rest
+suomenhuipputarjoukset.sbs
+suomenhuipputarjoukset.shop
+suomenhuipputarjoukset.site
+suomenhuipputarjoukset.skin
+suomenhuipputarjoukset.space
+suomenhuipputarjoukset.store
+suomenhuipputarjoukset.today
+suomenhuipputarjoukset.website
+suomenhuipputarjoukset.world
+suomenhuipputarjoukset.xyz
 suomenhuiput.com
 suomenihmeet.com
 suomenkaihdincenter.com
@@ -1250,6 +1301,7 @@ suomileikki.info
 suomilodges.com
 suomiluksushotelli.com
 suomiluksusplaza.com
+suomiluotettavuus.com
 suomiluxhotelli.com
 suomiluxuskasino.com
 suomimetalstar.com
@@ -1257,10 +1309,12 @@ suomimm.top
 suomingy.com
 suominope.online
 suominopea.com
+suominopeatpelit.com
 suomiolut.com
 suomionline.sbs
 suomipelikuuk.com
 suomipelithotelli.com
+suomipelivarmuus.com
 suomipictures.org
 suomiporno.top
 suomipremiumhotelli.com
@@ -1378,6 +1432,44 @@ tarjouksetsuomi.store
 tarjouksetsuomi.website
 tarjouksetsuomi.world
 tarjouksetsuomi.xyz
+tarjousketsuomessa.autos
+tarjousketsuomessa.blog
+tarjousketsuomessa.boats
+tarjousketsuomessa.bond
+tarjousketsuomessa.buzz
+tarjousketsuomessa.cam
+tarjousketsuomessa.cfd
+tarjousketsuomessa.click
+tarjousketsuomessa.cloud
+tarjousketsuomessa.cyou
+tarjousketsuomessa.digital
+tarjousketsuomessa.fun
+tarjousketsuomessa.guru
+tarjousketsuomessa.help
+tarjousketsuomessa.homes
+tarjousketsuomessa.icu
+tarjousketsuomessa.ink
+tarjousketsuomessa.lat
+tarjousketsuomessa.life
+tarjousketsuomessa.live
+tarjousketsuomessa.lol
+tarjousketsuomessa.mom
+tarjousketsuomessa.one
+tarjousketsuomessa.online
+tarjousketsuomessa.pics
+tarjousketsuomessa.pro
+tarjousketsuomessa.quest
+tarjousketsuomessa.rest
+tarjousketsuomessa.sbs
+tarjousketsuomessa.shop
+tarjousketsuomessa.site
+tarjousketsuomessa.skin
+tarjousketsuomessa.space
+tarjousketsuomessa.store
+tarjousketsuomessa.today
+tarjousketsuomessa.website
+tarjousketsuomessa.world
+tarjousketsuomessa.xyz
 tedbakerssuomi.com
 tedbakersuomi.com
 tedbakersuomi.shop
