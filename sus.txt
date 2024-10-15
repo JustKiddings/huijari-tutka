@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 14/10/2024 07:25 UTC
+# Last modified: 15/10/2024 07:25 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -394,6 +394,7 @@ karttapalvelut.com
 kartyakevero-gep-az-en.shop
 kartyakevero-gep.shop
 kasinovalvonta.xyz
+katespadesuomi.com
 katisuominen.com
 katzenfutter-suomi.shop
 kaunissuomi.com
@@ -448,6 +449,7 @@ kryptomobilepay.com
 kryptosuomi.net
 ks-ohjelmapalvelut.net
 kuljetuspalvelumiilumaki.com
+kulturvakt.nu
 kuntoutusjakehonhuolto.com
 lafranceinsoumise.vote
 laina-suomi.com
@@ -506,6 +508,7 @@ makea-viesti.com
 manoloblahniksuomi.com
 mariahietanenterapiapalvelut.com
 marimekkosuomi.com
+marmot-suomi-outlet.com
 masoumibrush.com
 masterveyor.com
 matkahuolto-maksu-fi.online
@@ -595,6 +598,7 @@ mobilepay-kayttaja.com
 mobilepay.casino
 mobilepay.help
 mobilepay.llc
+mobilepay.nu
 mobilepay.site
 mobilepaycasino-fi.top
 mobilepaycasino.com
@@ -631,11 +635,13 @@ mobilepayments.shop
 mobilepayments.site
 mobilepaymentsolutions679508.icu
 mobilepaysearch.online
+mobilepayservice.nu
 mobilepaysuomii.com
 mobilepaysupport.com
 mobillispankki.online
 moncler-suomi.com
 monsoonsuomi.com
+mooseknucklesuomi.com
 motelrocksfinland.com
 motivapesuomi.com
 moviestash.click
@@ -730,6 +736,7 @@ oma-email.site
 oma-emailing.site
 oma-emails.site
 oma-emma-laden.online
+oma-en-opa.nu
 oma-fi.com
 oma-fi.site
 oma-fi.website
@@ -763,7 +770,9 @@ omaaelisa.site
 omaakantaa-fi.net
 omaelisa.sbs
 omakanta-online.com
+omakantafin.info
 omakantal-kansalaiset.com
+omakantayr.info
 omavalvontasuunnitelma.online
 omavero-fi.com
 omavero-fi1.com
@@ -1089,6 +1098,7 @@ sun-suomen-ope.ru
 sunburysuomiswings.sbs
 suomei.top
 suomeksi.net
+suomela.nu
 suomen-fi.site
 suomen-fi.website
 suomen-fin.site
@@ -1203,6 +1213,7 @@ suomenpiilot.com
 suomensahkoautohuolto.com
 suomensahkoautokorjaamo.com
 suomentalousuutiset.blog
+suomentanssitapahtumat.com
 suomenterassicenter.com
 suomenterassilasitus.com
 suomentimanttiurakointi.com
@@ -1246,6 +1257,7 @@ suomi-viestits.site
 suomi-wonderful.com
 suomi.in.ua
 suomi.media
+suomi.nu
 suomi.tech
 suomi001-fi.site
 suomi01-fi.site
@@ -1253,6 +1265,7 @@ suomi07-fi.site
 suomi08-fi.site
 suomi2024.com
 suomi22.com
+suomi24.nu
 suomialfa.com
 suomiao.sbs
 suomiarvostelee.com
@@ -1295,6 +1308,7 @@ suomikasinot365.com
 suomikasinothotels.com
 suomike.com
 suomike.net
+suomikeskus.nu
 suomikooooh.xyz
 suomikuvva.com
 suomileikki.info
@@ -1313,6 +1327,7 @@ suominopeatpelit.com
 suomiolut.com
 suomionline.sbs
 suomipelikuuk.com
+suomipelinopeus.com
 suomipelithotelli.com
 suomipelivarmuus.com
 suomipictures.org
@@ -1470,6 +1485,7 @@ tarjousketsuomessa.today
 tarjousketsuomessa.website
 tarjousketsuomessa.world
 tarjousketsuomessa.xyz
+tbsuomi.com
 tedbakerssuomi.com
 tedbakersuomi.com
 tedbakersuomi.shop
@@ -1480,6 +1496,7 @@ teollisuuspalvelu918.com
 terosuomela.art
 terveyasarvios.com
 terveydenhoitopalvelut.com
+terveys.shop
 terveysarviios.com
 terveysarvioss.com
 terveysasemat.com
@@ -1581,6 +1598,7 @@ tunnistussuomi.info
 tunnlstautuninen-kirjaudu.com
 tupperwaresuomi.com
 turunkattohuolto.com
+turva.pro
 turva.sbs
 turvakaitse.ee
 turvakengat.com
@@ -1640,6 +1658,7 @@ vahvistusdiilifi.xyz
 vahvistustori25.online
 vahvistustorifi.store
 vahvistustransaktio.shop
+vaihdehuolto.nu
 valvonix.com
 valvontakamerat-design.shop
 valvontakamerat.shop
@@ -1673,6 +1692,7 @@ vero-amara.com
 vero-asperiores.com
 vero-assist.com
 vero-coach.com
+vero-coach.nu
 vero-contract.com
 vero-dent.com
 vero-dev.com
@@ -1753,6 +1773,8 @@ viestit-suomifi.info
 viestit-suomifi.site
 viestitse-suomi.site
 villisuomi.com
+vintagevaatteetsuomi.com
+vippsmobilepay.nu
 virelasuomi.com
 virikepalveluseija.pro
 virtuaalinen-terveys-1.online
@@ -1836,6 +1858,7 @@ yhteydenpito-suomi.site
 yhteys-suomi.site
 yhteys.ai
 yigitkulturvakfii.net
+yrityspalvelu.nu
 zarkovsoumisky.com
 zigarrenschneider-suomi.shop
 zimplerkasinotsuomi.com
