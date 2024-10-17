@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 16/10/2024 07:00 UTC
+# Last modified: 17/10/2024 07:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -183,6 +183,7 @@ corteiz-suomi.com
 cosfinland.com
 cossuomi.com
 costadelmarsuomi.com
+createchfinland.com
 createchfinland.info
 createchfinland.org
 cremationacwfinland.bond
@@ -256,6 +257,7 @@ elakkeella-spankki.com
 elamyspalvelut.net
 eleppizpalvelut.info
 elfbarsuomi.net
+elfbarvapesuomi.com
 elkkeella-spankki.com
 elkkeellas-pankki.com
 elviestate.com
@@ -371,6 +373,7 @@ helly-hansensuomi.com
 helsinki-image.com
 helsinki-pools.com
 helsinki.lat
+helsinkiaamu.org
 helsinkicoach.com
 helsinkicurrent.com
 helsinkidigitalhouse.com
@@ -411,6 +414,7 @@ hoka-one-one-suomi.com
 hokaoneone-finland.com
 hokasuomi.org
 hoodrichsuomi-fi.com
+hotellihelsinki.net
 hotellikasinosuomi.com
 hotellithelsinki.net
 hotellodgingsuomi.com
@@ -493,6 +497,7 @@ jncosuomi.com
 journeytodayfinland.com
 jpkviesta.com
 juhasuomela.com
+junkremovalvonore.com
 jyvaskylaautohuolto.com
 k-palvelusavo.com
 k-palvelusavo.net
@@ -501,6 +506,8 @@ kampanjamobiili-elakkeella.com
 kampanjaspankki-elakkella.com
 kansalaiset-omakanta.com
 kantapalvelufi.info
+kantapalveluinfo.com
+kantapalvelury.com
 kantapalvelut-tunnistautnminen.com
 kantapalvelut-tunnistautuminen.com
 karllagerfeldsuomi.com
@@ -548,6 +555,7 @@ koirapalvelukoivunen.com
 koirapalvelupomeliina.com
 kokin-tyopaikat.cfd
 kokki-avoimet-tyopaikat.cfd
+konehuoltoheinonen.com
 konnevedenvuokrauspalvelu.com
 kontakti-suomi.site
 kontaktiform-suomi.site
@@ -640,6 +648,7 @@ matkahuolto-paketti-01807323.top
 matkahuolto-paketti-11202885.top
 matkahuolto-paketti-11374544.top
 matkahuolto-paketti-11912994.top
+matkahuolto-paketti-16518475.top
 matkahuolto-paketti-17698858.top
 matkahuolto-paketti-23788691.top
 matkahuolto-paketti-36239727.top
@@ -697,6 +706,7 @@ miestenrannekorut.shop
 miestenterveystabletit.info
 miestenvuoro.com
 millikulturvakfi.com
+minilovefinland.com
 mizuno-suomi.com
 mizunoinsuomi.com
 mjmusoumini.com
@@ -762,6 +772,7 @@ mobilepayments.site
 mobilepaymentsolutions679508.icu
 mobilepaysearch.online
 mobilepayservice.nu
+mobilepaysuomii-fi.com
 mobilepaysuomii.com
 mobilepaysupport.com
 mobilitybedfinland.today
@@ -910,6 +921,7 @@ omaelisa.sbs
 omakanta-online.com
 omakantafin.info
 omakantal-kansalaiset.com
+omakantarypalv.com
 omakantayr.info
 omavalvontasuunnitelma.online
 omavero-fi.com
@@ -994,6 +1006,7 @@ pecaviestate.com
 pelaaminensuomessa.com
 pelaasuomea.com
 pelitoimintaasuomessa.com
+penfieldsuomi.com
 pensionfinland.buzz
 perdavvero-lab.it
 perintapalvelu.net
@@ -1011,6 +1024,7 @@ playwinsuomi.com
 pleaserfinland.com
 pod-finlandia.zgorzelec.pl
 polenebagssuomi.com
+polenessuomi.com
 polenesuomi.com
 polkcountyopa.org
 pool-cleaner-tyopaikat.online
@@ -1058,6 +1072,7 @@ rdsiivouspalvelut.com
 reflexions-echanges-insoumis.org
 returvaluta.com
 returvaluta.nu
+revero-fruit.com
 reviewsuomi.com
 ricovero-temporaneo.it
 riippumatot-suomi.shop
@@ -1089,6 +1104,7 @@ s-pankkimobile.online
 s-siivouspalvelut.com
 s-steel-finland.com
 s-terveys.com
+saaspankki.com
 sahkopalvelutsalmi.com
 sainttropezsuomi.com
 salomonfinland.com
@@ -1470,6 +1486,7 @@ suomiifi.site
 suomiinsights.com
 suomijy.com
 suomikasino.buzz
+suomikasinolista.com
 suomikasinot2024.com
 suomikasinot365.com
 suomikasinothotels.com
@@ -1682,6 +1699,7 @@ thursday-boots-suomi.com
 thursdayboot-suomi.com
 tietokonehuolto.org
 tifosisuomi.com
+tiktiksuomi.store
 tilin-hallinta-asiakas.com
 timberland-suomi.net
 tinamasoumi.com
@@ -1800,10 +1818,12 @@ tutti-sensuomi.com
 tyomaaturvallisuus.com
 tyopaikat-siivousyrityksissa-fi.online
 tyopaikat-siivousyrityksissa.online
+tyopay.com
 tyoturvakortti.net
 tyoturvallisuus.com
 tyoturvallisuuskortti.com
 tyoturvallisuuskortti.online
+tyyli-helsinki.com
 tyylikkaat-naisten-vaatteet.shop
 uagsuomi.com
 ucobssuomishop.org
@@ -1814,6 +1834,7 @@ uniqlosuomi.com
 uniqlosuomi.shop
 uniroyaltiressuomi.com
 unisafinland.com
+uniterveysohjelma.com
 unlimitedfinland.com
 unvero-ai.com
 upeaasuomea.com
@@ -1883,6 +1904,7 @@ vero-dev.com
 vero-diseno.com
 vero-dublin.com
 vero-error.site
+vero-est.site
 vero-fi.sbs
 vero-fiber.com
 vero-finanx.com
@@ -1983,6 +2005,7 @@ voitapalvelu.xyz
 voittopalvelu.info
 vondutchsuomi.com
 voopoovapesuomi.com
+vozolsuomi.net
 vv-autohuolto.com
 warmflaschen-suomi.shop
 webmobilepay.com
@@ -2037,6 +2060,7 @@ xn--tyturvakortti-jmb.online
 xn--tyturvallisuuskortti-49b.com
 xn--tyturvallisuuskortti-49b.online
 xn--vero-pg-zwa.com
+xplorefinland.se
 xsuomi.site
 xsuomifi.site
 xxxfinland.com
