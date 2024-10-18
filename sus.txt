@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 17/10/2024 07:00 UTC
+# Last modified: 18/10/2024 07:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -161,6 +161,7 @@ caterpillarsuomi-fi.com
 caterpliarssuomi.com
 catfootwear-suomi.com
 caturva.org
+cellarhelsinki.com
 champion-fightclubfinland.com
 charlestyrwhitt-suomi.com
 chaturvate.cam
@@ -239,6 +240,7 @@ e-viestit.site
 easy-loan-finland.today
 easymobilepay.today
 easymobilepayments.com
+ebikehuolto.com
 ecco-finland.com
 eccofinland.com
 ed-hardy-suomi.com
@@ -268,6 +270,8 @@ eo-palvelut.com
 epicsuomi.com
 espankki.com
 esport-suomi.com
+esprit-finland.com
+etherviesta.ink
 etsisuomesta.com
 eucreafinland.org
 eusoumichaelldouglas.com.br
@@ -377,8 +381,11 @@ helsinkiaamu.org
 helsinkicoach.com
 helsinkicurrent.com
 helsinkidigitalhouse.com
+helsinkidogshome.com
 helsinkieast.aero
+helsinkiescort.com
 helsinkifestival.org
+helsinkiijing.lol
 helsinkilegaltech.com
 helsinkimint.com
 helsinkimint.se
@@ -425,6 +432,7 @@ hs-suomi.ru
 hugo-boss-suomi.com
 huippusuomi.com
 hummelsuomi.com
+hunter-finland.com
 huntersuomi.shop
 huolto.app
 huoltohelppi.com
@@ -469,9 +477,11 @@ iptv-suomi.xyz
 iptvfinland.info
 iptvsuomi.club
 iptvsuomi.info
+iptvsuomi.live
 iptvsuomi.xyz
 isolationsoumission.com
 isoumi.com
+it-palvelu.ltd
 it-tyopaikat-suomi.cfd
 itamerensuomi.net
 itjobfinderfinland.digital
@@ -494,6 +504,7 @@ jennynterapiapalvelu.com
 jh-elainpalvelut.com
 jlphuolto.com
 jncosuomi.com
+josefseibel-suomi.com
 journeytodayfinland.com
 jpkviesta.com
 juhasuomela.com
@@ -502,6 +513,7 @@ jyvaskylaautohuolto.com
 k-palvelusavo.com
 k-palvelusavo.net
 kaitesifinland.com
+kampanjafi-mobilespankki.com
 kampanjamobiili-elakkeella.com
 kampanjaspankki-elakkella.com
 kansalaiset-omakanta.com
@@ -517,6 +529,7 @@ kartyakevero-gep.shop
 kasinovalvonta.xyz
 katespadesuomi.com
 katisuominen.com
+katon-korjaus-palvelut.online
 katzenfutter-suomi.shop
 kaunissuomi.com
 kaupanvahvistajamikaloppi.com
@@ -642,6 +655,7 @@ marka-helsinki.com
 marmot-suomi-outlet.com
 marsvenuscoachingfinland.com
 masoumibrush.com
+mastergastrofinland.com
 masterveyor.com
 matkahuolto-maksu-fi.online
 matkahuolto-paketti-01807323.top
@@ -710,6 +724,7 @@ minilovefinland.com
 mizuno-suomi.com
 mizunoinsuomi.com
 mjmusoumini.com
+mnsuomessa.com
 mobiili-elaakkeella.com
 mobiili-elakkeela.com
 mobiili-elakkeella.com
@@ -841,6 +856,7 @@ nikotiinipussi.shop
 nikotiinipussi.space
 nikotiinipussi.store
 nikotiinipussi.xyz
+nikotiinipussi1.club
 nikotiinipussi1.info
 nikotiinipussit.fun
 nikotiinipussit.ink
@@ -1149,6 +1165,7 @@ siivouspalvelut-tyopaikat.online
 siivouspalvelut.bond
 siivouspalvelutsusaoikarinen.com
 sijaisautopalvelu.com
+siksilkfinland.com
 silberringe-suomi.shop
 sinunturvapalvelu.com
 sisleysuomi.com
@@ -1265,6 +1282,7 @@ starburst-game-finland.site
 sterveys.com
 stevemadenssuomi.com
 stillkissen-suomi.shop
+stitchtoyhelsinki.com
 stogasuomicsvamin.fun
 strandkleid-suomi.shop
 stussy-suomi.com
@@ -1451,6 +1469,7 @@ suomi22.com
 suomi24.nu
 suomialfa.com
 suomiao.sbs
+suomiarcxteryx.com
 suomiarvostelee.com
 suomiautodeals.bond
 suomibestreviews.com
@@ -1981,6 +2000,7 @@ viestit-suomifi.site
 viestitse-suomi.site
 villisuomi.com
 vintagevaatteetsuomi.com
+vipkasinotsuomi.com
 vippsmobilepay.nu
 virelasuomi.com
 virikepalveluseija.pro
