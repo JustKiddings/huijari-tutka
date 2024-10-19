@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 18/10/2024 07:00 UTC
+# Last modified: 19/10/2024 07:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -23,6 +23,7 @@ ahertajayrityspalvelu.com
 ahertajayrityspalvelu.online
 air-up-finland.com
 airjordanfinland.net
+airjordans-suomi.com
 airjordansuomi.com
 airport-food-packaging-jobs-finland.today
 airupsuomi.top
@@ -125,6 +126,7 @@ birkenstock-suomi-fi.com
 birkenstocksuomifi.com
 bjornborgsuomi.com
 blackdiamondsuomi.com
+blakelysuomi.com
 blinkhelsinki.com
 boandteesuomi.com
 bomyhelsinki.com
@@ -161,6 +163,7 @@ caterpillarsuomi-fi.com
 caterpliarssuomi.com
 catfootwear-suomi.com
 caturva.org
+ccfinland.com
 cellarhelsinki.com
 champion-fightclubfinland.com
 charlestyrwhitt-suomi.com
@@ -228,6 +231,7 @@ doctormartens-suomi.com
 dominantesetsoumis.com
 dope-finland.com
 dram-suomi.com
+driving-school-helsinki-344791214.today
 drmarten-suomi.com
 drmartensfinland.com
 drsoumitraghosh.in
@@ -262,16 +266,19 @@ elfbarsuomi.net
 elfbarvapesuomi.com
 elkkeella-spankki.com
 elkkeellas-pankki.com
+elmiestenlodgeensear.fun
 elviestate.com
 elviestate.ru
 emaldosuomi.com
 enviestates.co.uk
 eo-palvelut.com
+eogaeafernandfinland.shop
 epicsuomi.com
 espankki.com
 esport-suomi.com
 esprit-finland.com
 etherviesta.ink
+etherviesta.site
 etsisuomesta.com
 eucreafinland.org
 eusoumichaelldouglas.com.br
@@ -306,6 +313,7 @@ finland-viesti.site
 finland.nu
 finlandrehabs.com
 finlandwaterbottle.shop
+finnporthelsinki.com
 fintalksfinland.com
 finvero-ti.com
 firapalvelut.com
@@ -561,6 +569,8 @@ kirjaudu-siaan.sbs
 kirjaudu-sisaan.sbs
 kirjaudu-suomi.com
 kirjaudu.site
+kiropraktiikkahelsinki.com
+kiropraktikko-helsinki.com
 kissen-suomi.shop
 kivaasuomessa.online
 kmpanja-spankki.com
@@ -746,6 +756,7 @@ mobilepay-dk.info
 mobilepay-fi.com
 mobilepay-kayttaja.com
 mobilepay.casino
+mobilepay.digital
 mobilepay.help
 mobilepay.llc
 mobilepay.nu
@@ -886,6 +897,7 @@ nu-mobilepay.com
 nudeviesta.buzz
 numobilepay.com
 nutraficorporate.com
+nutrihealthfinland.com
 nutrilabfinland.com
 nyrdonsuomi.com
 official-casino-finland.lat
@@ -999,6 +1011,7 @@ palvelu-suomi.site
 palvelu.top
 palveluasiakasnordeasuomi.online
 palvelukanta.com
+palveluliikenne.com
 palvelun-suomi.site
 palvelusaatopanki.site
 palveluvalmennus.com
@@ -1073,8 +1086,10 @@ pumafi-suomi.com
 pumafinland.com
 pumaoutletsuomi.shop
 puutarhurin-tyopaikat.online
+qisuunnittelupalvelu.com
 quero-vero-preco-do-pneu.today
 raabersoumimok.ru
+radiofreefinland.net
 raflahuolto.com
 ragweartakkisuomi.com
 rajoittamatonsuomi.com
@@ -1147,6 +1162,7 @@ seikosuomi.com
 sendrabootssuomi.net
 senior-car-insurance-costs-in-finland.bond
 senior-living-finland-yshkin.click
+serenityopal.com
 severisuominen.dev
 severisuominen.net
 sharviestate.com
@@ -1277,8 +1293,10 @@ spr-turvapassi.com
 spr-turvapassi.net
 ssl-omavero.com
 stair-lift-finland.bond
+stanleyfinland.com
 stanleysuomi.com
 starburst-game-finland.site
+starzonefinland.net
 sterveys.com
 stevemadenssuomi.com
 stillkissen-suomi.shop
@@ -1467,6 +1485,7 @@ suomi08-fi.site
 suomi2024.com
 suomi22.com
 suomi24.nu
+suomiaaki.com
 suomialfa.com
 suomiao.sbs
 suomiarcxteryx.com
@@ -1538,6 +1557,7 @@ suomiporno.top
 suomipremiumhotelli.com
 suomipressu.com
 suomiprime.com
+suomir3p.net
 suomiratings.com
 suomirealty.com
 suomiresortcasino.com
@@ -1849,6 +1869,7 @@ ucobssuomishop.org
 uggs-suomi.com
 uggsuomi.com
 uima-altaan-puhdistus-tyopaikat.online
+ultrafcootball.shop
 uniqlosuomi.com
 uniqlosuomi.shop
 uniroyaltiressuomi.com
@@ -2016,6 +2037,7 @@ vivahvishwakarma.com
 vivahvista.com
 vivaiaisuomi.com
 vivaiasuomi.com
+vivaiasuomioutlet.com
 vivero-cosmo.com
 vivero-romen.com
 vivero-selvatico.com
