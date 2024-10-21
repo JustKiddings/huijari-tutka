@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 20/10/2024 07:00 UTC
+# Last modified: 21/10/2024 07:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -180,6 +180,8 @@ coashopsuomis.com
 collaborativecaresystemsfinland.com
 columbiafinland.com
 columbiassuomi.com
+com-suomi.shop
+comfyhelsinki.com
 comme-des-garconssuomi.com
 conversesuomi-fi.com
 coolcationinfinland.com
@@ -296,6 +298,7 @@ facebook-turvallisuus.info
 falkesuomi.com
 fanipaitasuomi.com
 farmaseuttinen-pakkaus-tyopaikat.xyz
+fashionclub-helsinki.com
 felcosuomi.com
 femalefounderssuomi.com
 fenniaasiakaspalvelu.com
@@ -338,6 +341,7 @@ freecasinofinland.com
 freeplayfinland.com
 freeplayssuomi.com
 freesocialcasinofinland.com
+freetourshelsinki.com
 freight-forwarders-finland-595217652.today
 freight-forwarders-finland-910620832.world
 freight-forwarders-finland-976873170.today
@@ -396,6 +400,7 @@ helsinkiaamu.org
 helsinkiboattours.com
 helsinkicoach.com
 helsinkicurrent.com
+helsinkidesignschool.net
 helsinkidigitalhouse.com
 helsinkidogshome.com
 helsinkieast.aero
@@ -536,6 +541,7 @@ kampanjaspankki-elakkella.com
 kansalaiset-omakanta.com
 kantapalvelufi.info
 kantapalveluinfo.com
+kantapalveluonline.info
 kantapalvelury.com
 kantapalvelut-tunnistautnminen.com
 kantapalvelut-tunnistautuminen.com
@@ -622,6 +628,7 @@ lastenvaunut-suomi.shop
 lattiapalveluroyal.com
 lavero-helsinki.com
 lavero-shop.com
+lavero-stockholm.com
 laviestat.online
 laviestat.ru
 laviestatcom.online
@@ -882,6 +889,7 @@ nikotiinipussi.store
 nikotiinipussi.xyz
 nikotiinipussi1.club
 nikotiinipussi1.info
+nikotiinipussi1.site
 nikotiinipussit.fun
 nikotiinipussit.ink
 nikotiinipussit.site
@@ -960,6 +968,7 @@ omaaelisa.site
 omaakantaa-fi.net
 omaelisa.sbs
 omakanta-online.com
+omakantafi.info
 omakantafin.info
 omakantal-kansalaiset.com
 omakantarypalv.com
@@ -1008,6 +1017,7 @@ ostaarekisteroityajokortti.com
 ostaatietokantojasuomi.com
 osuus-pankki.com
 osuuspankki-fi.com
+osuuspankki-fi1.com
 osuuspankki2.com
 owala-suomi.com
 owalasuomifi.com
@@ -1065,6 +1075,7 @@ playboy-finland.com
 playwinsuomi.com
 pleaserfinland.com
 pod-finlandia.zgorzelec.pl
+pokerhandsfinland.com
 polenebagssuomi.com
 polenessuomi.com
 polenesuomi.com
@@ -1103,6 +1114,7 @@ puutarhurin-tyopaikat.online
 qisuunnittelupalvelu.com
 quero-vero-preco-do-pneu.today
 raabersoumimok.ru
+radianthelsinki.lol
 radiofreefinland.net
 raflahuolto.com
 ragweartakkisuomi.com
@@ -1114,6 +1126,7 @@ ravintoterveys.net
 ray-bansuomi.com
 raycon-suomi.com
 rdsiivouspalvelut.com
+redumbrellatourshelsinki.com
 reflexions-echanges-insoumis.org
 returvaluta.com
 returvaluta.nu
@@ -1451,6 +1464,7 @@ suomentanssitapahtumat.com
 suomenterassicenter.com
 suomenterassilasitus.com
 suomentimanttiurakointi.com
+suomenvannekorjaus.com
 suomenvip.com
 suomenwh.com
 suomenyritysrahoitus.com
@@ -1501,6 +1515,7 @@ suomi2024.com
 suomi22.com
 suomi24.nu
 suomiaaki.com
+suomiadmin.com
 suomialfa.com
 suomiao.sbs
 suomiarcxteryx.com
@@ -1573,6 +1588,7 @@ suomipremiumhotelli.com
 suomipressu.com
 suomiprime.com
 suomir3p.net
+suomirani.xyz
 suomiratings.com
 suomirealty.com
 suomiresortcasino.com
@@ -1659,9 +1675,11 @@ syvellssuomi.com
 takanta.online
 takeyasuomi.com
 taksipalvelu-koikkalainen.com
+talentsyncfinland.com
 tansuomedia.com.tw
 tanzschuhe-suomi.shop
 taofinland.com
+tapahtumasuomi.net
 tarjouksetpalvelu.vip
 tarjouksetsuomi.blog
 tarjouksetsuomi.buzz
@@ -1752,6 +1770,7 @@ thenorthfacessuomi.com
 thermossuomi.com
 thursday-boots-suomi.com
 thursdayboot-suomi.com
+thursdaybootsfinland.com
 tietokonehuolto.org
 tifosisuomi.com
 tiktiksuomi.store
@@ -1813,6 +1832,7 @@ traficorganique.fr
 traficorn-oy.info
 traficorn.info
 traficorn.net
+transferhelsinki-spb.com
 trap-star-suomi.com
 trap-starfinland.com
 trap-starsuomi.com
@@ -1988,6 +2008,7 @@ vero-soluta.site
 vero-soto.com
 vero-suomi.com
 vero-suomi.sbs
+vero-thoi-mien.com
 vero-tw.cam
 vero-vera.com
 vero-well.com
