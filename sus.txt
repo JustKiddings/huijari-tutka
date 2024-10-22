@@ -1,13 +1,14 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 21/10/2024 07:00 UTC
+# Last modified: 22/10/2024 07:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
 1081asiakaspalvelu-op.info
 1082asiakaspalvelu-nordea.info
 1suomi.site
+1win-finland.net
 2024-omavero.com
 2024-omavero.info
 2024-omavero.net
@@ -45,6 +46,7 @@ anyasoumi.com
 apinpalvelut.com
 apteekki-finland.com
 apurapalvelut.com
+aquilasuomi.com
 aquilasuomi.online
 arakengatsuomi.com
 archiwumpanki.pl
@@ -200,6 +202,7 @@ crematrngqafinland.bond
 croydoninsuomikoulu.org
 croydoninsuomikoulu.org.uk
 cs2suomi.com
+culturvalinteriors.shop
 culturvated.life
 culturvatedchef.com
 culturvations.com
@@ -235,6 +238,7 @@ doctormartens-finland.com
 doctormartens-suomi.com
 dominantesetsoumis.com
 dope-finland.com
+dope-suomi.com
 dram-suomi.com
 driving-school-helsinki-344791214.today
 drmarten-suomi.com
@@ -266,6 +270,7 @@ elakkeella-mobiili.com
 elakkeella-spanki.com
 elakkeella-spankki-mobiili.com
 elakkeella-spankki.com
+elakkeellamobiili.com
 elamyspalvelut.net
 eleppizpalvelut.info
 elfbarsuomi.net
@@ -416,6 +421,7 @@ helsinkinews24.com
 helsinkinotebooks.com
 helsinkioutletskechers.com
 helsinkiprofessionals.com
+helsinkis.top
 helsinkislipper.com
 helsinkisolar.com
 helsinkitodolist.com
@@ -541,6 +547,7 @@ kampanjaspankki-elakkella.com
 kansalaiset-omakanta.com
 kantapalvelufi.info
 kantapalveluinfo.com
+kantapalveluonline.com
 kantapalveluonline.info
 kantapalvelury.com
 kantapalvelut-tunnistautnminen.com
@@ -666,6 +673,7 @@ lunasandalssuomi.net
 luulajansuomiseura.se
 luvero-london.com
 madeinfinland.nu
+mahdaviestate.com
 majuriturvallinen.com
 makantadbir.com
 makantahu.xyz
@@ -781,6 +789,7 @@ mobilepay.help
 mobilepay.llc
 mobilepay.nu
 mobilepay.site
+mobilepaybank.com
 mobilepaycasino-fi.top
 mobilepaycasino.com
 mobilepaycasino.info
@@ -1012,6 +1021,7 @@ oralbsuomi.com
 ornavero-fi.com
 ornavero-fi.info
 ornavero-oy.info
+ororowearsuomi.com
 orvero-product.xyz
 ostaarekisteroityajokortti.com
 ostaatietokantojasuomi.com
@@ -1036,6 +1046,7 @@ palveluasiakasnordeasuomi.online
 palvelukanta.com
 palveluliikenne.com
 palvelun-suomi.site
+palveluonlinekanta.com
 palvelusaatopanki.site
 palveluvalmennus.com
 palvelux.com
@@ -1299,6 +1310,7 @@ soumitrab.com
 soumitradey.com
 soumitrafurniture.com
 soumitrasaha.com
+soumitrasarkar.com
 soumitukeaconnect.com
 soumiways.com
 soundcoresuomi.com
@@ -1367,6 +1379,7 @@ suomeng.lol
 suomenhankintajuristitoy.com
 suomenhelmi.com
 suomenhevonen.info
+suomenhitsaus.net
 suomenhoteljoukset.com
 suomenhotellitnet.com
 suomenhuipputarjoukset.autos
@@ -1680,6 +1693,7 @@ tansuomedia.com.tw
 tanzschuhe-suomi.shop
 taofinland.com
 tapahtumasuomi.net
+targussuomi.com
 tarjouksetpalvelu.vip
 tarjouksetsuomi.blog
 tarjouksetsuomi.buzz
@@ -1762,6 +1776,8 @@ terveysasemat.com
 terveysavios.com
 terveyspiste.com
 terveysseuranta.com
+terveystalooy.info
+terveystalox.info
 tetsuomizu.com
 tezenis-finland.com
 thefrankieshopsuomi.net
@@ -1786,6 +1802,7 @@ toimistopalvelu.online
 tokaifinland.com
 tokaifinland.online
 tokomelisa.online
+tomorrowland-finland.com
 tomskengat-suomi.com
 tonybiancosuomi.net
 toonzshopsuomi.com
@@ -1912,6 +1929,7 @@ uniqlosuomi.shop
 uniroyaltiressuomi.com
 unisafinland.com
 uniterveysohjelma.com
+universoumi.com
 unlimitedfinland.com
 unvero-ai.com
 upeaasuomea.com
