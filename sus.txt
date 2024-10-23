@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 22/10/2024 07:00 UTC
+# Last modified: 23/10/2024 07:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -240,6 +240,7 @@ dominantesetsoumis.com
 dope-finland.com
 dope-suomi.com
 dram-suomi.com
+drinkanddrawhelsinki.com
 driving-school-helsinki-344791214.today
 drmarten-suomi.com
 drmartensfinland.com
@@ -312,6 +313,7 @@ ferrarihelsinki.com
 festivohuolto.pro
 fezbet-suomi.com
 fi-icebugsuomi.com
+fi-osuuspankki.com
 fi-spankki.com
 fi-suomen.site
 fi-suomi.sbs
@@ -490,6 +492,8 @@ info-suomen.site
 infomobiilimaksu.com
 inleifinland.pro
 insoumisdecreteil.fr
+insuranceluighghlfinland.bond
+insurancelujnuwlfinland.bond
 internationalcallfinland.com
 intimissimifinland.com
 intimissimisuomi.com
@@ -526,6 +530,7 @@ jathaviestates.com
 jatkokoulutuspalvelu.com
 je-palvelut.com
 jellycat-suomi.com
+jellycatsuomi.biz
 jellycatsuomi.net
 jennynterapiapalvelu.com
 jh-elainpalvelut.com
@@ -1154,6 +1159,7 @@ ropoturva.com
 ropoviesti.com
 rouvahelsinki.com
 royaldeviesta.com
+ruedxhelsinki.com
 russellathleticsuomi.com
 s-mobiili-elakkeela.com
 s-mobiili.online
@@ -1169,6 +1175,7 @@ s-pankki-paivita-omat-tietosi-fi-iilf.ru
 s-pankki-paivita-omat-tietosi-fi-illiiilliiiii.ru
 s-pankki.store
 s-pankkielakella.com
+s-pankkielakkeella.com
 s-pankkimobile.online
 s-siivouspalvelut.com
 s-steel-finland.com
@@ -1623,6 +1630,7 @@ suomissivous.com
 suomistays.com
 suomisubit.org
 suomisuositus.com
+suomisuretyswivel.shop
 suomisuwarrotahoe.shop
 suomiswarmedtalck.cfd
 suomitarjoukset.blog
@@ -1776,7 +1784,20 @@ terveysasemat.com
 terveysavios.com
 terveyspiste.com
 terveysseuranta.com
+terveystaio.com
+terveystaiofi.com
+terveystalo.blog
+terveystalo.shop
+terveystalo.store
+terveystalo.tech
+terveystalo.xyz
+terveystalofi.com
+terveystaloo.com
 terveystalooy.info
+terveystalopalvelu.com
+terveystalory.com
+terveystalovirasto.com
+terveystalovirastory.com
 terveystalox.info
 tetsuomizu.com
 tezenis-finland.com
@@ -1971,6 +1992,7 @@ veiikvapesuomi.com
 velarahelsinki.com
 velvero-team.com
 verkkaponki-kirjaudu.com
+verkkoapteekki-suomi.life
 verkkoapteekkisuomi.life
 verkkoasiointi-elisa.site
 verkkokaupanpalvelukeskus.com
@@ -2006,12 +2028,14 @@ vero-finanx.com
 vero-fratello.com
 vero-fs.com
 vero-gaming.com
+vero-gomez.com
 vero-green.com
 vero-hurtadolozada.com
 vero-ia.com
 vero-io.com
 vero-kumamoto.com
 vero-labs.com
+vero-minus.site
 vero-modade.com
 vero-modaeinkaufen.com
 vero-modaverkauf.com
