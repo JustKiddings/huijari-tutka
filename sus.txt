@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 24/10/2024 07:01 UTC
+# Last modified: 25/10/2024 07:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -113,6 +113,7 @@ be-vero-louange.com
 bearpawfinland.com
 beautyopa.com
 beautysalonsaharmasoumi.com
+befreshsuomi.com
 belkinsuomi.com
 belleviestationery.com
 benshermansuomi.com
@@ -230,6 +231,7 @@ demoniasuomifi.com
 dental-implants-finland-586.bond
 descentesuomi.com
 despinayiasoumi.com
+detvitafinland.com
 devero-dienstleistungen.com
 dewamakantakoyaki.app
 dgcsvsuomi.info
@@ -291,16 +293,19 @@ enviestates.co.uk
 eo-palvelut.com
 eogaeafernandfinland.shop
 epicsuomi.com
+escort-helsinki.vip
 espankki.com
 esport-suomi.com
 esprit-finland.com
 etherviesta.ink
 etherviesta.site
+etherviesta.xyz
 etsisuomesta.com
 eucreafinland.org
 eusoumichaelldouglas.com.br
 eusoumilionario.site
 eusoumistica.com
+evero-consulting.ch
 exclusive-finland-vacation-packages.today
 fabsoumipseh.com
 fabu-helsinki.com
@@ -413,9 +418,11 @@ helmariterveys.com
 helmarterveys.com
 helsinki-image.com
 helsinki-pools.com
+helsinki-talvella.com
 helsinki.lat
 helsinkiaamu.org
 helsinkiboattours.com
+helsinkibranding.com
 helsinkicoach.com
 helsinkicurrent.com
 helsinkidesignschool.net
@@ -507,6 +514,7 @@ inleifinland.pro
 insoumisdecreteil.fr
 insuranceluighghlfinland.bond
 insurancelujnuwlfinland.bond
+insurxlfinland.bond
 internationalcallfinland.com
 internetcasinofinland.com
 interveystalo.com
@@ -641,6 +649,7 @@ kuljetuspalvelumiilumaki.com
 kulturvakt.nu
 kuntoutusjakehonhuolto.com
 kuomafinland.com
+kuvauspalvelurintala.com
 laakehoidonturva.com
 lacostenfinland.com
 lafranceinsoumise.vote
@@ -672,6 +681,7 @@ leovegassuomi.com
 letsgowithsoumia.com
 levinmokkihuolto.com
 libertyopalillustration.com
+liikenneupseerin-tyopaikat.online
 limen-pc-huolto.net
 livelisuomi.com
 livero-mode.de
@@ -739,6 +749,7 @@ matkahuolto-paketti.top
 matkahuolto.top
 maviestilofeminino.online
 maviestilofeminino.store
+mawuviesta.com
 maxmarasuomi.com
 mbtsuomi-fi.com
 me-suomi.site
@@ -908,6 +919,7 @@ newbalance-suomi.com
 neweracap.com
 neweracapsuomi.com
 neweralippis.com
+neweralippisuomi.com
 newrocksuomi.com
 newterveystalo.com
 nichehelsinki.com
@@ -1009,6 +1021,7 @@ omakantal-kansalaiset.com
 omakantarypalv.com
 omakantayr.info
 omavalvontasuunnitelma.online
+omavero-f1.com
 omavero-fi.com
 omavero-fi1.com
 omavero-fin.com
@@ -1206,6 +1219,7 @@ s-pankkimobile.online
 s-siivouspalvelut.com
 s-steel-finland.com
 s-terveys.com
+saaristohuolto.net
 saaspankki.com
 sahkopalvelutsalmi.com
 sainttropezsuomi.com
@@ -1264,6 +1278,7 @@ smartdeals-suomi.com
 smegsuomi.com
 smobiili-elakkeella.com
 smobiili-fi.com
+smobiili-kampanja.com
 smobiili-spankki.com
 smobiili-spankkifi.com
 smobiili-spannkki.com
@@ -1363,6 +1378,7 @@ spankkielakkeella-mobiili.com
 spankkielakkeella.com
 spankkimobiili-elakkeella.com
 spanx-suomi.com
+spectrmmobilepayment.com
 spr-turvapassi.com
 spr-turvapassi.net
 ssl-omavero.com
@@ -1569,6 +1585,7 @@ suomi24.nu
 suomiaaki.com
 suomiadmin.com
 suomialfa.com
+suomiamazing.com
 suomiao.sbs
 suomiarcxteryx.com
 suomiarvostelee.com
@@ -1623,6 +1640,7 @@ suomiluksusplaza.com
 suomiluotettavuus.com
 suomiluxhotelli.com
 suomiluxuskasino.com
+suomimeme.xyz
 suomimetalstar.com
 suomimm.top
 suomingy.com
@@ -1722,6 +1740,7 @@ susanfetalvero-roces.com
 sussnaswamiestenso.cfd
 suurisuomi.net
 svekkahelsinki.com
+swarovski-suomi.com
 swatchsuomi.com
 swellsuomi.com
 syomapuikot-suomi.shop
@@ -1976,6 +1995,7 @@ turvataksi.com
 turvataksi.net
 turvataxi.com
 turvataxi.net
+turvatekniikka.com
 tutkisuomea.com
 tutti-sensuomi.com
 tyomaaturvallisuus.com
@@ -2003,6 +2023,7 @@ unisafinland.com
 uniterveysohjelma.com
 universoumi.com
 unlimitedfinland.com
+unstonyvacaturvalutas.cfd
 unvero-ai.com
 upeaasuomea.com
 upptackfinland.nu
@@ -2081,6 +2102,7 @@ vero-finanx.com
 vero-fratello.com
 vero-fs.com
 vero-gaming.com
+vero-geothermal.energy
 vero-gomez.com
 vero-green.com
 vero-hurtadolozada.com
@@ -2175,6 +2197,7 @@ vivero-cosmo.com
 vivero-romen.com
 vivero-selvatico.com
 viviennewestwoodfinland.com
+vivobarefootsuomi.com
 vogelzubehor-suomi.shop
 voitapalvelu.xyz
 voittopalvelu.info
