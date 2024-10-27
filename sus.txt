@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 26/10/2024 07:00 UTC
+# Last modified: 27/10/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -128,6 +128,7 @@ bfgoodrichsuomi.com
 bilgiegitimkulturvakfi.com
 bilgiegitimkulturvakfi.xyz
 bilimvekulturvak.net
+bioturva.com
 birkenstock-suomi-fi.com
 birkenstocksuomifi.com
 bjornborgsuomi.com
@@ -142,6 +143,7 @@ boostmobilepay.com
 boxhero-suomi.com
 brandvero-dynmics.com
 breezevapesuomi.com
+breezevapesuomi.net
 briansuomela.win
 bridgestonesuomi.com
 brixtonsuomis.com
@@ -190,6 +192,7 @@ com-suomi.shop
 comfyhelsinki.com
 comly-helsinki.com
 comme-des-garconssuomi.com
+convero-enzyme.co.uk
 conversesuomi-fi.com
 coolcationinfinland.com
 corossuomi.com
@@ -212,6 +215,7 @@ culturvated.life
 culturvatedchef.com
 culturvations.com
 culturvations.online
+cuprahuolto.online
 customersupportfinland.com
 cvturvattua.xyz
 d-id-vahvista.info
@@ -223,6 +227,7 @@ dc-shoessuomi.com
 dcshoes-suomi.com
 dcshoessuomi-fi.com
 dcshoessuomifi.com
+dealsinfinland.com
 decken-suomi.shop
 delseysuomi.com
 deltafinland.com
@@ -286,6 +291,8 @@ elfbarvapesuomi.com
 elkkeella-spankki.com
 elkkeellas-pankki.com
 elmiestenlodgeensear.fun
+elotecfinland.info
+elotecfinland.org
 elviestate.com
 elviestate.ru
 emaldosuomi.com
@@ -352,6 +359,7 @@ flealux-finland.com
 flirttisuomi.com
 flyhelsinki.com
 fotoviesta.com
+fourleafclovergamesfinland.com
 france-insoumise.com
 france-insoumise.fr
 freecasinofinland.com
@@ -365,6 +373,8 @@ freight-forwarders-finland-976873170.today
 frostsuomi.xyz
 fruit-packaging-jobs-finland.today
 fssuomei.com
+funeraljhbyquwqlifinland.bond
+funeralwretqreerlifinland.bond
 funfinland.online
 funhelsinki.lol
 funinfinland.com
@@ -420,6 +430,7 @@ helsinki-image.com
 helsinki-pools.com
 helsinki-talvella.com
 helsinki.lat
+helsinki.tours
 helsinkiaamu.org
 helsinkiboattours.com
 helsinkibranding.com
@@ -963,6 +974,8 @@ novahelsinki.shop
 noveler-helsinki.com
 nu-mobilepay.com
 nudeviesta.buzz
+nudiejeans-suomi.com
+nudiejeanshelsinki.com
 numobilepay.com
 nutraficorporate.com
 nutrihealthfinland.com
@@ -1004,6 +1017,7 @@ oma-posti-fi.com
 oma-posti.com
 oma-posti.site
 oma-rapeti.com
+oma-sextreffen.ch
 oma-slot.site
 oma-smash.ch
 oma-smash.com
@@ -1242,6 +1256,7 @@ sauna-suppliers-finland-128528036.live
 savon-dronepalvelut.com
 savondronepalvelut.com
 schibsted-suomi.cfd
+seathuolto.online
 sedonamethodsuomi.com
 seikosuomi.com
 sendrabootssuomi.net
@@ -1362,6 +1377,7 @@ soumitrafurniture.com
 soumitrasaha.com
 soumitrasarkar.com
 soumitukeaconnect.com
+soumivietnam.com
 soumiways.com
 soundcoresuomi.com
 sousoumi.gr
@@ -1374,6 +1390,7 @@ spankki-elakkeella.com
 spankki-viestit.com
 spankki-viestit.net
 spankki-viestit.online
+spankkielakeella.com
 spankkielakkeella-mobiili.com
 spankkielakkeella.com
 spankkimobiili-elakkeella.com
@@ -1386,6 +1403,7 @@ stair-lift-finland.bond
 stanleyfinland.com
 stanleysuomi.com
 starburst-game-finland.site
+startupsuomi.org
 starzonefinland.net
 stephiesuomiswashy.sbs
 sterveys.com
@@ -2206,6 +2224,7 @@ voopoovapesuomi.com
 vozolsuomi.net
 vrterveystalo.com
 vv-autohuolto.com
+vvhuolto.online
 warmflaschen-suomi.shop
 webmobilepay.com
 webterveystalo.com
@@ -2276,5 +2295,6 @@ yigitkulturvakfii.net
 yourtraveltofinland.com
 yrityspalvelu.nu
 zarkovsoumisky.com
+zenola-helsinki.com
 zigarrenschneider-suomi.shop
 zimplerkasinotsuomi.com
