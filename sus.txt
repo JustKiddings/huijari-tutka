@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 27/10/2024 08:00 UTC
+# Last modified: 28/10/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -81,6 +81,8 @@ atvero-mail.co.uk
 atvero-mail.com
 atvero-pim.co.uk
 atvero-pim.com
+aumobilepay.website
+aumobilepays.website
 auroralightsfinland.com
 auth-s-pankkii-fi.com
 autohuolto.org
@@ -103,6 +105,7 @@ badesandalen-suomi.shop
 badeschuhe-suomi.shop
 baffin-suomi.com
 balmainhairsuomi.com
+bangboxsuomi.com
 bangvapesuomi.com
 bapehuppari-suomi.com
 baskerit-suomi.shop
@@ -136,6 +139,7 @@ blackdiamondsuomi.com
 blakelysuomi.com
 blinkhelsinki.com
 boandteesuomi.com
+bognersuomi.com
 bomyhelsinki.com
 bonuscrabcasino-finland.com
 bookingtaxi-finland.com
@@ -291,7 +295,9 @@ elfbarvapesuomi.com
 elkkeella-spankki.com
 elkkeellas-pankki.com
 elmiestenlodgeensear.fun
+elotecfinland.com
 elotecfinland.info
+elotecfinland.net
 elotecfinland.org
 elviestate.com
 elviestate.ru
@@ -717,6 +723,7 @@ luovithinkingsuomi.com
 luulajansuomiseura.se
 luvero-london.com
 madeinfinland.nu
+maella-helsinki.com
 mahdaviestate.com
 majuriturvallinen.com
 makantadbir.com
@@ -889,6 +896,7 @@ mphuolto.com
 mugitsuomi.com
 muji-suomi.com
 muntmentorsuomi.com
+mxmobilepay.website
 my-sms-fi.site
 my-spankki.com
 my-suomen.site
@@ -967,6 +975,7 @@ nomavero.co.uk
 nomavero.com
 nomavero.info
 nordeasuomi.com
+nordicaoilsfinland.com
 norivahelsinki.com
 northfacesuomiale.com
 noshit-nikotiinipussit.com
@@ -1238,6 +1247,7 @@ saaspankki.com
 sahkopalvelutsalmi.com
 sainttropezsuomi.com
 salomonfinland.com
+salomonsuomikokemuksia.com
 salomonsuomistore.com
 salonasuntopalvelu.com
 sameda-kanta.com
@@ -1266,6 +1276,7 @@ serenityopal.com
 severisuominen.dev
 severisuominen.net
 sharviestate.com
+shopsuomi.com
 showposuomi.com
 sidisuomi.net
 siegelringe-suomi.shop
@@ -1311,6 +1322,7 @@ smspalvelut-suomi.site
 smsviesti-fi.site
 sn-infosys-meet-helsinki.com
 socken-suomi.shop
+sofia-helsinki.com
 solovairsuomi.com
 soodapuhalluspalvelu.online
 soumi-online.sbs
@@ -1405,6 +1417,7 @@ stanleysuomi.com
 starburst-game-finland.site
 startupsuomi.org
 starzonefinland.net
+stefanini-finland.com
 stephiesuomiswashy.sbs
 sterveys.com
 stevemadenssuomi.com
@@ -1635,6 +1648,7 @@ suomifront.co.uk
 suomifront.com
 suomify.com
 suomigame.com
+suomigems.com
 suomigroup.org
 suomiguide.com
 suomii-fi.com
@@ -1854,6 +1868,7 @@ terveysarviios.com
 terveysarvioss.com
 terveysasemat.com
 terveysavios.com
+terveyspalvelry.com
 terveyspiste.com
 terveysseuranta.com
 terveystaio.com
@@ -1878,6 +1893,7 @@ terveystalooy.info
 terveystalooyj.com
 terveystalopalvelu.com
 terveystalory.com
+terveystalorypalv.com
 terveystaloshop.com
 terveystalovirasto.com
 terveystalovirastory.com
@@ -1902,6 +1918,7 @@ tinamasoumi.com
 tischdecke-suomi.shop
 tissotsuomi.com
 tmi-peppi-stiina-ahti-liikuntapalvelut.com
+tnorthface-suomi.com
 todennusintrum.com
 todennussuomi.com
 toimistopalvelu.online
@@ -1995,6 +2012,7 @@ tupperwaresuomi.com
 turunkattohuolto.com
 turva.pro
 turva.sbs
+turvaasiakasfi.com
 turvakaitse.ee
 turvakengat.com
 turvakengat.shop
@@ -2009,6 +2027,7 @@ turvallisuusvarma.com
 turvapassi.com
 turvapassi.net
 turvapilvi.lol
+turvasuomifi.com
 turvataksi.com
 turvataksi.net
 turvataxi.com
@@ -2133,6 +2152,7 @@ vero-modade.com
 vero-modaeinkaufen.com
 vero-modaverkauf.com
 vero-noir.com
+vero-ornavero-fi.com
 vero-os.com
 vero-paintings-prints.com
 vero-quis.site
@@ -2146,6 +2166,7 @@ vero-suomi.sbs
 vero-thoi-mien.com
 vero-tw.cam
 vero-vera.com
+vero-vivida-herbals.com
 vero-well.com
 veropalveluoyj.info
 veva-suomi.com
@@ -2209,6 +2230,7 @@ virtuaaliterveys.online
 vivahvishwakarma.com
 vivahvista.com
 vivaiaisuomi.com
+vivaiasuomi-fi.com
 vivaiasuomi.com
 vivaiasuomioutlet.com
 vivero-cosmo.com
