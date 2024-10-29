@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 28/10/2024 08:00 UTC
+# Last modified: 29/10/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -273,6 +273,7 @@ easymobilepayments.com
 ebikehuolto.com
 ecco-finland.com
 eccofinland.com
+eccoshoesfinland.com
 ed-hardy-suomi.com
 edelstahlschmuck-suomi.shop
 edhardyfinland.com
@@ -993,11 +994,13 @@ nyrdonsuomi.com
 official-casino-finland.lat
 oh-pollysuomi.com
 ohpollysuomi.com
+oikeuspalvelut.com
 oikeusturva.info
 oma-adimu.online
 oma-adriatic.com
 oma-arpa.com
 oma-arpa.net
+oma-co.com
 oma-costruzioni.com
 oma-email.site
 oma-emailing.site
@@ -1276,6 +1279,7 @@ serenityopal.com
 severisuominen.dev
 severisuominen.net
 sharviestate.com
+shopfinland.ru
 shopsuomi.com
 showposuomi.com
 sidisuomi.net
@@ -1413,6 +1417,7 @@ spr-turvapassi.net
 ssl-omavero.com
 stair-lift-finland.bond
 stanleyfinland.com
+stanleyssuomi.com
 stanleysuomi.com
 starburst-game-finland.site
 startupsuomi.org
@@ -1518,6 +1523,7 @@ suomenkirkkoespanjassa.net
 suomenkoulupalvelu.com
 suomenkuntotarkastustalo.com
 suomenkurssi.com
+suomenkuvalehti.com
 suomenmahtavin.com
 suomenmatkadiilit.com
 suomenmatkatarjoukset.com
@@ -1868,6 +1874,8 @@ terveysarviios.com
 terveysarvioss.com
 terveysasemat.com
 terveysavios.com
+terveyskauppa.com
+terveyskoulukoti.org
 terveyspalvelry.com
 terveyspiste.com
 terveysseuranta.com
@@ -1893,6 +1901,7 @@ terveystalooy.info
 terveystalooyj.com
 terveystalopalvelu.com
 terveystalory.com
+terveystaloryfi.com
 terveystalorypalv.com
 terveystaloshop.com
 terveystalovirasto.com
@@ -2100,6 +2109,7 @@ varmistasuomi.com
 veiikvapesuomi.com
 velarahelsinki.com
 velvero-team.com
+venum-finland.com
 verkkaponki-kirjaudu.com
 verkkoapteekki-suomi.life
 verkkoapteekkisuomi.life
@@ -2108,6 +2118,7 @@ verkkokaupanpalvelukeskus.com
 verkkokontakti-suomi.site
 verkkokoulutunnistautuminen.com
 verkkopalvelu-suomi.site
+verkkopalvelut-fi.com
 verkkosaastopanki.site
 verkkoturva.com
 verkkoyhteydet-suomi.site
@@ -2155,12 +2166,14 @@ vero-noir.com
 vero-ornavero-fi.com
 vero-os.com
 vero-paintings-prints.com
+vero-praesentium.com
 vero-quis.site
 vero-retouch.ru
 vero-ro.com
 vero-sms.com
 vero-soluta.site
 vero-soto.com
+vero-sports.com
 vero-suomi.com
 vero-suomi.sbs
 vero-thoi-mien.com
@@ -2169,6 +2182,7 @@ vero-vera.com
 vero-vivida-herbals.com
 vero-well.com
 veropalveluoyj.info
+vessi-finland.com
 veva-suomi.com
 videohelsinki.com
 viesta-spankii.site
@@ -2315,6 +2329,8 @@ yhteys-suomi.site
 yhteys.ai
 yigitkulturvakfii.net
 yourtraveltofinland.com
+yritysoikeuspalvelut.com
+yritysoikeuspalvelut.net
 yrityspalvelu.nu
 zarkovsoumisky.com
 zenola-helsinki.com
