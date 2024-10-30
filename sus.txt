@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 29/10/2024 08:00 UTC
+# Last modified: 30/10/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -290,6 +290,7 @@ elakkeella-spankki-mobiili.com
 elakkeella-spankki.com
 elakkeellamobiili.com
 elamyspalvelut.net
+elanikasoumila.xyz
 eleppizpalvelut.info
 elfbarsuomi.net
 elfbarvapesuomi.com
@@ -309,6 +310,7 @@ eogaeafernandfinland.shop
 epicsuomi.com
 escort-helsinki.vip
 espankki.com
+espoofinland.com
 esport-suomi.com
 esprit-finland.com
 etherviesta.ink
@@ -676,6 +678,7 @@ lainturva.com
 laitteenturvallisuus.com
 lampopalveluhr.com
 lanovahelsinki.com
+laroza-helsinki.com
 laskuttaa-mobilepay.com
 laskutuspalvelufi.online
 laskutuspalvelut.net
@@ -1000,6 +1003,7 @@ oma-adimu.online
 oma-adriatic.com
 oma-arpa.com
 oma-arpa.net
+oma-beaurepaire.com
 oma-co.com
 oma-costruzioni.com
 oma-email.site
@@ -1397,6 +1401,7 @@ soumivietnam.com
 soumiways.com
 soundcoresuomi.com
 sousoumi.gr
+spadospaviestately.shop
 spanki-client.com
 spankii-fi.site
 spankiii-viesti.site
@@ -1410,6 +1415,7 @@ spankkielakeella.com
 spankkielakkeella-mobiili.com
 spankkielakkeella.com
 spankkimobiili-elakkeella.com
+spankkimobiilifi.com
 spanx-suomi.com
 spectrmmobilepayment.com
 spr-turvapassi.com
@@ -1753,6 +1759,7 @@ suomitopfinn.com
 suomitopp.com
 suomitoppicks.com
 suomitrack.com
+suomitravel.org
 suomitrends.com
 suomitunnista.com
 suomitunnista.info
@@ -1908,11 +1915,13 @@ terveystalovirasto.com
 terveystalovirastory.com
 terveystaloweb.com
 terveystalox.info
+terveysvirasto.com
 tetsuomizu.com
 tezenis-finland.com
 thefrankieshopsuomi.net
 thenorthface-suomi.com
 thenorthfacessuomi.com
+thepilatesstudiohelsinki.com
 thermossuomi.com
 theterveystalo.com
 thursday-boots-suomi.com
