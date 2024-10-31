@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 30/10/2024 08:00 UTC
+# Last modified: 31/10/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -32,6 +32,7 @@ airupsuomi.top
 aisuomi.com
 aivoterveysmuotoilu.com
 ajosuomi.com
+akokaivopalvelut-1.online
 akunpalvelut.com
 allekirjoituspalvelu.com
 allekirjoituspalvelu.net
@@ -183,6 +184,7 @@ charlestyrwhitt-suomi.com
 chaturvate.cam
 cheap-flights-helsinki.xyz
 chillyssuomi.com
+cirkulsuomi.com
 cityopal.com
 clickhelsinki.com
 cloudsaastopanki.site
@@ -267,6 +269,7 @@ e-makantasis.gr
 e-suomen.site
 e-suomifi.site
 e-viestit.site
+earthbrotherfinland.com
 easy-loan-finland.today
 easymobilepay.today
 easymobilepayments.com
@@ -437,7 +440,9 @@ helmariterveys.com
 helmarterveys.com
 helsinki-image.com
 helsinki-pools.com
+helsinki-rovaniemi-rail-vacations.today
 helsinki-talvella.com
+helsinki.baby
 helsinki.lat
 helsinki.tours
 helsinkiaamu.org
@@ -465,6 +470,7 @@ helsinkiprofessionals.com
 helsinkis.top
 helsinkislipper.com
 helsinkisolar.com
+helsinkiswingbigband.com
 helsinkitodolist.com
 helsinkiweather.info
 helttipalvelut.com
@@ -702,6 +708,7 @@ leovegassuomi.com
 letsgowithsoumia.com
 levinmokkihuolto.com
 libertyopalillustration.com
+lifecoachsoumia.com
 liikenneupseerin-tyopaikat.online
 limen-pc-huolto.net
 livelisuomi.com
@@ -810,6 +817,7 @@ miesten-vyolaukku.shop
 miestencollegehousutshop.com
 miestenmuoti.net
 miestenrannekorut.shop
+miestentakki.com
 miestenterveystabletit.info
 miestenvuoro.com
 millikulturvakfi.com
@@ -999,6 +1007,7 @@ oh-pollysuomi.com
 ohpollysuomi.com
 oikeuspalvelut.com
 oikeusturva.info
+oikeusturva.org
 oma-adimu.online
 oma-adriatic.com
 oma-arpa.com
@@ -1117,7 +1126,10 @@ palveluliikenne.com
 palvelun-suomi.site
 palveluonlinekanta.com
 palvelusaatopanki.site
+palvelutfi.com
+palvelutvoittogroup.com
 palveluvalmennus.com
+palveluvoittogroup.com
 palvelux.com
 palveluyhteydet-suomi.site
 panki-fi.site
@@ -1147,6 +1159,7 @@ perlenarmband-suomi.shop
 persevero-watches.com
 piankotipalvelu.com
 pieceoffinland.com
+pikasuomi.com
 pikolionssuomi.com
 pilarihelsinki.com
 pillerit-suomi.com
@@ -1187,6 +1200,7 @@ proterveystalo.com
 provedotsuomi.com
 pruthviestates.com
 psuhholoogilineturvalisus.com
+ptvfinland.com
 puhdasterveys.com
 puhutaansuomea.com
 pumafi-suomi.com
@@ -1205,6 +1219,7 @@ rakennustietopankki.com
 ralph-lauren-suomi.com
 rasvero-service.ru
 ravintoterveys.net
+rawlingssuomi.com
 ray-bansuomi.com
 raycon-suomi.com
 rdsiivouspalvelut.com
@@ -1275,6 +1290,9 @@ savondronepalvelut.com
 schibsted-suomi.cfd
 seathuolto.online
 sedonamethodsuomi.com
+seek-mobilepaymonthlyau.info
+seek-mobilepaymonthlyca.info
+seek-mobilepaymonthlyfrca.info
 seikosuomi.com
 sendrabootssuomi.net
 senior-car-insurance-costs-in-finland.bond
@@ -1898,6 +1916,7 @@ terveystalodesign.com
 terveystaloed.com
 terveystaloer.com
 terveystalofi.com
+terveystalofl.com
 terveystaloing.com
 terveystaloly.com
 terveystalomedia.com
@@ -1910,6 +1929,7 @@ terveystalopalvelu.com
 terveystalory.com
 terveystaloryfi.com
 terveystalorypalv.com
+terveystalosasto.com
 terveystaloshop.com
 terveystalovirasto.com
 terveystalovirastory.com
@@ -1948,6 +1968,7 @@ tomskengat-suomi.com
 tonybiancosuomi.net
 toonzshopsuomi.com
 top-10suomi.com
+top-list-finland.com
 top10-ilman-rekisteroitymista.com
 top10-suomi.com
 top10suomi.education
@@ -2041,6 +2062,7 @@ turvalliset-kasinot.com
 turvallisus.com
 turvallisuus-facebook.info
 turvallisuus-tiedo.com
+turvallisuusintrum.com
 turvallisuusvarma.com
 turvapassi.com
 turvapassi.net
@@ -2075,6 +2097,7 @@ uniqlosuomi.com
 uniqlosuomi.shop
 uniroyaltiressuomi.com
 unisafinland.com
+unissuomi.com
 uniterveysohjelma.com
 universoumi.com
 unlimitedfinland.com
@@ -2146,6 +2169,7 @@ vero-assist.com
 vero-coach.com
 vero-coach.nu
 vero-contract.com
+vero-couture73.com
 vero-dent.com
 vero-dev.com
 vero-diseno.com
@@ -2193,6 +2217,7 @@ vero-well.com
 veropalveluoyj.info
 vessi-finland.com
 veva-suomi.com
+viadore-finland.com
 videohelsinki.com
 viesta-spankii.site
 viestation.site
@@ -2259,8 +2284,10 @@ vivaiasuomioutlet.com
 vivero-cosmo.com
 vivero-romen.com
 vivero-selvatico.com
+viviennewestwood-finland.com
 viviennewestwoodfinland.com
 vivobarefootsuomi.com
+vivre-en-finlande.com
 vogelzubehor-suomi.shop
 voitapalvelu.xyz
 voittopalvelu.info
