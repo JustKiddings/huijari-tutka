@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 02/11/2024 08:00 UTC
+# Last modified: 03/11/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -150,6 +150,7 @@ bookingtaxi-finland.com
 boostmobilepay.com
 bottegavenetasuomi.com
 boxhero-suomi.com
+brandonbarsoumian.com
 brandvero-dynmics.com
 breezevapesuomi.com
 breezevapesuomi.net
@@ -184,6 +185,7 @@ caturva.org
 ccfinland.com
 cellarhelsinki.com
 champion-fightclubfinland.com
+chantelsoumis.net
 charlestyrwhitt-suomi.com
 chaturvate.cam
 cheap-flights-helsinki.xyz
@@ -390,6 +392,7 @@ freight-forwarders-finland-910620832.world
 freight-forwarders-finland-976873170.today
 frostsuomi.xyz
 fruit-packaging-jobs-finland.today
+fruityfinland.com
 fssuomei.com
 funeraljhbyquwqlifinland.bond
 funeralwretqreerlifinland.bond
@@ -468,6 +471,7 @@ helsinkifestival.org
 helsinkifilm.market
 helsinkifilmlab.com
 helsinkifilmmarket.com
+helsinkihairhub.com
 helsinkiijing.lol
 helsinkikasino.com
 helsinkilegaltech.com
@@ -495,6 +499,7 @@ henkiloturva.com
 henkiloturvat.com
 herrenschmuck-suomi.shop
 hevospalveluvaisanen.com
+hibachihelsinki.com
 hierontapalveluthuoponen.com
 hierontapalvelutkirkasplus.com
 hinku-ja-vinku-atk-palvelut.com
@@ -793,6 +798,7 @@ matkahuolto-paketti-84789985.top
 matkahuolto-paketti-87769305.top
 matkahuolto-paketti.top
 matkahuolto.top
+matsuomine.xyz
 maviestilofeminino.online
 maviestilofeminino.store
 mawuviesta.com
@@ -840,6 +846,8 @@ miestenterveystabletit.info
 miestenvuoro.com
 millikulturvakfi.com
 minilovefinland.com
+mis-finland.com
+misfinland.com
 mizuno-suomi.com
 mizunoinsuomi.com
 mjmusoumini.com
@@ -857,6 +865,7 @@ mobiilidanske.online
 mobiilielakkeella-fi.com
 mobiilifi-spankki.com
 mobiilihaku.com
+mobiililava.org
 mobiiliohjaus.com
 mobiilipankkionline.com
 mobiiliportaali.com
@@ -983,6 +992,7 @@ nikesportsuomis.com
 nikotiininurkka.com
 nikotiinipussi.club
 nikotiinipussi.online
+nikotiinipussi.pro
 nikotiinipussi.shop
 nikotiinipussi.space
 nikotiinipussi.store
@@ -992,6 +1002,7 @@ nikotiinipussi1.info
 nikotiinipussi1.site
 nikotiinipussit.fun
 nikotiinipussit.ink
+nikotiinipussit.pro
 nikotiinipussit.site
 nikotiinipussit.space
 nikotiinipussit.store
@@ -1264,6 +1275,7 @@ ricovero-temporaneo.it
 riippumatot-suomi.shop
 riverislandsuomi.net
 rivero-automotive.se
+rivero-ayerza.com
 rivero-rp.space
 rockysuomi.com
 ropotodennus.com
@@ -1390,6 +1402,7 @@ soumiaeducation.com
 soumiafakhar.com
 soumiai.com
 soumiasfit.com
+soumiatique.com
 soumiayahiaoui.com
 soumic.com
 soumiez.net
@@ -1426,6 +1439,7 @@ soumissionassuranceauto.com
 soumissionassurancecollective.com
 soumissionassuranceviesansexamenmedical.com
 soumissionconfort.com
+soumissionentretienmenager.com
 soumissionmauricie.com
 soumissionnettoyage.com
 soumissionresidentielle.xyz
@@ -1499,6 +1513,7 @@ stussysuomi.net
 stussysuomi.shop
 stylekisuomi.com
 styleksuomi.com
+styopa.xyz
 styopam.photography
 sudansuomiszilard.sbs
 sun-suomen-ope.ru
@@ -1811,6 +1826,7 @@ suomitarjoukset.store
 suomitarjoukset.website
 suomitarjoukset.world
 suomitarjoukset.xyz
+suomitodennus.com
 suomitodennus.info
 suomitopfinn.com
 suomitopp.com
@@ -1945,6 +1961,8 @@ terveyspiste.com
 terveysseuranta.com
 terveystaio.com
 terveystaiofi.com
+terveystalo-oyj.com
+terveystalo-oyj1.com
 terveystalo.blog
 terveystalo.shop
 terveystalo.store
@@ -2119,6 +2137,7 @@ turvataxi.net
 turvatekniikka.com
 tutkisuomea.com
 tutti-sensuomi.com
+twinklingtoadstoolhelsinki.com
 tyomaaturvallisuus.com
 tyopaikat-siivousyrityksissa-fi.online
 tyopaikat-siivousyrityksissa.online
@@ -2127,6 +2146,7 @@ tyoturvakortti.net
 tyoturvallisuus.com
 tyoturvallisuuskortti.com
 tyoturvallisuuskortti.online
+typocraftshelsinki.com
 tyyli-helsinki.com
 tyylikkaat-naisten-vaatteet.shop
 uagsuomi.com
@@ -2345,6 +2365,7 @@ vozolsuomi.net
 vrterveystalo.com
 vv-autohuolto.com
 vvhuolto.online
+walletohelsinki.com
 warmflaschen-suomi.shop
 webmobilepay.com
 webterveystalo.com
@@ -2413,10 +2434,13 @@ yhteydenpito-suomi.site
 yhteys-suomi.site
 yhteys.ai
 yigitkulturvakfii.net
+young-lafinland.com
+youngla-finland.com
 yourtraveltofinland.com
 yritysoikeuspalvelut.com
 yritysoikeuspalvelut.net
 yrityspalvelu.nu
+ysl-finland.com
 yslfinland.com
 zarkovsoumisky.com
 zenola-helsinki.com
