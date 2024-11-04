@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 03/11/2024 08:00 UTC
+# Last modified: 04/11/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -14,6 +14,7 @@
 2024-omavero.info
 2024-omavero.net
 2024-omavero.xyz
+4tturva.com
 abogadostraficomalaga.es
 abrantus-suomi.com
 accountfinland.com
@@ -232,6 +233,7 @@ customersupportfinland.com
 cvturvattua.xyz
 d-id-vahvista.info
 dancestationsuomi.net
+datapalvelut.net
 dattasoumitra.com
 davvero-echt.nl
 dc-shoes-finland.com
@@ -285,6 +287,7 @@ ebikehuolto.com
 ecco-finland.com
 eccofinland.com
 eccoshoesfinland.com
+eccoshopfinland.com
 ed-hardy-suomi.com
 edelstahlschmuck-suomi.shop
 edhardyfinland.com
@@ -300,6 +303,7 @@ elakkeella-spanki.com
 elakkeella-spankki-mobiili.com
 elakkeella-spankki.com
 elakkeellamobiili.com
+elakkella-spankki.com
 elamyspalvelut.net
 elanikasoumila.xyz
 eleppizpalvelut.info
@@ -342,6 +346,7 @@ falkesuomi.com
 fanipaitasuomi.com
 farmaseuttinen-pakkaus-tyopaikat.xyz
 fashionclub-helsinki.com
+fearofgodessentialssuomi.com
 felcosuomi.com
 femalefounderssuomi.com
 fenniaasiakaspalvelu.com
@@ -427,6 +432,7 @@ greenandbluefinland.com
 greeninvestfinland.com
 greenworkssuomi.com
 groominghelsinki.com
+guesssuomi.com
 guidesuomi.com
 gunturvala.com
 gwearfinland.com
@@ -531,6 +537,7 @@ huoltomiesovelle.com
 huoltopalvelutvepe.com
 huoltoyhtio.com
 hute-suomi.shop
+hyva-haukku-koirapalvelut.com
 i-suomi.info
 icepeaksuomi.com
 id-elisa-fi.com
@@ -585,6 +592,7 @@ itamerensuomi.net
 itjobfinderfinland.digital
 itpalvelutjuntunen.com
 ivero-moda.cz
+ivhuoltoht.com
 jack-wolfskin-suomi.com
 jackelyn-suomi.com
 jackwolfskinsuomi.shop
@@ -608,6 +616,7 @@ josefseibel-suomi.com
 journeytodayfinland.com
 jpkviesta.com
 juhasuomela.com
+juhla-palvelu.com
 junkremovalvonore.com
 justdancehelsinki.com
 jyvaskylaautohuolto.com
@@ -687,6 +696,7 @@ korulippaat-suomi.shop
 kotiapupalvelu.site
 kpalvelusavo.com
 kpalvelusavo.net
+kpkoirapalvelu.com
 kryptomobilepay.com
 kryptosuomi.net
 ks-ohjelmapalvelut.net
@@ -815,6 +825,7 @@ merrell-suomi.org
 merrellsuomi.biz
 mesiade-suomi.com
 mestaripalvelut.com
+metalindustryfinland.com
 metasoumis.gr
 metsa-ja-luontopalvelut-tmi-tuire-holli.com
 metsapalvelu.net
@@ -865,6 +876,7 @@ mobiilidanske.online
 mobiilielakkeella-fi.com
 mobiilifi-spankki.com
 mobiilihaku.com
+mobiililava.net
 mobiililava.org
 mobiiliohjaus.com
 mobiilipankkionline.com
@@ -1254,6 +1266,7 @@ radiofreefinland.net
 raflahuolto.com
 ragweartakkisuomi.com
 rajoittamatonsuomi.com
+rakennuspalvelu-m-ahonen-tmi.com
 rakennustietopankki.com
 ralph-lauren-suomi.com
 rasvero-service.ru
@@ -1306,6 +1319,7 @@ s-steel-finland.com
 s-terveys.com
 saaristohuolto.net
 saaspankki.com
+safetyfinland.com
 sahkopalvelutsalmi.com
 sainttropezsuomi.com
 salomonfinland.com
@@ -1467,6 +1481,7 @@ soumitrasarkar.com
 soumitukeaconnect.com
 soumivietnam.com
 soumiways.com
+soumiyahinako.com
 soundcoresuomi.com
 sousoumi.gr
 spadospaviestately.shop
@@ -1959,6 +1974,7 @@ terveyskoulukoti.org
 terveyspalvelry.com
 terveyspiste.com
 terveysseuranta.com
+terveystaio-oy.com
 terveystaio.com
 terveystaiofi.com
 terveystalo-oyj.com
@@ -2125,6 +2141,7 @@ turvallisus.com
 turvallisuus-facebook.info
 turvallisuus-tiedo.com
 turvallisuusintrum.com
+turvallisuuskoordinaattori.com
 turvallisuusvarma.com
 turvapassi.com
 turvapassi.net
@@ -2231,6 +2248,9 @@ vero-amara.com
 vero-and-co-expertise.com
 vero-asperiores.com
 vero-assist.com
+vero-ca.info
+vero-ca.org
+vero-ca.xyz
 vero-coach.com
 vero-coach.nu
 vero-contract.com
