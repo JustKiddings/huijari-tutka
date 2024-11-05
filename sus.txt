@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 04/11/2024 08:00 UTC
+# Last modified: 05/11/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -24,6 +24,7 @@ adidasfinland.com
 adultmoviestation.com
 ahertajayrityspalvelu.com
 ahertajayrityspalvelu.online
+aidinkielenhuoltoasema.com
 air-up-finland.com
 airjordanfinland.net
 airjordans-suomi.com
@@ -1257,6 +1258,7 @@ puhutaansuomea.com
 pumafi-suomi.com
 pumafinland.com
 pumaoutletsuomi.shop
+pumasuomi.com
 puutarhurin-tyopaikat.online
 qisuunnittelupalvelu.com
 quero-vero-preco-do-pneu.today
@@ -1422,6 +1424,7 @@ soumic.com
 soumiez.net
 soumiimajumdar.com
 soumikagura.site
+soumikbag.com
 soumikbengaltourism.com
 soumikchaudhuri.tech
 soumikd4.tech
@@ -1684,6 +1687,7 @@ suomi-myfi.info
 suomi-nettikasinot.com
 suomi-oma.com
 suomi-palvelun.site
+suomi-pay.cfd
 suomi-poleneparis.com
 suomi-pressu.com
 suomi-select.com
@@ -1975,6 +1979,7 @@ terveyspalvelry.com
 terveyspiste.com
 terveysseuranta.com
 terveystaio-oy.com
+terveystaio-oyj.com
 terveystaio.com
 terveystaiofi.com
 terveystalo-oyj.com
@@ -2248,7 +2253,9 @@ vero-amara.com
 vero-and-co-expertise.com
 vero-asperiores.com
 vero-assist.com
+vero-ca.com
 vero-ca.info
+vero-ca.net
 vero-ca.org
 vero-ca.xyz
 vero-coach.com
@@ -2457,6 +2464,8 @@ yigitkulturvakfii.net
 young-lafinland.com
 youngla-finland.com
 yourtraveltofinland.com
+yritys-spankifinl-tunnistautuminentale.info
+yritys-spankifinl-tunnistautuminentale.online
 yritysoikeuspalvelut.com
 yritysoikeuspalvelut.net
 yrityspalvelu.nu
