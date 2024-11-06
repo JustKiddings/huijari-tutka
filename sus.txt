@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 05/11/2024 08:00 UTC
+# Last modified: 06/11/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -64,6 +64,7 @@ asennuspalvelujoku.com
 asiakas-saastopanki.site
 asiakas-saatopanki.site
 asiakasarvokokemus.com
+asiakasdata.com
 asiakasino.net
 asiakaspalvelu-suomi.site
 asiakaspalvelut-suomi.site
@@ -151,6 +152,7 @@ bonuscrabcasino-finland.com
 bookingtaxi-finland.com
 boostmobilepay.com
 bottegavenetasuomi.com
+bovedaoyj.shop
 boxhero-suomi.com
 brandonbarsoumian.com
 brandvero-dynmics.com
@@ -203,6 +205,8 @@ collaborativecaresystemsfinland.com
 columbiafinland.com
 columbiassuomi.com
 com-suomi.shop
+comfortum-events.com
+comfortum.jp
 comfyhelsinki.com
 comly-helsinki.com
 comme-des-garconssuomi.com
@@ -234,6 +238,7 @@ customersupportfinland.com
 cvturvattua.xyz
 d-id-vahvista.info
 dancestationsuomi.net
+daoyj.icu
 datapalvelut.net
 dattasoumitra.com
 davvero-echt.nl
@@ -272,6 +277,7 @@ drinkanddrawhelsinki.com
 driving-school-helsinki-344791214.today
 drmarten-suomi.com
 drmartensfinland.com
+drmasoumidrugstor.com
 drsoumikghosh.com
 drsoumitraghosh.in
 duschzubehor-suomi.shop
@@ -384,6 +390,18 @@ fl-trafcom.info
 flealux-finland.com
 flirttisuomi.com
 flyhelsinki.com
+fortum-hermine.com
+fortum-stainton.com
+fortum.live
+fortum.nu
+fortum.uk
+fortuma-apk.com
+fortumate.com
+fortumfix.info
+fortumfln.com
+fortumnet.nu
+fortumoy.com
+fortumq.ru
 fotoviesta.com
 fourleafclovergamesfinland.com
 france-insoumise.com
@@ -628,6 +646,7 @@ kampanjafi-mobilespankki.com
 kampanjamobiili-elakkeella.com
 kampanjaspankki-elakkella.com
 kansalaiset-omakanta.com
+kantaoyj.info
 kantapalvelufi.info
 kantapalveluinfo.com
 kantapalveluonline.com
@@ -653,6 +672,7 @@ kela-fl.com
 kela-vahvistaa.com
 kellolaatikko-suomi.shop
 kengatsuomi.com
+keskooyj.com
 kielipalvelukauno.com
 kiertokapulayrityspalvelut.com
 kiesinpesupalvelut.com
@@ -705,6 +725,7 @@ kuljetuspalvelumiilumaki.com
 kulturvakt.nu
 kuntoutusjakehonhuolto.com
 kuomafinland.com
+kuumahelsinki.com
 kuvauspalvelurintala.com
 laakehoidonturva.com
 lacostenfinland.com
@@ -860,6 +881,7 @@ millikulturvakfi.com
 minilovefinland.com
 mis-finland.com
 misfinland.com
+mittfortum.nu
 mizuno-suomi.com
 mizunoinsuomi.com
 mjmusoumini.com
@@ -975,6 +997,7 @@ naistenhuivit-design.shop
 naistenkesken.com
 naistenmekot.com
 naistenurheiluasut.com
+naisyrittajatsuomi.com
 nanorebarsoumian.com
 nassoumi.com
 nationalparksinfinland.com
@@ -997,6 +1020,7 @@ neweralippis.com
 neweralippisuomi.com
 newrocksuomi.com
 newterveystalo.com
+nicell-fortum.com
 nichehelsinki.com
 nigeriafinland.com
 nike-finland.com
@@ -1108,6 +1132,7 @@ omakantal-kansalaiset.com
 omakantarypalv.com
 omakantayr.info
 omavalvontasuunnitelma.online
+omavalvontasuunnitelmani.com
 omavero-f1.com
 omavero-fi.com
 omavero-fi1.com
@@ -1116,6 +1141,7 @@ omavero-finn.com
 omavero-online.com
 omaverofin25.com
 omaverofin9.com
+omaverofiry.com
 omaveroinfo.com
 omaveroooxxfi.click
 omaveroxyfin.com
@@ -1147,7 +1173,9 @@ oppankii.com
 oralbsuomi.com
 ornavero-fi.com
 ornavero-fi.info
+ornavero-oy.com
 ornavero-oy.info
+ornavero-ry.com
 ororowearsuomi.com
 orvero-product.xyz
 ostaarekisteroityajokortti.com
@@ -1334,6 +1362,7 @@ santanahelsinki.com
 sanuk-finland.com
 sanuksuomi-fi.com
 sanuksuomi.com
+saoyj.sbs
 saramasoumi.com
 sataturva.online
 satisfyrunningsuomi.com
@@ -1655,6 +1684,7 @@ suomenpeliedut.website
 suomenpeliedut.world
 suomenpeliedut.xyz
 suomenpiilot.com
+suomenpyorapalvelu.com
 suomensahkoautohuolto.com
 suomensahkoautokorjaamo.com
 suomentalousuutiset.blog
@@ -1724,6 +1754,7 @@ suomiarvostelee.com
 suomiautodeals.bond
 suomibestreviews.com
 suomibettimaster.com
+suomibingo.com
 suomica.ru
 suomicanta.com
 suomicasinosocial.com
@@ -1746,6 +1777,7 @@ suomifi1.site
 suomifin.eu
 suomifinest.com
 suomifionline.site
+suomifitunnistus.com
 suomifront.co.uk
 suomifront.com
 suomify.com
@@ -2087,7 +2119,9 @@ traficom-finland.com
 traficom-oyj.info
 traficomin.com
 traficomkt.com
+traficomoy.com
 traficomoy.info
+traficomry.com
 traficore.com
 traficoreal.com
 traficorganique.fr
@@ -2159,6 +2193,7 @@ turvataxi.net
 turvatekniikka.com
 tutkisuomea.com
 tutti-sensuomi.com
+tuuli-helsinki.com
 twinklingtoadstoolhelsinki.com
 tyomaaturvallisuus.com
 tyopaikat-siivousyrityksissa-fi.online
@@ -2385,6 +2420,7 @@ vivre-en-finlande.com
 vogelzubehor-suomi.shop
 voitapalvelu.xyz
 voittopalvelu.info
+volthelsinki.com
 vondutchfinland.com
 vondutchsuomi.com
 voopoovapesuomi.com
@@ -2420,10 +2456,12 @@ www-viesti.website
 www-viestit.site
 www-viestit.website
 x-finland.com
+xinmiaoyj.com
 xml-finland.org
 xn--autohuoltojyvskyl-2qbe.com
 xn--brisadovero-i8a.com
 xn--coraznagavero-flb.com
+xn--fortumvrme-w5a.nu
 xn--heikkil-helsinki-1nb.com
 xn--ilmalmppumppuhuolto-kwb49a.com
 xn--jalmarinliikkuvapyrhuolto-3ec89b.com
@@ -2473,5 +2511,6 @@ ysl-finland.com
 yslfinland.com
 zarkovsoumisky.com
 zenola-helsinki.com
+zhusuomenchuang.com
 zigarrenschneider-suomi.shop
 zimplerkasinotsuomi.com
