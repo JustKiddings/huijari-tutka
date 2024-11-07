@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 06/11/2024 08:00 UTC
+# Last modified: 07/11/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -25,6 +25,7 @@ adultmoviestation.com
 ahertajayrityspalvelu.com
 ahertajayrityspalvelu.online
 aidinkielenhuoltoasema.com
+aino-helsinki.com
 air-up-finland.com
 airjordanfinland.net
 airjordans-suomi.com
@@ -50,7 +51,9 @@ ankersuomi.com
 anvero-group.com
 anyasoumi.com
 apinpalvelut.com
+apteekissasuomi.life
 apteekki-finland.com
+apteekki-suomi.life
 apurapalvelut.com
 aquilasuomi.com
 aquilasuomi.online
@@ -151,6 +154,7 @@ bomyhelsinki.com
 bonuscrabcasino-finland.com
 bookingtaxi-finland.com
 boostmobilepay.com
+bottegaveneta-suomi.com
 bottegavenetasuomi.com
 bovedaoyj.shop
 boxhero-suomi.com
@@ -221,6 +225,7 @@ costadelmarsuomi.com
 createchfinland.com
 createchfinland.info
 createchfinland.org
+cremation-in-finland.today
 cremation-services-finland.bond
 cremationacwfinland.bond
 cremationgqafinland.bond
@@ -241,6 +246,7 @@ dancestationsuomi.net
 daoyj.icu
 datapalvelut.net
 dattasoumitra.com
+davi-helsinki.com
 davvero-echt.nl
 dc-shoes-finland.com
 dc-shoessuomi.com
@@ -249,6 +255,8 @@ dcshoessuomi-fi.com
 dcshoessuomifi.com
 dealsinfinland.com
 decken-suomi.shop
+delivero-ae-chocolatier.com
+delivero-chocolatier.com
 delseysuomi.com
 deltafinland.com
 demoniacultssuomi.com
@@ -272,6 +280,7 @@ dominantesetsoumis.com
 dope-finland.com
 dope-suomi.com
 dopesnowssuomi.com
+doucesoumission.pro
 dram-suomi.com
 drinkanddrawhelsinki.com
 driving-school-helsinki-344791214.today
@@ -837,6 +846,9 @@ mawuviesta.com
 maxmarasuomi.com
 mbtsuomi-fi.com
 me-suomi.site
+medassistanslascwlfinland.bond
+medassistaulfinland.bond
+medassistshaslfinland.bond
 mediatukipalvelut.net
 meilleuresoumission.com
 meindlhelsinki.com
@@ -905,6 +917,7 @@ mobiiliohjaus.com
 mobiilipankkionline.com
 mobiiliportaali.com
 mobiilispankki.com
+mobiilitiy-scooters.today
 mobiiliturvallisuus.net
 mobilepay-dk.info
 mobilepay-fi.com
@@ -1010,6 +1023,7 @@ nbsuomi.shop
 ndttukkufinland.com
 ndttukkusuomi.com
 netterveystalo.com
+nettiapteekki-suomi.life
 nettikasinotilmanrekisteroitymista.org
 nettipalvelu-suomi.site
 nettisivupalvelu.online
@@ -1238,6 +1252,8 @@ perlenarmband-suomi.shop
 persevero-watches.com
 pi-medical-finland.com
 piankotipalvelu.com
+pianonvirittajahelsinki.com
+pianonvirityshelsinki.com
 pieceoffinland.com
 pikasuomi.com
 pikolionssuomi.com
@@ -1315,6 +1331,7 @@ reviewsuomi.com
 rexel-finland.com
 rexelfinland.com
 ricovero-temporaneo.it
+ridgidsuomi.com
 riippumatot-suomi.shop
 riverislandsuomi.net
 rivero-automotive.se
@@ -1374,6 +1391,7 @@ sauna-suppliers-finland-128528036.live
 savon-dronepalvelut.com
 savondronepalvelut.com
 schibsted-suomi.cfd
+scufferssuomi.com
 seathuolto.online
 sedonamethodsuomi.com
 seek-mobilepaymonthlyau.info
@@ -1712,6 +1730,7 @@ suomi-ilman-rekisteroitymista.com
 suomi-infi.site
 suomi-info.sbs
 suomi-iptv.com
+suomi-kasinot.net
 suomi-kokemuksia.com
 suomi-myfi.info
 suomi-nettikasinot.com
@@ -1746,6 +1765,7 @@ suomi22.com
 suomi24.nu
 suomiaaki.com
 suomiadmin.com
+suomiadventure.com
 suomialfa.com
 suomiamazing.com
 suomiao.sbs
@@ -2136,6 +2156,7 @@ trapstarbagsuomi.com
 trapstarsuomi.org
 trapstarsuomi.shop
 trapstarsuomifi.com
+travelekstrafinland.com
 travero-pm.com
 treffitsuomi.com
 trjspalvelutoy.com
@@ -2211,6 +2232,7 @@ ucobssuomishop.org
 ugg-suomi.com
 uggfinland.com
 uggs-suomi.com
+uggs-suomi.org
 uggsuomi.com
 uima-altaan-puhdistus-tyopaikat.online
 ultrafcootball.shop
@@ -2429,6 +2451,7 @@ vrterveystalo.com
 vv-autohuolto.com
 vvhuolto.online
 walletohelsinki.com
+warehousepackingagenciesinhelsinki375882.icu
 warmflaschen-suomi.shop
 webmobilepay.com
 webterveystalo.com
