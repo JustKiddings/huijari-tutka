@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 07/11/2024 08:00 UTC
+# Last modified: 08/11/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -33,6 +33,7 @@ airjordansuomi.com
 airport-food-packaging-jobs-finland.today
 airupsuomi.top
 aisuomi.com
+aisuomi.net
 aivoterveysmuotoilu.com
 ajosuomi.com
 akokaivopalvelut-1.online
@@ -126,6 +127,8 @@ bearpawfinland.com
 beautyopa.com
 beautysalonsaharmasoumi.com
 befreshsuomi.com
+beklysoumia.online
+beklysoumia.site
 belkinsuomi.com
 belleviestationery.com
 beloylyhelsinki.com
@@ -156,6 +159,7 @@ bookingtaxi-finland.com
 boostmobilepay.com
 bottegaveneta-suomi.com
 bottegavenetasuomi.com
+bottegavenetasuomi.net
 bovedaoyj.shop
 boxhero-suomi.com
 brandonbarsoumian.com
@@ -192,6 +196,7 @@ catfootwear-suomi.com
 caturva.org
 ccfinland.com
 cellarhelsinki.com
+chakdefinland.com
 champion-fightclubfinland.com
 chantelsoumis.net
 charlestyrwhitt-suomi.com
@@ -257,6 +262,7 @@ dealsinfinland.com
 decken-suomi.shop
 delivero-ae-chocolatier.com
 delivero-chocolatier.com
+delivero-uae-chocolatier.com
 delseysuomi.com
 deltafinland.com
 demoniacultssuomi.com
@@ -280,6 +286,7 @@ dominantesetsoumis.com
 dope-finland.com
 dope-suomi.com
 dopesnowssuomi.com
+doucesoumission.com
 doucesoumission.pro
 dram-suomi.com
 drinkanddrawhelsinki.com
@@ -540,6 +547,7 @@ hinku-ja-vinku-atk-palvelut.com
 hippuedunvalvonta.com
 hirmuhenkilostopalvelu.com
 hkaturva.online
+hkfinland.co.uk
 hoglsuomi.com
 hoka-one-one-finland.com
 hoka-one-one-suomi.com
@@ -566,6 +574,7 @@ huoltopalvelutvepe.com
 huoltoyhtio.com
 hute-suomi.shop
 hyva-haukku-koirapalvelut.com
+hyvinvointipalvelutjussila.net
 i-suomi.info
 icepeaksuomi.com
 id-elisa-fi.com
@@ -604,8 +613,10 @@ intrumturva.com
 invero-cashton.com
 iotsuomi.net
 iptv-finland.pro
+iptv-suomi.info
 iptv-suomi.net
 iptv-suomi.online
+iptv-suomi.org
 iptv-suomi.xyz
 iptvfinland.info
 iptvsuomi.club
@@ -804,6 +815,7 @@ makantahu.xyz
 makantahutempel.site
 makantamin.com
 makantanah.com
+makantaneku.com
 makantangan.store
 makantashelcom.com
 makea-viesti.com
@@ -817,6 +829,7 @@ markkusuominen.net
 marmot-suomi-outlet.com
 marsvenuscoachingfinland.com
 masoumibrush.com
+maspalvelut.com
 mastergastrofinland.com
 masterveyor.com
 matkahuolto-maksu-fi.online
@@ -1119,6 +1132,7 @@ oma-labrigade.fr
 oma-mail.site
 oma-mailing.site
 oma-mori.com
+oma-mx.site
 oma-nuclear-power-plant-pointcloud.com
 oma-online.ch
 oma-paketti.com
@@ -1289,6 +1303,7 @@ prh-suomi.com
 prhsuomi.com
 pripanki.com
 privatlan-finland.bond
+prodjfinland.com
 produkti-iz-finlandii-v-moskve.ru
 profilefinland.com
 profuomosuomi.com
@@ -1402,6 +1417,7 @@ sendrabootssuomi.net
 senior-car-insurance-costs-in-finland.bond
 senior-living-finland-yshkin.click
 serenityopal.com
+sevenco-helsinki.com
 severisuominen.dev
 severisuominen.net
 sh-suomei.com
@@ -1456,6 +1472,7 @@ socken-suomi.shop
 sofia-helsinki.com
 solovairsuomi.com
 soodapuhalluspalvelu.online
+sorel-helsinki.com
 sorelsuomi.net
 soumi-online.sbs
 soumi-sports.com
@@ -1541,6 +1558,7 @@ spankiii-viesti.site
 spankki-elakkeeella.com
 spankki-elakkeela.com
 spankki-elakkeella.com
+spankki-elakkeellaa.com
 spankki-viestit.com
 spankki-viestit.net
 spankki-viestit.online
@@ -1821,6 +1839,7 @@ suomikeskus.nu
 suomikooooh.xyz
 suomikuvva.com
 suomileikki.info
+suomilimoland.com
 suomilodges.com
 suomiluksushotelli.com
 suomiluksusplaza.com
@@ -2037,6 +2056,7 @@ terveystaiofi.com
 terveystalo-oyj.com
 terveystalo-oyj1.com
 terveystalo.blog
+terveystalo.pro
 terveystalo.shop
 terveystalo.store
 terveystalo.tech
@@ -2115,7 +2135,9 @@ touchffinland.shop
 touchoffinland.shop
 tpmssuomi.com
 tpmswholesalesuomi.com
+trafco.agency
 trafco.info
+trafco.partners
 trafcodisp.ru
 trafcom-fi.info
 trafcom-fin.info
