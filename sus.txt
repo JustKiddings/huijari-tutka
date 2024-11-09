@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 08/11/2024 08:00 UTC
+# Last modified: 09/11/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -38,6 +38,8 @@ aivoterveysmuotoilu.com
 ajosuomi.com
 akokaivopalvelut-1.online
 akunpalvelut.com
+al-monipalvelu.com
+alibarbarvapesuomi.com
 allekirjoituspalvelu.com
 allekirjoituspalvelu.net
 allhotelsuomi.com
@@ -51,6 +53,7 @@ anker-suomi.com
 ankersuomi.com
 anvero-group.com
 anyasoumi.com
+apikulturvakfi.org
 apinpalvelut.com
 apteekissasuomi.life
 apteekki-finland.com
@@ -127,6 +130,7 @@ bearpawfinland.com
 beautyopa.com
 beautysalonsaharmasoumi.com
 befreshsuomi.com
+beklysoumia.com
 beklysoumia.online
 beklysoumia.site
 belkinsuomi.com
@@ -473,6 +477,7 @@ gunturvala.com
 gwearfinland.com
 gymsharkfinlandstore.com
 haixsuomi.com
+hallintopalvelut-vayla.fit
 handykette-suomi.shop
 handyketten-suomi.shop
 hankintajuristitpalvelut.com
@@ -619,6 +624,7 @@ iptv-suomi.online
 iptv-suomi.org
 iptv-suomi.xyz
 iptvfinland.info
+iptvfinland.online
 iptvsuomi.club
 iptvsuomi.info
 iptvsuomi.live
@@ -1113,6 +1119,7 @@ oma-arpa.net
 oma-beaurepaire.com
 oma-circles.com
 oma-co.com
+oma-comunity.com
 oma-costruzioni.com
 oma-email.site
 oma-emailing.site
@@ -1301,6 +1308,7 @@ pranasuomi.com
 premiersuomideals.com
 prh-suomi.com
 prhsuomi.com
+primark-finland.com
 pripanki.com
 privatlan-finland.bond
 prodjfinland.com
@@ -1446,6 +1454,7 @@ sisleysuomi.com
 skatingfinland.com
 skullring-suomi.shop
 skulpturen-suomi.shop
+slipperhelsinki.com
 smartdeals-finland.com
 smartdeals-suomi.com
 smegsuomi.com
@@ -1477,6 +1486,7 @@ sorelsuomi.net
 soumi-online.sbs
 soumi-sports.com
 soumiabouamoud.com
+soumiacademy.com
 soumiacollection.com
 soumiaeducation.com
 soumiafakhar.com
@@ -1535,6 +1545,7 @@ soumissionsrevetementinterieur.ca
 soumissionssaguenay.ca
 soumissionssherbrooke.ca
 soumissionstrois-rivieres.ca
+soumissionsystemedalarme.com
 soumissionthermopompe.net
 soumit.tech
 soumitaddanki.com
@@ -1876,12 +1887,14 @@ suomise.com
 suomiseas.com
 suomiseason.com
 suomiselect.com
+suomisensations.com
 suomiservice.info
 suomisiivous.com
 suomisk8fam.net
 suomisocialslots.com
 suomispeak.com
 suomispincasino.com
+suomispinfi.com
 suomispinnas.com
 suomissivous.com
 suomistays.com
@@ -1943,6 +1956,7 @@ suomiweb.online
 suomiweb.site
 suomiwin.com
 suomiwinfi.com
+suomiworldstore.com
 surronsuomi.com
 susanfetalvero-roces.com
 sussnaswamiestenso.cfd
@@ -2218,6 +2232,7 @@ turvakengat.shop
 turvala.com
 turvalio.pro
 turvallinen.chat
+turvallinenlaite.com
 turvalliset-kasinot.com
 turvallisus.com
 turvallisuus-facebook.info
@@ -2300,6 +2315,7 @@ valvontakamerat.shop
 valvonzandesk.com
 vapesuomi.com
 vapetukkumyyntisuomi.com
+vapsolosuomi.com
 varausuomi.online
 varmennussuomi.com
 varmistasuomi.com
@@ -2455,6 +2471,7 @@ vivaiasuomi-fi.com
 vivaiasuomi.com
 vivaiasuomioutlet.com
 vivero-cosmo.com
+vivero-elpotro.com
 vivero-romen.com
 vivero-selvatico.com
 viviennewestwood-finland.com
