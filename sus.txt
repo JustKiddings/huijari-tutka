@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 09/11/2024 08:00 UTC
+# Last modified: 10/11/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -15,6 +15,7 @@
 2024-omavero.net
 2024-omavero.xyz
 4tturva.com
+aanekoskenhinauspalvelu.com
 abogadostraficomalaga.es
 abrantus-suomi.com
 accountfinland.com
@@ -47,12 +48,14 @@ alurahelsinkishop.com
 ambiehelsinki.com
 amchamfinland.net
 anadolukulturvakfi.net
+anfrapalvelut.com
 aniaautopalvelu.com
 animaltourismfinland.com
 anker-suomi.com
 ankersuomi.com
 anvero-group.com
 anyasoumi.com
+apikulturvakfi.com
 apikulturvakfi.org
 apinpalvelut.com
 apteekissasuomi.life
@@ -67,6 +70,7 @@ arcticafinland.com
 arenasuomi-fi.com
 arenasuomiuinti.com
 ariatsuomioutlet.com
+arthelsinki.com
 asennuspalvelujoku.com
 asiakas-saastopanki.site
 asiakas-saatopanki.site
@@ -162,6 +166,7 @@ bonuscrabcasino-finland.com
 bookingtaxi-finland.com
 boostmobilepay.com
 bottegaveneta-suomi.com
+bottegavenetafinland.com
 bottegavenetasuomi.com
 bottegavenetasuomi.net
 bovedaoyj.shop
@@ -223,6 +228,7 @@ comfortum.jp
 comfyhelsinki.com
 comly-helsinki.com
 comme-des-garconssuomi.com
+consolidationloanshelsinki096785.icu
 convero-enzyme.co.uk
 conversesuomi-fi.com
 coolcationinfinland.com
@@ -231,6 +237,7 @@ corteiz-suomi.com
 cosfinland.com
 cossuomi.com
 costadelmarsuomi.com
+crawlingthrufinland.com
 createchfinland.com
 createchfinland.info
 createchfinland.org
@@ -266,6 +273,7 @@ dealsinfinland.com
 decken-suomi.shop
 delivero-ae-chocolatier.com
 delivero-chocolatier.com
+delivero-fixdessertchocolatier.com
 delivero-uae-chocolatier.com
 delseysuomi.com
 deltafinland.com
@@ -400,6 +408,7 @@ finlandrehabs.com
 finlandwaterbottle.shop
 finnporthelsinki.com
 fintalksfinland.com
+finterveys.top
 finvero-ti.com
 firapalvelut.com
 firestonesuomi.com
@@ -501,6 +510,7 @@ helsinki-rovaniemi-rail-vacations.today
 helsinki-talvella.com
 helsinki.baby
 helsinki.lat
+helsinki.luxury
 helsinki.tours
 helsinkiaamu.org
 helsinkiboattours.com
@@ -646,6 +656,7 @@ jalmarinliikkuvapyorahuolto.com
 jamptipalvelut.com
 jannittavasuomi.com
 jansportssuomi.com
+jarvinenhelsinki.com
 jathaviestates.com
 jatkokoulutuspalvelu.com
 je-palvelut.com
@@ -726,6 +737,7 @@ kiropraktiikkahelsinki.com
 kiropraktikko-helsinki.com
 kissen-suomi.shop
 kivaasuomessa.online
+kkpapulaispalvelut.com
 kmpanja-spankki.com
 koirapalvelukoivunen.com
 koirapalvelupomeliina.com
@@ -739,6 +751,7 @@ kontaktipalvelu-suomi.site
 kontaktipalvelut-suomi.site
 kontaktisaastopanki.site
 kontaktisaatopanki.site
+koodifinland.com
 korulippaat-suomi.shop
 kotiapupalvelu.site
 kpalvelusavo.com
@@ -918,6 +931,7 @@ mizunoinsuomi.com
 mjmusoumini.com
 mlhuolto.com
 mnsuomessa.com
+mobiiepaysuomifi.com
 mobiili-elaakkeella.com
 mobiili-elakkeela.com
 mobiili-elakkeella.com
@@ -1089,6 +1103,7 @@ nobulleuropesuomi.com
 nomavero.co.uk
 nomavero.com
 nomavero.info
+nopeatpelipalvelut.info
 nordeasuomi.com
 nordicaoilsfinland.com
 norivahelsinki.com
@@ -1166,6 +1181,7 @@ omakantafin.info
 omakantal-kansalaiset.com
 omakantarypalv.com
 omakantayr.info
+omasuomivero.finance
 omavalvontasuunnitelma.online
 omavalvontasuunnitelmani.com
 omavero-f1.com
@@ -1179,6 +1195,7 @@ omaverofin9.com
 omaverofiry.com
 omaveroinfo.com
 omaveroooxxfi.click
+omaverotus.finance
 omaveroxyfin.com
 omaveroyfix.com
 omenahuolto.com
@@ -1229,9 +1246,11 @@ pajarsuomi.com
 pakkosuomea.xyz
 palladiumkengatsuomi.com
 palladiumsuomiale.com
+palmupalvelut.com
 paloturvapiste.com
 palvelu-suomi.site
 palvelu.top
+palvelualusta.com
 palveluasiakasnordeasuomi.online
 palvelukanta.com
 palveluliikenne.com
@@ -1303,6 +1322,7 @@ poppanki.website
 posti-suomi.site
 postisuomen.site
 postisuomi.site
+power-finland.com
 ppprojektipalvelu.com
 pranasuomi.com
 premiersuomideals.com
@@ -1370,6 +1390,7 @@ ruedxhelsinki.com
 russellathleticsuomi.com
 s-mobiili-elakkeela.com
 s-mobiili.online
+s-mobiilielakkeellaa.com
 s-mobiilispankki.com
 s-mobiilispankki.online
 s-pankki-asiakaspalvelu-fi-tietosi-iisiit.ru
@@ -1688,6 +1709,7 @@ suomenkasinoetuja.com
 suomenkasinotarjoukset.com
 suomenkasinothotellit.com
 suomenkattopinta.com
+suomenkellojakulta.com
 suomenkirjoja.com
 suomenkirkkoespanjassa.net
 suomenkoulupalvelu.com
@@ -2100,6 +2122,7 @@ terveystalovirasto.com
 terveystalovirastory.com
 terveystaloweb.com
 terveystalox.info
+terveysvaikutukset.org
 terveysvirasto.com
 tetsuomizu.com
 tezenis-finland.com
@@ -2383,11 +2406,13 @@ vero-minus.site
 vero-modade.com
 vero-modaeinkaufen.com
 vero-modaverkauf.com
+vero-n-co.net
 vero-noir.com
 vero-ornavero-fi.com
 vero-os.com
 vero-paintings-prints.com
 vero-praesentium.com
+vero-quibusdam.com
 vero-quis.site
 vero-retouch.ru
 vero-ro.com
@@ -2400,9 +2425,12 @@ vero-suomi.sbs
 vero-thoi-mien.com
 vero-tw.cam
 vero-vera.com
+vero-vital.com
+vero-vital.net
 vero-vivida-herbals.com
 vero-well.com
 veropalveluoyj.info
+verosuomi.finance
 vessi-finland.com
 vessifinland.com
 veva-suomi.com
