@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 11/11/2024 08:00 UTC
+# Last modified: 12/11/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -202,6 +202,7 @@ catanrivero-ia.com
 caterpilarssuomi.com
 caterpillarsuomi-fi.com
 caterpliarssuomi.com
+catfinland.com
 catfootwear-suomi.com
 caturva.org
 ccfinland.com
@@ -547,6 +548,7 @@ helsinkislipper.com
 helsinkisolar.com
 helsinkiswingbigband.com
 helsinkitodolist.com
+helsinkitransport.com
 helsinkiweather.info
 helttipalvelut.com
 helttiterveys.com
@@ -570,6 +572,7 @@ hkfinland.co.uk
 hoglsuomi.com
 hoka-one-one-finland.com
 hoka-one-one-suomi.com
+hokafinland.com
 hokaoneone-finland.com
 hokasuomi.org
 hoodrichsuomi-fi.com
@@ -596,6 +599,7 @@ hute-suomi.shop
 hyva-haukku-koirapalvelut.com
 hyvinvointipalvelutjussila.net
 i-suomi.info
+icepeakfinland.com
 icepeaksuomi.com
 ict-huolto.online
 id-elisa-fi.com
@@ -613,6 +617,8 @@ ilman-rekisteroitymista-fi.com
 ilman-rekisteroitymista-finland.com
 ilman-rekisteroitymista-suomi.com
 ilmanrekisteroitymista.com
+ilmanrekisteroitymista.pro
+ilmanrekisteroitymista.xyz
 ilsejacobsensuomi.net
 imupalvelu.com
 inarinkylmahuolto.com
@@ -751,6 +757,7 @@ koirapalvelukoivunen.com
 koirapalvelupomeliina.com
 kokin-tyopaikat.cfd
 kokki-avoimet-tyopaikat.cfd
+komonofinland.com
 konehuoltoheinonen.com
 konnevedenvuokrauspalvelu.com
 kontakti-suomi.site
@@ -800,6 +807,7 @@ laviestatcom.online
 laviestatcom.ru
 leadsifysuomi.com
 ledger-suomi.com
+legerofinland.com
 leinwandbilder-suomi.shop
 lempisiivouspalvelu.com
 lemsshoessuomi.net
@@ -811,6 +819,7 @@ libertyopalillustration.com
 lifecoachsoumia.com
 liikenneupseerin-tyopaikat.online
 limen-pc-huolto.net
+linsoumis.com
 livelisuomi.com
 livero-mode.de
 loan-in-finland.today
@@ -1028,6 +1037,7 @@ moviestation.click
 mphuolto.com
 mugitsuomi.com
 muji-suomi.com
+mujifinland.com
 muntmentorsuomi.com
 mxmobilepay.website
 my-sms-fi.site
@@ -2116,9 +2126,16 @@ terveystaio.com
 terveystaiofi.com
 terveystalo-oyj.com
 terveystalo-oyj1.com
+terveystalo.biz
 terveystalo.blog
+terveystalo.click
+terveystalo.club
+terveystalo.design
+terveystalo.fit
+terveystalo.org
 terveystalo.pro
 terveystalo.shop
+terveystalo.site
 terveystalo.store
 terveystalo.tech
 terveystalo.xyz
@@ -2133,6 +2150,7 @@ terveystaloing.com
 terveystaloly.com
 terveystalomedia.com
 terveystaloo.com
+terveystaloofi.com
 terveystaloonline.com
 terveystalooy.com
 terveystalooy.info
@@ -2248,6 +2266,7 @@ travero-pm.com
 treffitsuomi.com
 trjspalvelutoy.com
 trkfinland.org
+truck-rental-helsinki-175745276.today
 truck-rental-helsinki-202450059.zone
 true-suomi.com
 tsuomegaalumni.com
@@ -2580,6 +2599,7 @@ xml-finland.org
 xn--autohuoltojyvskyl-2qbe.com
 xn--brisadovero-i8a.com
 xn--coraznagavero-flb.com
+xn--erpalvelukontiometso-czb.com
 xn--fortumvrme-w5a.nu
 xn--heikkil-helsinki-1nb.com
 xn--ilmalmppumppuhuolto-kwb49a.com
@@ -2618,6 +2638,7 @@ yhteydenottosaastopanki.site
 yhteydenpito-suomi.site
 yhteys-suomi.site
 yhteys.ai
+yhteys.net
 yigitkulturvakfii.net
 young-lafinland.com
 youngla-finland.com
