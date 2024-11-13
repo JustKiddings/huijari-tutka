@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 12/11/2024 08:00 UTC
+# Last modified: 13/11/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -276,6 +276,7 @@ decken-suomi.shop
 delivero-ae-chocolatier.com
 delivero-ae-fix.com
 delivero-chocolatier.com
+delivero-fixae.com
 delivero-fixdessertchocolatier.com
 delivero-uae-chocolatier.com
 delseysuomi.com
@@ -504,6 +505,7 @@ hausschuhe-suomi.shop
 haustierbedarf-suomi.shop
 healthycoffeehelsinki.com
 hedgren-finland.com
+heikkinenhelsinki.com
 helly-hansen-suomi.com
 helly-hansensuomi.com
 helmariterveys.com
@@ -1303,6 +1305,7 @@ pay-finland.cfd
 pay-suomi.cfd
 pchuolto.com
 pecaviestate.com
+peintureprostaticsoumission.com
 pelaaminensuomessa.com
 pelaasuomea.com
 peliliikesuomi.com
@@ -1354,6 +1357,7 @@ pranasuomi.com
 premiersuomideals.com
 prh-suomi.com
 prhsuomi.com
+pridefinland.com
 primark-finland.com
 pripanki.com
 privatlan-finland.bond
@@ -1544,6 +1548,7 @@ soumiasfit.com
 soumiatique.com
 soumiayahiaoui.com
 soumic.com
+soumicosmetics.com
 soumiez.net
 soumiimajumdar.com
 soumikagura.site
@@ -1634,6 +1639,7 @@ spr-turvapassi.com
 spr-turvapassi.net
 ssl-omavero.com
 stair-lift-finland.bond
+stanleycupfinland.com
 stanleyfinland.com
 stanleyssuomi.com
 stanleysuomi.com
@@ -1677,6 +1683,7 @@ suomen-suomi.site
 suomen-viesti.site
 suomen-viestin.info
 suomen-viestit.site
+suomen.shop
 suomen3dtulostus.com
 suomendiilit.com
 suomenedulliset.com
@@ -2343,6 +2350,7 @@ uggs-suomi.org
 uggsuomi.com
 uggsuomioutlet.com
 uima-altaan-puhdistus-tyopaikat.online
+ulpukanhuolto.shop
 ultrafcootball.shop
 uniqlosuomi.com
 uniqlosuomi.shop
