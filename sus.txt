@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 13/11/2024 08:00 UTC
+# Last modified: 14/11/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -1036,6 +1036,7 @@ motelrocksfinland.com
 motivapesuomi.com
 moviestash.click
 moviestation.click
+moviestation.net
 mphuolto.com
 mugitsuomi.com
 muji-suomi.com
