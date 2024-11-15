@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 14/11/2024 08:00 UTC
+# Last modified: 15/11/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -25,6 +25,7 @@ adidasfinland.com
 adultmoviestation.com
 ahertajayrityspalvelu.com
 ahertajayrityspalvelu.online
+ai-suomi.com
 aidinkielenhuoltoasema.com
 aino-helsinki.com
 air-up-finland.com
@@ -101,6 +102,7 @@ atvero-pim.com
 aumobilepay.website
 aumobilepays.website
 auroralightsfinland.com
+aussiesuomi.net
 auth-s-pankkii-fi.com
 autohuolto.org
 autohuoltopalokka.com
@@ -163,6 +165,7 @@ boandteesuomi.com
 bognersuomi.com
 bomyhelsinki.com
 bonuscrabcasino-finland.com
+book-cruise-from-finland.today
 bookingtaxi-finland.com
 boostmobilepay.com
 bottegaveneta-finland.com
@@ -268,6 +271,7 @@ davi-helsinki.com
 davvero-echt.nl
 dc-shoes-finland.com
 dc-shoessuomi.com
+dcpfinland.com
 dcshoes-suomi.com
 dcshoessuomi-fi.com
 dcshoessuomifi.com
@@ -296,6 +300,7 @@ digivero-energy.de
 diviestate.com
 dk-mobilepay.info
 dlr-huolto-ja-pesu.com
+docmartensuomi.com
 doctormartens-finland.com
 doctormartens-suomi.com
 dominantesetsoumis.com
@@ -319,6 +324,7 @@ e-suomen.site
 e-suomifi.site
 e-viestit.site
 earthbrotherfinland.com
+easy-credit-card-finland.today
 easy-loan-finland.today
 easymobilepay.today
 easymobilepayments.com
@@ -402,6 +408,7 @@ fi-trafcom.info
 fi-viestit.info
 fi-viestit.site
 fi-viestits.site
+fiddledfylfotsfinland.sbs
 filmschoolfinland.com
 fin-mobilepay.com
 finansivalvonta.com
@@ -423,6 +430,7 @@ fl-trafcom.info
 flealux-finland.com
 flirttisuomi.com
 flyhelsinki.com
+folkfinland.com
 fortum-hermine.com
 fortum-stainton.com
 fortum.live
@@ -513,6 +521,7 @@ helmarterveys.com
 helsinki-image.com
 helsinki-pools.com
 helsinki-rovaniemi-rail-vacations.today
+helsinki-saintpetersburg-train-vacation.today
 helsinki-talvella.com
 helsinki.baby
 helsinki.lat
@@ -641,6 +650,7 @@ intimissimisuomifi.com
 intrumtodennus.com
 intrumturva.com
 invero-cashton.com
+invest-finland-metals-kh-9392815.fyi
 iotsuomi.net
 iptv-finland.pro
 iptv-suomi.info
@@ -824,9 +834,11 @@ limen-pc-huolto.net
 linsoumis.com
 livelisuomi.com
 livero-mode.de
+lmntsuomi.com
 loan-in-finland.today
 loimaanasuntopalvelu.com
 lomallesisuomessa.com
+long-champsuomi.com
 longchampfinland.top
 longchamplaukkusuomi.com
 longchampsuomi.com
@@ -944,6 +956,7 @@ miestentakki.com
 miestenterveystabletit.info
 miestenvuoro.com
 millikulturvakfi.com
+millo-suomi.com
 minilovefinland.com
 mis-finland.com
 misfinland.com
@@ -1035,6 +1048,7 @@ mooseknucklesuomi.com
 motelrocksfinland.com
 motivapesuomi.com
 moviestash.click
+moviestates.com
 moviestation.click
 moviestation.net
 mphuolto.com
@@ -1069,6 +1083,8 @@ naistenmekot.com
 naistenurheiluasut.com
 naisyrittajatsuomi.com
 nanorebarsoumian.com
+napapijri-finland.com
+napapijrifinland.com
 nassoumi.com
 nationalparksinfinland.com
 naturovero-cuisine.fr
@@ -1120,6 +1136,7 @@ nikotiinitori.com
 nikotiinivahvuuksiin.xyz
 nisantasiegitimkulturvakfi.online
 nivakpankki.com
+nk-finland.com
 nnormalsuomi.com
 no-bullsuomi.com
 nobull-suomi.com
@@ -1377,6 +1394,7 @@ pumafi-suomi.com
 pumafinland.com
 pumaoutletsuomi.shop
 pumasuomi.com
+puuhuolto.info
 puutarhurin-tyopaikat.online
 pyrenexsuomi.com
 qisuunnittelupalvelu.com
@@ -1475,6 +1493,7 @@ seek-mobilepaymonthlyau.info
 seek-mobilepaymonthlyca.info
 seek-mobilepaymonthlyfrca.info
 seikosuomi.com
+selestakantaron.com
 sendrabootssuomi.net
 senior-car-insurance-costs-in-finland.bond
 senior-living-finland-yshkin.click
@@ -1531,6 +1550,8 @@ smspalvelu-suomi.site
 smspalvelut-suomi.site
 smsviesti-fi.site
 sn-infosys-meet-helsinki.com
+socialfunfinland.com
+socialzonefinland.com
 socken-suomi.shop
 sofia-helsinki.com
 solovairsuomi.com
@@ -1792,6 +1813,8 @@ suomenpeliedut.world
 suomenpeliedut.xyz
 suomenpiilot.com
 suomenpyorapalvelu.com
+suomenrahoitusratkaisut.com
+suomenrahoitusratkaisut.net
 suomensahkoautohuolto.com
 suomensahkoautokorjaamo.com
 suomentalousuutiset.blog
@@ -1897,6 +1920,7 @@ suomiguide.com
 suomii-fi.com
 suomiifi.site
 suomiinsights.com
+suomiiptv.net
 suomijy.com
 suomikanta.com
 suomikasino.buzz
@@ -2010,6 +2034,7 @@ suomiturva.info
 suomiturvallisuus.com
 suomiurbanretreat.com
 suomiuu.top
+suomiuutiset.com
 suomivahvista.com
 suomivarmennus.com
 suomivarmista.info
@@ -2194,6 +2219,7 @@ tietokonehuolto.org
 tifosisuomi.com
 tiktiksuomi.store
 tilin-hallinta-asiakas.com
+tilipalvelu.net
 timberland-suomi.net
 tinamasoumi.com
 tischdecke-suomi.shop
@@ -2536,7 +2562,9 @@ viestit-suomifi.info
 viestit-suomifi.site
 viestitse-suomi.site
 villisuomi.com
+vinkkipankki.net
 vintagevaatteetsuomi.com
+viora-helsinki.com
 vipkasinotsuomi.com
 vippsmobilepay.nu
 virelasuomi.com
@@ -2555,6 +2583,7 @@ vivaiaisuomi.com
 vivaiasuomi-fi.com
 vivaiasuomi.com
 vivaiasuomioutlet.com
+vivero-app.website
 vivero-cosmo.com
 vivero-elpotro.com
 vivero-romen.com
@@ -2607,6 +2636,8 @@ xinmiaoyj.com
 xml-finland.org
 xn--autohuoltojyvskyl-2qbe.com
 xn--brisadovero-i8a.com
+xn--casinoilmansuomenlisenssi-9ec.com
+xn--casinoilmansuomilisenssi-ecc.com
 xn--coraznagavero-flb.com
 xn--erpalvelukontiometso-czb.com
 xn--fortumvrme-w5a.nu
@@ -2614,6 +2645,10 @@ xn--heikkil-helsinki-1nb.com
 xn--ilmalmppumppuhuolto-kwb49a.com
 xn--jalmarinliikkuvapyrhuolto-3ec89b.com
 xn--jyvskylautohuolto-sqbe.com
+xn--kasino-ilman-suomen-lisenssi-xnc.com
+xn--kasino-ilman-suomi-lisenssi-1kc.com
+xn--kasinot-ilman-suomen-lisenssi-tqc.com
+xn--kasinot-ilman-suomi-lisenssi-xnc.com
 xn--lastenhoitopalveluleikkis-9ec.com
 xn--levinmkkihuolto-etb.com
 xn--lhipyorhuolto-bfbg.com
