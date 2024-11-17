@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 16/11/2024 08:00 UTC
+# Last modified: 17/11/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -34,6 +34,7 @@ airjordanfinland.net
 airjordans-suomi.com
 airjordansuomi.com
 airport-food-packaging-jobs-finland.today
+airtaxihelsinki.com
 airupsuomi.top
 aisuomi.com
 aisuomi.net
@@ -280,6 +281,7 @@ dcshoes-suomi.com
 dcshoessuomi-fi.com
 dcshoessuomifi.com
 dealsinfinland.com
+debreaminhelsinki.com
 decken-suomi.shop
 delivero-ae-chocolatier.com
 delivero-ae-fix.com
@@ -372,6 +374,7 @@ elotecfinland.org
 elviestate.com
 elviestate.ru
 emaldosuomi.com
+empmobilepay.com
 enviestates.co.uk
 eo-palvelut.com
 eogaeafernandfinland.shop
@@ -436,6 +439,7 @@ fisuomi.site
 fitnessgerate-suomi.shop
 fl-trafcom.info
 flealux-finland.com
+flexpalvelut.com
 flirttisuomi.com
 flyhelsinki.com
 folkfinland.com
@@ -690,6 +694,7 @@ ivero-moda.cz
 ivhuoltoht.com
 jack-wolfskin-suomi.com
 jackelyn-suomi.com
+jackpot-finlands.cfd
 jackwolfskinsuomi.shop
 jahansanatmasoumi.com
 jalmarinliikkuvapyorahuolto.com
@@ -847,6 +852,7 @@ levinmokkihuolto.com
 libertyopalillustration.com
 lifecoachsoumia.com
 liikenneupseerin-tyopaikat.online
+liisafromfinland.com
 limen-pc-huolto.net
 linsoumis.com
 livelisuomi.com
@@ -1008,6 +1014,7 @@ mobiiliportaali.com
 mobiilispankki.com
 mobiilitiy-scooters.today
 mobiiliturvallisuus.net
+mobilepay-dk-bruger-opdatering.online
 mobilepay-dk.info
 mobilepay-fi.com
 mobilepay-kayttaja.com
@@ -1037,6 +1044,7 @@ mobilepayees.com
 mobilepayees.net
 mobilepayid-update2.com
 mobilepayid.com
+mobilepayindia.com
 mobilepaykasino.com
 mobilepaykasino.info
 mobilepaykasino.net
@@ -1447,6 +1455,7 @@ raycon-suomi.com
 rdsiivouspalvelut.com
 redumbrellatourshelsinki.com
 reflexions-echanges-insoumis.org
+remonttimiespalvelut.online
 reterveystalo.com
 returvaluta.com
 returvaluta.nu
@@ -1640,6 +1649,7 @@ soumissionassuranceauto.com
 soumissionassurancecollective.com
 soumissionassuranceviesansexamenmedical.com
 soumissionconfort.com
+soumissionentrepreneurs.com
 soumissionentretienmenager.com
 soumissionmauricie.com
 soumissionnettoyage.com
@@ -1863,6 +1873,7 @@ suomenvannekorjaus.com
 suomenvip.com
 suomenwh.com
 suomenyritysrahoitus.com
+suomenystavat.org
 suometa418-linkker0pen9617.site
 suometa792-linkker0pen79214.site
 suomettumis.xyz
@@ -2678,6 +2689,7 @@ xn--brisadovero-i8a.com
 xn--casinoilmansuomenlisenssi-9ec.com
 xn--casinoilmansuomilisenssi-ecc.com
 xn--coraznagavero-flb.com
+xn--desafiodevero-7eb.site
 xn--erpalvelukontiometso-czb.com
 xn--fortumvrme-w5a.nu
 xn--heikkil-helsinki-1nb.com
