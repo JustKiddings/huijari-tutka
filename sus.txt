@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 18/11/2024 08:00 UTC
+# Last modified: 19/11/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -51,6 +51,7 @@ alurahelsinkishop.com
 ambiehelsinki.com
 amchamfinland.net
 anadolukulturvakfi.net
+anaistentation.com
 anfrapalvelut.com
 aniaautopalvelu.com
 animaltourismfinland.com
@@ -352,6 +353,7 @@ egitimkulturvakfi.com
 egitimkulturvakfi.org
 egitimkulturvakfi.xyz
 ekoterveys.com
+eksklusiivisetsuomi.com
 elakkeela-smobiili.com
 elakkeella-mobiili.com
 elakkeella-spanki.com
@@ -359,6 +361,7 @@ elakkeella-spankki-mobiili.com
 elakkeella-spankki.com
 elakkeellamobiili.com
 elakkella-spankki.com
+elakkellaspankki.com
 elamyspalvelut.net
 elanikasoumila.xyz
 eleppizpalvelut.info
@@ -380,6 +383,7 @@ eo-palvelut.com
 eogaeafernandfinland.shop
 epicsuomi.com
 escort-helsinki.vip
+escortservice-in-finland.xyz
 espankki.com
 espoofinland.com
 esport-suomi.com
@@ -442,6 +446,7 @@ flealux-finland.com
 flexpalvelut.com
 flirttisuomi.com
 flyhelsinki.com
+fmoviesti.top
 folkfinland.com
 fortum-hermine.com
 fortum-stainton.com
@@ -568,6 +573,7 @@ helsinkimint.se
 helsinkimushroomfestival.com
 helsinkimusical.com
 helsinkinews24.com
+helsinkinoko.com
 helsinkinotebooks.com
 helsinkioutletskechers.com
 helsinkiprofessionals.com
@@ -715,6 +721,7 @@ jlphuolto.com
 jncosuomi.com
 josefseibel-suomi.com
 journeytodayfinland.com
+joustokeulahuolto.store
 jpkviesta.com
 juhasuomela.com
 juhla-palvelu.com
@@ -829,6 +836,7 @@ laroza-helsinki.com
 laskuttaa-mobilepay.com
 laskutuspalvelufi.online
 laskutuspalvelut.net
+lastenhoitopalvelupikkupanda.com
 lastenvaunut-suomi.shop
 laterveystalo.com
 lattiapalveluroyal.com
@@ -857,6 +865,7 @@ limen-pc-huolto.net
 linsoumis.com
 livelisuomi.com
 livero-mode.de
+livero-tax.com
 lmntsuomi.com
 loan-in-finland.today
 logistics-finland-kh-7434042.world
@@ -945,6 +954,7 @@ mediatukipalvelut.net
 meilleuresoumission.com
 meindlhelsinki.com
 meine-leinwandbilder-suomi.shop
+meivcorefinland.com
 mereellshelsinki.com
 merkurpankki.net
 merrell-suomi.org
@@ -1096,6 +1106,7 @@ my-suomi.info
 my-suomifi.site
 my-viestit.site
 myspankkimobiilifi.online
+mysuomi.com
 mysuomi.online
 mysuomifi.site
 myterveystalo.com
@@ -1119,6 +1130,7 @@ napapijri-finland.com
 napapijrifinland.com
 nassoumi.com
 nationalparksinfinland.com
+nattihelsinki.com
 naturovero-cuisine.fr
 naturval.net
 naturvalet.com
@@ -1226,6 +1238,7 @@ oma-france.bio
 oma-germana.at
 oma-gourmandises.com
 oma-haus.com
+oma-kase.com
 oma-kuehnchen.de
 oma-labrigade.fr
 oma-mail.site
@@ -1381,9 +1394,11 @@ pieceoffinland.com
 pihajahuolto.com
 pikasuomi.com
 pikolionssuomi.com
+pikolionssuomiale.com
 pilarihelsinki.com
 pillerit-suomi.com
 pilviturva.lol
+pinkpalmpuff-finland.com
 pinkpalmpufffinland.com
 playboy-finland.com
 playwinsuomi.com
@@ -1404,6 +1419,7 @@ pop-pankki.site
 pop-pankki.website
 poppanki.site
 poppanki.website
+porvoonpalvelutalo.store
 posti-suomi.site
 postisuomen.site
 postisuomi.site
@@ -1433,6 +1449,7 @@ pumafi-suomi.com
 pumafinland.com
 pumaoutletsuomi.shop
 pumasuomi.com
+purchaseautomobilepaylater.today
 puuhuolto.info
 puutarhurin-tyopaikat.online
 pyrenexsuomi.com
@@ -1702,6 +1719,7 @@ spankkimobiili-elakkeella.com
 spankkimobiilifi.com
 spanx-suomi.com
 spectrmmobilepayment.com
+sportyfinland.com
 spr-turvapassi.com
 spr-turvapassi.net
 ssl-omavero.com
@@ -1825,6 +1843,7 @@ suomenmahtavin.com
 suomenmatkadiilit.com
 suomenmatkatarjoukset.com
 suomenmetalli.com
+suomenminimaailma.com
 suomenmuuttojakuljetus.com
 suomenmyyntiapu.com
 suomenparhaatkohteet.com
@@ -1927,6 +1946,7 @@ suomiadmin.com
 suomiadventure.com
 suomialfa.com
 suomiamazing.com
+suomiao.lol
 suomiao.sbs
 suomiarcxteryx.com
 suomiarvostelee.com
@@ -2387,6 +2407,7 @@ turvalio.pro
 turvallinen.chat
 turvallinenlaite.com
 turvalliset-kasinot.com
+turvallisetlisensoimattomatkasinot.com
 turvallisus.com
 turvallisuus-facebook.info
 turvallisuus-tiedo.com
@@ -2640,6 +2661,7 @@ vivero-romen.com
 vivero-selvatico.com
 viviennewestwood-finland.com
 viviennewestwoodfinland.com
+viviestate.com
 vivobarefootsuomi.com
 vivre-en-finlande.com
 vogelzubehor-suomi.shop
