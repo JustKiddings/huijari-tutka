@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 19/11/2024 08:00 UTC
+# Last modified: 20/11/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -39,6 +39,7 @@ airupsuomi.top
 aisuomi.com
 aisuomi.net
 aivoterveysmuotoilu.com
+ajkiinteistohuolto.com
 ajosuomi.com
 akokaivopalvelut-1.online
 akunpalvelut.com
@@ -130,9 +131,11 @@ balmainhairsuomi.com
 bangboxsuomi.com
 bangvapesuomi.com
 bapehuppari-suomi.com
+bargainhubfinland.com
 baskerit-suomi.shop
 bauchkettchen-suomi.shop
 bavero-group.ru
+bay-helsinki.com
 baymakantalya.com.tr
 be-vero-louange.com
 bearpawfinland.com
@@ -594,6 +597,7 @@ henkiloturva.com
 henkiloturvat.com
 herrenschmuck-suomi.shop
 hevospalveluvaisanen.com
+hi-elisa.com
 hibachihelsinki.com
 hierontapalveluthuoponen.com
 hierontapalvelutkirkasplus.com
@@ -692,6 +696,7 @@ isolationsoumission.com
 isoumi.com
 it-palvelu.ltd
 it-tyopaikat-suomi.cfd
+italianovero-varna.com
 itamerensuomi.net
 itjobfinderfinland.digital
 itpalvelutjuntunen.com
@@ -721,6 +726,7 @@ jlphuolto.com
 jncosuomi.com
 josefseibel-suomi.com
 journeytodayfinland.com
+joustokeulahuolto.com
 joustokeulahuolto.store
 jpkviesta.com
 juhasuomela.com
@@ -744,12 +750,14 @@ kantapalveluonline.info
 kantapalvelury.com
 kantapalvelut-tunnistautnminen.com
 kantapalvelut-tunnistautuminen.com
+karajafinland.com
 karllagerfeldsuomi.com
 karttapalvelut.com
 kartyakevero-gep-az-en.shop
 kartyakevero-gep.shop
 kasinovalvonta.xyz
 kasinoviesti.com
+kasoumi.com
 katespadesuomi.com
 katisuominen.com
 katon-korjaus-palvelut.online
@@ -991,12 +999,14 @@ miestenrannekorut.shop
 miestentakki.com
 miestenterveystabletit.info
 miestenvuoro.com
+mikanhuolto.com
 millikulturvakfi.com
 millo-suomi.com
 minilovefinland.com
 minorityhelsinki.com
 mis-finland.com
 misfinland.com
+misterlamp-helsinki.com
 mittfortum.nu
 mizuno-suomi.com
 mizunoinsuomi.com
@@ -1315,6 +1325,7 @@ op-turva.com
 opanki.com
 opisuomi-school.ru
 oppankii.com
+opturva.com
 oralbsuomi.com
 ornavero-fi.com
 ornavero-fi.info
@@ -1557,6 +1568,7 @@ sendrabootssuomi.net
 senior-car-insurance-costs-in-finland.bond
 senior-living-finland-yshkin.click
 serenityopal.com
+setarehmasoumi.com
 sevenco-helsinki.com
 severisuominen.dev
 severisuominen.net
@@ -1609,6 +1621,7 @@ smspalvelu-suomi.site
 smspalvelut-suomi.site
 smsviesti-fi.site
 sn-infosys-meet-helsinki.com
+snoopysuomi.com
 socialfunfinland.com
 socialzonefinland.com
 socken-suomi.shop
@@ -2029,6 +2042,7 @@ suomiporno.top
 suomipremiumhotelli.com
 suomipressu.com
 suomiprime.com
+suomipuolakajaani.net
 suomir3p.net
 suomirani.xyz
 suomiratings.com
@@ -2316,6 +2330,7 @@ topratedsuomi.com
 topsuomi.com
 topsuominow.com
 topsuomireviews.com
+tosoumitumori.com
 touchffinland.shop
 touchoffinland.shop
 tpmssuomi.com
@@ -2334,6 +2349,7 @@ trafcomfin.info
 trafcomfinoy.info
 trafcomfioy.info
 trafcomfl.info
+trafcomflny.com
 trafcomfloyj.info
 trafcomoy.info
 trafcomoyfi.info
