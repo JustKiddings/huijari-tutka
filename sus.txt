@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 20/11/2024 08:00 UTC
+# Last modified: 21/11/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -38,6 +38,7 @@ airtaxihelsinki.com
 airupsuomi.top
 aisuomi.com
 aisuomi.net
+aivonovapesuomi.com
 aivoterveysmuotoilu.com
 ajkiinteistohuolto.com
 ajosuomi.com
@@ -97,6 +98,7 @@ asicshelsinki.net
 asicssuomioutlet.com
 asiicssuomi.net
 asiointisuomi.com
+assuranceviesoumissions.com
 asuomitv.com
 athanasiagiasoumi.com
 atvero-mail.co.uk
@@ -479,7 +481,9 @@ frostsuomi.xyz
 fruit-packaging-jobs-finland.today
 fruityfinland.com
 fssuomei.com
+funeralillfinland.bond
 funeraljhbyquwqlifinland.bond
+funeralwljlfinland.bond
 funeralwretqreerlifinland.bond
 funfinland.online
 funhelsinki.lol
@@ -553,6 +557,7 @@ helsinki.tours
 helsinkiaamu.org
 helsinkiboattours.com
 helsinkibranding.com
+helsinkicasinonodeposit.click
 helsinkicoach.com
 helsinkicoffeeweeks.com
 helsinkicurrent.com
@@ -614,6 +619,7 @@ hokafinland.com
 hokaoneone-finland.com
 hokasuomi.org
 hoodrichsuomi-fi.com
+hotelhelsinki.net
 hotelhubsuomi.com
 hotellihelsinki.net
 hotellikasinosuomi.com
@@ -626,6 +632,7 @@ hs-suomi.ru
 hugo-boss-suomi.com
 huippusuomi.com
 hummelsuomi.com
+humoazulvapesuomi.com
 hunter-finland.com
 huntersuomi.shop
 huolto.app
@@ -647,6 +654,7 @@ id-vahvistaa.info
 id-vahvistus.info
 identify-tunnistus.top
 idmobilepay.com
+igni-finland.casino
 iisiviisisuomi.com
 ikeasuomi.com
 ilmajoenpyorahuolto.com
@@ -687,6 +695,7 @@ iptv-suomi.org
 iptv-suomi.xyz
 iptvfinland.info
 iptvfinland.online
+iptvsuomi-fi.store
 iptvsuomi.club
 iptvsuomi.co
 iptvsuomi.info
@@ -720,6 +729,7 @@ jellycat-suomi.com
 jellycatsuomi.biz
 jellycatsuomi.net
 jennynterapiapalvelu.com
+jetcasinosuomi.com
 jeunesinsoumis.site
 jh-elainpalvelut.com
 jlphuolto.com
@@ -787,6 +797,7 @@ kiplingbagssuomi.com
 kiplinglaukutsuomi.com
 kiplingsuomi-fi.com
 kirjanpitopalvelu.com
+kirjaudu-aktia.net
 kirjaudu-oma.com
 kirjaudu-omakanta.com
 kirjaudu-online.com
@@ -894,6 +905,7 @@ lucas-suomela.com
 lukoisuomian.com
 lululemonsuomishop.com
 lulusuomi.net
+lumicasino-finland.com
 lumosfinland.com
 lunasandalssuomi.net
 luova-finland.com
@@ -916,6 +928,7 @@ makantangan.store
 makantashelcom.com
 makea-viesti.com
 manoloblahniksuomi.com
+many-helsinki-events-756119764.today
 marela-helsinki.com
 mariahietanenterapiapalvelut.com
 marimekkosuomi.com
@@ -1004,6 +1017,7 @@ millikulturvakfi.com
 millo-suomi.com
 minilovefinland.com
 minorityhelsinki.com
+mirshturvalov.ru
 mis-finland.com
 misfinland.com
 misterlamp-helsinki.com
@@ -1159,6 +1173,7 @@ neweracap.com
 neweracapsuomi.com
 neweralippis.com
 neweralippisuomi.com
+newerasuomis.com
 newrocksuomi.com
 newterveystalo.com
 ni-pantins-ni-soumis.fr
@@ -1603,6 +1618,7 @@ smartdeals-finland.com
 smartdeals-suomi.com
 smegsuomi.com
 smobiili-elakkeella.com
+smobiili-ellakkeella.com
 smobiili-fi.com
 smobiili-kampanja.com
 smobiili-spankki.com
@@ -1686,6 +1702,7 @@ soumissionnettoyage.com
 soumissionresidentielle.xyz
 soumissions-assurances.ca
 soumissionsassurance.com
+soumissionsassurancevieenligne.com
 soumissionsconstructeurs.ca
 soumissionsebenisterie.ca
 soumissionsentretienmenager.ca
@@ -1792,6 +1809,7 @@ suomenetalaakarit.org
 suomenfi.site
 suomeng.lol
 suomenhankintajuristitoy.com
+suomenhatavara.com
 suomenhedelma.com
 suomenhelmi.com
 suomenhevonen.info
@@ -1889,6 +1907,7 @@ suomenpeliedut.store
 suomenpeliedut.website
 suomenpeliedut.world
 suomenpeliedut.xyz
+suomenpelifi.com
 suomenpiilot.com
 suomenpyorapalvelu.com
 suomenrahoitusratkaisut.com
@@ -1923,6 +1942,7 @@ suomi-info.sbs
 suomi-iptv.com
 suomi-kasinot.net
 suomi-kokemuksia.com
+suomi-lumoava.com
 suomi-myfi.info
 suomi-nettikasinot.com
 suomi-oma.com
@@ -2006,6 +2026,7 @@ suomijy.com
 suomikanta.com
 suomikasino.buzz
 suomikasinolista.com
+suomikasinonodeposit.click
 suomikasinot2024.com
 suomikasinot365.com
 suomikasinothotels.com
@@ -2128,6 +2149,7 @@ suomiweb.site
 suomiwin.com
 suomiwinfi.com
 suomiworldstore.com
+suoratoistopalvelu.net
 surronsuomi.com
 susanfetalvero-roces.com
 sussnaswamiestenso.cfd
@@ -2373,6 +2395,7 @@ traficorn-oy.info
 traficorn.info
 traficorn.net
 transferhelsinki-spb.com
+transport-finland-logistics-812277433.today
 trap-star-suomi.com
 trap-starfinland.com
 trap-starsuomi.com
@@ -2481,6 +2504,7 @@ uudet-ilman-rekisteroitymista-fi.com
 uudet-ilman-rekisteroitymista.com
 uwattshelsinki.com
 uwellsuomi.com
+uwinvapesuomi.com
 vahvista-id.info
 vahvista.info
 vahvistaa-elisa.com
@@ -2751,6 +2775,7 @@ xn--pshholoogilineturvalisus-wsc.com
 xn--rnovations3soumissions-b8b.com
 xn--shktyturvakortti-vnb04ac.com
 xn--shktyturvallisuuskortti-v7b66bc.online
+xn--suomenhtvara-mcbb.com
 xn--suomenshkautohuolto-mwb49a.com
 xn--suomenshkautokorjaamo-c2b03b.com
 xn--tykonehuolto-5ib.com
@@ -2789,3 +2814,4 @@ zenola-helsinki.com
 zhusuomenchuang.com
 zigarrenschneider-suomi.shop
 zimplerkasinotsuomi.com
+zvero-polis.ru
