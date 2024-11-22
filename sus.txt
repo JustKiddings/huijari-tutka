@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 21/11/2024 08:00 UTC
+# Last modified: 22/11/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -98,6 +98,7 @@ asicshelsinki.net
 asicssuomioutlet.com
 asiicssuomi.net
 asiointisuomi.com
+asoumi.com
 assuranceviesoumissions.com
 asuomitv.com
 athanasiagiasoumi.com
@@ -419,6 +420,7 @@ fennoturvapalvelut.com
 ferrarihelsinki.com
 festivohuolto.pro
 fezbet-suomi.com
+fi-elisa.com
 fi-icebugsuomi.com
 fi-osuuspankki.com
 fi-spankki.com
@@ -433,6 +435,7 @@ filmschoolfinland.com
 fin-mobilepay.com
 finansivalvonta.com
 finestsuomi.com
+finewinefinland.com
 finland-viesti.site
 finland.nu
 finlandrehabs.com
@@ -561,6 +564,7 @@ helsinkicasinonodeposit.click
 helsinkicoach.com
 helsinkicoffeeweeks.com
 helsinkicurrent.com
+helsinkidancestudio.com
 helsinkidesignschool.net
 helsinkidigitalhouse.com
 helsinkidogshome.com
@@ -586,6 +590,7 @@ helsinkinotebooks.com
 helsinkioutletskechers.com
 helsinkiprofessionals.com
 helsinkis.top
+helsinkisensualweekend.com
 helsinkislipper.com
 helsinkisolar.com
 helsinkiswingbigband.com
@@ -594,6 +599,7 @@ helsinkitransport.com
 helsinkiweather.info
 helttipalvelut.com
 helttiterveys.com
+helttiterveyspalvelut.com
 helttityoterveys.com
 hemteepalvelu.com
 henkilostopalveluhirmu.com
@@ -610,6 +616,7 @@ hinku-ja-vinku-atk-palvelut.com
 hippuedunvalvonta.com
 hirmuhenkilostopalvelu.com
 hirvasenitpalvelut.online
+histotripsyfortumors.com
 hkaturva.online
 hkfinland.co.uk
 hoglsuomi.com
@@ -636,6 +643,7 @@ humoazulvapesuomi.com
 hunter-finland.com
 huntersuomi.shop
 huolto.app
+huoltoasennushellsten.com
 huoltohelppi.com
 huoltomiesovelle.com
 huoltopalvelutvepe.com
@@ -669,6 +677,7 @@ ilsejacobsensuomi.net
 imupalvelu.com
 inarinkylmahuolto.com
 india-holiday-package-deals-from-finland.today
+infinityopals.shop
 info-suomen.site
 infomobiilimaksu.com
 inleifinland.pro
@@ -845,6 +854,7 @@ kuumahelsinki.com
 kuvauspalvelurintala.com
 laakehoidonturva.com
 lacostenfinland.com
+laffinland.com
 lafranceinsoumise.vote
 laina-suomi.com
 lainturva.com
@@ -878,6 +888,7 @@ letsgowithsoumia.com
 levinmokkihuolto.com
 libertyopalillustration.com
 lifecoachsoumia.com
+lifewavex39finland.com
 liikenneupseerin-tyopaikat.online
 liisafromfinland.com
 limen-pc-huolto.net
@@ -966,6 +977,7 @@ maviestilofeminino.online
 maviestilofeminino.store
 mawuviesta.com
 maxmarasuomi.com
+mayasiivouspalvelut.com
 mbtsuomi-fi.com
 me-suomi.site
 medassistanslascwlfinland.bond
@@ -1223,6 +1235,7 @@ northfacesuomiale.com
 noshit-nikotiinipussit.com
 novahelsinki.shop
 noveler-helsinki.com
+nshotelornfinland.com
 nu-mobilepay.com
 nudeviesta.buzz
 nudiejeans-suomi.com
@@ -1540,6 +1553,7 @@ s-pankki.store
 s-pankkielakella.com
 s-pankkielakkeella.com
 s-pankkifi.net
+s-pankkikampanjafi.com
 s-pankkimobile.online
 s-siivouspalvelut.com
 s-steel-finland.com
@@ -1561,6 +1575,7 @@ sanuksuomi-fi.com
 sanuksuomi.com
 saoyj.sbs
 saramasoumi.com
+sassoumiracles.com
 sataturva.online
 satisfyrunningsuomi.com
 saturvalawassociates.com
@@ -1908,6 +1923,7 @@ suomenpeliedut.website
 suomenpeliedut.world
 suomenpeliedut.xyz
 suomenpelifi.com
+suomenperinnetatuoijat.com
 suomenpiilot.com
 suomenpyorapalvelu.com
 suomenrahoitusratkaisut.com
@@ -1931,6 +1947,7 @@ suomettumis.xyz
 suomi-2024.com
 suomi-amazing.com
 suomi-choose.com
+suomi-delta.com
 suomi-ed.com
 suomi-education.com
 suomi-education.online
@@ -2359,6 +2376,7 @@ tpmssuomi.com
 tpmswholesalesuomi.com
 trafco.agency
 trafco.info
+trafco.org
 trafco.partners
 trafcodisp.ru
 trafcogroup.com
@@ -2495,6 +2513,7 @@ unisafinland.com
 unissuomi.com
 uniterveysohjelma.com
 universoumi.com
+universoumisshymeternal.net
 unlimitedfinland.com
 unstonyvacaturvalutas.cfd
 unvero-ai.com
@@ -2720,6 +2739,7 @@ warehousepackingagenciesinhelsinki375882.icu
 warmflaschen-suomi.shop
 webmobilepay.com
 webterveystalo.com
+wellensteynfinland.com
 westernfinland.com
 wotofosuomi.com
 www-elisa-fi.site
