@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 22/11/2024 08:00 UTC
+# Last modified: 23/11/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -296,6 +296,7 @@ delivero-chocolatier.com
 delivero-fixae.com
 delivero-fixdessertchocolatier.com
 delivero-kw-fix.com
+delivero-salt.com
 delivero-uae-chocolatier.com
 delivero-uae.online
 delseysuomi.com
@@ -403,6 +404,7 @@ eusoumichaelldouglas.com.br
 eusoumilionario.site
 eusoumistica.com
 evero-consulting.ch
+eviestate.online
 exclusive-finland-vacation-packages.today
 fabsoumipseh.com
 fabu-helsinki.com
@@ -774,6 +776,7 @@ karllagerfeldsuomi.com
 karttapalvelut.com
 kartyakevero-gep-az-en.shop
 kartyakevero-gep.shop
+kasinot-ilman-rekisteroitymista.online
 kasinovalvonta.xyz
 kasinoviesti.com
 kasoumi.com
@@ -1036,6 +1039,7 @@ misterlamp-helsinki.com
 mittfortum.nu
 mizuno-suomi.com
 mizunoinsuomi.com
+mizunosuomishop.com
 mjmusoumini.com
 mlhuolto.com
 mnsuomessa.com
@@ -1128,6 +1132,7 @@ moviestation.click
 moviestation.net
 mphuolto.com
 mretsoumise.cam
+mretsoumise.com
 muffinland.xyz
 mugitsuomi.com
 muji-suomi.com
@@ -1560,10 +1565,12 @@ s-steel-finland.com
 s-terveys.com
 saaristohuolto.net
 saaspankki.com
+saaviestates.com
 safetyfinland.com
 sahkopalvelutsalmi.com
 sainttropezsuomi.com
 salomonfinland.com
+salomonhelsinki.com
 salomonsuomikokemuksia.com
 salomonsuomistore.com
 salonasuntopalvelu.com
@@ -2025,6 +2032,7 @@ suomiescort.com
 suomifeedback.com
 suomifi1.site
 suomifin.eu
+suomifinds.com
 suomifinest.com
 suomifionline.site
 suomifitunnistus.com
@@ -2102,6 +2110,7 @@ suomispeak.com
 suomispincasino.com
 suomispinfi.com
 suomispinnas.com
+suomispinners.com
 suomissivous.com
 suomistays.com
 suomistayzone.com
@@ -2310,6 +2319,7 @@ terveystalooy.com
 terveystalooy.info
 terveystalooyj.com
 terveystalopalvelu.com
+terveystalopalvelury.com
 terveystalory.com
 terveystaloryfi.com
 terveystalorypalv.com
@@ -2378,6 +2388,7 @@ trafco.agency
 trafco.info
 trafco.org
 trafco.partners
+trafco.uk
 trafcodisp.ru
 trafcogroup.com
 trafcom-fi.info
@@ -2521,6 +2532,7 @@ upeaasuomea.com
 upptackfinland.nu
 uudet-ilman-rekisteroitymista-fi.com
 uudet-ilman-rekisteroitymista.com
+uudetsuominettikasinot.com
 uwattshelsinki.com
 uwellsuomi.com
 uwinvapesuomi.com
@@ -2635,6 +2647,7 @@ vero-sports.com
 vero-suomi.com
 vero-suomi.sbs
 vero-thoi-mien.com
+vero-token.com
 vero-tw.cam
 vero-vera.com
 vero-vital.com
