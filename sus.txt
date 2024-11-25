@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 24/11/2024 08:00 UTC
+# Last modified: 25/11/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -417,6 +417,7 @@ fabsoumipseh.com
 fabu-helsinki.com
 facebook-turvallisuus.com
 facebook-turvallisuus.info
+fairtexfinland.com
 falkesuomi.com
 fanipaitasuomi.com
 farmaseuttinen-pakkaus-tyopaikat.xyz
@@ -457,6 +458,7 @@ firapalvelut.com
 firestonesuomi.com
 fishingtripfinland.com
 fisuomi.site
+fisuominen24.buzz
 fitnessgerate-suomi.shop
 fl-trafcom.info
 flealux-finland.com
@@ -506,6 +508,7 @@ funinfinland.online
 funinfinland.store
 futurehrpalvelut.com
 fuxionafinland.com
+gaborfinland.com
 gaborsuomi.com
 galleria1981helsinki.com
 gameroomfinland.com
@@ -516,6 +519,7 @@ gegu-finland.com
 gennovasuomi.com
 genpotfinland.company
 gensoumise.com
+gerryweberfinland.com
 gerrywebersuomi.com
 ghdsuomi.com
 giorgioarmanisuomi.com
@@ -641,6 +645,7 @@ hoka-one-one-suomi.com
 hokafinland.com
 hokaoneone-finland.com
 hokasuomi.org
+hood-richsuomi.com
 hoodrichsuomi-fi.com
 hotelhelsinki.net
 hotelhubsuomi.com
@@ -751,6 +756,7 @@ jansportssuomi.com
 jarvinenhelsinki.com
 jathaviestates.com
 jatkokoulutuspalvelu.com
+jblfinland.com
 je-palvelut.com
 jellycat-suomi.com
 jellycatsuomi.biz
@@ -804,6 +810,7 @@ katon-korjaus-palvelut.online
 katzenfutter-suomi.shop
 kaunissuomi.com
 kaupanvahvistajamikaloppi.com
+kedsfinland.com
 kedssuomi.shop
 kela-fi.top
 kela-finn.com
@@ -858,6 +865,7 @@ kontaktisaatopanki.site
 koodifinland.com
 korulippaat-suomi.shop
 kotiapupalvelu.site
+kotipalvelunp.com
 koulutuspalvelut.com
 kpalvelusavo.com
 kpalvelusavo.net
@@ -881,6 +889,7 @@ laina-suomi.com
 laine-helsinki.com
 lainturva.com
 laitteenturvallisuus.com
+lakimies-helsinki.com
 lampopalveluhr.com
 lanovahelsinki.com
 laroza-helsinki.com
@@ -1088,6 +1097,7 @@ mobiiliturvallisuus.net
 mobilepay-dk-bruger-opdatering.online
 mobilepay-dk.info
 mobilepay-fi.com
+mobilepay-help.com
 mobilepay-kayttaja.com
 mobilepay.casino
 mobilepay.digital
@@ -1493,6 +1503,7 @@ postisuomi.site
 power-finland.com
 ppprojektipalvelu.com
 pranasuomi.com
+premiersuomi.com
 premiersuomideals.com
 prh-suomi.com
 prhsuomi.com
@@ -1508,9 +1519,11 @@ profuomosuomi.com
 proterveystalo.com
 provedotsuomi.com
 pruthviestates.com
+przeprowadzki-finlandia.com
 psuhholoogilineturvalisus.com
 ptvfinland.com
 puhdasterveys.com
+puhdistuspalvelulilly.com
 puhutaansuomea.com
 pumafi-suomi.com
 pumafinland.com
@@ -1527,6 +1540,7 @@ raabersoumimok.ru
 radianthelsinki.lol
 radiofreefinland.net
 raflahuolto.com
+ragwearfinland.com
 ragweartakkisuomi.com
 rajoittamatonsuomi.com
 rakennuspalvelu-m-ahonen-tmi.com
@@ -1601,6 +1615,7 @@ salomonsuomikokemuksia.com
 salomonsuomistore.com
 salonasuntopalvelu.com
 sameda-kanta.com
+sammutinhuoltoketonen.com
 sandqvistsuomi.com
 santanahelsinki.com
 sanuk-finland.com
@@ -1747,6 +1762,7 @@ soumissionassuranceviesansexamenmedical.com
 soumissionconfort.com
 soumissionentrepreneurs.com
 soumissionentretienmenager.com
+soumissionhabitat.com
 soumissionmauricie.com
 soumissionnettoyage.com
 soumissionresidentielle.xyz
@@ -1852,6 +1868,7 @@ suomen-viestin.info
 suomen-viestit.site
 suomen.shop
 suomen3dtulostus.com
+suomenautot.com
 suomendiilit.com
 suomenedulliset.com
 suomenetalaakarit.com
@@ -2038,6 +2055,7 @@ suomiamazing.com
 suomiao.lol
 suomiao.sbs
 suomiaptekka.ru
+suomiaptekka.store
 suomiarcxteryx.com
 suomiarvostelee.com
 suomiasiakaspalvelunumero.com
@@ -2126,6 +2144,7 @@ suomiprime.com
 suomipuolakajaani.net
 suomir3p.net
 suomirani.xyz
+suomirata.site
 suomiratings.com
 suomirealty.com
 suomiresortcasino.com
@@ -2193,6 +2212,7 @@ suomitunnista.com
 suomitunnista.info
 suomitunnistus.com
 suomitunnus.com
+suomituotteet.com
 suomiturva.com
 suomiturva.info
 suomiturvallisuus.com
@@ -2475,6 +2495,7 @@ trkfinland.org
 truck-rental-helsinki-175745276.today
 truck-rental-helsinki-202450059.zone
 true-suomi.com
+tsoutsoumida.com
 tsuomegaalumni.com
 tuhkaus-hinta-suomi.site
 tuhkaushintasuomi2024.today
@@ -2526,6 +2547,7 @@ turvataksi.net
 turvataxi.com
 turvataxi.net
 turvatekniikka.com
+turvatie.info
 tutkisuomea.com
 tutti-sensuomi.com
 tuuli-helsinki.com
@@ -2794,6 +2816,7 @@ webterveystalo.com
 wellensteynfinland.com
 westernfinland.com
 whshensuomen.com
+worksfinland.com
 wotofosuomi.com
 www-elisa-fi.site
 www-elisa.site
