@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 25/11/2024 08:00 UTC
+# Last modified: 26/11/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -320,6 +320,7 @@ dgcsvsuomi.info
 digiflavorsuomi.com
 digitoimistopalvelu.online
 digivero-energy.de
+dininghelsinki.info
 diviestate.com
 dk-mobilepay.info
 dlr-huolto-ja-pesu.com
@@ -532,6 +533,7 @@ goterveystalo.com
 goyard-suomi.com
 gravero-mails.live
 greenandbluefinland.com
+greenfinland.org
 greeninvestfinland.com
 greenworkssuomi.com
 groominghelsinki.com
@@ -1294,10 +1296,13 @@ oma-arpa.com
 oma-arpa.net
 oma-beaurepaire.com
 oma-binz.de
+oma-by-mouna-yaya.com
+oma-chareef.com
 oma-circles.com
 oma-co.com
 oma-comunity.com
 oma-costruzioni.com
+oma-crm.com
 oma-email.site
 oma-emailing.site
 oma-emails.site
@@ -1596,6 +1601,7 @@ s-pankki-paivita-omat-tietosi-fi-illiiilliiiii.ru
 s-pankki.store
 s-pankkielakella.com
 s-pankkielakkeella.com
+s-pankkiellakkeella.com
 s-pankkifi.net
 s-pankkikampanjafi.com
 s-pankkimobile.online
@@ -1925,6 +1931,7 @@ suomenhuipputarjoukset.xyz
 suomenhuiput.com
 suomenihmeet.com
 suomenkaihdincenter.com
+suomenkaista.online
 suomenkasinoarvostelut.com
 suomenkasinoetuja.com
 suomenkasinotarjoukset.com
@@ -2020,6 +2027,7 @@ suomi-palvelun.site
 suomi-pay.cfd
 suomi-poleneparis.com
 suomi-pressu.com
+suomi-prh.com
 suomi-select.com
 suomi-suomen.site
 suomi-viesteja.com
@@ -2715,6 +2723,7 @@ vero-vivida-herbals.com
 vero-well.com
 veropalveluoyj.info
 verosuomi.finance
+vesiturvallisuus.com
 vessi-finland.com
 vessifinland.com
 veva-suomi.com
@@ -2804,7 +2813,10 @@ volthelsinki.com
 vondutchfinland.com
 vondutchsuomi.com
 voopoovapesuomi.com
+vozolgear10000suomi.com
+vozolhelsinki.com
 vozolsuomi.net
+vozolvapesuomi.com
 vrterveystalo.com
 vv-autohuolto.com
 vvhuolto.online
@@ -2899,9 +2911,11 @@ youngla-finland.com
 yourtraveltofinland.com
 yritys-spankifinl-tunnistautuminentale.info
 yritys-spankifinl-tunnistautuminentale.online
+yrityskyberturva.com
 yritysoikeuspalvelut.com
 yritysoikeuspalvelut.net
 yrityspalvelu.nu
+yritystietoturva.com
 ysl-finland.com
 yslfinland.com
 zaramekotsuomi.com
