@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 26/11/2024 08:00 UTC
+# Last modified: 27/11/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -76,6 +76,7 @@ arcticafinland.com
 arenasuomi-fi.com
 arenasuomiuinti.com
 ariatsuomioutlet.com
+artbooksfinland.com
 arthelsinki.com
 asennuspalvelujoku.com
 asiakas-saastopanki.site
@@ -153,6 +154,7 @@ belkinsuomi.com
 belleviestationery.com
 beloylyhelsinki.com
 benshermansuomi.com
+berry-helsinki.com
 best10suomi.com
 bestinsuomi.com
 bestofsuomi2k.com
@@ -210,6 +212,7 @@ carawayfinland.org
 carpediemvero-24.com
 cartiersuomi.net
 casasuomi.com
+casino-suomi.net
 casinosfinderssuomi.com
 casinosinfinland.com
 castoresuomi.com
@@ -798,6 +801,7 @@ kantapalvelury.com
 kantapalvelut-tunnistautnminen.com
 kantapalvelut-tunnistautuminen.com
 karajafinland.com
+karlkanisuomi.com
 karllagerfeldsuomi.com
 karttapalvelut.com
 kartyakevero-gep-az-en.shop
@@ -961,6 +965,8 @@ luvero-london.com
 luxlifefinland.net
 maalampohelsinki.com
 madeinfinland.nu
+madeinfinland.shop
+madeinfinland.store
 maella-helsinki.com
 mahdaviestate.com
 majuriturvallinen.com
@@ -1202,6 +1208,7 @@ naisyrittajatsuomi.com
 nanorebarsoumian.com
 napapijri-finland.com
 napapijrifinland.com
+narcotraficomx.com
 nassoumi.com
 nationalparksinfinland.com
 nattihelsinki.com
@@ -1333,6 +1340,7 @@ oma-posti-fi.com
 oma-posti.com
 oma-posti.site
 oma-rapeti.com
+oma-sexanzeigen.com
 oma-sextreffen.ch
 oma-slot.site
 oma-smash.ch
@@ -1484,6 +1492,7 @@ pinkpalmpufffinland.com
 playboy-finland.com
 playwinsuomi.com
 pleaserfinland.com
+plentyopaws.com
 pod-finlandia.zgorzelec.pl
 pointcloudfinland.com
 pokerhandsfinland.com
@@ -1533,6 +1542,7 @@ puhutaansuomea.com
 pumafi-suomi.com
 pumafinland.com
 pumaoutletsuomi.shop
+pumasalesuomi.com
 pumasuomi.com
 purchaseautomobilepaylater.today
 purebeautyfinland.com
@@ -1612,6 +1622,7 @@ saaristohuolto.net
 saaspankki.com
 saaviestates.com
 safetyfinland.com
+sahkomieshelsinki.net
 sahkopalvelutsalmi.com
 sainttropezsuomi.com
 salomonfinland.com
@@ -1624,6 +1635,7 @@ sameda-kanta.com
 sammutinhuoltoketonen.com
 sandqvistsuomi.com
 santanahelsinki.com
+santasuomi.com
 sanuk-finland.com
 sanukfinland.com
 sanuksuomi-fi.com
@@ -2166,6 +2178,7 @@ suomiselect.com
 suomisensations.com
 suomiservice.info
 suomisiivous.com
+suomisinkut.com
 suomisk8fam.net
 suomisocialslots.com
 suomispeak.com
@@ -2538,6 +2551,7 @@ turvala.com
 turvalio.pro
 turvallinen.chat
 turvallinenlaite.com
+turvallinenmatkapuhelin.top
 turvalliset-kasinot.com
 turvallisetlisensoimattomatkasinot.com
 turvallisus.com
@@ -2675,6 +2689,7 @@ vero-dev.com
 vero-diseno.com
 vero-dublin.com
 vero-eg.com
+vero-enim.site
 vero-error.site
 vero-est.site
 vero-esthetique.com
