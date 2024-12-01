@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 30/11/2024 08:00 UTC
+# Last modified: 01/12/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -133,11 +133,13 @@ backzubehor-suomi.shop
 badesandalen-suomi.shop
 badeschuhe-suomi.shop
 baffin-suomi.com
+baggufinland.com
 balmainhairsuomi.com
 bangboxsuomi.com
 bangvapesuomi.com
 bapehuppari-suomi.com
 bargainhubfinland.com
+basedfinland.com
 baskerit-suomi.shop
 bauchkettchen-suomi.shop
 bavero-group.ru
@@ -261,6 +263,7 @@ comme-des-garconssuomi.com
 confortuma-shop.com
 consolidationloanshelsinki096785.icu
 convero-enzyme.co.uk
+converseallstarsuomi.com
 conversesuomi-fi.com
 coolcationinfinland.com
 copenhagen-helsinki-train-tour-package-offers.today
@@ -430,6 +433,7 @@ fabsoumipseh.com
 fabu-helsinki.com
 facebook-turvallisuus.com
 facebook-turvallisuus.info
+fadimanfellnerfinland.art
 fairtexfinland.com
 falkesuomi.com
 fanipaitasuomi.com
@@ -508,6 +512,7 @@ freetourshelsinki.com
 freight-forwarders-finland-595217652.today
 freight-forwarders-finland-910620832.world
 freight-forwarders-finland-976873170.today
+freshcasinosuomi.com
 frostsuomi.xyz
 fruit-packaging-jobs-finland.today
 fruityfinland.com
@@ -802,6 +807,7 @@ jetcasinosuomi.com
 jeunesinsoumis.site
 jh-elainpalvelut.com
 jlphuolto.com
+jncofinland.com
 jncosuomi.com
 jordan1suomi.com
 josefseibel-suomi.com
@@ -819,6 +825,7 @@ jyvaskylaautohuolto.com
 k-palvelusavo.com
 k-palvelusavo.net
 kaitesifinland.com
+kampaamotsuomi.online
 kampanjafi-mobilespankki.com
 kampanjamobiili-elakkeella.com
 kampanjaspankki-elakkella.com
@@ -952,6 +959,7 @@ legerofinland.com
 leguanofinland.com
 leinwandbilder-suomi.shop
 lempisiivouspalvelu.com
+lemsfinland.com
 lemsshoessuomi.net
 lemurdesinsoumis.org
 leovegassuomi.com
@@ -1197,6 +1205,8 @@ mobilitybedfinland.today
 mobillispankki.online
 moncler-suomi.com
 monsoonsuomi.com
+montecfinland.com
+moonsuomiboot.com
 mooseknucklesfinland.com
 mooseknucklesuomi.com
 motelrocksfinland.com
@@ -1258,6 +1268,7 @@ ndttukkufinland.com
 ndttukkusuomi.com
 netterveystalo.com
 nettiapteekki-suomi.life
+nettiapteekkisuomi.life
 nettikasinotilmanrekisteroitymista.org
 nettipalvelu-suomi.site
 nettisivupalvelu.online
@@ -1362,9 +1373,12 @@ oma-gourmandises.com
 oma-haus.com
 oma-kase.com
 oma-kuehnchen.de
+oma-l.online
+oma-l.store
 oma-labrigade.fr
 oma-mail.site
 oma-mailing.site
+oma-massage.com
 oma-mori.com
 oma-mx.site
 oma-nuclear-power-plant-pointcloud.com
@@ -1579,6 +1593,7 @@ pruthviestates.com
 przeprowadzki-finlandia.com
 psuhholoogilineturvalisus.com
 ptvfinland.com
+puffinland.net
 puhdasterveys.com
 puhdistuspalvelulilly.com
 puhutaansuomea.com
@@ -1718,6 +1733,7 @@ sharviestate.com
 shopfinland.ru
 shopsuomi.com
 showposuomi.com
+sidifinland.com
 sidisuomi.net
 siegelringe-suomi.shop
 siggsuomi.com
@@ -1824,6 +1840,7 @@ soumissionassuranceauto.com
 soumissionassurancecollective.com
 soumissionassuranceviesansexamenmedical.com
 soumissionconfort.com
+soumissionenergie.com
 soumissionentrepreneurs.com
 soumissionentretienmenager.com
 soumissionhabitat.com
@@ -1915,6 +1932,8 @@ styopam.photography
 sudansuomiszilard.sbs
 sun-suomen-ope.ru
 sunburysuomiswings.sbs
+sundayredsuomi.com
+sunketsuomictackier.blog
 suome.cn
 suomei.top
 suomeida.com
@@ -1943,6 +1962,7 @@ suomenfi.site
 suomeng.lol
 suomeng.top
 suomengwl.top
+suomenhankintajuristitkoulutukset.com
 suomenhankintajuristitoy.com
 suomenhatavara.com
 suomenhedelma.com
@@ -2437,6 +2457,7 @@ terveystalo.xyz
 terveystaloart.com
 terveystalodesign.com
 terveystaloed.com
+terveystaloella.com
 terveystaloer.com
 terveystalofi.com
 terveystalofink.com
@@ -2474,11 +2495,13 @@ thefrankieshopsuomi.net
 thenorthface-suomi.com
 thenorthfacessuomi.com
 thepilatesstudiohelsinki.com
+thermosfinland.com
 thermossuomi.com
 theterveystalo.com
 thursday-boots-suomi.com
 thursdayboot-suomi.com
 thursdaybootsfinland.com
+thursdayfinland.com
 tietokonehuolto.org
 tifosisuomi.com
 tiktiksuomi.store
@@ -2541,6 +2564,7 @@ trafcomoyfi.info
 trafcomoyj-fl.info
 trafcomoyj.info
 trafcomoyx.info
+trafcompalveluinfo.com
 trafcomtrading.com
 trafconsults.com
 trafcoo.store
@@ -2870,8 +2894,10 @@ virtuaalinen-terveys-6.online
 virtuaalinen-terveys.online
 virtuaaliset-terveyspalvelut.online
 virtuaaliterveys.online
+vittaro-helsinki.com
 vivahvishwakarma.com
 vivahvista.com
+vivaiafinland.com
 vivaiaisuomi.com
 vivaiasuomi-fi.com
 vivaiasuomi.com
