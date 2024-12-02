@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 01/12/2024 08:00 UTC
+# Last modified: 02/12/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -293,6 +293,7 @@ cuprahuolto.online
 customersupportfinland.com
 cvturvattua.xyz
 d-id-vahvista.info
+daily-helsinki.com
 dancestationsuomi.net
 daoyj.icu
 datapalvelut.net
@@ -341,6 +342,7 @@ dnrhelsinki.com
 docmartensuomi.com
 doctormartens-finland.com
 doctormartens-suomi.com
+domainfinland.net
 dominantesetsoumis.com
 dope-finland.com
 dope-suomi.com
@@ -406,6 +408,7 @@ elotecfinland.org
 elviestate.com
 elviestate.ru
 emaldosuomi.com
+emilmasoumi.net
 empmobilepay.com
 emrtalopalvelut.com
 enviestates.co.uk
@@ -605,6 +608,8 @@ helsinki.baby
 helsinki.lat
 helsinki.luxury
 helsinki.tours
+helsinki10000.com
+helsinki5000.com
 helsinkiaamu.org
 helsinkiapartments166494.icu
 helsinkiapartments833119.icu
@@ -678,6 +683,7 @@ histotripsyfortumors.com
 hkaturva.online
 hkfinland.co.uk
 hoglsuomi.com
+hoivapalvelut.net
 hoka-one-one-finland.com
 hoka-one-one-suomi.com
 hokafinland.com
@@ -1110,6 +1116,7 @@ miestentakki.com
 miestenterveystabletit.info
 miestenvuoro.com
 mikanhuolto.com
+millanhoivapalvelut.com
 millikulturvakfi.com
 millo-suomi.com
 minilovefinland.com
@@ -1143,6 +1150,7 @@ mobiililava.org
 mobiiliohjaus.com
 mobiilipankkionline.com
 mobiiliportaali.com
+mobiilis-pankki.com
 mobiilispankki.com
 mobiilitiy-scooters.today
 mobiiliturvallisuus.net
@@ -1215,6 +1223,7 @@ moviestash.click
 moviestates.com
 moviestation.click
 moviestation.net
+moviestato.xyz
 mphuolto.com
 mretsoumise.cam
 mretsoumise.com
@@ -1237,6 +1246,7 @@ mysuomi.online
 mysuomifi.site
 myterveystalo.com
 myyntijohtajapalvelu.com
+nailora-helsinki.com
 naisten-bikinit.shop
 naisten-bodyt.shop
 naisten-hatut.shop
@@ -1373,6 +1383,7 @@ oma-gourmandises.com
 oma-haus.com
 oma-kase.com
 oma-kuehnchen.de
+oma-l.com
 oma-l.online
 oma-l.store
 oma-labrigade.fr
@@ -1701,6 +1712,7 @@ sanuksuomi-fi.com
 sanuksuomi.com
 saoyj.sbs
 saramasoumi.com
+saspalvelut.com
 sassoumiracles.com
 sataturva.online
 satisfyrunningsuomi.com
@@ -1792,6 +1804,7 @@ sorel-helsinki.com
 sorelsuomi.net
 soumi-online.sbs
 soumi-sports.com
+soumiabeauty.com
 soumiabouamoud.com
 soumiacademy.com
 soumiacollection.com
@@ -1799,6 +1812,8 @@ soumiaeducation.com
 soumiafakhar.com
 soumiai.com
 soumiaimmobilier.com
+soumiam.com
+soumiao.net
 soumiasfit.com
 soumiatique.com
 soumiayahiaoui.com
@@ -2218,6 +2233,7 @@ suomimeme.xyz
 suomimetalstar.com
 suomimm.top
 suominettkasino.com
+suomingdaoshu-beidedeyuwangqingdan.net
 suomingy.com
 suominope.online
 suominopea.com
@@ -2237,6 +2253,7 @@ suomipressu.com
 suomiprime.com
 suomipuolakajaani.net
 suomir3p.net
+suomirahafi.com
 suomirani.xyz
 suomirata.site
 suomiratings.com
@@ -2260,6 +2277,7 @@ suomispincasino.com
 suomispinfi.com
 suomispinnas.com
 suomispinners.com
+suomispins.net
 suomissivous.com
 suomistays.com
 suomistayzone.com
@@ -2320,6 +2338,7 @@ suomivarmennus.com
 suomivarmista.info
 suomivedot.com
 suomiviesta.info
+suomivoitotfi.com
 suomivoyages.com
 suomiweb.online
 suomiweb.site
@@ -2487,6 +2506,7 @@ terveysvaikutukset.net
 terveysvaikutukset.org
 terveysvirasto.com
 tesoumira.com
+testi-mobiilipunnitus.com
 tetsuomizu.com
 tezenis-finland.com
 tgsfinland.com
@@ -2825,6 +2845,7 @@ vero-vital.net
 vero-vivida-herbals.com
 vero-well.com
 veropalveluoyj.info
+verosa-suomi.com
 verosuomi.finance
 vesiturvallisuus.com
 vessi-finland.com
@@ -2909,6 +2930,7 @@ vivero-romen.com
 vivero-selvatico.com
 viviennewestwood-finland.com
 viviennewestwoodfinland.com
+viviennewestwoodsuomi-fi.com
 viviestate.com
 vivobarefootsuomi.com
 vivre-en-finlande.com
