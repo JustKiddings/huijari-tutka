@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 02/12/2024 08:00 UTC
+# Last modified: 03/12/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -62,6 +62,7 @@ anker-suomi.com
 ankersuomi.com
 anvero-group.com
 anyasoumi.com
+aomaeyokqgsuomii.xyz
 apikulturvakfi.com
 apikulturvakfi.org
 apinpalvelut.com
@@ -137,6 +138,7 @@ baggufinland.com
 balmainhairsuomi.com
 bangboxsuomi.com
 bangvapesuomi.com
+bankaihelsinki.com
 bapehuppari-suomi.com
 bargainhubfinland.com
 basedfinland.com
@@ -422,6 +424,7 @@ espoofinland.com
 esport-suomi.com
 esprit-finland.com
 etherviesta.ink
+etherviesta.pro
 etherviesta.site
 etherviesta.xyz
 etsisuomesta.com
@@ -472,6 +475,7 @@ finland.nu
 finlandrehabs.com
 finlandwaterbottle.shop
 finnporthelsinki.com
+finplaysuomi.net
 fintalksfinland.com
 finterveys.top
 finvero-ti.com
@@ -582,6 +586,7 @@ hauskaasuomessa.com
 hausschuhe-suomi.shop
 haustierbedarf-suomi.shop
 healthycoffeehelsinki.com
+heatlhincubatorhelsinki.pro
 hedgren-finland.com
 heikkinen-helsinki.com
 heikkinenhelsinki.com
@@ -1083,6 +1088,7 @@ mereellshelsinki.com
 merkurpankki.net
 merrell-suomi.org
 merrellsuomi.biz
+merryhelsinki.com
 mesiade-suomi.com
 mestaripalvelut.com
 metalindustryfinland.com
@@ -1455,6 +1461,7 @@ onlinepalvelu-suomi.site
 onlineyhteydet-suomi.site
 onlineyhteys-suomi.site
 onpointsiivouspalvelut.com
+onrunnersfinland.com
 op-kirjaudu.com
 op-mobiili.net
 op-pankki.com
@@ -1843,6 +1850,7 @@ soumineirouai.com.br
 souminhachefa.com
 souminhamaquiadora.com
 souminoon.net
+souminstitut.com
 soumir.com
 soumisexxx.com
 soumisho.shop
@@ -2703,6 +2711,7 @@ ulpukanhuolto.shop
 ultrafcootball.shop
 uniqlosuomi.com
 uniqlosuomi.shop
+uniqlosuomifi.com
 uniroyaltiressuomi.com
 unisafinland.com
 unissuomi.com
@@ -2998,6 +3007,7 @@ xn--kasino-ilman-suomen-lisenssi-xnc.com
 xn--kasino-ilman-suomi-lisenssi-1kc.com
 xn--kasinot-ilman-suomen-lisenssi-tqc.com
 xn--kasinot-ilman-suomi-lisenssi-xnc.com
+xn--kitvero-suplementos-0vb.online
 xn--lastenhoitopalveluleikkis-9ec.com
 xn--levinmkkihuolto-etb.com
 xn--lhipyorhuolto-bfbg.com
