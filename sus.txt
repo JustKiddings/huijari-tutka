@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 03/12/2024 08:00 UTC
+# Last modified: 04/12/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -498,6 +498,7 @@ fortum.agency
 fortum.live
 fortum.nu
 fortum.uk
+fortum.world
 fortuma-apk.com
 fortumate.com
 fortumatic.com
@@ -586,6 +587,7 @@ hauskaasuomessa.com
 hausschuhe-suomi.shop
 haustierbedarf-suomi.shop
 healthycoffeehelsinki.com
+heatlhincubatorhelsinki.com
 heatlhincubatorhelsinki.pro
 hedgren-finland.com
 heikkinen-helsinki.com
@@ -635,9 +637,13 @@ helsinkifestival.org
 helsinkiff.com
 helsinkifilm.market
 helsinkifilmlab.com
+helsinkifilmlab.online
+helsinkifilmlab.pro
 helsinkifilmmarket.com
+helsinkifilmmarket.online
 helsinkifinland.buzz
 helsinkigame.biz
+helsinkigamelab.online
 helsinkihairhub.com
 helsinkihouse.cl
 helsinkiijing.lol
@@ -781,6 +787,7 @@ iptvfinland.online
 iptvsuomi-fi.store
 iptvsuomi.club
 iptvsuomi.co
+iptvsuomi.fun
 iptvsuomi.info
 iptvsuomi.live
 iptvsuomi.xyz
@@ -1044,6 +1051,7 @@ markiisipalvelu.com
 markkusuominen.net
 marmot-suomi-outlet.com
 marsvenuscoachingfinland.com
+masoumiamlak.com
 masoumibrush.com
 maspalvelut.com
 mastergastrofinland.com
@@ -1313,6 +1321,7 @@ nikotiinipussi.store
 nikotiinipussi.xyz
 nikotiinipussi1.club
 nikotiinipussi1.info
+nikotiinipussi1.pro
 nikotiinipussi1.site
 nikotiinipussit.fun
 nikotiinipussit.ink
@@ -2217,6 +2226,7 @@ suomiinsights.com
 suomiiptv.net
 suomijy.com
 suomikanta.com
+suomikasi.cfd
 suomikasifreespins.click
 suomikasino.buzz
 suomikasinolista.com
@@ -2359,6 +2369,7 @@ susanfetalvero-roces.com
 sussnaswamiestenso.cfd
 suupohjanosuuspankki.net
 suurisuomi.net
+suvinsiivouspalvelu.com
 svekkahelsinki.com
 swarovski-suomi.com
 swatchsuomi.com
@@ -2518,6 +2529,7 @@ testi-mobiilipunnitus.com
 tetsuomizu.com
 tezenis-finland.com
 tgsfinland.com
+the-ghost-of-finland.com
 thealleyhelsinki.com
 thefrankieshopsuomi.net
 thenorthface-suomi.com
@@ -2865,6 +2877,7 @@ vialore-helsinki.com
 victorias-secretsuomi.com
 videohelsinki.com
 viesta-spankii.site
+viesta.info
 viestation.site
 viesti-fi-sms.site
 viesti-fi.site
