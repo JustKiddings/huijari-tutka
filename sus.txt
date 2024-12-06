@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 05/12/2024 08:00 UTC
+# Last modified: 06/12/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -147,6 +147,7 @@ bargainhubfinland.com
 basedfinland.com
 baskerit-suomi.shop
 bauchkettchen-suomi.shop
+bavas-helsinki.com
 bavero-group.ru
 bay-helsinki.com
 baymakantalya.com.tr
@@ -631,6 +632,7 @@ helsinkiapartments166494.icu
 helsinkiapartments833119.icu
 helsinkiboattours.com
 helsinkibranding.com
+helsinkibuses.com
 helsinkicasifreespins.click
 helsinkicasinonodeposit.click
 helsinkicoach.com
@@ -856,6 +858,7 @@ juupfinland.com
 jyvaskylaautohuolto.com
 k-palvelusavo.com
 k-palvelusavo.net
+kabu-kantan.com
 kaitesifinland.com
 kampaamotsuomi.online
 kampanjafi-mobilespankki.com
@@ -1014,6 +1017,7 @@ livero-tax.com
 lmntsuomi.com
 loakefinland.com
 loan-in-finland.today
+logicshelsinki.com
 logistics-finland-kh-7434042.world
 loimaanasuntopalvelu.com
 lomallesisuomessa.com
@@ -1682,6 +1686,7 @@ rdsiivouspalvelut.com
 redumbrellatourshelsinki.com
 reflexions-echanges-insoumis.org
 remonttimiespalvelut.online
+reppufinland.com
 reterveystalo.com
 returvaluta.com
 returvaluta.nu
@@ -1841,6 +1846,7 @@ socialfunfinland.com
 socialzonefinland.com
 socken-suomi.shop
 sofia-helsinki.com
+solfinland.site
 solovairsuomi.com
 soodapuhalluspalvelu.online
 sorel-helsinki.com
@@ -1862,6 +1868,7 @@ soumiatique.com
 soumiayahiaoui.com
 soumic.com
 soumicosmetics.com
+soumiesol.xyz
 soumiez.net
 soumiimajumdar.com
 soumikagura.site
@@ -1954,6 +1961,7 @@ spankkielaakkeella.com
 spankkielakeella.com
 spankkielakkeella-mobiili.com
 spankkielakkeella.com
+spankkikampanja-fi.com
 spankkimobiili-elakkeella.com
 spankkimobiilifi.com
 spanx-suomi.com
@@ -1978,6 +1986,7 @@ stillkissen-suomi.shop
 stitchtoyhelsinki.com
 stogasuomicsvamin.fun
 strandkleid-suomi.shop
+stsiivouspalvelut.com
 stussy-suomi.com
 stussyfi-suomi.com
 stussys-finland.com
@@ -2187,6 +2196,7 @@ suomi-wonderful.com
 suomi.email
 suomi.gold
 suomi.in.ua
+suomi.locker
 suomi.media
 suomi.nu
 suomi.tech
@@ -2481,6 +2491,7 @@ tarjousketsuomessa.today
 tarjousketsuomessa.website
 tarjousketsuomessa.world
 tarjousketsuomessa.xyz
+taschefinland.com
 tbsuomi.com
 tedbakerssuomi.com
 tedbakersuomi.com
@@ -2634,6 +2645,7 @@ trafcomoyfi.info
 trafcomoyj-fl.info
 trafcomoyj.info
 trafcomoyx.info
+trafcompalvelufl.com
 trafcompalveluinfo.com
 trafcomtrading.com
 trafconsults.com
@@ -2882,6 +2894,7 @@ vero-quibusdam.com
 vero-quis.site
 vero-retouch.ru
 vero-ro.com
+vero-skin.com
 vero-sms.com
 vero-soluta.site
 vero-soto.com
@@ -2907,6 +2920,7 @@ viadore-finland.com
 vialore-helsinki.com
 victorias-secretsuomi.com
 videohelsinki.com
+vierellasihyvinvointipalvelut.com
 viesta-spankii.site
 viesta.info
 viestation.site
@@ -3076,6 +3090,7 @@ xn--tyturvakortti-jmb.online
 xn--tyturvallisuuskortti-49b.com
 xn--tyturvallisuuskortti-49b.online
 xn--vero-pg-zwa.com
+xn--vierellsihyvinvointipalvelut-cnc.com
 xplorefinland.se
 xsuomi.site
 xsuomifi.site
