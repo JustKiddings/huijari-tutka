@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 06/12/2024 08:00 UTC
+# Last modified: 07/12/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -60,6 +60,7 @@ anfrapalvelut.com
 aniaautopalvelu.com
 animaltourismfinland.com
 anker-suomi.com
+ankerfinland.com
 ankersuomi.com
 anvero-group.com
 anyasoumi.com
@@ -233,6 +234,7 @@ catanrivero-ia.com
 caterpilarssuomi.com
 caterpillarfinland.com
 caterpillarsuomi-fi.com
+caterpillarsuomi.shop
 caterpliarssuomi.com
 catfinland.com
 catfootwear-suomi.com
@@ -246,6 +248,7 @@ chakdehelsinki.com
 champion-fightclubfinland.com
 changeinfinland.com
 chantelsoumis.net
+charlesfinland.com
 charlestyrwhitt-suomi.com
 chaturvate.cam
 cheap-flights-helsinki.xyz
@@ -268,8 +271,11 @@ comfortum.jp
 comfyhelsinki.com
 comly-helsinki.com
 comme-des-garconssuomi.com
+conference-hotel-helsinki-456239310.today
 confortuma-shop.com
 consolidationloanshelsinki096785.icu
+contrat-soumission-non.ch
+contratsoumissionnon.ch
 convero-enzyme.co.uk
 converseallstarsuomi.com
 conversesuomi-fi.com
@@ -430,6 +436,7 @@ espankki.com
 espoofinland.com
 esport-suomi.com
 esprit-finland.com
+esprit-suomi.com
 etherviesta.ink
 etherviesta.pro
 etherviesta.site
@@ -742,6 +749,7 @@ huoltopalvelutvepe.com
 huoltopistealhonen.com
 huoltoyhtio.com
 hute-suomi.shop
+hydroflasksuomi.com
 hyva-haukku-koirapalvelut.com
 hyvinvointipalvelutjussila.net
 i-suomi.info
@@ -1158,6 +1166,7 @@ millikulturvakfi.com
 millo-suomi.com
 minilovefinland.com
 minorityhelsinki.com
+minustwosuomi.com
 mirshturvalov.ru
 mis-finland.com
 misfinland.com
@@ -1336,19 +1345,25 @@ nike-finland.com
 nikefinland.org
 nikesportsuomis.com
 nikotiininurkka.com
+nikotiinipussi.art
+nikotiinipussi.bio
 nikotiinipussi.club
+nikotiinipussi.live
 nikotiinipussi.online
 nikotiinipussi.pro
 nikotiinipussi.shop
 nikotiinipussi.space
 nikotiinipussi.store
 nikotiinipussi.xyz
+nikotiinipussi1.bio
 nikotiinipussi1.club
 nikotiinipussi1.info
 nikotiinipussi1.pro
 nikotiinipussi1.site
+nikotiinipussit.bio
 nikotiinipussit.fun
 nikotiinipussit.ink
+nikotiinipussit.live
 nikotiinipussit.pro
 nikotiinipussit.site
 nikotiinipussit.space
@@ -1386,6 +1401,7 @@ numobilepay.com
 nutraficorporate.com
 nutrihealthfinland.com
 nutrilabfinland.com
+nvgtnsuomifi.com
 nyrdonsuomi.com
 objectfinland.com
 official-casino-finland.lat
@@ -1421,6 +1437,7 @@ oma-france.bio
 oma-germana.at
 oma-gourmandises.com
 oma-haus.com
+oma-insurance.com
 oma-kase.com
 oma-kuehnchen.de
 oma-l.com
@@ -1669,6 +1686,7 @@ raabersoumimok.ru
 radianthelsinki.lol
 radiofreefinland.net
 radiosuomi.net
+rafinland.com
 raflahuolto.com
 ragwearfinland.com
 ragweartakkisuomi.com
@@ -1715,6 +1733,7 @@ ruedxhelsinki.com
 russellathleticsuomi.com
 s-mobiili-elakkeela.com
 s-mobiili.online
+s-mobiilielakkeella.com
 s-mobiilielakkeellaa.com
 s-mobiilispankki.com
 s-mobiilispankki.online
@@ -1871,6 +1890,7 @@ soumicosmetics.com
 soumiesol.xyz
 soumiez.net
 soumiimajumdar.com
+soumik.blog
 soumikagura.site
 soumikbag.com
 soumikbengaltourism.com
@@ -1899,6 +1919,7 @@ soumisexxx.com
 soumisho.shop
 soumishsengupta.com
 soumission-asdm.com
+soumission-non.ch
 soumission-rapide.com
 soumission-referencement.com
 soumissionassurance.online
@@ -1912,6 +1933,7 @@ soumissionentretienmenager.com
 soumissionhabitat.com
 soumissionmauricie.com
 soumissionnettoyage.com
+soumissionnon.ch
 soumissionresidentielle.xyz
 soumissions-assurances.ca
 soumissionsassurance.com
@@ -1999,6 +2021,7 @@ styleksuomi.com
 styopa.xyz
 styopam.photography
 sudansuomiszilard.sbs
+sugardaddyssuomessa.com
 suitupfinland.com
 sun-suomen-ope.ru
 sunburysuomiswings.sbs
@@ -2640,6 +2663,7 @@ trafcomfioy.info
 trafcomfl.info
 trafcomflny.com
 trafcomfloyj.info
+trafcominpalfi.com
 trafcomoy.info
 trafcomoyfi.info
 trafcomoyj-fl.info
@@ -2903,6 +2927,7 @@ vero-suomi.com
 vero-suomi.sbs
 vero-thoi-mien.com
 vero-token.com
+vero-transcription.com
 vero-tw.cam
 vero-vera.com
 vero-vital.com
@@ -2968,6 +2993,7 @@ viikinautohuolto.com
 viivi-helsinki.com
 villisuomi.com
 vinkkipankki.net
+vintagetapahtumatsuomessa.com
 vintagevaatteetsuomi.com
 viora-helsinki.com
 vipkasinotsuomi.com
