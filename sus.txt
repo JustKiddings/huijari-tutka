@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 07/12/2024 08:00 UTC
+# Last modified: 08/12/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -309,6 +309,7 @@ cvturvattua.xyz
 d-id-vahvista.info
 daily-helsinki.com
 dancestationsuomi.net
+dandysuomi.com
 daoyj.icu
 datapalvelut.net
 dattasoumitra.com
@@ -551,6 +552,7 @@ funhelsinki.lol
 funinfinland.com
 funinfinland.online
 funinfinland.store
+funnyfinland.com
 futurehrpalvelut.com
 fuxionafinland.com
 gaborfinland.com
@@ -723,6 +725,7 @@ hokafinland.com
 hokaoneone-finland.com
 hokasuomi.org
 hood-richsuomi.com
+hoodrichsuomi-ale.com
 hoodrichsuomi-fi.com
 hotelhelsinki.net
 hotelhubsuomi.com
@@ -845,6 +848,7 @@ jellycatfinland.com
 jellycatsuomi.biz
 jellycatsuomi.net
 jennynterapiapalvelu.com
+jetcasino-suomi.com
 jetcasinosuomi.com
 jeunesinsoumis.site
 jh-elainpalvelut.com
@@ -1009,6 +1013,7 @@ lemsfinland.com
 lemsshoessuomi.net
 lemurdesinsoumis.org
 lenkkaritfinland.com
+lentokenttahotellihelsinki.com
 leovegassuomi.com
 letsgowithsoumia.com
 levinmokkihuolto.com
@@ -1019,6 +1024,7 @@ liikenneupseerin-tyopaikat.online
 liisafromfinland.com
 limen-pc-huolto.net
 linsoumis.com
+lionheartmoviestitlecontest.com
 livelisuomi.com
 livero-mode.de
 livero-tax.com
@@ -1028,9 +1034,11 @@ loan-in-finland.today
 logicshelsinki.com
 logistics-finland-kh-7434042.world
 loimaanasuntopalvelu.com
+lokifinland.com
 lomallesisuomessa.com
 lomasuomi.art
 lomasuomi.click
+long-champ-suomi.com
 long-champsuomi.com
 longchampfinland.top
 longchamplaukkusuomi.com
@@ -1050,6 +1058,7 @@ lulusuomi.net
 lumicasino-finland.com
 lumosfinland.com
 lunasandalssuomi.net
+luontoterveysmerkki.com
 luova-finland.com
 luovithinkingsuomi.com
 luulajansuomiseura.se
@@ -1603,6 +1612,7 @@ perdavvero-lab.it
 perintapalvelu.net
 perlenarmband-suomi.shop
 persevero-watches.com
+peterveyt.com
 pi-medical-finland.com
 pia-palvelut.com
 piankotipalvelu.com
@@ -1713,6 +1723,7 @@ revero-shop.de
 reviewsuomi.com
 rexel-finland.com
 rexelfinland.com
+rhydon-helsinki.com
 richardvalvona.uk
 ricovero-temporaneo.it
 ridgidsuomi.com
@@ -1833,6 +1844,7 @@ sinunturvapalvelu.com
 sipetakantahmorotai.com
 sisleysuomi.com
 skatingfinland.com
+skisuomi.com
 skullring-suomi.shop
 skulpturen-suomi.shop
 slipperhelsinki.com
@@ -1867,6 +1879,7 @@ socken-suomi.shop
 sofia-helsinki.com
 solfinland.site
 solovairsuomi.com
+solovapesuomi.com
 soodapuhalluspalvelu.online
 sorel-helsinki.com
 sorelsuomi.net
@@ -2933,6 +2946,7 @@ vero-vera.com
 vero-vital.com
 vero-vital.net
 vero-vivida-herbals.com
+vero-wealth.com
 vero-well.com
 veropalveluoyj.info
 verosa-suomi.com
@@ -2944,6 +2958,7 @@ veva-suomi.com
 viadore-finland.com
 vialore-helsinki.com
 victorias-secretsuomi.com
+victoriassecret-suomi.com
 videohelsinki.com
 vierellasihyvinvointipalvelut.com
 viesta-spankii.site
@@ -2991,6 +3006,7 @@ viestit-suomifi.site
 viestitse-suomi.site
 viikinautohuolto.com
 viivi-helsinki.com
+villenpalvelut.com
 villisuomi.com
 vinkkipankki.net
 vintagetapahtumatsuomessa.com
@@ -3103,6 +3119,7 @@ xn--nettikasinoilmansuomilisenssi-tqc.com
 xn--nettikasinotilmansuomilisenssi-ptc.com
 xn--polnesuomi-16a.com
 xn--premios-vero-dcb.online
+xn--promoo-vero-d8af3c.site
 xn--pshholoogilineturvalisus-wsc.com
 xn--rnovations3soumissions-b8b.com
 xn--shktyturvakortti-vnb04ac.com
