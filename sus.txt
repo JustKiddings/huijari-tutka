@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 08/12/2024 08:00 UTC
+# Last modified: 09/12/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -46,6 +46,7 @@ ajosuomi.com
 akokaivopalvelut-1.online
 akunpalvelut.com
 al-monipalvelu.com
+alastonsuomi.shop
 alibarbarvapesuomi.com
 alisapankki.online
 allekirjoituspalvelu.com
@@ -59,6 +60,7 @@ anaistentation.com
 anfrapalvelut.com
 aniaautopalvelu.com
 animaltourismfinland.com
+anjasuomi.com
 anker-suomi.com
 ankerfinland.com
 ankersuomi.com
@@ -340,6 +342,7 @@ demoniacultssuomi.com
 demoniasuomifi.com
 dental-implants-finland-586.bond
 descentesuomi.com
+designemuseumfinland.com
 despinayiasoumi.com
 detvitafinland.com
 deutersuomi.com
@@ -438,6 +441,7 @@ espoofinland.com
 esport-suomi.com
 esprit-finland.com
 esprit-suomi.com
+esteetonsuomi.com
 etherviesta.ink
 etherviesta.pro
 etherviesta.site
@@ -464,6 +468,7 @@ fashionclub-helsinki.com
 fearofgodessentialssuomi.com
 felcosuomi.com
 femalefounderssuomi.com
+fenixhelsinki.com
 fenniaasiakaspalvelu.com
 fennoturvapalvelut.com
 ferrarihelsinki.com
@@ -651,6 +656,7 @@ helsinkidancestudio.com
 helsinkidesignschool.net
 helsinkidigitalhouse.com
 helsinkidogshome.com
+helsinkiduckstore.com
 helsinkieast.aero
 helsinkiescort.com
 helsinkifestival.org
@@ -671,6 +677,7 @@ helsinkiijing.lol
 helsinkiinnova.com
 helsinkikasino.com
 helsinkilegaltech.com
+helsinkilottery.com
 helsinkimetaversemarket.com
 helsinkimint.com
 helsinkimint.se
@@ -1196,6 +1203,7 @@ mobiili-kampanjas.com
 mobiili-kasinot.org
 mobiili-s.com
 mobiili-spankki-elakkeella.com
+mobiili-spankkikampanja.com
 mobiilidanske.online
 mobiilielakkeella-fi.com
 mobiilifi-spankki.com
@@ -1338,6 +1346,7 @@ nettiapteekkisuomi.life
 nettikasinotilmanrekisteroitymista.org
 nettipalvelu-suomi.site
 nettisivupalvelu.online
+nettisuomenspin.com
 newbalance-suomi.com
 neweracap.com
 neweracapsuomi.com
@@ -1613,6 +1622,7 @@ perintapalvelu.net
 perlenarmband-suomi.shop
 persevero-watches.com
 peterveyt.com
+phfinland.com
 pi-medical-finland.com
 pia-palvelut.com
 piankotipalvelu.com
@@ -1680,6 +1690,7 @@ puffinland.net
 puhdasterveys.com
 puhdistuspalvelulilly.com
 puhutaansuomea.com
+puma-suomi.com
 pumafi-suomi.com
 pumafinland.com
 pumaoutletsuomi.shop
@@ -2041,6 +2052,7 @@ sunburysuomiswings.sbs
 sundayredsuomi.com
 sunketsuomictackier.blog
 suome.cn
+suomeenmatkustaminen.com
 suomei.top
 suomeida.com
 suomeksi.net
@@ -2075,6 +2087,7 @@ suomenhedelma.com
 suomenhelmi.com
 suomenhevonen.info
 suomenhitsaus.net
+suomenhotelit.com
 suomenhoteljoukset.com
 suomenhotellitnet.com
 suomenhuipputarjoukset.autos
@@ -2206,6 +2219,7 @@ suomi-infi.site
 suomi-info.sbs
 suomi-iptv.com
 suomi-kasinot.net
+suomi-kauppa.com
 suomi-kokemuksia.com
 suomi-lumoava.com
 suomi-myfi.info
@@ -2610,6 +2624,7 @@ the-ghost-of-finland.com
 thealleyhelsinki.com
 thefrankieshopsuomi.net
 thenorthface-suomi.com
+thenorthfacehelsinki.com
 thenorthfacessuomi.com
 thepilatesstudiohelsinki.com
 thermosfinland.com
@@ -2682,8 +2697,10 @@ trafcomoyfi.info
 trafcomoyj-fl.info
 trafcomoyj.info
 trafcomoyx.info
+trafcompalryifi.com
 trafcompalvelufl.com
 trafcompalveluinfo.com
+trafcomryifi.com
 trafcomtrading.com
 trafconsults.com
 trafcoo.store
@@ -2956,6 +2973,7 @@ vessi-finland.com
 vessifinland.com
 veva-suomi.com
 viadore-finland.com
+viaggihelsinki.com
 vialore-helsinki.com
 victorias-secretsuomi.com
 victoriassecret-suomi.com
@@ -3100,6 +3118,7 @@ xn--casinoilmansuomilisenssi-ecc.com
 xn--coraznagavero-flb.com
 xn--desafiodevero-7eb.site
 xn--erpalvelukontiometso-czb.com
+xn--esteetnsuomi-9ib.com
 xn--fortumvrme-w5a.nu
 xn--heikkil-helsinki-1nb.com
 xn--ilmalmppumppuhuolto-kwb49a.com
