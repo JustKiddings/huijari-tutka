@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 10/12/2024 08:00 UTC
+# Last modified: 11/12/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -214,6 +214,7 @@ bromo77leviesta.site
 btchelsinki.com
 buenaviesta.online
 businessmediafinland.com
+buypsychedelicsfinland.com
 by-soumi.de
 bymalenebirgersuomi.com
 caffearomavero.com
@@ -695,6 +696,7 @@ helsinkis.top
 helsinkisensualweekend.com
 helsinkislipper.com
 helsinkisolar.com
+helsinkispin.bet
 helsinkiswingbigband.com
 helsinkitodolist.com
 helsinkitransport.com
@@ -794,6 +796,7 @@ infinityopals.shop
 info-suomen.site
 infomobiilimaksu.com
 inleifinland.pro
+insoumidating.com
 insoumisdecreteil.fr
 insuranceluighghlfinland.bond
 insurancelujnuwlfinland.bond
@@ -1068,13 +1071,17 @@ lunasandalssuomi.net
 luontoterveysmerkki.com
 luova-finland.com
 luovithinkingsuomi.com
+lupsoumigh.net
 luulajansuomiseura.se
 luvero-london.com
 luxlifefinland.net
 maalampohelsinki.com
+maalarihelsinki.com
 madeinfinland.nu
 madeinfinland.shop
 madeinfinland.store
+madeinsuomi.com
+madeinsuomi.info
 maella-helsinki.com
 mahdaviestate.com
 majuriturvallinen.com
@@ -1266,6 +1273,7 @@ mobilepayment.blog
 mobilepayment.top
 mobilepayments.shop
 mobilepayments.site
+mobilepaymentsinsider.com
 mobilepaymentsolutions679508.icu
 mobilepaysearch.online
 mobilepayservice.nu
@@ -1343,6 +1351,7 @@ ndttukkusuomi.com
 netterveystalo.com
 nettiapteekki-suomi.life
 nettiapteekkisuomi.life
+netticasinosuomi.shop
 nettikasinotilmanrekisteroitymista.org
 nettipalvelu-suomi.site
 nettisivupalvelu.online
@@ -1570,6 +1579,7 @@ pajar-finland.com
 pajarsuomi.com
 pakkosuomea.xyz
 palladiumkengatsuomi.com
+palladiumskengatsuomi.com
 palladiumsuomiale.com
 palmupalvelut.com
 paloturvapiste.com
@@ -1581,6 +1591,7 @@ palvelukanta.com
 palveluliikenne.com
 palvelun-suomi.site
 palveluonlinekanta.com
+palvelurakennetrauma.com
 palvelusaatopanki.site
 palvelutfi.com
 palvelutvoittogroup.com
@@ -1721,6 +1732,7 @@ ravintoterveys.net
 rawlingssuomi.com
 ray-bansuomi.com
 raycon-suomi.com
+rcepthelsinkisw.shop
 rdsiivouspalvelut.com
 redumbrellatourshelsinki.com
 reflexions-echanges-insoumis.org
@@ -1784,6 +1796,7 @@ safetyfinland.com
 sahkomieshelsinki.net
 sahkopalvelutsalmi.com
 sainttropezsuomi.com
+sajadmasoumi.com
 salomonfinland.com
 salomonhelsinki.com
 salomonsuomi-fi.com
@@ -1843,10 +1856,12 @@ siivousalan-tyopaikat.online
 siivouspalvelu24hr.com
 siivouspalveluneilikat.com
 siivouspalvelupalo.com
+siivouspalvelut-liiketoiminta-1.online
 siivouspalvelut-liiketoiminta-fi.online
 siivouspalvelut-liiketoiminta.online
 siivouspalvelut-tyopaikat.online
 siivouspalvelut.bond
+siivouspalvelut.online
 siivouspalvelutsusaoikarinen.com
 sijaisautopalvelu.com
 siksilkfinland.com
@@ -1968,6 +1983,7 @@ soumissionsentretienmenager.ca
 soumissionsfitness.ca
 soumissionsinfiltrations.ca
 soumissionsmateriaux.ca
+soumissionspro.com
 soumissionsrevetementinterieur.ca
 soumissionssaguenay.ca
 soumissionssherbrooke.ca
@@ -2829,6 +2845,7 @@ universoumisshymeternal.net
 unlimitedfinland.com
 unstonyvacaturvalutas.cfd
 unvero-ai.com
+unwomensuomiyk-n.website
 upeaasuomea.com
 upptackfinland.nu
 urazinvacaturvalgus.cloud
@@ -2959,6 +2976,7 @@ vero-thoi-mien.com
 vero-token.com
 vero-transcription.com
 vero-tw.cam
+vero-universal.com
 vero-vera.com
 vero-vital.com
 vero-vital.net
