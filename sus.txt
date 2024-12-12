@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 11/12/2024 08:00 UTC
+# Last modified: 12/12/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -79,6 +79,7 @@ aquilasuomi.com
 aquilasuomi.online
 arakengatsuomi.com
 archiwumpanki.pl
+arcopedicosuomi.com
 arcticafinland.com
 arenasuomi-fi.com
 arenasuomiuinti.com
@@ -154,6 +155,7 @@ bavas-helsinki.com
 bavero-group.ru
 bay-helsinki.com
 baymakantalya.com.tr
+bazargani-massoumi.com
 be-vero-louange.com
 bearpawfinland.com
 beautyopa.com
@@ -350,7 +352,9 @@ deutersuomi.com
 devero-dienstleistungen.com
 dewamakantakoyaki.app
 dgcsvsuomi.info
+diamantefinland.com
 digiflavorsuomi.com
+digitalfactoryfinland.com
 digitoimistopalvelu.online
 digivero-energy.de
 dininghelsinki.info
@@ -409,6 +413,7 @@ elakkeella-mobiili.com
 elakkeella-spanki.com
 elakkeella-spankki-mobiili.com
 elakkeella-spankki.com
+elakkeellamobiili-fi.com
 elakkeellamobiili.com
 elakkeellas-pankki.com
 elakkella-spankki.com
@@ -508,6 +513,7 @@ fisuomi.site
 fisuominen24.buzz
 fitnessgerate-suomi.shop
 fitsflopssuomi.com
+fix-delivero-ae.com
 fl-trafcom.info
 flealux-finland.com
 flexpalvelut.com
@@ -701,6 +707,7 @@ helsinkiswingbigband.com
 helsinkitodolist.com
 helsinkitransport.com
 helsinkiweather.info
+helsinkiww.net
 helttipalvelut.com
 helttiterveys.com
 helttiterveyspalvelut.com
@@ -828,6 +835,8 @@ iptvsuomi.fun
 iptvsuomi.info
 iptvsuomi.live
 iptvsuomi.xyz
+ireland-finland-train-holiday-deals.today
+isfinland.com
 isolationsoumission.com
 isoumi.com
 it-palvelu.ltd
@@ -1048,6 +1057,7 @@ lokifinland.com
 lomallesisuomessa.com
 lomasuomi.art
 lomasuomi.click
+london-finland-train-holiday-deals.today
 long-champ-suomi.com
 long-champsuomi.com
 longchampfinland.top
@@ -1311,6 +1321,7 @@ my-suomen.site
 my-suomi.info
 my-suomifi.site
 my-viestit.site
+mysoumi.com
 myspankkimobiilifi.online
 mysuomi.com
 mysuomi.online
@@ -1432,6 +1443,7 @@ nvgtnsuomifi.com
 nyrdonsuomi.com
 objectfinland.com
 official-casino-finland.lat
+offlinefinland.com
 oh-pollysuomi.com
 ohpollysuomi.com
 oikeuspalvelut.com
@@ -1526,6 +1538,7 @@ omaverotus.finance
 omaveroxyfin.com
 omaveroyfix.com
 omenahuolto.com
+ompelimohelsinki.com
 one-mobilepayments.online
 oneillsuomi.com
 oneractivesuomi.net
@@ -1605,6 +1618,7 @@ pankkiasiakas.net
 pankkitalo.net
 panterahelsinki.com
 panttipankki.com
+paperipankki.com
 paras-lumenpoistopalvelu-suomi.today
 parassuomi.live
 paremminsuomessa.net
@@ -2201,6 +2215,7 @@ suomenpeliedut.xyz
 suomenpelifi.com
 suomenperinnetatuoijat.com
 suomenpiilot.com
+suomenprime.com
 suomenpyorapalvelu.com
 suomenrahoitusratkaisut.com
 suomenrahoitusratkaisut.net
@@ -2651,6 +2666,7 @@ thursdayboot-suomi.com
 thursdaybootsfinland.com
 thursdayfinland.com
 tietokonehuolto.org
+tietoturvapankki.com
 tifosisuomi.com
 tiktiksuomi.store
 tilin-hallinta-asiakas.com
