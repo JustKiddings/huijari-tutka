@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 12/12/2024 08:00 UTC
+# Last modified: 13/12/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -171,6 +171,7 @@ benshermansuomi.com
 berry-helsinki.com
 best10suomi.com
 besteonlinefinland.com
+besthelsinkihotels.com
 bestinsuomi.com
 bestofsuomi2k.com
 betalingsservice-mobilepay.com
@@ -180,6 +181,7 @@ betyopaxv.xyz
 bfgoodrichsuomi.com
 bilgiegitimkulturvakfi.com
 bilgiegitimkulturvakfi.xyz
+bilgiegitimvekulturvakfi.xyz
 bilimvekulturvak.net
 bioturva.com
 birkenstock-suomi-fi.com
@@ -205,6 +207,7 @@ bottegavenetasuomi.com
 bottegavenetasuomi.net
 bovedaoyj.shop
 boxhero-suomi.com
+brand-helsinki.com
 brandonbarsoumian.com
 brandvero-dynmics.com
 breezevapesuomi.com
@@ -413,6 +416,7 @@ elakkeella-mobiili.com
 elakkeella-spanki.com
 elakkeella-spankki-mobiili.com
 elakkeella-spankki.com
+elakkeellafi-spankki.com
 elakkeellamobiili-fi.com
 elakkeellamobiili.com
 elakkeellas-pankki.com
@@ -511,6 +515,7 @@ firestonesuomi.com
 fishingtripfinland.com
 fisuomi.site
 fisuominen24.buzz
+fitflopsuomisale.com
 fitnessgerate-suomi.shop
 fitsflopssuomi.com
 fix-delivero-ae.com
@@ -641,6 +646,7 @@ helsinki-pools.com
 helsinki-rome-train-tours-packages.today
 helsinki-rovaniemi-rail-vacations.today
 helsinki-saintpetersburg-train-vacation.today
+helsinki-swimming-pool-325513898.today
 helsinki-talvella.com
 helsinki.baby
 helsinki.lat
@@ -912,6 +918,7 @@ karttapalvelut.com
 kartyakevero-gep-az-en.shop
 kartyakevero-gep.shop
 kasinot-ilman-rekisteroitymista.online
+kasinotilmansuomenlisenssia.net
 kasinovalvonta.xyz
 kasinoviesti.com
 kasoumi.com
@@ -1221,6 +1228,7 @@ mobiili-kasinot.org
 mobiili-s.com
 mobiili-spankki-elakkeella.com
 mobiili-spankkikampanja.com
+mobiili.co.uk
 mobiilidanske.online
 mobiilielakkeella-fi.com
 mobiilifi-spankki.com
@@ -1364,6 +1372,7 @@ nettiapteekki-suomi.life
 nettiapteekkisuomi.life
 netticasinosuomi.shop
 nettikasinotilmanrekisteroitymista.org
+nettikasinotilmansuomenlisenssia.net
 nettipalvelu-suomi.site
 nettisivupalvelu.online
 nettisuomenspin.com
@@ -2227,6 +2236,7 @@ suomentanssitapahtumat.com
 suomenterassicenter.com
 suomenterassilasitus.com
 suomentimanttiurakointi.com
+suomenuutiset.news
 suomenvalinta.com
 suomenvannekorjaus.com
 suomenvip.com
@@ -2261,6 +2271,7 @@ suomi-pay.cfd
 suomi-poleneparis.com
 suomi-pressu.com
 suomi-prh.com
+suomi-rekisterointi.info
 suomi-select.com
 suomi-suomen.site
 suomi-viesteja.com
@@ -2971,6 +2982,7 @@ vero-modade.com
 vero-modaeinkaufen.com
 vero-modaverkauf.com
 vero-n-co.net
+vero-nika-photo.art
 vero-noir.com
 vero-ornavero-fi.com
 vero-os.com
