@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 15/12/2024 08:00 UTC
+# Last modified: 16/12/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -600,9 +600,11 @@ glar-helsinki.ru
 globalmobilepay.africa
 globesuomi.com
 goldstarmobilepay.xyz
+gorewearsuomi.com
 goterveystalo.com
 goyard-suomi.com
 gravero-mails.live
+greece-finland-train-holiday-deals.today
 greenandbluefinland.com
 greenfinland.org
 greeninvestfinland.com
@@ -1374,6 +1376,7 @@ naisten-vaatteet.shop
 naistenhuivit-design.shop
 naistenkesken.com
 naistenmekot.com
+naistenmuotia.com
 naistenurheiluasut.com
 naisyrittajatsuomi.com
 nanorebarsoumian.com
@@ -1483,6 +1486,7 @@ ohpollysuomi.com
 oikeuspalvelut.com
 oikeusturva.info
 oikeusturva.org
+olegsuomi.com
 oma-adimu.online
 oma-adriatic.com
 oma-arpa.com
@@ -1734,9 +1738,11 @@ premiersuomi.com
 premiersuomideals.com
 prh-suomi.com
 prhsuomi.com
+price-saunas-finland-733676498.zone
 pridefinland.com
 primark-finland.com
 primedrinksuomi.com
+princesspollyfinland.com
 pripanki.com
 privatlan-finland.bond
 procurementlawyersfinland.com
@@ -1745,6 +1751,7 @@ prodjfinland.org
 produkti-iz-finlandii-v-moskve.ru
 profilefinland.com
 profuomosuomi.com
+proiptvsuomi.com
 proterveystalo.com
 provedotsuomi.com
 pruthviestates.com
@@ -1792,6 +1799,7 @@ rcepthelsinkisw.shop
 rdsiivouspalvelut.com
 redumbrellatourshelsinki.com
 reflexions-echanges-insoumis.org
+rekisterointi-nyt.com
 remonttimiespalvelut.online
 reppufinland.com
 reterveystalo.com
@@ -1893,6 +1901,7 @@ seek-mobilepaymonthlyca.info
 seek-mobilepaymonthlyfrca.info
 seikosuomi.com
 selestakantaron.com
+selkopalvelu.online
 sendrabootssuomi.net
 senior-car-insurance-costs-in-finland.bond
 senior-living-finland-yshkin.click
@@ -2552,6 +2561,7 @@ swellsuomi.com
 synlawnfinland.com
 syomapuikot-suomi.shop
 syvellssuomi.com
+tahtaimessaterveys.com
 taiwanmobilepay.diy
 takanta.online
 takeyasuomi.com
@@ -2818,6 +2828,7 @@ trap-star-suomi.com
 trap-starfinland.com
 trap-starsuomi.com
 trapstarbagsuomi.com
+trapstarsuomi.com
 trapstarsuomi.org
 trapstarsuomi.shop
 trapstarsuomifi.com
@@ -2895,6 +2906,7 @@ tyomaaturvallisuus.com
 tyopaikat-siivousyrityksissa-fi.online
 tyopaikat-siivousyrityksissa.online
 tyopay.com
+tyosuomi.online
 tyoturvakortti.net
 tyoturvallisuus.com
 tyoturvallisuuskortti.com
