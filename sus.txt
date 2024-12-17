@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 16/12/2024 08:00 UTC
+# Last modified: 17/12/2024 08:01 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -278,6 +278,7 @@ collaborativecaresystemsfinland.com
 colnmotionfinland.cloud
 columbiafinland.com
 columbiassuomi.com
+coluombiafinland.com
 com-suomi.shop
 comfortum-events.com
 comfortum.jp
@@ -448,6 +449,7 @@ emilmasoumi.net
 empmobilepay.com
 emrtalopalvelut.com
 enviestates.co.uk
+enzoa-suomi.com
 eo-palvelut.com
 eogaeafernandfinland.shop
 epicsuomi.com
@@ -471,6 +473,7 @@ eusoumistica.com
 evero-consulting.ch
 eviestate.online
 exclusive-finland-vacation-packages.today
+exploringfinland.com
 extremefinland.online
 fabsoumipseh.com
 fabu-helsinki.com
@@ -526,6 +529,7 @@ fitflopsuomisale.com
 fitnessgerate-suomi.shop
 fitsflopssuomi.com
 fix-delivero-ae.com
+fix-delivero-kw.com
 fl-trafcom.info
 flealux-finland.com
 flexpalvelut.com
@@ -916,6 +920,7 @@ k-palvelusavo.net
 kabu-kantan.com
 kaitesifinland.com
 kampaamotsuomi.online
+kampanja-mobiilifi.com
 kampanjafi-mobilespankki.com
 kampanjamobiili-elakkeella.com
 kampanjaspankki-elakkella.com
@@ -1767,6 +1772,7 @@ pumafi-suomi.com
 pumafinland.com
 pumaoutletsuomi.shop
 pumasalesuomi.com
+pumastorefinland.com
 pumasuomi.com
 purchaseautomobilepaylater.today
 purebeautyfinland.com
@@ -1814,6 +1820,7 @@ rhydon-helsinki.com
 richardvalvona.uk
 ricovero-temporaneo.it
 ridgidsuomi.com
+riekersuomi.com
 riippumatot-suomi.shop
 rintaliivitfinland.com
 ristosisko-helsinki.com
@@ -1971,6 +1978,7 @@ socialfunfinland.com
 socialzonefinland.com
 socken-suomi.shop
 sofia-helsinki.com
+soldi-elisabeth.com
 solfinland.site
 solovairsuomi.com
 solovapesuomi.com
@@ -2479,6 +2487,7 @@ suomispinfi.com
 suomispinnas.com
 suomispinners.com
 suomispins.net
+suomisportvibes.pro
 suomissivous.com
 suomistays.com
 suomistayzone.com
@@ -3173,6 +3182,7 @@ viviennewestwood-finland.com
 viviennewestwoodfinland.com
 viviennewestwoodsuomi-fi.com
 viviestate.com
+vivobarefootsuomi-fi.com
 vivobarefootsuomi.com
 vivre-en-finlande.com
 vogelzubehor-suomi.shop
