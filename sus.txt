@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 17/12/2024 08:01 UTC
+# Last modified: 18/12/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -53,6 +53,7 @@ alisapankki.online
 allekirjoituspalvelu.com
 allekirjoituspalvelu.net
 allhotelsuomi.com
+alohahelsinki.com
 alurahelsinkishop.com
 ambiehelsinki.com
 amchamfinland.net
@@ -283,6 +284,8 @@ com-suomi.shop
 comfortum-events.com
 comfortum.jp
 comfyhelsinki.com
+comityopay.com
+comityopayment.com
 comly-helsinki.com
 comme-des-garconssuomi.com
 conference-hotel-helsinki-456239310.today
@@ -347,6 +350,7 @@ delivero-kw-fix.com
 delivero-salt.com
 delivero-uae-chocolatier.com
 delivero-uae.online
+deliveryfinland.com
 delseysuomi.com
 deltafinland.com
 deltastateassociationfinland.com
@@ -461,6 +465,7 @@ esport-suomi.com
 esprit-finland.com
 esprit-suomi.com
 esteetonsuomi.com
+ethereumfinland.xyz
 etherviesta.ink
 etherviesta.pro
 etherviesta.site
@@ -749,6 +754,7 @@ hibachihelsinki.com
 hierontapalveluthuoponen.com
 hierontapalvelutkirkasplus.com
 highrollerfinland.com
+highrollerfinland.net
 hillasuomi.com
 hinku-ja-vinku-atk-palvelut.com
 hippuedunvalvonta.com
@@ -1000,6 +1006,7 @@ kokin-tyopaikat.cfd
 kokki-avoimet-tyopaikat.cfd
 komonofinland.com
 konehuoltoheinonen.com
+konepajapalvelut.com
 konnevedenvuokrauspalvelu.com
 konsumenturval.se
 kontakti-suomi.site
@@ -1297,6 +1304,7 @@ mobilepaycasinot.info
 mobilepaycasinot.net
 mobilepaycasinot.org
 mobilepaydirect.com
+mobilepaydk.link
 mobilepaydk.net
 mobilepaye.com
 mobilepayees.com
@@ -1472,6 +1480,7 @@ northfacesuomiale.com
 noshit-nikotiinipussit.com
 novahelsinki.shop
 noveler-helsinki.com
+novellohelsinki.com
 nshotelornfinland.com
 nu-mobilepay.com
 nudeviesta.buzz
@@ -1978,6 +1987,7 @@ socialfunfinland.com
 socialzonefinland.com
 socken-suomi.shop
 sofia-helsinki.com
+softwarefinland.store
 soldi-elisabeth.com
 solfinland.site
 solovairsuomi.com
@@ -2107,6 +2117,7 @@ spectrmmobilepayment.com
 sportyfinland.com
 spr-turvapassi.com
 spr-turvapassi.net
+ssbdfinland.com
 ssl-omavero.com
 stair-lift-finland.bond
 stanleycupfinland.com
@@ -2803,6 +2814,7 @@ trafcomflny.com
 trafcomfloyj.info
 trafcomflpal.com
 trafcominpalfi.com
+trafcomipalvfinr.com
 trafcommaksury.com
 trafcomoy.info
 trafcomoyfi.info
@@ -3257,6 +3269,7 @@ xn--lastenhoitopalveluleikkis-9ec.com
 xn--levinmkkihuolto-etb.com
 xn--lhipyorhuolto-bfbg.com
 xn--mobiiliprssi-cjb.com
+xn--mobilepay-hjlp-cjb.online
 xn--myyntipllikkpalvelu-mwba51b.com
 xn--nettikasinoilmansuomilisenssi-tqc.com
 xn--nettikasinotilmansuomilisenssi-ptc.com
