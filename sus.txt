@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 18/12/2024 08:00 UTC
+# Last modified: 19/12/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -99,6 +99,7 @@ asiakasino.net
 asiakaspalvelu-suomi.site
 asiakaspalvelut-suomi.site
 asiakassivut.online
+asiakastarjous.com
 asiakasvelvollisuuslakien-fi.site
 asiakasvelvollisuuslakien-suomen.site
 asiakasvelvollisuuslakien-suomi-fi.site
@@ -457,6 +458,7 @@ enzoa-suomi.com
 eo-palvelut.com
 eogaeafernandfinland.shop
 epicsuomi.com
+eroasuomesta.org
 escort-helsinki.vip
 escortservice-in-finland.xyz
 espankki.com
@@ -491,6 +493,7 @@ fanipaitasuomi.com
 farmaseuttinen-pakkaus-tyopaikat.xyz
 fashionclub-helsinki.com
 fearofgodessentialssuomi.com
+feeco-helsinki.com
 felcosuomi.com
 femalefounderssuomi.com
 fenixhelsinki.com
@@ -662,13 +665,16 @@ helsinki-london-train-tour-packages.today
 helsinki-lontoo-train-tour-package.today
 helsinki-paris-train-tour-package.today
 helsinki-paris-train-tour-packages.today
+helsinki-pool-rental-353355716.live
 helsinki-pools.com
 helsinki-rome-train-tours-packages.today
 helsinki-rovaniemi-rail-vacations.today
 helsinki-saintpetersburg-train-vacation.today
+helsinki-swimming-725325571.click
 helsinki-swimming-pool-325513898.today
 helsinki-talvella.com
 helsinki.baby
+helsinki.christmas
 helsinki.lat
 helsinki.luxury
 helsinki.tours
@@ -828,6 +834,7 @@ ilmanrekisteroitymista.com
 ilmanrekisteroitymista.pro
 ilmanrekisteroitymista.xyz
 ilsejacobsensuomi.net
+iltaviesti.com
 imupalvelu.com
 inarinkylmahuolto.com
 india-holiday-package-deals-from-finland.today
@@ -978,6 +985,7 @@ kiinteistopalvelu.net
 kiinteistopalvelui.icu
 kiinteistoturvallisuus.com
 kikin-sisallontuotantopalvelut.com
+kilpailutuspalvelu.com
 kinderautos-suomi.shop
 kinderuhren-suomi.shop
 kipling-suomi-fi.com
@@ -1097,6 +1105,7 @@ lokifinland.com
 lomallesisuomessa.com
 lomasuomi.art
 lomasuomi.click
+london-finland-train-holiday-deals-777.today
 london-finland-train-holiday-deals.today
 long-champ-suomi.com
 long-champsuomi.com
@@ -1355,6 +1364,7 @@ moviestato.xyz
 mphuolto.com
 mretsoumise.cam
 mretsoumise.com
+muckbootssuomi.com
 muffinland.xyz
 mugitsuomi.com
 muji-suomi.com
@@ -1665,6 +1675,8 @@ palvelusaatopanki.site
 palvelutfi.com
 palvelutvoittogroup.com
 palveluvalmennus.com
+palveluviesti.com
+palveluviestit.com
 palveluvoittogroup.com
 palvelux.com
 palveluyhteydet-suomi.site
@@ -1906,6 +1918,7 @@ sauconysuomioutlet.com
 sauna-manufacturers-finland-146688915.today
 sauna-manufacturers-finland-783346085.today
 sauna-suppliers-finland-128528036.live
+saunas-finland-172191398.click
 savon-dronepalvelut.com
 savondronepalvelut.com
 schibsted-suomi.cfd
@@ -2012,6 +2025,7 @@ soumiatique.com
 soumiayahiaoui.com
 soumic.com
 soumicosmetics.com
+soumieru.com
 soumiesol.xyz
 soumiez.net
 soumiimajumdar.com
@@ -2052,6 +2066,7 @@ soumissionassuranceauto.com
 soumissionassurancecollective.com
 soumissionassuranceviesansexamenmedical.com
 soumissionconfort.com
+soumissionconstruction.com
 soumissionenergie.com
 soumissionentrepreneurs.com
 soumissionentretienmenager.com
@@ -2579,6 +2594,7 @@ swarovski-suomi.com
 swatchsuomi.com
 swellsuomi.com
 synlawnfinland.com
+synlawnhelsinki.com
 syomapuikot-suomi.shop
 syvellssuomi.com
 tahtaimessaterveys.com
@@ -2587,6 +2603,8 @@ takanta.online
 takeyasuomi.com
 taksipalvelu-koikkalainen.com
 talentsyncfinland.com
+talouspalvelu.com
+talousviesti.com
 tampereenhautauspalvelu.com
 tansuomedia.com.tw
 tanzschuhe-suomi.shop
@@ -2758,6 +2776,7 @@ tifosisuomi.com
 tiktiksuomi.store
 tilin-hallinta-asiakas.com
 tilipalvelu.net
+tilisuomi.com
 timberland-suomi.net
 tinamasoumi.com
 tischdecke-suomi.shop
@@ -2842,6 +2861,10 @@ traficorganique.fr
 traficorn-oy.info
 traficorn.info
 traficorn.net
+traite-soumission-non.ch
+traite-soumission.ch
+traitesoumission.ch
+traitesoumissionnon.ch
 transferhelsinki-spb.com
 transport-finland-logistics-812277433.today
 transport-services-finland-kh-fi-1418571.live
@@ -2908,6 +2931,7 @@ turvallisuus-facebook.info
 turvallisuus-tiedo.com
 turvallisuusintrum.com
 turvallisuuskoordinaattori.com
+turvallisuusstudio.com
 turvallisuusvarma.com
 turvapassi.com
 turvapassi.net
@@ -2990,6 +3014,8 @@ vahvistustransaktio.shop
 vaihdehuolto.nu
 vakantie-zweden-finland-reisblog.nl
 valintaopasfinland.com
+valopilkkuhelsinki.com
+valopilkkuhelsinki.net
 valvonix.com
 valvontakamerat-design.shop
 valvontakamerat.shop
@@ -3004,6 +3030,7 @@ veiikvapesuomi.com
 vejafinland.com
 vejasuomi-fi.top
 velarahelsinki.com
+velkapalvelu.com
 velvero-team.com
 venum-finland.com
 verificer-mobilepay.com
@@ -3071,6 +3098,7 @@ vero-modaverkauf.com
 vero-n-co.net
 vero-nika-photo.art
 vero-noir.com
+vero-odit.site
 vero-ornavero-fi.com
 vero-os.com
 vero-paintings-prints.com
