@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 19/12/2024 08:00 UTC
+# Last modified: 20/12/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -193,6 +193,7 @@ bilimvekulturvak.net
 bioturva.com
 birkenstock-suomi-fi.com
 birkenstocksuomifi.com
+bitcoinfinland.xyz
 bjornborgsuomi.com
 blackdiamondsuomi.com
 blakelysuomi.com
@@ -223,6 +224,7 @@ briansuomela.win
 bridgestonesuomi.com
 brixtonsuomis.com
 bromo77leviesta.site
+btcfinland.xyz
 btchelsinki.com
 buenaviesta.online
 businessmediafinland.com
@@ -369,6 +371,7 @@ dewamakantakoyaki.app
 dgcsvsuomi.info
 diamantefinland.com
 digiflavorsuomi.com
+digisuomi.com
 digitalfactoryfinland.com
 digitoimistopalvelu.online
 digivero-energy.de
@@ -458,6 +461,8 @@ enzoa-suomi.com
 eo-palvelut.com
 eogaeafernandfinland.shop
 epicsuomi.com
+eroasuomesta.com
+eroasuomesta.net
 eroasuomesta.org
 escort-helsinki.vip
 escortservice-in-finland.xyz
@@ -545,6 +550,7 @@ flirttisuomi.com
 flyhelsinki.com
 fmoviesti.top
 folkfinland.com
+fortum-harcourt.com
 fortum-hermine.com
 fortum-stainton.com
 fortum.agency
@@ -1087,6 +1093,8 @@ levinmokkihuolto.com
 libertyopalillustration.com
 lifecoachsoumia.com
 lifewavex39finland.com
+liidipalvelu.com
+liidisuomi.com
 liikenneupseerin-tyopaikat.online
 liisafromfinland.com
 limen-pc-huolto.net
@@ -1292,6 +1300,8 @@ mobilepay-dk-bruger-opdatering.online
 mobilepay-dk.info
 mobilepay-fi.com
 mobilepay-help.com
+mobilepay-hjaelp.online
+mobilepay-kasinot.com
 mobilepay-kayttaja.com
 mobilepay.casino
 mobilepay.digital
@@ -1356,6 +1366,7 @@ mooseknucklesfinland.com
 mooseknucklesuomi.com
 motelrocksfinland.com
 motivapesuomi.com
+movetofinland.com
 moviestash.click
 moviestates.com
 moviestation.click
@@ -1446,12 +1457,17 @@ nikotiininurkka.com
 nikotiinipussi.art
 nikotiinipussi.bio
 nikotiinipussi.club
+nikotiinipussi.fun
+nikotiinipussi.gay
+nikotiinipussi.ink
 nikotiinipussi.live
 nikotiinipussi.online
 nikotiinipussi.pro
 nikotiinipussi.shop
+nikotiinipussi.site
 nikotiinipussi.space
 nikotiinipussi.store
+nikotiinipussi.wiki
 nikotiinipussi.xyz
 nikotiinipussi1.bio
 nikotiinipussi1.club
@@ -1878,6 +1894,7 @@ s-pankkielakkeella.com
 s-pankkiellakkeella.com
 s-pankkifi.net
 s-pankkikampanjafi.com
+s-pankkimobiili-fi.com
 s-pankkimobiilifi.com
 s-pankkimobile.online
 s-siivouspalvelut.com
@@ -2382,6 +2399,7 @@ suomi10hotel.com
 suomi2024.com
 suomi22.com
 suomi24.nu
+suomi360.com
 suomiaaki.com
 suomiadmin.com
 suomiadventure.com
@@ -2464,6 +2482,7 @@ suomiluksusplaza.com
 suomiluotettavuus.com
 suomiluxhotelli.com
 suomiluxuskasino.com
+suomimarkkinointi.com
 suomimeme.xyz
 suomimetalstar.com
 suomimm.top
@@ -2550,6 +2569,7 @@ suomitarjoukset.store
 suomitarjoukset.website
 suomitarjoukset.world
 suomitarjoukset.xyz
+suomiterapia.ru
 suomitodennus.com
 suomitodennus.info
 suomitopfinn.com
@@ -2987,6 +3007,7 @@ unwomensuomiyk-n.website
 upeaasuomea.com
 upptackfinland.nu
 urazinvacaturvalgus.cloud
+ushturvalapamyati.ru
 uudet-ilman-rekisteroitymista-fi.com
 uudet-ilman-rekisteroitymista.com
 uudetsuominettikasinot.com
@@ -3070,6 +3091,7 @@ vero-couture73.com
 vero-dent.com
 vero-dev.com
 vero-diseno.com
+vero-doloribus.site
 vero-dublin.com
 vero-eg.com
 vero-enim.site
