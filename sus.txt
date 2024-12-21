@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 20/12/2024 08:00 UTC
+# Last modified: 21/12/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -15,6 +15,7 @@
 2024-omavero.net
 2024-omavero.xyz
 4tturva.com
+5suomietiao.vip
 aanekoskenhinauspalvelu.com
 abogadostraficomalaga.es
 abrantus-suomi.com
@@ -354,6 +355,7 @@ delivero-salt.com
 delivero-uae-chocolatier.com
 delivero-uae.online
 deliveryfinland.com
+dellivero-fix.com
 delseysuomi.com
 deltafinland.com
 deltastateassociationfinland.com
@@ -370,6 +372,7 @@ devero-dienstleistungen.com
 dewamakantakoyaki.app
 dgcsvsuomi.info
 diamantefinland.com
+dieselhuolto.com
 digiflavorsuomi.com
 digisuomi.com
 digitalfactoryfinland.com
@@ -612,6 +615,7 @@ gerryweberfinland.com
 gerrywebersuomi.com
 ghdsuomi.com
 gilvero-ailyn.site
+ginatricotsuomi.com
 giorgioarmanisuomi.com
 giosepposuomi.com
 glar-helsinki.ru
@@ -683,6 +687,7 @@ helsinki.baby
 helsinki.christmas
 helsinki.lat
 helsinki.luxury
+helsinki.tips
 helsinki.tours
 helsinki10000.com
 helsinki5000.com
@@ -1046,6 +1051,7 @@ kulturvakti.online
 kumppanipalvelu.com
 kuntoutusjakehonhuolto.com
 kuomafinland.com
+kuopion-lvi-asennus-huolto.com
 kuumahelsinki.com
 kuvauspalvelurintala.com
 la-monipalvelu.com
@@ -1303,6 +1309,7 @@ mobilepay-help.com
 mobilepay-hjaelp.online
 mobilepay-kasinot.com
 mobilepay-kayttaja.com
+mobilepay-opdatering.online
 mobilepay.casino
 mobilepay.digital
 mobilepay.help
@@ -1355,6 +1362,7 @@ mobilepayservice.nu
 mobilepaysuomii-fi.com
 mobilepaysuomii.com
 mobilepaysupport.com
+mobilepaywalls.com
 mobilitybedfinland.today
 mobillispankki.online
 mohsenmasoumi.online
@@ -1449,6 +1457,7 @@ newterveystalo.com
 ni-pantins-ni-soumis.fr
 nicell-fortum.com
 nichehelsinki.com
+nieuwbouw-elisabeth.online
 nigeriafinland.com
 nike-finland.com
 nikefinland.org
@@ -1507,6 +1516,7 @@ noshit-nikotiinipussit.com
 novahelsinki.shop
 noveler-helsinki.com
 novellohelsinki.com
+nrityopachara.com
 nshotelornfinland.com
 nu-mobilepay.com
 nudeviesta.buzz
@@ -1519,6 +1529,9 @@ nutrilabfinland.com
 nvgtnsuomifi.com
 nyrdonsuomi.com
 objectfinland.com
+obrazovanie-v-finland.ru
+obrazovanie-v-finlandii.ru
+obrazovanie-v-suomi.ru
 official-casino-finland.lat
 offlinefinland.com
 oh-pollysuomi.com
@@ -1536,6 +1549,7 @@ oma-binz.de
 oma-by-mouna-yaya.com
 oma-chareef.com
 oma-circles.com
+oma-cn.com
 oma-co.com
 oma-comunity.com
 oma-costruzioni.com
@@ -1792,6 +1806,7 @@ prodjfinland.com
 prodjfinland.org
 produkti-iz-finlandii-v-moskve.ru
 profilefinland.com
+profinland.shop
 profuomosuomi.com
 proiptvsuomi.com
 proterveystalo.com
@@ -1843,6 +1858,7 @@ rdsiivouspalvelut.com
 redumbrellatourshelsinki.com
 reflexions-echanges-insoumis.org
 rekisterointi-nyt.com
+relepankki.com
 remonttimiespalvelut.online
 reppufinland.com
 reterveystalo.com
@@ -1958,6 +1974,7 @@ severisuominen.dev
 severisuominen.net
 sh-suomei.com
 sharviestate.com
+shensuomenjiage.com
 shopfinland.ru
 shopsuomi.com
 showposuomi.com
@@ -2027,6 +2044,7 @@ sorel-helsinki.com
 sorelsuomi.net
 soumi-online.sbs
 soumi-sports.com
+soumi.org
 soumiabeauty.com
 soumiabouamoud.com
 soumiacademy.com
@@ -2046,6 +2064,7 @@ soumieru.com
 soumiesol.xyz
 soumiez.net
 soumiimajumdar.com
+soumiji.com
 soumik.blog
 soumikagura.site
 soumikbag.com
@@ -2146,6 +2165,7 @@ spankkimobiili-elakkeella.com
 spankkimobiilifi.com
 spanx-suomi.com
 spectrmmobilepayment.com
+sports-suomi.com
 sportyfinland.com
 spr-turvapassi.com
 spr-turvapassi.net
@@ -2368,6 +2388,7 @@ suomi-oma.com
 suomi-palvelun.site
 suomi-pay.cfd
 suomi-poleneparis.com
+suomi-porno.com
 suomi-pressu.com
 suomi-prh.com
 suomi-rekisterointi.info
@@ -2472,6 +2493,7 @@ suomike.net
 suomikeskus.nu
 suomikooooh.xyz
 suomikuvva.com
+suomileaniksi.com
 suomileikki.info
 suomilimoland.com
 suomilodges.com
@@ -2569,6 +2591,7 @@ suomitarjoukset.store
 suomitarjoukset.website
 suomitarjoukset.world
 suomitarjoukset.xyz
+suomiterapia.com
 suomiterapia.ru
 suomitodennus.com
 suomitodennus.info
@@ -2799,6 +2822,7 @@ tilipalvelu.net
 tilisuomi.com
 timberland-suomi.net
 tinamasoumi.com
+tinyworldfinland.com
 tischdecke-suomi.shop
 tissotsuomi.com
 tmi-peppi-stiina-ahti-liikuntapalvelut.com
@@ -3124,6 +3148,7 @@ vero-odit.site
 vero-ornavero-fi.com
 vero-os.com
 vero-paintings-prints.com
+vero-pkl.xyz
 vero-pomerleau.art
 vero-praesentium.com
 vero-quibusdam.com
@@ -3264,6 +3289,7 @@ vvhuolto.online
 walletohelsinki.com
 warehousepackingagenciesinhelsinki375882.icu
 warmflaschen-suomi.shop
+webkirjaudu.site
 webmobilepay.com
 webterveystalo.com
 wellensteynfinland.com
