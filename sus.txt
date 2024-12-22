@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 21/12/2024 08:00 UTC
+# Last modified: 22/12/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -191,6 +191,7 @@ bilgiegitimkulturvakfi.com
 bilgiegitimkulturvakfi.xyz
 bilgiegitimvekulturvakfi.xyz
 bilimvekulturvak.net
+bimmerfinland.com
 bioturva.com
 birkenstock-suomi-fi.com
 birkenstocksuomifi.com
@@ -216,6 +217,7 @@ bottegavenetasuomi.com
 bottegavenetasuomi.net
 bovedaoyj.shop
 boxhero-suomi.com
+boxingfinland.com
 brand-helsinki.com
 brandonbarsoumian.com
 brandvero-dynmics.com
@@ -345,6 +347,7 @@ dcshoessuomifi.com
 dealsinfinland.com
 debreaminhelsinki.com
 decken-suomi.shop
+deliivero-fix.com
 delivero-ae-chocolatier.com
 delivero-ae-fix.com
 delivero-chocolatier.com
@@ -503,6 +506,7 @@ fashionclub-helsinki.com
 fearofgodessentialssuomi.com
 feeco-helsinki.com
 felcosuomi.com
+felizinpalvelut.com
 femalefounderssuomi.com
 fenixhelsinki.com
 fenniaasiakaspalvelu.com
@@ -821,6 +825,7 @@ hyva-haukku-koirapalvelut.com
 hyvinvointipalvelutjussila.net
 i-suomi.info
 iafinland.com
+iamgiasuomi.com
 icebugfinland.com
 icepeakfinland.com
 icepeaksuomi.com
@@ -944,6 +949,7 @@ k-palvelusavo.net
 kabu-kantan.com
 kaitesifinland.com
 kampaamotsuomi.online
+kampanja-fimobiili.com
 kampanja-mobiilifi.com
 kampanjafi-mobilespankki.com
 kampanjamobiili-elakkeella.com
@@ -964,7 +970,10 @@ karllagerfeldsuomi.com
 karttapalvelut.com
 kartyakevero-gep-az-en.shop
 kartyakevero-gep.shop
+kasinoilmanrekisteroitymistajalisenssia.com
 kasinot-ilman-rekisteroitymista.online
+kasinot-ilman-suomen-lisenssia.net
+kasinotilmanrekisteroitymistajalisenssia.com
 kasinotilmansuomenlisenssia.net
 kasinovalvonta.xyz
 kasinoviesti.com
@@ -1310,6 +1319,7 @@ mobilepay-hjaelp.online
 mobilepay-kasinot.com
 mobilepay-kayttaja.com
 mobilepay-opdatering.online
+mobilepay.biz
 mobilepay.casino
 mobilepay.digital
 mobilepay.help
@@ -1372,6 +1382,7 @@ montecfinland.com
 moonsuomiboot.com
 mooseknucklesfinland.com
 mooseknucklesuomi.com
+morenipalvelut.com
 motelrocksfinland.com
 motivapesuomi.com
 movetofinland.com
@@ -1762,6 +1773,7 @@ pilviturva.lol
 pinkpalmpuff-finland.com
 pinkpalmpufffinland.com
 playboy-finland.com
+playboyfinlandsuomi.com
 playwinsuomi.com
 pleaserfinland.com
 plentyopaws.com
@@ -1780,6 +1792,7 @@ pop-pankki.online
 pop-pankki.pro
 pop-pankki.site
 pop-pankki.website
+popmartsuomi.com
 poppanki.site
 poppanki.website
 porvoonpalvelutalo.store
@@ -2243,6 +2256,7 @@ suomenhatavara.com
 suomenhedelma.com
 suomenhelmi.com
 suomenhevonen.info
+suomenhierojakouluttajat.net
 suomenhitsaus.net
 suomenhotelit.com
 suomenhoteljoukset.com
@@ -2343,6 +2357,8 @@ suomenpeliedut.xyz
 suomenpelifi.com
 suomenperinnetatuoijat.com
 suomenpiilot.com
+suomenpintapalvelu.com
+suomenpintapalvelu.net
 suomenprime.com
 suomenpyorapalvelu.com
 suomenrahoitusratkaisut.com
@@ -2465,6 +2481,7 @@ suomifinds.com
 suomifinest.com
 suomifionline.site
 suomifitunnistus.com
+suomiflowergarden.com
 suomifront.co.uk
 suomifront.com
 suomifun25.club
@@ -2600,6 +2617,7 @@ suomitopp.com
 suomitoppicks.com
 suomitrack.com
 suomitravel.org
+suomitravelfind.com
 suomitrends.com
 suomitripworld.com
 suomitunnista.com
@@ -2641,6 +2659,7 @@ synlawnhelsinki.com
 syomapuikot-suomi.shop
 syvellssuomi.com
 tahtaimessaterveys.com
+taigatrekfinland.com
 taiwanmobilepay.diy
 takanta.online
 takeyasuomi.com
@@ -2899,6 +2918,7 @@ traficomkt.com
 traficomoy.com
 traficomoy.info
 traficomry.com
+traficomyrfl.info
 traficore.com
 traficoreal.com
 traficorganique.fr
@@ -3003,6 +3023,7 @@ tyoturvallisuuskortti.online
 typocraftshelsinki.com
 tyyli-helsinki.com
 tyylikkaat-naisten-vaatteet.shop
+uae-dellivero-fix.com
 uagsuomi.com
 ucobssuomishop.org
 ugg-suomi.com
@@ -3137,6 +3158,7 @@ vero-ia.com
 vero-io.com
 vero-kumamoto.com
 vero-labs.com
+vero-luma.com
 vero-minus.site
 vero-modade.com
 vero-modaeinkaufen.com
@@ -3338,6 +3360,7 @@ xn--jyvskylautohuolto-sqbe.com
 xn--kasino-ilman-suomen-lisenssi-xnc.com
 xn--kasino-ilman-suomi-lisenssi-1kc.com
 xn--kasinot-ilman-suomen-lisenssi-tqc.com
+xn--kasinot-ilman-suomen-lisenssi-tqc.net
 xn--kasinot-ilman-suomi-lisenssi-xnc.com
 xn--kiinteistpalvelut-7zb.net
 xn--kitvero-suplementos-0vb.online
