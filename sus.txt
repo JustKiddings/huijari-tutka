@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 22/12/2024 08:00 UTC
+# Last modified: 23/12/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -16,6 +16,7 @@
 2024-omavero.xyz
 4tturva.com
 5suomietiao.vip
+7edgefinland.com
 aanekoskenhinauspalvelu.com
 abogadostraficomalaga.es
 abrantus-suomi.com
@@ -91,6 +92,7 @@ arenasuomiuinti.com
 ariatsuomioutlet.com
 artbooksfinland.com
 arthelsinki.com
+arvokoruhelsinki.com
 asennuspalvelujoku.com
 asiakas-saastopanki.site
 asiakas-saatopanki.site
@@ -334,6 +336,7 @@ daily-helsinki.com
 dancestationsuomi.net
 dandysuomi.com
 daoyj.icu
+dasarisoumith.xyz
 datapalvelut.net
 dattasoumitra.com
 davi-helsinki.com
@@ -401,6 +404,7 @@ drinkanddrawhelsinki.com
 driving-school-helsinki-344791214.today
 drmarten-suomi.com
 drmartensfinland.com
+drmartenssuomifi.com
 drmasoumidrugstor.com
 drsoumikghosh.com
 drsoumitraghosh.in
@@ -531,6 +535,7 @@ fin-mobilepay.com
 finansivalvonta.com
 finestsuomi.com
 finewinefinland.com
+finishitfinland.com
 finland-viesti.site
 finland.nu
 finlandrehabs.com
@@ -890,6 +895,7 @@ iptvsuomi.co
 iptvsuomi.fun
 iptvsuomi.info
 iptvsuomi.live
+iptvsuomi.news
 iptvsuomi.xyz
 ireland-finland-train-holiday-deals.today
 isfinland.com
@@ -1316,6 +1322,7 @@ mobilepay-dk.info
 mobilepay-fi.com
 mobilepay-help.com
 mobilepay-hjaelp.online
+mobilepay-info-dk.com
 mobilepay-kasinot.com
 mobilepay-kayttaja.com
 mobilepay-opdatering.online
@@ -1506,6 +1513,7 @@ nikotiinipussit1.info
 nikotiinisakit.com
 nikotiinitori.com
 nikotiinivahvuuksiin.xyz
+ninkifinland.com
 nisantasiegitimkulturvakfi.online
 nivakpankki.com
 nk-finland.com
@@ -2968,6 +2976,7 @@ tunnistasuomi.com
 tunnistasuomi.info
 tunnistautuminen-fi.com
 tunnistautuminen-suomi.com
+tunnistautumllnenssauomifi.com
 tunnistautunlnen-suomi.com
 tunnistavat.xyz
 tunnistusfi.info
@@ -3093,6 +3102,7 @@ varausuomi.online
 varmennussuomi.com
 varmistasuomi.com
 veiikvapesuomi.com
+veja-suomi.com
 vejafinland.com
 vejasuomi-fi.top
 velarahelsinki.com
