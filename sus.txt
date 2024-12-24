@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 23/12/2024 08:00 UTC
+# Last modified: 24/12/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -15,6 +15,8 @@
 2024-omavero.net
 2024-omavero.xyz
 4tturva.com
+5soumissionsevaluation.com
+5soumissionsfaillite.com
 5suomietiao.vip
 7edgefinland.com
 aanekoskenhinauspalvelu.com
@@ -51,6 +53,7 @@ akunpalvelut.com
 al-monipalvelu.com
 alastonsuomi.shop
 alibarbarvapesuomi.com
+alimasoumi.info
 alisapankki.online
 allekirjoituspalvelu.com
 allekirjoituspalvelu.net
@@ -157,6 +160,7 @@ bangvapesuomi.com
 bankaihelsinki.com
 bapehuppari-suomi.com
 bapesuomi.com
+baranmasoumian.com
 bargainhubfinland.com
 basedfinland.com
 baskerit-suomi.shop
@@ -174,6 +178,7 @@ befreshsuomi.com
 beklysoumia.com
 beklysoumia.online
 beklysoumia.site
+belkinfinland.com
 belkinsuomi.com
 belleviestationery.com
 beloylyhelsinki.com
@@ -272,6 +277,7 @@ changeinfinland.com
 chantelsoumis.net
 charlesfinland.com
 charlestyrwhitt-suomi.com
+chat-gpt-suomi.com
 chaturvate.cam
 cheap-flights-helsinki.xyz
 chillysfinland.com
@@ -450,6 +456,7 @@ elakkella-spankki.com
 elakkellaspankki.com
 elamyspalvelut.net
 elanikasoumila.xyz
+elements-suomi.com
 eleppizpalvelut.info
 elfbarsuomi.net
 elfbarvapesuomi.com
@@ -488,6 +495,7 @@ etherviesta.pro
 etherviesta.site
 etherviesta.xyz
 etsisuomesta.com
+etsivapalvelu.com
 eucreafinland.org
 eusoumichaelldouglas.com.br
 eusoumilionario.site
@@ -562,6 +570,7 @@ flirttisuomi.com
 flyhelsinki.com
 fmoviesti.top
 folkfinland.com
+foodexfinland.com
 fortum-harcourt.com
 fortum-hermine.com
 fortum-stainton.com
@@ -694,6 +703,7 @@ helsinki-swimming-pool-325513898.today
 helsinki-talvella.com
 helsinki.baby
 helsinki.christmas
+helsinki.games
 helsinki.lat
 helsinki.luxury
 helsinki.tips
@@ -865,6 +875,7 @@ infomobiilimaksu.com
 inleifinland.pro
 insoumidating.com
 insoumisdecreteil.fr
+insta-finland.website
 instant-loan-for-you-finland.today
 insuranceluighghlfinland.bond
 insurancelujnuwlfinland.bond
@@ -1733,6 +1744,7 @@ panki-fi.site
 pankki.nl
 pankkiasiakas.net
 pankkitalo.net
+panokavereita-helsinki.online
 panterahelsinki.com
 panttipankki.com
 paperipankki.com
@@ -2033,6 +2045,7 @@ smobiili-elakkeella.com
 smobiili-ellakkeella.com
 smobiili-fi.com
 smobiili-kampanja.com
+smobiili-kampanjafi.com
 smobiili-spankki.com
 smobiili-spankkifi.com
 smobiili-spannkki.com
