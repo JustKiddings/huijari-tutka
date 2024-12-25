@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 24/12/2024 08:00 UTC
+# Last modified: 25/12/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -30,6 +30,7 @@ adevilinhelsinki.com
 adidasfinland.com
 adultmoviestation.com
 afriqueinsoumise.com
+aguidetofinland.com
 ahertajayrityspalvelu.com
 ahertajayrityspalvelu.online
 ai-suomi.com
@@ -356,6 +357,8 @@ dcshoessuomifi.com
 dealsinfinland.com
 debreaminhelsinki.com
 decken-suomi.shop
+defwk5sfiyiaoyj.top
+deittisuomi.com
 deliivero-fix.com
 delivero-ae-chocolatier.com
 delivero-ae-fix.com
@@ -530,6 +533,7 @@ fi-elisa.com
 fi-icebugsuomi.com
 fi-osuuspankki.com
 fi-spankki.com
+fi-spankkimobiili.com
 fi-suomen.site
 fi-suomi.sbs
 fi-trafcom.info
@@ -900,6 +904,7 @@ iptv-suomi.org
 iptv-suomi.xyz
 iptvfinland.info
 iptvfinland.online
+iptvsuomi-fi.org
 iptvsuomi-fi.store
 iptvsuomi.club
 iptvsuomi.co
@@ -1748,6 +1753,7 @@ panokavereita-helsinki.online
 panterahelsinki.com
 panttipankki.com
 paperipankki.com
+parajumperstakkisuomi.xyz
 paras-lumenpoistopalvelu-suomi.today
 parassuomi.live
 paremminsuomessa.net
@@ -2220,6 +2226,7 @@ stevemadenssuomi.com
 stevesmadensuomi.com
 stillkissen-suomi.shop
 stitchtoyhelsinki.com
+stockholm-helsinki.com
 stogasuomicsvamin.fun
 strandkleid-suomi.shop
 stsiivouspalvelut.com
@@ -2475,6 +2482,7 @@ suomibestreviews.com
 suomibettimaster.com
 suomibingo.com
 suomica.ru
+suomicam.com
 suomicanta.com
 suomicasinosocial.com
 suomichoices.com
@@ -2768,6 +2776,7 @@ tedbakersuomifi.com
 teddyfreshsuomi.com
 tekstiviesti.com
 telpalvelut.lol
+tendersfinland.com
 teollisuuspalvelu918.com
 terosuomela.art
 terveyasarvios.com
@@ -3296,6 +3305,7 @@ virtuaalinen-terveys-5.online
 virtuaalinen-terveys-6.online
 virtuaalinen-terveys.online
 virtuaaliset-terveyspalvelut.online
+virtuaalisuomi.com
 virtuaaliterveys.online
 vittaro-helsinki.com
 vivahvishwakarma.com
