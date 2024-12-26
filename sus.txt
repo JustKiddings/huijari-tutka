@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 25/12/2024 08:00 UTC
+# Last modified: 26/12/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -253,6 +253,8 @@ carpediemvero-24.com
 cartiersuomi.net
 casasuomi.com
 casino-suomi.net
+casino360finland.com
+casinonorthfinland.com
 casinosfinderssuomi.com
 casinosinfinland.com
 casisuomi10.com
@@ -273,6 +275,7 @@ cellarhelsinki.com
 centrovero-suites.gr
 chakdefinland.com
 chakdehelsinki.com
+challengefinland.com
 champion-fightclubfinland.com
 changeinfinland.com
 chantelsoumis.net
@@ -285,6 +288,7 @@ chillysfinland.com
 chillyssuomi.com
 cirkulsuomi.com
 cityopal.com
+clarksshoesfinland.com
 clickhelsinki.com
 cloudsaastopanki.site
 cloudsuomi.click
@@ -491,6 +495,7 @@ espoofinland.com
 esport-suomi.com
 esprit-finland.com
 esprit-suomi.com
+essentials-suomi.com
 esteetonsuomi.com
 ethereumfinland.xyz
 etherviesta.ink
@@ -535,7 +540,9 @@ fi-osuuspankki.com
 fi-spankki.com
 fi-spankkimobiili.com
 fi-suomen.site
+fi-suomen.website
 fi-suomi.sbs
+fi-suomi.website
 fi-trafcom.info
 fi-tunnistus.homes
 fi-viestit.info
@@ -548,11 +555,13 @@ finansivalvonta.com
 finestsuomi.com
 finewinefinland.com
 finishitfinland.com
+finland-suomi.ru
 finland-viesti.site
 finland.nu
 finlandrehabs.com
 finlandwaterbottle.shop
 finnporthelsinki.com
+finplaysuomi.com
 finplaysuomi.net
 fintalksfinland.com
 finterveys.top
@@ -586,6 +595,7 @@ fortum.world
 fortuma-apk.com
 fortumate.com
 fortumatic.com
+fortumejack.com
 fortumfix.info
 fortumfln.com
 fortumnet.nu
@@ -643,6 +653,7 @@ giosepposuomi.com
 glar-helsinki.ru
 globalmobilepay.africa
 globesuomi.com
+glowtouchoffinland.shop
 goldstarmobilepay.xyz
 gorewearsuomi.com
 goterveystalo.com
@@ -695,6 +706,11 @@ helsinki-istanbul-train-tour-package.today
 helsinki-istanbul-train-tour-packages.today
 helsinki-london-train-tour-packages.today
 helsinki-lontoo-train-tour-package.today
+helsinki-lsra.rest
+helsinki-lsrb.rest
+helsinki-lsrc.rest
+helsinki-lsrd.rest
+helsinki-lsrf.rest
 helsinki-paris-train-tour-package.today
 helsinki-paris-train-tour-packages.today
 helsinki-pool-rental-353355716.live
@@ -1044,6 +1060,7 @@ kirjaudu-siaan.sbs
 kirjaudu-sisaan.sbs
 kirjaudu-suomi.com
 kirjaudu.site
+kirjaudusisaan.com
 kiropraktiikkahelsinki.com
 kiropraktikko-helsinki.com
 kissen-suomi.shop
@@ -1247,6 +1264,7 @@ medassistanslascwlfinland.bond
 medassistaulfinland.bond
 medassistshaslfinland.bond
 mediatukipalvelut.net
+medibridgeukfinland.co.uk
 meilleuresoumission.com
 meindlhelsinki.com
 meine-leinwandbilder-suomi.shop
@@ -1494,6 +1512,7 @@ nichehelsinki.com
 nieuwbouw-elisabeth.online
 nigeriafinland.com
 nike-finland.com
+nike-helsinki.com
 nikefinland.org
 nikesportsuomis.com
 nikotiininurkka.com
@@ -1853,6 +1872,7 @@ provedotsuomi.com
 pruthviestates.com
 przeprowadzki-finlandia.com
 psuhholoogilineturvalisus.com
+ptr-autohuolto.com
 ptvfinland.com
 puffinland.net
 puhdasterveys.com
@@ -2352,6 +2372,7 @@ suomenmetalli.com
 suomenminimaailma.com
 suomenmuuttojakuljetus.com
 suomenmyyntiapu.com
+suomennuohousrekisteri.com
 suomenparhaatkohteet.com
 suomenparhaatlomat.com
 suomenparhaattarjoukset.online
@@ -3290,6 +3311,7 @@ viivi-helsinki.com
 villenpalvelut.com
 villisuomi.com
 vinkkipankki.net
+vinku-ja-hinku-atk-palvelut.com
 vintagetapahtumatsuomessa.com
 vintagevaatteetsuomi.com
 viora-helsinki.com
