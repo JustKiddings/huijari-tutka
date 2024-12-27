@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 26/12/2024 08:00 UTC
+# Last modified: 27/12/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -526,6 +526,7 @@ fashionclub-helsinki.com
 fearofgodessentialssuomi.com
 feeco-helsinki.com
 felcosuomi.com
+felidsuomi.store
 felizinpalvelut.com
 femalefounderssuomi.com
 fenixhelsinki.com
@@ -552,6 +553,7 @@ fiddledfylfotsfinland.sbs
 filmschoolfinland.com
 fin-mobilepay.com
 finansivalvonta.com
+finediningfinland.com
 finestsuomi.com
 finewinefinland.com
 finishitfinland.com
@@ -671,6 +673,7 @@ gunturvala.com
 guoyj.top
 gwearfinland.com
 gym-sharksuomi.com
+gymsfinland.click
 gymsharkfinlandstore.com
 haixsuomi.com
 hallintopalvelut-vayla.fit
@@ -711,6 +714,11 @@ helsinki-lsrb.rest
 helsinki-lsrc.rest
 helsinki-lsrd.rest
 helsinki-lsrf.rest
+helsinki-lsrg.rest
+helsinki-lsrh.rest
+helsinki-lsrj.rest
+helsinki-lsrk.rest
+helsinki-lsrl.rest
 helsinki-paris-train-tour-package.today
 helsinki-paris-train-tour-packages.today
 helsinki-pool-rental-353355716.live
@@ -1925,6 +1933,7 @@ returvaluta.com
 returvaluta.nu
 revero-fruit.com
 revero-shop.de
+reviewsuomenhotelit.com
 reviewsuomi.com
 rexel-finland.com
 rexelfinland.com
@@ -2581,6 +2590,7 @@ suomingy.com
 suominope.online
 suominopea.com
 suominopeatpelit.com
+suominu.com
 suomiolut.com
 suomionline.sbs
 suomipelikuuk.com
@@ -2614,6 +2624,7 @@ suomiservice.info
 suomisiivous.com
 suomisinkut.com
 suomisk8fam.net
+suomisk9.com
 suomisocialslots.com
 suomispeak.com
 suomispincasino.com
@@ -3108,6 +3119,7 @@ ushturvalapamyati.ru
 uudet-ilman-rekisteroitymista-fi.com
 uudet-ilman-rekisteroitymista.com
 uudetsuominettikasinot.com
+uutisetsuomi.xyz
 uwattshelsinki.com
 uwellsuomi.com
 uwinvapesuomi.com
