@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 27/12/2024 08:00 UTC
+# Last modified: 28/12/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -470,6 +470,7 @@ elfbarvapesuomi.com
 elkkeella-spankki.com
 elkkeellas-pankki.com
 elmiestenlodgeensear.fun
+elora-helsinki.com
 elotecfinland.com
 elotecfinland.info
 elotecfinland.net
@@ -537,6 +538,7 @@ festivohuolto.pro
 fezbet-suomi.com
 fi-elisa.com
 fi-icebugsuomi.com
+fi-mobiilikampanja.com
 fi-osuuspankki.com
 fi-spankki.com
 fi-spankkimobiili.com
@@ -550,6 +552,7 @@ fi-viestit.info
 fi-viestit.site
 fi-viestits.site
 fiddledfylfotsfinland.sbs
+filadisruptorsuomi.com
 filmschoolfinland.com
 fin-mobilepay.com
 finansivalvonta.com
@@ -719,12 +722,18 @@ helsinki-lsrh.rest
 helsinki-lsrj.rest
 helsinki-lsrk.rest
 helsinki-lsrl.rest
+helsinki-lsrm.rest
+helsinki-lsrn.rest
+helsinki-lsro.rest
+helsinki-lsrp.rest
 helsinki-paris-train-tour-package.today
 helsinki-paris-train-tour-packages.today
 helsinki-pool-rental-353355716.live
 helsinki-pools.com
 helsinki-rome-train-tours-packages.today
 helsinki-rovaniemi-rail-vacations.today
+helsinki-rtha.rest
+helsinki-rthb.rest
 helsinki-saintpetersburg-train-vacation.today
 helsinki-swimming-725325571.click
 helsinki-swimming-pool-325513898.today
@@ -905,6 +914,7 @@ insoumidating.com
 insoumisdecreteil.fr
 insta-finland.website
 instant-loan-for-you-finland.today
+insurancefinland.com
 insuranceluighghlfinland.bond
 insurancelujnuwlfinland.bond
 insurxlfinland.bond
@@ -1436,6 +1446,7 @@ motelrocksfinland.com
 motivapesuomi.com
 movetofinland.com
 moviestash.click
+moviestat.site
 moviestates.com
 moviestation.click
 moviestation.net
@@ -1788,6 +1799,7 @@ parhaat-ilman-rekisteroitymista.com
 parhaat-siivouspalvelut.bond
 parhaatsuomihotellit.com
 parhaatsuomiopas.online
+patagoniahelsinki.com
 patagoniasuomioutlet.com
 patriziapepefinland.com
 patternsfromfinland.com
@@ -1825,6 +1837,7 @@ pillerit-suomi.com
 pilviturva.lol
 pinkpalmpuff-finland.com
 pinkpalmpufffinland.com
+pinkpalmpuffsuomi.com
 playboy-finland.com
 playboyfinlandsuomi.com
 playwinsuomi.com
@@ -1836,6 +1849,7 @@ pokerhandsfinland.com
 polenebagssuomi.com
 polenefinland.com
 polenessuomi.com
+polenesuomi-fi.com
 polenesuomi.com
 polkcountyopa.org
 pool-cleaner-tyopaikat.online
@@ -1880,6 +1894,7 @@ provedotsuomi.com
 pruthviestates.com
 przeprowadzki-finlandia.com
 psuhholoogilineturvalisus.com
+psychedelicshopfinland.com
 ptr-autohuolto.com
 ptvfinland.com
 puffinland.net
@@ -2002,6 +2017,7 @@ salonasuntopalvelu.com
 sameda-kanta.com
 sammutinhuoltoketonen.com
 sandqvistsuomi.com
+sanriokauppasuomi.com
 santanahelsinki.com
 santasuomi.com
 sanuk-finland.com
@@ -2138,6 +2154,7 @@ soumik.blog
 soumikagura.site
 soumikbag.com
 soumikbengaltourism.com
+soumikbiz.com
 soumikchaudhuri.tech
 soumikd4.tech
 soumikmanna2441139.xyz
@@ -2235,6 +2252,7 @@ spankkimobiilifi.com
 spanx-suomi.com
 spectrmmobilepayment.com
 sports-suomi.com
+sporttisuomi.site
 sportyfinland.com
 spr-turvapassi.com
 spr-turvapassi.net
@@ -2546,6 +2564,7 @@ suomifront.com
 suomifun25.club
 suomifun25.info
 suomify.com
+suomigambleportal.com
 suomigame.com
 suomigems.com
 suomigroup.org
@@ -2559,6 +2578,7 @@ suomikanta.com
 suomikasi.cfd
 suomikasifreespins.click
 suomikasino.buzz
+suomikasinoinfo.com
 suomikasinolista.com
 suomikasinonodeposit.click
 suomikasinot2024.com
@@ -3119,6 +3139,7 @@ ushturvalapamyati.ru
 uudet-ilman-rekisteroitymista-fi.com
 uudet-ilman-rekisteroitymista.com
 uudetsuominettikasinot.com
+uutisetsuomi.com
 uutisetsuomi.xyz
 uwattshelsinki.com
 uwellsuomi.com
@@ -3385,6 +3406,7 @@ wellensteynfinland.com
 westernfinland.com
 whshensuomen.com
 winnerzsuomi.com
+winzonefinland.com
 worksfinland.com
 wotofosuomi.com
 www-elisa-fi.site
@@ -3471,6 +3493,7 @@ yhteys-suomi.site
 yhteys.ai
 yhteys.net
 yigitkulturvakfii.net
+youinfinland.com
 young-lafinland.com
 youngla-finland.com
 yourtraveltofinland.com
