@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 30/12/2024 08:00 UTC
+# Last modified: 31/12/2024 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -37,6 +37,7 @@ ahertajayrityspalvelu.com
 ahertajayrityspalvelu.online
 ai-suomi.com
 aidinkielenhuoltoasema.com
+aihuakantan.com
 aino-helsinki.com
 air-up-finland.com
 airjordanfinland.net
@@ -654,6 +655,7 @@ funinfinland.store
 funnyfinland.com
 futurehrpalvelut.com
 fuxionafinland.com
+fysiolinefinland.com
 gaborfinland.com
 gaborsuomi.com
 galleria1981helsinki.com
@@ -752,6 +754,12 @@ helsinki-mase.rest
 helsinki-masf.help
 helsinki-mfira.rest
 helsinki-mfirf.rest
+helsinki-mfirh.pics
+helsinki-mfiri.pics
+helsinki-mfirj.pics
+helsinki-mfirn.rest
+helsinki-mfiro.rest
+helsinki-mfirp.rest
 helsinki-mmcad.pics
 helsinki-mmcae.pics
 helsinki-mmcag.pics
@@ -944,6 +952,7 @@ ilmanrekisteroitymista.xyz
 ilsejacobsensuomi.net
 iltaviesti.com
 imupalvelu.com
+inaoyj.info
 inarinkylmahuolto.com
 india-holiday-package-deals-from-finland.today
 infinityopals.shop
@@ -951,6 +960,7 @@ info-suomen.site
 infomobiilimaksu.com
 infospankki.com
 inleifinland.pro
+innoluxfinland.com
 insoumidating.com
 insoumisdecreteil.fr
 insta-finland.website
@@ -1490,6 +1500,7 @@ moonsuomiboot.com
 mooseknucklesfinland.com
 mooseknucklesuomi.com
 morenipalvelut.com
+mosaicfinland.com
 motelrocksfinland.com
 motivapesuomi.com
 movetofinland.com
@@ -1561,6 +1572,7 @@ nettiapteekki-suomi.life
 nettiapteekkisuomi.life
 netticasinosuomi.shop
 netticasinosuomi.website
+nettikasinotilmanrekisteroitymista.bet
 nettikasinotilmanrekisteroitymista.org
 nettikasinotilmansuomenlisenssia.net
 nettipalvelu-suomi.site
@@ -1996,6 +2008,7 @@ reflexions-echanges-insoumis.org
 rekisterointi-nyt.com
 relepankki.com
 remonttimiespalvelut.online
+rentedinfinland.com
 reppufinland.com
 reterveystalo.com
 returvaluta.com
@@ -2182,6 +2195,7 @@ solovapesuomi.com
 soodapuhalluspalvelu.online
 sorel-helsinki.com
 sorelsuomi.net
+sossoumissionchimique.com
 soumi-online.sbs
 soumi-sports.com
 soumi.org
@@ -2232,6 +2246,7 @@ souminhamaquiadora.com
 souminoon.net
 souminstitut.com
 soumir.com
+soumisa.com
 soumisexxx.com
 soumisho.shop
 soumishsengupta.com
@@ -2500,6 +2515,7 @@ suomenrahoitusratkaisut.net
 suomensahkoautohuolto.com
 suomensahkoautokorjaamo.com
 suomenseikkailut.com
+suomensiemenpankki-fi.com
 suomentalousuutiset.blog
 suomentanssitapahtumat.com
 suomenterassicenter.com
@@ -2528,6 +2544,7 @@ suomi-ilman-rekisteroitymista.com
 suomi-infi.site
 suomi-info.sbs
 suomi-iptv.com
+suomi-iptv.shop
 suomi-kasinot.net
 suomi-kauppa.com
 suomi-kokemuksia.com
@@ -2984,6 +3001,7 @@ tilipalvelu.net
 tilipalvelutalous360.com
 tilisuomi.com
 timberland-suomi.net
+timbuk2suomi.com
 tinamasoumi.com
 tinyworldfinland.com
 tischdecke-suomi.shop
@@ -2996,6 +3014,7 @@ todennussuomi.com
 toimistopalvelu.online
 tokaifinland.com
 tokaifinland.online
+tokmannifinland.com
 tokomelisa.online
 tommyfinland.com
 tomorrowland-finland.com
@@ -3348,6 +3367,7 @@ vero-vital.net
 vero-vivida-herbals.com
 vero-wealth.com
 vero-well.com
+vero-zone.store
 veropalveluoyj.info
 verosa-suomi.com
 verosuomi.finance
