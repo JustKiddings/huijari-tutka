@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 01/01/2025 08:00 UTC
+# Last modified: 02/01/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -292,6 +292,7 @@ challengefinland.com
 champion-fightclubfinland.com
 changeinfinland.com
 chantelsoumis.net
+charldaviestattoos.com
 charlesfinland.com
 charlestyrwhitt-suomi.com
 chat-gpt-suomi.com
@@ -329,6 +330,7 @@ convero-enzyme.co.uk
 conversealesuomi.com
 converseallstarsuomi.com
 conversesuomi-fi.com
+conversesuomi.com
 coolcationinfinland.com
 copenhagen-helsinki-train-tour-package-offers.today
 corossuomi.com
@@ -573,6 +575,7 @@ filadisruptorsuomi.com
 filmschoolfinland.com
 fin-mobilepay.com
 finansivalvonta.com
+findajobinfinland.com
 finediningfinland.com
 finestsuomi.com
 finewinefinland.com
@@ -607,6 +610,7 @@ flyhelsinki.com
 fmoviesti.top
 folkfinland.com
 foodexfinland.com
+footurf-finland.com
 fortum-harcourt.com
 fortum-hermine.com
 fortum-stainton.com
@@ -746,6 +750,7 @@ helsinki-lsrm.rest
 helsinki-lsrn.rest
 helsinki-lsro.rest
 helsinki-lsrp.rest
+helsinki-mapd.rest
 helsinki-masa.rest
 helsinki-masb.rest
 helsinki-masc.rest
@@ -768,6 +773,7 @@ helsinki-mmcai.pics
 helsinki-mmcaj.pics
 helsinki-mnmaa.rest
 helsinki-mnmab.rest
+helsinki-moph.rest
 helsinki-paris-train-tour-package.today
 helsinki-paris-train-tour-packages.today
 helsinki-pool-rental-353355716.live
@@ -782,6 +788,7 @@ helsinki-rthf.rest
 helsinki-rthh.rest
 helsinki-rthi.rest
 helsinki-saintpetersburg-train-vacation.today
+helsinki-stockholm-rail-vacation.today
 helsinki-swimming-725325571.click
 helsinki-swimming-pool-325513898.today
 helsinki-talvella.com
@@ -856,6 +863,7 @@ helsinkisolar.com
 helsinkispin.bet
 helsinkiswingbigband.com
 helsinkitodolist.com
+helsinkitogo.com
 helsinkitransport.com
 helsinkiweather.info
 helsinkiww.net
@@ -965,6 +973,7 @@ insoumidating.com
 insoumisdecreteil.fr
 insta-finland.website
 instant-loan-for-you-finland.today
+instant-loan-in-finland-today.today
 insurancefinland.com
 insuranceluighghlfinland.bond
 insurancelujnuwlfinland.bond
@@ -1257,6 +1266,7 @@ loviisansammutinhuolto.com
 lskdsuomi.com
 ltp-siivouspalvelut.com
 lucas-suomela.com
+luckynordicfinland.com
 lukoisuomian.com
 lululemonsuomishop.com
 lulusuomi.net
@@ -1456,6 +1466,7 @@ mobilepaycasinot.com
 mobilepaycasinot.info
 mobilepaycasinot.net
 mobilepaycasinot.org
+mobilepayding.com
 mobilepaydirect.com
 mobilepaydk.link
 mobilepaydk.net
@@ -1798,6 +1809,7 @@ opturva.com
 oralbsuomi.com
 ordbadtravelcommoninfinland.com
 organduofinland.com
+orijensuomi.com
 ornavero-fi.com
 ornavero-fi.info
 ornavero-oy.com
@@ -1846,6 +1858,7 @@ palveluviestit.com
 palveluvoittogroup.com
 palvelux.com
 palveluyhteydet-suomi.site
+pandorajewelryfinland.com
 panki-fi.site
 pankki.nl
 pankkiasiakas.net
@@ -2080,6 +2093,7 @@ salomonfinland.com
 salomonhelsinki.com
 salomonsuomi-fi.com
 salomonsuomikokemuksia.com
+salomonsuomisale.com
 salomonsuomistore.com
 salonasuntopalvelu.com
 sameda-kanta.com
@@ -2137,6 +2151,7 @@ siggsuomi.com
 siggsuomis.top
 siivousalan-tyopaikat.online
 siivouspalvelu24hr.com
+siivouspalvelukiille.com
 siivouspalveluneilikat.com
 siivouspalvelupalo.com
 siivouspalvelut-liiketoiminta-1.online
@@ -2152,6 +2167,7 @@ silberringe-suomi.shop
 sinunturvapalvelu.com
 sipetakantahmorotai.com
 sisleysuomi.com
+skagensuomi.com
 skatingfinland.com
 skisuomi.com
 skullring-suomi.shop
@@ -2183,6 +2199,7 @@ smspalvelut-suomi.site
 smsviesti-fi.site
 sn-infosys-meet-helsinki.com
 snoopysuomi.com
+snxfinland.com
 socialfunfinland.com
 socialzonefinland.com
 socken-suomi.shop
@@ -2243,6 +2260,7 @@ souminecraft.com
 soumineirouai.com.br
 souminhachefa.com
 souminhamaquiadora.com
+souminimenon.com
 souminoon.net
 souminstitut.com
 soumir.com
@@ -2896,6 +2914,7 @@ tarjousketsuomessa.website
 tarjousketsuomessa.world
 tarjousketsuomessa.xyz
 taschefinland.com
+tawabilmaghniasoumicha.shop
 tbsuomi.com
 team-kantals.xyz
 tedbakerssuomi.com
@@ -3348,6 +3367,7 @@ vero-quibusdam.com
 vero-quis.site
 vero-retouch.ru
 vero-ro.com
+vero-roma.com
 vero-skin.com
 vero-sms.com
 vero-soluta.site
@@ -3559,6 +3579,7 @@ xn--shktyturvallisuuskortti-v7b66bc.online
 xn--suomenhtvara-mcbb.com
 xn--suomenshkautohuolto-mwb49a.com
 xn--suomenshkautokorjaamo-c2b03b.com
+xn--tulkkaus-jaknnspalveluhatemelsayed-m4ca28d.com
 xn--turvakengt-y5a.com
 xn--tykonehuolto-5ib.com
 xn--tyturvakortti-jmb.com
