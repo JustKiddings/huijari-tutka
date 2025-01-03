@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 02/01/2025 08:00 UTC
+# Last modified: 03/01/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -102,6 +102,8 @@ arenasuomiuinti.com
 ariatsuomioutlet.com
 artbooksfinland.com
 arthelsinki.com
+artsanfinland.com
+artsanfinland.net
 arvokoruhelsinki.com
 asennuspalvelujoku.com
 asiakas-saastopanki.site
@@ -813,6 +815,7 @@ helsinkicasifreespins.click
 helsinkicasinonodeposit.click
 helsinkicoach.com
 helsinkicoffeeweeks.com
+helsinkicompany.com
 helsinkicurrent.com
 helsinkidancestudio.com
 helsinkidesignschool.net
@@ -1226,6 +1229,7 @@ lenkkaritfinland.com
 lentokenttahotellihelsinki.com
 leovegassuomi.com
 letsgowithsoumia.com
+leuoyj.shop
 levinmokkihuolto.com
 libertyopalillustration.com
 lifecoachsoumia.com
@@ -1516,6 +1520,7 @@ motelrocksfinland.com
 motivapesuomi.com
 movetofinland.com
 moviestash.click
+moviestash.net
 moviestat.site
 moviestates.com
 moviestation.click
@@ -1739,6 +1744,7 @@ oma-posti.site
 oma-rapeti.com
 oma-sexanzeigen.com
 oma-sextreffen.ch
+oma-shop.com
 oma-slot.site
 oma-smash.ch
 oma-smash.com
@@ -2017,6 +2023,7 @@ raycon-suomi.com
 rcepthelsinkisw.shop
 rdsiivouspalvelut.com
 redumbrellatourshelsinki.com
+redvalentinosuomi.com
 reflexions-echanges-insoumis.org
 rekisterointi-nyt.com
 relepankki.com
@@ -2081,6 +2088,7 @@ s-siivouspalvelut.com
 s-steel-finland.com
 s-terveys.com
 saappaatdopefinland.com
+saappaatsuomi.com
 saaristohuolto.net
 saaspankki.com
 saaviestates.com
@@ -2355,6 +2363,7 @@ stanleysuomi.com
 starburst-game-finland.site
 startupsuomi.org
 starzonefinland.net
+steelcraftfinland.com
 stefanini-finland.com
 stephiesuomiswashy.sbs
 sterveys.com
@@ -3035,6 +3044,7 @@ tokaifinland.com
 tokaifinland.online
 tokmannifinland.com
 tokomelisa.online
+tommy-hilfiger-suomi.com
 tommyfinland.com
 tomorrowland-finland.com
 tomskengat-suomi.com
@@ -3279,6 +3289,7 @@ vapesuomi.com
 vapetukkumyyntisuomi.com
 vapsolosuomi.com
 varausuomi.online
+varmaoyj.com
 varmennussuomi.com
 varmistasuomi.com
 veiikvapesuomi.com
