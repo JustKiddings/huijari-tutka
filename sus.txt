@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 03/01/2025 08:00 UTC
+# Last modified: 04/01/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -65,6 +65,7 @@ allekirjoituspalvelu.net
 allhotelsuomi.com
 alohahelsinki.com
 alurahelsinkishop.com
+alure-helsinki.com
 ambiehelsinki.com
 amchamfinland.net
 anadolukulturvakfi.net
@@ -100,6 +101,7 @@ arcticafinland.com
 arenasuomi-fi.com
 arenasuomiuinti.com
 ariatsuomioutlet.com
+armobilepay.com
 artbooksfinland.com
 arthelsinki.com
 artsanfinland.com
@@ -304,6 +306,7 @@ chillysfinland.com
 chillyssuomi.com
 cirkulsuomi.com
 cityopal.com
+citytours-finland.com
 clarksshoesfinland.com
 clickhelsinki.com
 cloudsaastopanki.site
@@ -437,6 +440,7 @@ drmarten-suomi.com
 drmartensfinland.com
 drmartenssuomifi.com
 drmasoumidrugstor.com
+drmirmasoumi.com
 drsoumikghosh.com
 drsoumitraghosh.in
 dsafinland.com
@@ -646,6 +650,7 @@ freight-forwarders-finland-910620832.world
 freight-forwarders-finland-976873170.today
 freshcasinosuomi.com
 frostsuomi.xyz
+frostyopalglow.store
 fruit-packaging-jobs-finland.today
 fruityfinland.com
 fssuomei.com
@@ -715,6 +720,7 @@ happypalvelut.com
 harleydavidsonsuomi.com
 hatas-helsinki.com
 hatssoumi.site
+hattufinland.top
 hauskaasuomessa.com
 hausschuhe-suomi.shop
 haustierbedarf-suomi.shop
@@ -976,6 +982,7 @@ insoumidating.com
 insoumisdecreteil.fr
 insta-finland.website
 instant-loan-for-you-finland.today
+instant-loan-for-youu-finland.today
 instant-loan-in-finland-today.today
 insurancefinland.com
 insuranceluighghlfinland.bond
@@ -1317,6 +1324,7 @@ marsvenuscoachingfinland.com
 masoumiamlak.com
 masoumibrush.com
 maspalvelut.com
+massimoduttifinland.com
 mastergastrofinland.com
 masterveyor.com
 matkahuolto-maksu-fi.online
@@ -1348,6 +1356,7 @@ maxmarasuomi.com
 maxvero-bd.com
 mayasiivouspalvelut.com
 mbtsuomi-fi.com
+mckeown-fortum.com
 me-suomi.site
 medassistanslascwlfinland.bond
 medassistaulfinland.bond
@@ -1457,6 +1466,7 @@ mobilepay.help
 mobilepay.llc
 mobilepay.nu
 mobilepay.site
+mobilepay24.com
 mobilepayandremit.com
 mobilepaybank.com
 mobilepaycasino-fi.top
@@ -2277,6 +2287,7 @@ soumisexxx.com
 soumisho.shop
 soumishsengupta.com
 soumission-asdm.com
+soumission-assurance.com
 soumission-non.ch
 soumission-rapide.com
 soumission-referencement.com
@@ -2371,6 +2382,7 @@ stevemadenssuomi.com
 stevesmadensuomi.com
 stillkissen-suomi.shop
 stitchtoyhelsinki.com
+stockholm-helsinki-rail-vacation.today
 stockholm-helsinki.com
 stogasuomicsvamin.fun
 strandkleid-suomi.shop
@@ -2847,6 +2859,7 @@ taigatrekfinland.com
 taiwanmobilepay.diy
 takanta.online
 takeyasuomi.com
+takkifinland.top
 taksipalvelu-koikkalainen.com
 talentsyncfinland.com
 talouspalvelu.com
@@ -3076,6 +3089,7 @@ trafco.partners
 trafco.uk
 trafcodisp.ru
 trafcogroup.com
+trafcoin.com
 trafcom-fi.info
 trafcom-fin.info
 trafcom-oyj.info
@@ -3317,6 +3331,7 @@ verkkoyhteys-suomi.site
 vero--green.com
 vero-0.sbs
 vero-1.sbs
+vero-24.com
 vero-ab.site
 vero-aesthetics.com
 vero-agency.com
@@ -3361,6 +3376,7 @@ vero-kumamoto.com
 vero-labs.com
 vero-luma.com
 vero-minus.site
+vero-moda-nl.shop
 vero-modade.com
 vero-modaeinkaufen.com
 vero-modaverkauf.com
@@ -3384,6 +3400,7 @@ vero-sms.com
 vero-soluta.site
 vero-soto.com
 vero-sports.com
+vero-strength.com
 vero-suomi.com
 vero-suomi.sbs
 vero-thoi-mien.com
@@ -3411,6 +3428,7 @@ viaggihelsinki.com
 vialore-helsinki.com
 victorias-secretsuomi.com
 victoriassecret-suomi.com
+videoconferencefinland.today
 videohelsinki.com
 vierellasihyvinvointipalvelut.com
 viesta-spankii.site
