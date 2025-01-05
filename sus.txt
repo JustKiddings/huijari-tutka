@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 04/01/2025 08:00 UTC
+# Last modified: 05/01/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -420,6 +420,7 @@ digitoimistopalvelu.online
 digivero-energy.de
 dininghelsinki.info
 diviestate.com
+djpalvelu.com
 dk-mobilepay.info
 dlr-huolto-ja-pesu.com
 dnrhelsinki.com
@@ -471,6 +472,7 @@ edunvalvontavaltakirja.com
 egitimkulturvakfi.com
 egitimkulturvakfi.org
 egitimkulturvakfi.xyz
+eid-konto-mobilepay.mobi
 eidbroker-mobilepay.fyi
 ekoterveys.com
 eksklusiivisetsuomi.com
@@ -641,6 +643,7 @@ fourleafclovergamesfinland.com
 france-insoumise.com
 france-insoumise.fr
 freecasinofinland.com
+freehelsinkitours.com
 freeplayfinland.com
 freeplayssuomi.com
 freesocialcasinofinland.com
@@ -670,6 +673,7 @@ fysiolinefinland.com
 gaborfinland.com
 gaborsuomi.com
 galleria1981helsinki.com
+galleriakivipankki.com
 gameroomfinland.com
 gantfinland.com
 gantoutletsuomi.com
@@ -798,6 +802,7 @@ helsinki-rthi.rest
 helsinki-saintpetersburg-train-vacation.today
 helsinki-stockholm-rail-vacation.today
 helsinki-swimming-725325571.click
+helsinki-swimming-907380973.click
 helsinki-swimming-pool-325513898.today
 helsinki-talvella.com
 helsinki.baby
@@ -1156,6 +1161,7 @@ kiropraktiikkahelsinki.com
 kiropraktikko-helsinki.com
 kissen-suomi.shop
 kivaasuomessa.online
+kivipankki.com
 kkpapulaispalvelut.com
 kmpanja-spankki.com
 koirapalvelukoivunen.com
@@ -1465,6 +1471,7 @@ mobilepay.digital
 mobilepay.help
 mobilepay.llc
 mobilepay.nu
+mobilepay.pro
 mobilepay.site
 mobilepay24.com
 mobilepayandremit.com
@@ -1847,6 +1854,7 @@ oy-trafcom.info
 oyj-trafcom.info
 oytrafcom.info
 ozempicsuomi247.com
+ozempicsuomi247.net
 paapankki.com
 pajar-finland.com
 pajarsuomi.com
@@ -1913,6 +1921,7 @@ perintapalvelu.net
 perlenarmband-suomi.shop
 persevero-watches.com
 peterveyt.com
+phautohuolto.com
 phfinland.com
 pi-medical-finland.com
 pia-palvelut.com
@@ -2135,6 +2144,7 @@ sauconysuomioutlet.com
 sauna-manufacturers-finland-146688915.today
 sauna-manufacturers-finland-783346085.today
 sauna-suppliers-finland-128528036.live
+saunas-finland-136215910.click
 saunas-finland-172191398.click
 savon-dronepalvelut.com
 savondronepalvelut.com
@@ -2172,6 +2182,7 @@ siivouspalvelu24hr.com
 siivouspalvelukiille.com
 siivouspalveluneilikat.com
 siivouspalvelupalo.com
+siivouspalvelut-annika.com
 siivouspalvelut-liiketoiminta-1.online
 siivouspalvelut-liiketoiminta-fi.online
 siivouspalvelut-liiketoiminta.online
@@ -2385,6 +2396,7 @@ stitchtoyhelsinki.com
 stockholm-helsinki-rail-vacation.today
 stockholm-helsinki.com
 stogasuomicsvamin.fun
+stradivariusfinland.com
 strandkleid-suomi.shop
 stsiivouspalvelut.com
 stussy-suomi.com
@@ -2691,6 +2703,7 @@ suomiiptv.net
 suomijy.com
 suomikanta.com
 suomikasi.cfd
+suomikasi.sbs
 suomikasifreespins.click
 suomikasino.buzz
 suomikasinoinfo.com
@@ -2746,6 +2759,7 @@ suomirani.xyz
 suomirata.site
 suomiratings.com
 suomirealty.com
+suomirent.com
 suomiresortcasino.com
 suomireview.com
 suomisaunas.co
@@ -2764,6 +2778,7 @@ suomisocialslots.com
 suomispeak.com
 suomispincasino.com
 suomispinfi.com
+suomispinfin.com
 suomispinnas.com
 suomispinners.com
 suomispins.net
