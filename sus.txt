@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 05/01/2025 08:00 UTC
+# Last modified: 06/01/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -107,6 +107,7 @@ arthelsinki.com
 artsanfinland.com
 artsanfinland.net
 arvokoruhelsinki.com
+asailfinland.com
 asennuspalvelujoku.com
 asiakas-saastopanki.site
 asiakas-saatopanki.site
@@ -402,6 +403,7 @@ deltastateassociationfinland.com
 deluxhelsinki.com
 demoniacultssuomi.com
 demoniasuomifi.com
+demoteamfinland.com
 dental-implants-finland-586.bond
 descentesuomi.com
 designemuseumfinland.com
@@ -834,6 +836,7 @@ helsinkidigitalhouse.com
 helsinkidogshome.com
 helsinkiduckstore.com
 helsinkieast.aero
+helsinkieats.com
 helsinkiescort.com
 helsinkifestival.org
 helsinkiff.com
@@ -845,6 +848,7 @@ helsinkifilmlab.pro
 helsinkifilmmarket.com
 helsinkifilmmarket.online
 helsinkifinland.buzz
+helsinkiflow.com
 helsinkigame.biz
 helsinkigamelab.com
 helsinkigamelab.online
@@ -1859,6 +1863,7 @@ paapankki.com
 pajar-finland.com
 pajarsuomi.com
 pakkosuomea.xyz
+palasuomi.ru
 palladiumkengatsuomi.com
 palladiumskengatsuomi.com
 palladiumsuomiale.com
@@ -1921,6 +1926,7 @@ perintapalvelu.net
 perlenarmband-suomi.shop
 persevero-watches.com
 peterveyt.com
+petitervey.shop
 phautohuolto.com
 phfinland.com
 pi-medical-finland.com
@@ -3214,6 +3220,7 @@ turvallinen.chat
 turvallinenlaite.com
 turvallinenmatkapuhelin.com
 turvallinenmatkapuhelin.top
+turvallinensuomi.com
 turvalliset-kasinot.com
 turvallisetlisensoimattomatkasinot.com
 turvallisus.com
@@ -3328,6 +3335,7 @@ vejasuomi-fi.top
 velarahelsinki.com
 velkapalvelu.com
 velvero-team.com
+venla-helsinki.com
 venum-finland.com
 verificer-mobilepay.com
 verkkaponki-kirjaudu.com
@@ -3375,6 +3383,7 @@ vero-error.site
 vero-est.site
 vero-esthetique.com
 vero-eu.shop
+vero-fi-mytax.com
 vero-fi.sbs
 vero-fiber.com
 vero-finanx.com
@@ -3492,6 +3501,7 @@ viestit-suomifi.site
 viestitse-suomi.site
 viikinautohuolto.com
 viivi-helsinki.com
+vikra-helsinki.com
 villenpalvelut.com
 villisuomi.com
 vinkkipankki.net
@@ -3545,6 +3555,7 @@ vozolhelsinki.com
 vozolsuomi.net
 vozolvapesuomi.com
 vrterveystalo.com
+vuori-suomi.com
 vv-autohuolto.com
 vvhuolto.online
 walletohelsinki.com
