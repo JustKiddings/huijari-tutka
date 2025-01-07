@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 06/01/2025 08:00 UTC
+# Last modified: 07/01/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -60,6 +60,7 @@ aleppo-finlandian.info
 alibarbarvapesuomi.com
 alimasoumi.info
 alisapankki.online
+allbirdssuomi-fi.com
 allekirjoituspalvelu.com
 allekirjoituspalvelu.net
 allhotelsuomi.com
@@ -159,6 +160,7 @@ aviestatic.tech
 axelarigato-helsinki.com
 ayshensuomen.com
 b2bfinland.net
+babyboofashionsuomi.com
 babyschuhe-suomi.shop
 backend-kehittajan-tyopaikat-suomi.cfd
 backformen-suomi.shop
@@ -190,6 +192,7 @@ bazargani-massoumi.com
 be-vero-louange.com
 bearpawfinland.com
 beautyopa.com
+beautyopathy.com
 beautysalonsaharmasoumi.com
 beerfromfinland.com
 befreshsuomi.com
@@ -612,6 +615,7 @@ fitnessgerate-suomi.shop
 fitsflopssuomi.com
 fix-delivero-ae.com
 fix-delivero-kw.com
+fixerhelsinki.com
 fl-trafcom.info
 flealux-finland.com
 flexpalvelut.com
@@ -788,6 +792,7 @@ helsinki-mmcaj.pics
 helsinki-mnmaa.rest
 helsinki-mnmab.rest
 helsinki-moph.rest
+helsinki-mpl-drb.info
 helsinki-paris-train-tour-package.today
 helsinki-paris-train-tour-packages.today
 helsinki-pool-rental-353355716.live
@@ -812,6 +817,7 @@ helsinki.christmas
 helsinki.games
 helsinki.lat
 helsinki.luxury
+helsinki.rent
 helsinki.tips
 helsinki.tours
 helsinki10000.com
@@ -873,7 +879,9 @@ helsinkinotebooks.com
 helsinkioutletskechers.com
 helsinkipizzakebab-antwerpen.be
 helsinkipremierhotel.com
+helsinkiproductionservices.com
 helsinkiprofessionals.com
+helsinkirep.com
 helsinkis.top
 helsinkisensualweekend.com
 helsinkislipper.com
@@ -1049,6 +1057,7 @@ jalmarinliikkuvapyorahuolto.com
 jamptipalvelut.com
 jannittavasuomi.com
 jansportssuomi.com
+jansportsuomi-fi.com
 jarvinenhelsinki.com
 jathaviestates.com
 jatkokoulutuspalvelu.com
@@ -1477,6 +1486,7 @@ mobilepay.llc
 mobilepay.nu
 mobilepay.pro
 mobilepay.site
+mobilepay.website
 mobilepay24.com
 mobilepayandremit.com
 mobilepaybank.com
@@ -1621,6 +1631,7 @@ neweracapsuomi.com
 neweralippis.com
 neweralippisuomi.com
 newerasuomis.com
+newhelsinkibrassquintet.com
 newrocksuomi.com
 newterveystalo.com
 nfcmobilepay.com
@@ -1994,6 +2005,9 @@ privatlan-finland.bond
 procurementlawyersfinland.com
 prodjfinland.com
 prodjfinland.org
+productionservicefinland.com
+productionservicesfinland.com
+productionserviceshelsinki.com
 produkti-iz-finlandii-v-moskve.ru
 profilefinland.com
 profinland.shop
@@ -2039,6 +2053,7 @@ rakennuspalvelu-m-ahonen-tmi.com
 rakennuspalveluoap.com
 rakennustietopankki.com
 ralph-lauren-suomi.com
+rannikonkonehuolto.com
 raphafinland.com
 rasvero-service.ru
 ravintoterveys.net
@@ -2071,6 +2086,7 @@ ridgidsuomi.com
 riekersuomi.com
 riippumatot-suomi.shop
 rintaliivitfinland.com
+ripndipsuomi-fi.com
 ristosisko-helsinki.com
 riverislandsuomi.net
 rivero-automotive.se
@@ -2887,6 +2903,7 @@ talouspalvelu.com
 talousviesti.com
 tampereenhautauspalvelu.com
 tansuomedia.com.tw
+tantrasecretshelsinki.com
 tanzschuhe-suomi.shop
 taofinland.com
 tapahtumasuomi.net
@@ -3616,6 +3633,8 @@ xn--kasinot-ilman-suomen-lisenssi-tqc.net
 xn--kasinot-ilman-suomi-lisenssi-xnc.com
 xn--kiinteistpalvelut-7zb.net
 xn--kitvero-suplementos-0vb.online
+xn--kylmlaitehuolto-3kb.com
+xn--kylmpalvelu-o8a.com
 xn--lastenhoitopalveluleikkis-9ec.com
 xn--levinmkkihuolto-etb.com
 xn--lhipyorhuolto-bfbg.com
