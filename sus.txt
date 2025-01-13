@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 12/01/2025 08:00 UTC
+# Last modified: 13/01/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -14,6 +14,7 @@
 2024-omavero.info
 2024-omavero.net
 2024-omavero.xyz
+27ooyj.us
 4tturva.com
 5-popankki-fi.com
 5soumissionsevaluation.com
@@ -86,6 +87,7 @@ ankara-finlandian.info
 anker-suomi.com
 ankerfinland.com
 ankersuomi.com
+annankotipalvelu.com
 anvero-group.com
 anyasoumi.com
 aomaeyokqgsuomii.xyz
@@ -593,6 +595,7 @@ festivohuolto.pro
 fezbet-suomi.com
 fi-elisa.com
 fi-icebugsuomi.com
+fi-mobiili-kampanja.com
 fi-mobiilikampanja.com
 fi-osuuspankki.com
 fi-spankki.com
@@ -678,6 +681,7 @@ fourleafclovergamesfinland.com
 france-insoumise.com
 france-insoumise.fr
 freecasinofinland.com
+freedivingfinland.net
 freehelsinkitours.com
 freeplayfinland.com
 freeplayssuomi.com
@@ -730,7 +734,9 @@ glar-helsinki.ru
 globalmobilepay.africa
 globesuomi.com
 glowtouchoffinland.shop
+goldfinland.com
 goldstarmobilepay.xyz
+gollandsky-shturval.ru
 gorewearsuomi.com
 goterveystalo.com
 goyard-suomi.com
@@ -858,6 +864,7 @@ helsinki10000.com
 helsinki2017.com
 helsinki5000.com
 helsinkiaamu.org
+helsinkiadorn.com
 helsinkiaitio.com
 helsinkiapartments166494.icu
 helsinkiapartments833119.icu
@@ -1291,6 +1298,8 @@ lastenhoitopalvelupikkupanda.com
 lastenvaunut-suomi.shop
 laterveystalo.com
 lattiapalveluroyal.com
+laurinlivepalvelu.com
+laurinlivepalvelut.com
 lavera-helsinki.com
 lavero-helsinki.com
 lavero-shop.com
@@ -2388,6 +2397,7 @@ soumiaimmobilier.com
 soumiam.com
 soumiao.net
 soumiasfit.com
+soumiashop.com
 soumiatique.com
 soumiayahiaoui.com
 soumic.com
@@ -3242,6 +3252,7 @@ tokmannifinland.com
 tokomelisa.online
 tommy-hilfiger-suomi.com
 tommyfinland.com
+tomoffinland.co.uk
 tomorrowland-finland.com
 tomskengat-suomi.com
 tonybiancosuomi.net
@@ -3700,6 +3711,7 @@ vintagevaatteetsuomi.com
 viora-helsinki.com
 vipkasinotsuomi.com
 vippsmobilepay.info
+vippsmobilepay.net
 vippsmobilepay.nu
 virelasuomi.com
 virikepalveluseija.pro
