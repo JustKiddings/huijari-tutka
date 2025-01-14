@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 13/01/2025 08:00 UTC
+# Last modified: 14/01/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -92,6 +92,7 @@ anvero-group.com
 anyasoumi.com
 aomaeyokqgsuomii.xyz
 aosuomeng.net
+aoyj.cn
 apalvelut.com
 apikulturvakfi.com
 apikulturvakfi.org
@@ -142,6 +143,7 @@ asicssuomioutlet.com
 asiicssuomi.net
 asiointisuomi.com
 asoumi.com
+asoypalvelut.com
 assuranceviesoumissions.com
 asuomitv.com
 athanasiagiasoumi.com
@@ -655,6 +657,7 @@ fmoviesti.top
 folkfinland.com
 foodexfinland.com
 footurf-finland.com
+formulasoumilionaria.site
 fortum-harcourt.com
 fortum-hermine.com
 fortum-stainton.com
@@ -670,6 +673,7 @@ fortumatic.com
 fortumejack.com
 fortumfix.info
 fortumfln.com
+fortumholdings.ltd
 fortumnet.nu
 fortumon.com
 fortumoy.com
@@ -775,6 +779,7 @@ healthycoffeehelsinki.com
 heatlhincubatorhelsinki.com
 heatlhincubatorhelsinki.pro
 hedgren-finland.com
+heifromfinland.com
 heikkinen-helsinki.com
 heikkinenhelsinki.com
 hellemmesinsoumise.fr
@@ -1172,6 +1177,7 @@ kantapalvelut-tunnistautuminen.com
 karajafinland.com
 karlkanisuomi.com
 karllagerfeldsuomi.com
+karshenasimasoumi.ir
 karttapalvelut.com
 kartyakevero-gep-az-en.shop
 kartyakevero-gep.shop
@@ -1279,6 +1285,7 @@ kuvauspalvelurintala.com
 la-monipalvelu.com
 laakehoidonturva.com
 lacostenfinland.com
+ladore-helsinki.com
 laffinland.com
 lafranceinsoumise.vote
 laina-suomi.com
@@ -1360,6 +1367,7 @@ longchampfinland.top
 longchamplaukkusuomi.com
 longchampsuomi.com
 longchampsuomifi.com
+look-finland.com
 lornajanesuomi.com
 lostmarysuomi.com
 lot-helsinki-sauna-870970932.world
@@ -1401,6 +1409,7 @@ makantanah.com
 makantaneku.com
 makantangan.store
 makantashelcom.com
+makantasis.gr
 makea-viesti.com
 manoloblahniksuomi.com
 many-helsinki-events-756119764.today
@@ -1938,6 +1947,7 @@ op-tiliturva.com
 op-turva.com
 op-turvattu.com
 opanki.com
+openstagefinland.com
 opisuomi-school.ru
 oppankii.com
 opturva.com
@@ -2287,6 +2297,7 @@ seek-mobilepaymonthlyau.info
 seek-mobilepaymonthlyca.info
 seek-mobilepaymonthlyfrca.info
 seikosuomi.com
+sekura-kantahlambar.id
 selestakantaron.com
 selkopalvelu.online
 sendrabootssuomi.net
@@ -2387,6 +2398,7 @@ soumi-online.sbs
 soumi-sports.com
 soumi.org
 soumiabeauty.com
+soumiabenchikh.com
 soumiabouamoud.com
 soumiacademy.com
 soumiacollection.com
@@ -2446,6 +2458,7 @@ soumission-assurance.com
 soumission-non.ch
 soumission-rapide.com
 soumission-referencement.com
+soumissionario.com.br
 soumissionassurance.online
 soumissionassuranceauto.com
 soumissionassurancecollective.com
@@ -2468,8 +2481,10 @@ soumissionsconstructeurs.ca
 soumissionsebenisterie.ca
 soumissionsentretienmenager.ca
 soumissionsfitness.ca
+soumissionsgaragecabanon.ca
 soumissionsinfiltrations.ca
 soumissionsmateriaux.ca
+soumissionspoutrelleschevrons.ca
 soumissionspro.com
 soumissionsrevetementinterieur.ca
 soumissionssaguenay.ca
@@ -2536,6 +2551,7 @@ steelcraftfinland.com
 stefanini-finland.com
 stephiesuomiswashy.sbs
 sterveys.com
+stevemaddeninsuomi.com
 stevemadenssuomi.com
 stevesmadensuomi.com
 stillkissen-suomi.shop
@@ -2792,6 +2808,7 @@ suomi.locker
 suomi.media
 suomi.nu
 suomi.tech
+suomi.uk
 suomi001-fi.site
 suomi01-fi.site
 suomi07-fi.site
@@ -2946,6 +2963,7 @@ suomisinkut.com
 suomisk8fam.net
 suomisk9.com
 suomisocialslots.com
+suomispa.com
 suomispeak.com
 suomispincasino.com
 suomispinfi.com
@@ -3239,6 +3257,7 @@ tinamasoumi.com
 tinyworldfinland.com
 tischdecke-suomi.shop
 tissotsuomi.com
+tistelgren-helsinki.com
 tmi-peppi-stiina-ahti-liikuntapalvelut.com
 tn-palvelu.com
 tnorthface-suomi.com
@@ -3485,6 +3504,8 @@ vahvistaakaa.info
 vahvistaheti.com
 vahvistasuomi.com
 vahvistathan.info
+vahvistavacoach.com
+vahvistavacoaching.com
 vahvistettaisiinked.xyz
 vahvistuijgg.xyz
 vahvistus-fi.com
@@ -3500,6 +3521,7 @@ valintaopasfinland.com
 valipalvelu.com
 valopilkkuhelsinki.com
 valopilkkuhelsinki.net
+valvonia.sk
 valvonix.com
 valvontakamerat-design.shop
 valvontakamerat.shop
@@ -3758,6 +3780,7 @@ vozolsuomi.net
 vozolvapesuomi.com
 vrterveystalo.com
 vuokatintaxipalvelu.com
+vuolo-helsinki.com
 vuori-suomi.com
 vv-autohuolto.com
 vvhuolto.online
@@ -3778,6 +3801,7 @@ wodka-finlandia.pl
 workofsoumik.com
 worksfinland.com
 wotofosuomi.com
+wptafinland.com
 www-elisa-fi.site
 www-elisa.site
 www-op-fi.com
