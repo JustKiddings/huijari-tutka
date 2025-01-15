@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 14/01/2025 08:00 UTC
+# Last modified: 15/01/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -79,6 +79,7 @@ amchamfinland.net
 anadolukulturvakfi.net
 anaistentation.com
 anfrapalvelut.com
+angoulemeinsoumise.fr
 aniaautopalvelu.com
 animaltourismfinland.com
 aninebing-suomi.com
@@ -408,6 +409,7 @@ deittisuomi.com
 deliivero-fix.com
 delivero-ae-chocolatier.com
 delivero-ae-fix.com
+delivero-ae.com
 delivero-aee.com
 delivero-chocolatier.com
 delivero-fixae.com
@@ -580,6 +582,7 @@ fadimanfellnerfinland.art
 fairtexfinland.com
 falkesuomi.com
 fanclubfinland.com
+fanclubsfinland.com
 fanipaitasuomi.com
 farmaseuttinen-pakkaus-tyopaikat.xyz
 fashionclub-helsinki.com
@@ -658,6 +661,7 @@ folkfinland.com
 foodexfinland.com
 footurf-finland.com
 formulasoumilionaria.site
+fortum-energia.online
 fortum-harcourt.com
 fortum-hermine.com
 fortum-stainton.com
@@ -738,6 +742,7 @@ glar-helsinki.ru
 globalmobilepay.africa
 globesuomi.com
 glowtouchoffinland.shop
+go-soumission.com
 goldfinland.com
 goldstarmobilepay.xyz
 gollandsky-shturval.ru
@@ -1200,6 +1205,7 @@ kaunissuomi.com
 kaupanvahvistajamikaloppi.com
 kedsfinland.com
 kedssuomi.shop
+keenfinland.com
 kehystyspalvelunelilehti.com
 kela-fi.top
 kela-finn.com
@@ -1289,11 +1295,13 @@ ladore-helsinki.com
 laffinland.com
 lafranceinsoumise.vote
 laina-suomi.com
+lainaturva.com
 laine-helsinki.com
 lainturva.com
 laitehuolto.com
 laitteenturvallisuus.com
 lakimies-helsinki.com
+lameva-helsinki.com
 lampopalveluhr.com
 landyhelsinki.com
 lanovahelsinki.com
@@ -1889,6 +1897,7 @@ oma-talley-design.org
 oma-tech.com
 oma-trading-zfn.xyz
 oma-trubel.de
+oma-up.org
 oma-vergisst.at
 omaaelisa.site
 omaakantaa-fi.net
@@ -1933,6 +1942,7 @@ online-s-pankkil.online
 online-saatopanki.site
 online-suomi.site
 onlineasiakas-suomi.site
+onlinedatingfinland.today
 onlinekontakti-suomi.site
 onlinepalvelu-suomi.site
 onlineyhteydet-suomi.site
@@ -2083,6 +2093,7 @@ polenessuomi.com
 polenesuomi-fi.com
 polenesuomi.com
 polkcountyopa.org
+ponyedgefinland.com
 pool-cleaner-tyopaikat.online
 pop-pankki.biz
 pop-pankki.club
@@ -2186,6 +2197,7 @@ reppufinland.com
 reterveystalo.com
 returvaluta.com
 returvaluta.nu
+revela-helsinki.com
 revero-fruit.com
 revero-shop.de
 reviewsuomenhotelit.com
@@ -2222,6 +2234,7 @@ s-mobiili.online
 s-mobiilielakkeella.com
 s-mobiilielakkeellaa.com
 s-mobiilifikampamja.com
+s-mobiilikampanja.com
 s-mobiilispankki.com
 s-mobiilispankki.online
 s-pankki-asiakaspalvelu-fi-tietosi-iisiit.ru
@@ -2339,6 +2352,7 @@ siivouspalvelutsusaoikarinen.com
 sijaisautopalvelu.com
 siksilkfinland.com
 silberringe-suomi.shop
+silkiehelsinki.com
 silmu-helsinki.com
 sinunturvapalvelu.com
 sipetakantahmorotai.com
@@ -2475,8 +2489,10 @@ soumissionnon.ch
 soumissionprethypothecaire.com
 soumissionresidentielle.xyz
 soumissions-assurances.ca
+soumissionsarmoiresdecuisine.ca
 soumissionsassurance.com
 soumissionsassurancevieenligne.com
+soumissionsceramique.ca
 soumissionsconstructeurs.ca
 soumissionsebenisterie.ca
 soumissionsentretienmenager.ca
@@ -2539,6 +2555,7 @@ spr-turvapassi.com
 spr-turvapassi.net
 ssbdfinland.com
 ssl-omavero.com
+ssuomiibrilliantballs.com
 stair-lift-finland.bond
 stanleycupfinland.com
 stanleyfinland.com
@@ -2766,6 +2783,7 @@ suomi-ed.com
 suomi-education.com
 suomi-education.online
 suomi-fans.com
+suomi-fi.icu
 suomi-id.one
 suomi-ilman-rekisteroitymista.com
 suomi-infi.site
@@ -2963,6 +2981,7 @@ suomisinkut.com
 suomisk8fam.net
 suomisk9.com
 suomisocialslots.com
+suomispa.ca
 suomispa.com
 suomispeak.com
 suomispincasino.com
@@ -2971,8 +2990,10 @@ suomispinfin.com
 suomispinnas.com
 suomispinners.com
 suomispins.net
+suomisportti.club
 suomisportvibes.pro
 suomissivous.com
+suomistaging.com
 suomistays.com
 suomistayzone.com
 suomisubit.org
@@ -3038,6 +3059,7 @@ suomivarmista.info
 suomivedot.com
 suomiviesta.info
 suomivoitotfi.com
+suomivoitotfin.com
 suomivoyages.com
 suomiweb.online
 suomiweb.site
@@ -3162,6 +3184,7 @@ terveyasarvios.com
 terveydenhoitopalvelut.com
 terveys.shop
 terveysapteekki.com
+terveysapubackup.com
 terveysarviios.com
 terveysarvioss.com
 terveysasemat.com
@@ -3289,6 +3312,7 @@ topsuominow.com
 topsuomireviews.com
 torbalamakantari.com
 torbalamakantari.xyz
+toriterveys.com
 tosoumitumori.com
 touchffinland.shop
 touchoffinland.shop
@@ -3495,6 +3519,8 @@ uutisetsuomi.xyz
 uwattshelsinki.com
 uwellsuomi.com
 uwinvapesuomi.com
+vahinkosaneerauspalvelu.com
+vahinkosaneerauspalvelut.com
 vahvista-id.info
 vahvista.info
 vahvistaa-elisa.com
@@ -3531,10 +3557,12 @@ vapesuomi.com
 vapetukkumyyntisuomi.com
 vapsolosuomi.com
 varausuomi.online
+varela-helsinki.com
 varma-oyj.com
 varmaoyj.com
 varmennussuomi.com
 varmistasuomi.com
+varnaoyj.com
 veiikvapesuomi.com
 veja-suomi.com
 vejafinland.com
@@ -3582,6 +3610,7 @@ vero-coach.com
 vero-coach.nu
 vero-contract.com
 vero-couture73.com
+vero-cupiditate.site
 vero-deco.fr
 vero-dent.com
 vero-dev.com
@@ -3610,11 +3639,13 @@ vero-hurtadolozada.com
 vero-ia.com
 vero-interactive.com
 vero-io.com
+vero-kart.shop
 vero-kumamoto.com
 vero-labs.com
 vero-lammert.com
 vero-laudantium.site
 vero-luma.com
+vero-manager.site
 vero-manager2.com
 vero-milano.it
 vero-minus.site
@@ -3623,11 +3654,13 @@ vero-modade.com
 vero-modaeinkaufen.com
 vero-modaverkauf.com
 vero-n-co.net
+vero-necessitatibus.site
 vero-nika-photo.art
 vero-noir.com
 vero-odit.site
 vero-ornavero-fi.com
 vero-os.com
+vero-pack.com
 vero-paintings-prints.com
 vero-pkl.xyz
 vero-pomerleau.art
@@ -3647,11 +3680,14 @@ vero-suomi.com
 vero-suomi.sbs
 vero-thoi-mien.com
 vero-token.com
+vero-token.site
 vero-trade.com
 vero-transcription.com
 vero-tw.cam
 vero-universal.com
+vero-valore.fr
 vero-vera.com
+vero-vero.art
 vero-vital.com
 vero-vital.net
 vero-vivida-herbals.com
@@ -3791,6 +3827,7 @@ warmflaschen-suomi.shop
 webkirjaudu.site
 webmobilepay.com
 webterveystalo.com
+wecoya-finland.com
 wellensteynfinland.com
 west-vero-corridor.web.id
 westernfinland.com
