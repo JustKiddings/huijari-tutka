@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 15/01/2025 08:00 UTC
+# Last modified: 16/01/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -171,6 +171,7 @@ aviestatic.com
 aviestatic.tech
 axelarigato-helsinki.com
 ayshensuomen.com
+b2bfinland.com
 b2bfinland.net
 babyboofashionsuomi.com
 babyschuhe-suomi.shop
@@ -326,6 +327,7 @@ chillyssuomi.com
 cirkulsuomi.com
 cityopal.com
 citytours-finland.com
+citytours-finland.net
 clarksshoesfinland.com
 clickhelsinki.com
 cloudsaastopanki.site
@@ -581,9 +583,11 @@ facebook-turvallisuus.info
 fadimanfellnerfinland.art
 fairtexfinland.com
 falkesuomi.com
+famefinland.com
 fanclubfinland.com
 fanclubsfinland.com
 fanipaitasuomi.com
+fansclubsfinland.com
 farmaseuttinen-pakkaus-tyopaikat.xyz
 fashionclub-helsinki.com
 fearofgodessentialssuomi.com
@@ -738,6 +742,7 @@ gilvero-ailyn.site
 ginatricotsuomi.com
 giorgioarmanisuomi.com
 giosepposuomi.com
+glamoursuomi.com
 glar-helsinki.ru
 globalmobilepay.africa
 globesuomi.com
@@ -780,6 +785,7 @@ hattufinland.top
 hauskaasuomessa.com
 hausschuhe-suomi.shop
 haustierbedarf-suomi.shop
+hautauspalvelut.online
 healthycoffeehelsinki.com
 heatlhincubatorhelsinki.com
 heatlhincubatorhelsinki.pro
@@ -1162,6 +1168,7 @@ jyvaskylaautohuolto.com
 k-palvelusavo.com
 k-palvelusavo.net
 kabu-kantan.com
+kachincommunityfinland.org
 kaitesifinland.com
 kampaamotsuomi.online
 kampanja-fimobiili.com
@@ -1464,6 +1471,7 @@ matsuomine.xyz
 maviestilofeminino.online
 maviestilofeminino.store
 mawuviesta.com
+maxam-suomi.com
 maxmarasuomi.com
 maxvero-bd.com
 mayasiivouspalvelut.com
@@ -2042,6 +2050,7 @@ pay-suomi.cfd
 pchuolto.com
 peakperformance-suomi.net
 pecaviestate.com
+pedrohelsinki.com
 peintureprostaticsoumission.com
 pelaaminensuomessa.com
 pelaasuomea.com
@@ -2324,6 +2333,7 @@ severisuominen.net
 sh-suomei.com
 sharviestate.com
 shensuomenjiage.com
+shhautauspalvelut.online
 shirtyopants.com
 shirtyopants.shop
 shirtyopants.store
@@ -2382,6 +2392,7 @@ smobiiliellakkeella.com
 smobiilifi-kampanja.com
 smobiilikammpanja.com
 smobiilispankki.com
+smokvapesuomi.net
 sms-saastopanki.site
 sms-suomen.site
 sms-suomi.site
@@ -2410,6 +2421,7 @@ sossoumissionchimique.fr
 sossoumissionchimique.org
 soumi-online.sbs
 soumi-sports.com
+soumi.icu
 soumi.org
 soumiabeauty.com
 soumiabenchikh.com
@@ -2468,6 +2480,7 @@ soumisexxx.com
 soumisho.shop
 soumishsengupta.com
 soumission-asdm.com
+soumission-assurance-moto.net
 soumission-assurance.com
 soumission-non.ch
 soumission-rapide.com
@@ -2502,6 +2515,7 @@ soumissionsinfiltrations.ca
 soumissionsmateriaux.ca
 soumissionspoutrelleschevrons.ca
 soumissionspro.com
+soumissionsrenoplus.com
 soumissionsrevetementinterieur.ca
 soumissionssaguenay.ca
 soumissionssherbrooke.ca
@@ -2777,6 +2791,7 @@ suometa792-linkker0pen79214.site
 suomettumis.xyz
 suomi-2024.com
 suomi-amazing.com
+suomi-bonus.online
 suomi-choose.com
 suomi-delta.com
 suomi-ed.com
@@ -2821,6 +2836,7 @@ suomi-viestits.site
 suomi-wonderful.com
 suomi.email
 suomi.gold
+suomi.group
 suomi.in.ua
 suomi.locker
 suomi.media
@@ -2875,6 +2891,7 @@ suomielectric.bond
 suomielectric.today
 suomiensin.com
 suomiescort.com
+suomifaama.com
 suomifeedback.com
 suomifi1.site
 suomifin.eu
@@ -2893,6 +2910,7 @@ suomigame.com
 suomigems.com
 suomigroup.org
 suomiguide.com
+suomiherald.com
 suomii-fi.com
 suomiibrilliantballs.com
 suomiifi.site
@@ -2994,8 +3012,10 @@ suomisportti.club
 suomisportvibes.pro
 suomissivous.com
 suomistaging.com
+suomistars.com
 suomistays.com
 suomistayzone.com
+suomistrategia.com
 suomisubit.org
 suomisuositus.com
 suomisuretyswivel.shop
@@ -3050,6 +3070,7 @@ suomituotteet.com
 suomiturva.com
 suomiturva.info
 suomiturvallisuus.com
+suomitv.net
 suomiurbanretreat.com
 suomiuu.top
 suomiuutiset.com
@@ -3095,6 +3116,7 @@ talousviesti.com
 tampereenhautauspalvelu.com
 tampereentietokonepalvelu.com
 tansuomedia.com.tw
+tansuomi.com
 tantrasecretshelsinki.com
 tanzschuhe-suomi.shop
 taofinland.com
@@ -3189,6 +3211,7 @@ terveysarviios.com
 terveysarvioss.com
 terveysasemat.com
 terveysavios.com
+terveyselama.com
 terveyskauppa.com
 terveyskoulukoti.org
 terveyspalvelry.com
@@ -3516,6 +3539,7 @@ uudet-ilman-rekisteroitymista.com
 uudetsuominettikasinot.com
 uutisetsuomi.com
 uutisetsuomi.xyz
+uutisfinland.com
 uwattshelsinki.com
 uwellsuomi.com
 uwinvapesuomi.com
@@ -3596,6 +3620,7 @@ vero-agency.com
 vero-agro.com
 vero-amara.com
 vero-and-co-expertise.com
+vero-apparel.com
 vero-arch.com
 vero-asperiores.com
 vero-assist.com
@@ -3685,6 +3710,7 @@ vero-trade.com
 vero-transcription.com
 vero-tw.cam
 vero-universal.com
+vero-valore.com
 vero-valore.fr
 vero-vera.com
 vero-vero.art
@@ -3943,9 +3969,11 @@ yslfinland.com
 ysuomic252.vip
 zaramekotsuomi.com
 zarkovsoumisky.com
+zbshensuomen.cn
 zenola-helsinki.com
 zhaosuoming.com
 zhusuomenchuang.com
 zigarrenschneider-suomi.shop
 zimplerkasinotsuomi.com
+zuoyj.top
 zvero-polis.ru
