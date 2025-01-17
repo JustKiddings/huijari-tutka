@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 16/01/2025 08:00 UTC
+# Last modified: 17/01/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -393,6 +393,7 @@ dancestationsuomi.net
 dandysuomi.com
 daoyj.icu
 dasarisoumith.xyz
+datakantar.com
 datapalvelut.net
 dattasoumitra.com
 davi-helsinki.com
@@ -496,6 +497,7 @@ eccoshopfinland.com
 ed-hardy-suomi.com
 edelstahlschmuck-suomi.shop
 edhardyfinland.com
+edhelsinki.online
 educampfinland.com
 edufinland.cn
 edunvalvontavaltakirja.com
@@ -692,6 +694,7 @@ fotoviesta.com
 fourleafclovergamesfinland.com
 france-insoumise.com
 france-insoumise.fr
+freebike-finland.com
 freecasinofinland.com
 freedivingfinland.net
 freehelsinkitours.com
@@ -1178,6 +1181,7 @@ kampanjamobiili-elakkeella.com
 kampanjaspankki-elakkella.com
 kampanjaspankkifii.com
 kansalaiset-omakanta.com
+kantakanta.co.uk
 kantaoyj.info
 kantapalvelufi.info
 kantapalveluinfo.com
@@ -1320,6 +1324,7 @@ lastenhoitopalvelupikkupanda.com
 lastenvaunut-suomi.shop
 laterveystalo.com
 lattiapalveluroyal.com
+laurilanpalvelu.com
 laurinlivepalvelu.com
 laurinlivepalvelut.com
 lavera-helsinki.com
@@ -1433,6 +1438,7 @@ mariahietanenterapiapalvelut.com
 marimekko-suomi.com
 marimekkosuomi.com
 marka-helsinki.com
+marketinghelsinki.com
 markiisipalvelu.com
 markkusuominen.net
 marmot-suomi-outlet.com
@@ -1489,6 +1495,7 @@ meindlhelsinki.com
 meine-leinwandbilder-suomi.shop
 meivcorefinland.com
 mekkofinland.com
+meredithoffinland.com
 mereellshelsinki.com
 mereellsuomiale.com
 merkurpankki.net
@@ -1503,6 +1510,7 @@ metasoumis.gr
 metsa-ja-luontopalvelut-tmi-tuire-holli.com
 metsapalvelu.net
 micafinland.com
+michael-kors-suomi.com
 michaelkorsoutletsuomi.net
 michaelkorssuomi.com
 michelinsuomi.com
@@ -1707,6 +1715,7 @@ naisten-leggingsit-maailma.shop
 naisten-puvut.shop
 naisten-sadetakki.shop
 naisten-vaatteet.shop
+naistenasustenuutinen.com
 naistenhuivit-design.shop
 naistenkesken.com
 naistenmatka.web.id
@@ -1824,6 +1833,7 @@ nudeviesta.buzz
 nudiejeans-suomi.com
 nudiejeanshelsinki.com
 numobilepay.com
+nuohouspalvelu.com
 nutraficorporate.com
 nutrihealthfinland.com
 nutrilabfinland.com
@@ -1997,6 +2007,7 @@ ozempicsuomi247.com
 ozempicsuomi247.net
 paapankki.com
 pajar-finland.com
+pajarsfinland.com
 pajarsuomi.com
 pakkosuomea.xyz
 palasuomi.ru
@@ -2244,6 +2255,7 @@ s-mobiilielakkeella.com
 s-mobiilielakkeellaa.com
 s-mobiilifikampamja.com
 s-mobiilikampanja.com
+s-mobiilikampanjafi.com
 s-mobiilispankki.com
 s-mobiilispankki.online
 s-pankki-asiakaspalvelu-fi-tietosi-iisiit.ru
@@ -2414,6 +2426,7 @@ solfinland.site
 solovairsuomi.com
 solovapesuomi.com
 soodapuhalluspalvelu.online
+sorafinland.com
 sorel-helsinki.com
 sorelsuomi.net
 sossoumissionchimique.com
@@ -2456,6 +2469,7 @@ soumikd4.tech
 soumikmanna2441139.xyz
 soumilagarwal.com
 soumilhouse.com
+soumili.net
 soumilifecoach.com
 soumilimukherjee.com
 soumilionario.com
@@ -2525,6 +2539,7 @@ soumissionsystemedalarme.com
 soumissionthermopompe.net
 soumit.tech
 soumitaddanki.com
+soumitguha.com
 soumitr.com
 soumitra.link
 soumitrab.com
@@ -2874,6 +2889,7 @@ suomicam.com
 suomicanta.com
 suomicasinosocial.com
 suomichoices.com
+suomiclub.ru
 suomicoin.com
 suomiconnect.site
 suomicosmetic.com
@@ -2919,6 +2935,7 @@ suomiiptv.net
 suomijy.com
 suomikanta.com
 suomikasi.cfd
+suomikasi.com
 suomikasi.sbs
 suomikasifreespins.click
 suomikasino.buzz
@@ -3479,7 +3496,9 @@ turvallisuusvarma.com
 turvapassi.com
 turvapassi.net
 turvapilvi.lol
+turvapluss.ee
 turvasuomifi.com
+turvat.com
 turvataksi.com
 turvataksi.net
 turvataxi.com
@@ -3969,6 +3988,7 @@ yslfinland.com
 ysuomic252.vip
 zaramekotsuomi.com
 zarkovsoumisky.com
+zb-soumi.com
 zbshensuomen.cn
 zenola-helsinki.com
 zhaosuoming.com
