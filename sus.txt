@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 17/01/2025 08:00 UTC
+# Last modified: 18/01/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -241,6 +241,7 @@ birkenstocksuomifi.com
 bitcoinfinland.xyz
 bjornborgsuomi.com
 blackdiamondsuomi.com
+blackgirlinfinland.com
 blakelysuomi.com
 blankethelsinki.com
 blinkhelsinki.com
@@ -285,6 +286,7 @@ canadagoosesuomi.top
 carawayfinland.info
 carawayfinland.mobi
 carawayfinland.org
+carcapsulefinland.com
 carpediemvero-24.com
 cartiersuomi.net
 casasuomi.com
@@ -686,6 +688,7 @@ fortumfln.com
 fortumholdings.ltd
 fortumnet.nu
 fortumon.com
+fortumorbis.com
 fortumoy.com
 fortumq.ru
 fortumueble.com
@@ -939,6 +942,7 @@ helsinkinoir.net
 helsinkinoko.com
 helsinkinotebooks.com
 helsinkioutletskechers.com
+helsinkiphilharmonicorchestra.tech
 helsinkipizzakebab-antwerpen.be
 helsinkipremierhotel.com
 helsinkiproductionservices.com
@@ -1278,6 +1282,7 @@ kontaktisaatopanki.site
 koodifinland.com
 korhonen-helsinki.com
 korulippaat-suomi.shop
+kotiapupalvelu.online
 kotiapupalvelu.site
 kotipalvelunp.com
 koulutuspalvelut.com
@@ -1336,6 +1341,7 @@ laviestat.ru
 laviestatcom.online
 laviestatcom.ru
 laya-helsinki.com
+lazura-helsinki.com
 leadsifysuomi.com
 ledger-suomi.com
 legerofinland.com
@@ -1359,6 +1365,7 @@ lifewavex39finland.com
 liidipalvelu.com
 liidisuomi.com
 liikenneupseerin-tyopaikat.online
+liikuntasuomi.site
 liisafromfinland.com
 lilleinsoumise.fr
 lilleinsoumise2026.fr
@@ -1368,6 +1375,7 @@ lionheartmoviestitlecontest.com
 livelisuomi.com
 livero-mode.de
 livero-tax.com
+living-in-finland.com
 lmntsuomi.com
 loakefinland.com
 loan-in-finland.today
@@ -1437,6 +1445,7 @@ marela-helsinki.com
 mariahietanenterapiapalvelut.com
 marimekko-suomi.com
 marimekkosuomi.com
+marinehelsinki.com
 marka-helsinki.com
 marketinghelsinki.com
 markiisipalvelu.com
@@ -1843,6 +1852,7 @@ objectfinland.com
 obrazovanie-v-finland.ru
 obrazovanie-v-finlandii.ru
 obrazovanie-v-suomi.ru
+offer-finland.com
 official-casino-finland.lat
 offlinefinland.com
 oh-pollysuomi.com
@@ -1998,6 +2008,7 @@ osuus-pankki.com
 osuuspankki-fi.com
 osuuspankki-fi1.com
 osuuspankki2.com
+osuusyrpankki.com
 owala-suomi.com
 owalasuomifi.com
 oy-trafcom.info
@@ -2994,12 +3005,14 @@ suomir3p.net
 suomirahafi.com
 suomirahafin.com
 suomirani.xyz
+suomirank.com
 suomirata.site
 suomiratings.com
 suomirealty.com
 suomirent.com
 suomiresortcasino.com
 suomireview.com
+suomis.com
 suomisaunas.co
 suomisavvy.com
 suomise.com
@@ -3307,6 +3320,7 @@ thursdayboot-suomi.com
 thursdaybootsfinland.com
 thursdayfinland.com
 tietokonehuolto.org
+tietopankki.com
 tietoturvapankki.com
 tifosisuomi.com
 tiktiksuomi.store
@@ -3729,8 +3743,10 @@ vero-trade.com
 vero-transcription.com
 vero-tw.cam
 vero-universal.com
+vero-valore.co.uk
 vero-valore.com
 vero-valore.fr
+vero-valore.uk
 vero-vera.com
 vero-vero.art
 vero-vital.com
@@ -3854,6 +3870,7 @@ voittopalvelu.info
 volthelsinki.com
 vondutchfinland.com
 vondutchsuomi.com
+voopoofinland.com
 voopoovapesuomi.com
 vozolgear10000suomi.com
 vozolhelsinki.com
