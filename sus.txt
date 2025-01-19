@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 18/01/2025 08:00 UTC
+# Last modified: 19/01/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -78,6 +78,7 @@ ambulanssipalvelu.store
 amchamfinland.net
 anadolukulturvakfi.net
 anaistentation.com
+andersfinland.com
 anfrapalvelut.com
 angoulemeinsoumise.fr
 aniaautopalvelu.com
@@ -359,6 +360,7 @@ conversealesuomi.com
 converseallstarsuomi.com
 conversesuomi-fi.com
 conversesuomi.com
+cookinfinland.com
 coolcationinfinland.com
 copenhagen-helsinki-train-tour-package-offers.today
 corossuomi.com
@@ -485,6 +487,7 @@ e-suomen.site
 e-suomifi.site
 e-viestit.site
 earthbrotherfinland.com
+easpringfinland.com
 easy-credit-card-finland.today
 easy-loan-finland.today
 easymobilepay.today
@@ -750,10 +753,13 @@ giorgioarmanisuomi.com
 giosepposuomi.com
 glamoursuomi.com
 glar-helsinki.ru
+glenfinland.com
 globalmobilepay.africa
 globesuomi.com
 glowtouchoffinland.shop
 go-soumission.com
+goesfinland.com
+goessuomi.com
 goldfinland.com
 goldstarmobilepay.xyz
 gollandsky-shturval.ru
@@ -930,6 +936,7 @@ helsinkiijing.lol
 helsinkiinnova.com
 helsinkikasino.com
 helsinkilegaltech.com
+helsinkilimo.info
 helsinkilottery.com
 helsinkimetaversemarket.com
 helsinkimint.com
@@ -1306,6 +1313,7 @@ kuvapalvelu.com
 kuvauspalvelurintala.com
 la-monipalvelu.com
 laakehoidonturva.com
+lacoste-suomi.com
 lacostenfinland.com
 ladore-helsinki.com
 laffinland.com
@@ -1356,6 +1364,7 @@ lemurdesinsoumis.org
 lenkkaritfinland.com
 lentokenttahotellihelsinki.com
 leovegassuomi.com
+les-insoumis.fr
 letsgowithsoumia.com
 leuoyj.shop
 levinmokkihuolto.com
@@ -1566,6 +1575,7 @@ mizunoinsuomi.com
 mizunosuomishop.com
 mjmusoumini.com
 mlhuolto.com
+mnaoyj.info
 mnsuomessa.com
 mobiiepaysuomifi.com
 mobiili-elaakkeella.com
@@ -2249,6 +2259,7 @@ rivero-automotive.se
 rivero-ayerza.com
 rivero-rp.space
 rockysuomi.com
+ropopalvelut.com
 ropotodennus.com
 ropoturva.com
 ropoviesti.com
@@ -2259,6 +2270,7 @@ royaldeviesta.com
 rturva.biz.id
 ruedxhelsinki.com
 russellathleticsuomi.com
+ryosuuspankkifi.com
 s-kampanjamobiili.com
 s-mobiili-elakkeela.com
 s-mobiili.online
@@ -2805,6 +2817,7 @@ suomenteollisuushuolto.org
 suomenterassicenter.com
 suomenterassilasitus.com
 suomentimanttiurakointi.com
+suomentravelbook.com
 suomenuutiset.news
 suomenvalinta.com
 suomenvannekorjaus.com
@@ -3507,6 +3520,7 @@ turvallisuusintrum.com
 turvallisuuskoordinaattori.com
 turvallisuusstudio.com
 turvallisuusvarma.com
+turvalokero.com
 turvapassi.com
 turvapassi.net
 turvapilvi.lol
@@ -3522,6 +3536,7 @@ turvatie.info
 tutkisuomea.com
 tutti-sensuomi.com
 tuuli-helsinki.com
+tv-soumitiyu.com
 twinklingtoadstoolhelsinki.com
 tyomaaturvallisuus.com
 tyopaikat-siivousyrityksissa-fi.online
@@ -3548,7 +3563,9 @@ uima-altaan-puhdistus-tyopaikat.online
 ulpukanhuolto.shop
 ultrafcootball.shop
 umnasserfinland.edu.bh
+uniqlo-finland.com
 uniqloalesuomi.com
+uniqlofinland.com
 uniqlosuomi.com
 uniqlosuomi.shop
 uniqlosuomifi.com
@@ -3602,6 +3619,7 @@ vaihdehuolto.nu
 vakantie-zweden-finland-reisblog.nl
 valintaopasfinland.com
 valipalvelu.com
+valipalvelu.net
 valopilkkuhelsinki.com
 valopilkkuhelsinki.net
 valvonia.sk
@@ -3620,6 +3638,7 @@ varmaoyj.com
 varmennussuomi.com
 varmistasuomi.com
 varnaoyj.com
+vavada-finland-bonus.com
 veiikvapesuomi.com
 veja-suomi.com
 vejafinland.com
@@ -3700,6 +3719,7 @@ vero-io.com
 vero-kart.shop
 vero-kumamoto.com
 vero-labs.com
+vero-labs.net
 vero-lammert.com
 vero-laudantium.site
 vero-luma.com
@@ -3832,6 +3852,7 @@ vipkasinotsuomi.com
 vippsmobilepay.info
 vippsmobilepay.net
 vippsmobilepay.nu
+vippsmobilepay.org
 virelasuomi.com
 virikepalveluseija.pro
 virtuaalinen-terveys-1.online
