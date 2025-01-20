@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 19/01/2025 08:00 UTC
+# Last modified: 20/01/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -21,6 +21,7 @@
 5soumissionsfaillite.com
 5suomietiao.vip
 7edgefinland.com
+7edgefinland.vip
 aamunkoihelsinki.com
 aanekoskenhinauspalvelu.com
 abogadostraficomalaga.es
@@ -34,6 +35,7 @@ adeccofinland.com
 adevilinhelsinki.com
 adidasfinland.com
 adultmoviestation.com
+afinland.top
 afriqueinsoumise.com
 aguidetofinland.com
 ahertajayrityspalvelu.com
@@ -76,6 +78,7 @@ ambiehelsinki.com
 ambulanssipalvelu.com
 ambulanssipalvelu.store
 amchamfinland.net
+amivero-verification.com
 anadolukulturvakfi.net
 anaistentation.com
 andersfinland.com
@@ -231,6 +234,7 @@ betalingsservicemobilepay.com
 bettisuomi.com
 betyopaxv.xyz
 bfgoodrichsuomi.com
+bfinland.top
 bilgiegitimkulturvakfi.com
 bilgiegitimkulturvakfi.xyz
 bilgiegitimvekulturvakfi.xyz
@@ -477,6 +481,7 @@ drmartensfinland.com
 drmartenssuomifi.com
 drmasoumidrugstor.com
 drmirmasoumi.com
+drmohsenmasoumi.com
 drsoumikghosh.com
 drsoumitraghosh.in
 dsafinland.com
@@ -665,6 +670,7 @@ fixerhelsinki.com
 fl-trafcom.info
 flealux-finland.com
 flexpalvelut.com
+flightstofinland.com
 flirttisuomi.com
 flyhelsinki.com
 fmoviesti.top
@@ -766,6 +772,7 @@ gollandsky-shturval.ru
 gorewearsuomi.com
 goterveystalo.com
 goyard-suomi.com
+gpracingkartsfinland.com
 gravero-mails.live
 greece-finland-train-holiday-deals.today
 greenandbluefinland.com
@@ -1002,6 +1009,7 @@ hokafinland.com
 hokaoneone-finland.com
 hokasuomi.org
 hood-richsuomi.com
+hoodrich-suomi.com
 hoodrichsuomi-ale.com
 hoodrichsuomi-fi.com
 hoodrichsuomi.com
@@ -1122,6 +1130,7 @@ iptvsuomi.xyz
 iptvsuomis.com
 ireland-finland-train-holiday-deals-777.today
 ireland-finland-train-holiday-deals.today
+irsehelsinki2026.info
 isfinland.com
 isolationsoumission.com
 isoumi.com
@@ -1575,6 +1584,7 @@ mizunoinsuomi.com
 mizunosuomishop.com
 mjmusoumini.com
 mlhuolto.com
+mmktpalvelut.com
 mnaoyj.info
 mnsuomessa.com
 mobiiepaysuomifi.com
@@ -1621,6 +1631,7 @@ mobilepay.llc
 mobilepay.nu
 mobilepay.pro
 mobilepay.site
+mobilepay.top
 mobilepay.website
 mobilepay24.com
 mobilepayandremit.com
@@ -2499,6 +2510,7 @@ soumilionario.com
 soumilitar.online
 soumilll.com
 soumilm.xyz
+soumima.com
 souminas.com
 soumine.net
 soumine.ru
@@ -2537,6 +2549,7 @@ soumissionmauricie.com
 soumissionnettoyage.com
 soumissionnon.ch
 soumissionprethypothecaire.com
+soumissionrenoplus.com
 soumissionresidentielle.xyz
 soumissions-assurances.ca
 soumissionsarmoiresdecuisine.ca
@@ -2600,6 +2613,7 @@ spankkimobiili-elakkeella.com
 spankkimobiilifi.com
 spanx-suomi.com
 spectrmmobilepayment.com
+sperm-donation-finland-ok.today
 sports-suomi.com
 sporttisuomi.site
 sportyfinland.com
@@ -2677,6 +2691,7 @@ suomen.shop
 suomen3dtulostus.com
 suomenamyloidoosiyhdistys.com
 suomenautot.com
+suomenautotukku.com
 suomendiilit.com
 suomenedulliset.com
 suomenetalaakarit.com
@@ -3500,6 +3515,7 @@ turva.pro
 turva.sbs
 turvaasiakasfi.com
 turvakaitse.ee
+turvakast.info
 turvakengat.com
 turvakengat.shop
 turvala.com
@@ -3639,6 +3655,7 @@ varmennussuomi.com
 varmistasuomi.com
 varnaoyj.com
 vavada-finland-bonus.com
+vavada-finland-bonus.net
 veiikvapesuomi.com
 veja-suomi.com
 vejafinland.com
