@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 20/01/2025 08:00 UTC
+# Last modified: 21/01/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -27,6 +27,7 @@ aanekoskenhinauspalvelu.com
 abogadostraficomalaga.es
 abrantus-suomi.com
 abuja-finlandian.info
+accessfinland.com
 accountfinland.com
 accountingfinland.com
 accra-finlandian.info
@@ -501,6 +502,7 @@ ebikehuolto.com
 ecco-finland.com
 eccofinland.com
 eccogolffinland.com
+eccooutlet-suomi.com
 eccooutletssuomi.com
 eccoshoesfinland.com
 eccoshopfinland.com
@@ -634,6 +636,7 @@ fiddledfylfotsfinland.sbs
 filadisruptorsuomi.com
 filasuomi-fi.com
 filmschoolfinland.com
+fimobiiliimaksut.com
 fin-mobilepay.com
 finansivalvonta.com
 findajobinfinland.com
@@ -746,6 +749,7 @@ gantfinland.com
 gantoutletsuomi.com
 gatoradesuomi.com
 gegu-finland.com
+gelopalvelut.com
 gennovasuomi.com
 genpotfinland.company
 gensoumise.com
@@ -1353,6 +1357,7 @@ lavera-helsinki.com
 lavero-helsinki.com
 lavero-shop.com
 lavero-stockholm.com
+lavero-store.com
 laviestat.online
 laviestat.ru
 laviestatcom.online
@@ -1378,6 +1383,7 @@ letsgowithsoumia.com
 leuoyj.shop
 levinmokkihuolto.com
 libertyopalillustration.com
+libramobilepaymentsystem.com
 lifecoachsoumia.com
 lifewavex39finland.com
 liidipalvelu.com
@@ -1435,7 +1441,9 @@ luovithinkingsuomi.com
 lupsoumigh.net
 luulajansuomiseura.se
 luvero-london.com
+lux-helsinki.com
 luxlifefinland.net
+luzia-helsinki.com
 maalampohelsinki.com
 maalarihelsinki.com
 madeinfinland.nu
@@ -1801,6 +1809,7 @@ nike-finland.com
 nike-helsinki.com
 nikefinland.org
 nikesportsuomis.com
+nikesuomi.com
 nikotiininurkka.com
 nikotiinipussi.art
 nikotiinipussi.bio
@@ -1859,6 +1868,7 @@ novellohelsinki.com
 nrityopachara.com
 nshotelornfinland.com
 nu-mobilepay.com
+nudehelsinki.com
 nudeviesta.buzz
 nudiejeans-suomi.com
 nudiejeanshelsinki.com
@@ -2144,7 +2154,10 @@ polenefinland.com
 polenessuomi.com
 polenesuomi-fi.com
 polenesuomi.com
+poliisi-palvelufi.com
+poliisi-suomi.com
 polkcountyopa.org
+polpalvelufi.com
 ponyedgefinland.com
 pool-cleaner-tyopaikat.online
 pop-pankki.biz
@@ -2549,6 +2562,7 @@ soumissionmauricie.com
 soumissionnettoyage.com
 soumissionnon.ch
 soumissionprethypothecaire.com
+soumissionrenoplus.ca
 soumissionrenoplus.com
 soumissionresidentielle.xyz
 soumissions-assurances.ca
@@ -3074,6 +3088,7 @@ suomistars.com
 suomistays.com
 suomistayzone.com
 suomistrategia.com
+suomistream.live
 suomisubit.org
 suomisuositus.com
 suomisuretyswivel.shop
@@ -3549,6 +3564,7 @@ turvataxi.com
 turvataxi.net
 turvatekniikka.com
 turvatie.info
+turvatorjunta.com
 tutkisuomea.com
 tutti-sensuomi.com
 tuuli-helsinki.com
@@ -3765,6 +3781,7 @@ vero-quis.site
 vero-retouch.ru
 vero-ro.com
 vero-roma.com
+vero-santiago.com
 vero-skin.com
 vero-sms.com
 vero-soluta.site
@@ -3882,6 +3899,7 @@ virtuaalinen-terveys.online
 virtuaaliset-terveyspalvelut.online
 virtuaalisuomi.com
 virtuaaliterveys.online
+vitamiinipankki.online
 vittaro-helsinki.com
 vivahvishwakarma.com
 vivahvista.com
