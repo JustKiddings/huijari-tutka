@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 21/01/2025 08:00 UTC
+# Last modified: 22/01/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -65,6 +65,7 @@ akunpalvelut.com
 al-monipalvelu.com
 alastonsuomi.shop
 aleppo-finlandian.info
+alexandrafinland.com
 alibarbarvapesuomi.com
 alimasoumi.info
 alisapankki.online
@@ -75,6 +76,7 @@ allhotelsuomi.com
 alohahelsinki.com
 alurahelsinkishop.com
 alure-helsinki.com
+amaterasuomikami.jp
 ambiehelsinki.com
 ambulanssipalvelu.com
 ambulanssipalvelu.store
@@ -168,6 +170,7 @@ autohuoltopalokka.com
 autojakonehuolto.com
 autolasipalvelu.com
 autolasipalvelu.net
+automavero.com
 autonosiasuomi.com
 autopalveluvuottolahti.com
 av-turva.com
@@ -200,6 +203,7 @@ bapehuppari-suomi.com
 bapesuomi.com
 baranmasoumian.com
 bargainhubfinland.com
+base64finland.org
 basedfinland.com
 baskerit-suomi.shop
 bauchkettchen-suomi.shop
@@ -348,6 +352,7 @@ columbiafinland.com
 columbiassuomi.com
 coluombiafinland.com
 com-suomi.shop
+comealivefinland.com
 comfortum-events.com
 comfortum.jp
 comfyhelsinki.com
@@ -372,9 +377,12 @@ corossuomi.com
 corteiz-suomi.com
 cosfinland.com
 cosstoresuomi.com
+cossuomi-fi.com
 cossuomi.com
 costadelmarsuomi.com
+cottagefinland.com
 crawlingthrufinland.com
+crazyhelsinki.com
 createchfinland.com
 createchfinland.info
 createchfinland.org
@@ -582,6 +590,7 @@ etsisuomesta.com
 etsivapalvelu.com
 eucreafinland.org
 eusoumichaelldouglas.com.br
+eusoumidia.pt
 eusoumidiahub.com.br
 eusoumilionario.site
 eusoumistica.com
@@ -960,6 +969,7 @@ helsinkinoir.net
 helsinkinoko.com
 helsinkinotebooks.com
 helsinkioutletskechers.com
+helsinkipersonaltrainer.com
 helsinkiphilharmonicorchestra.tech
 helsinkipizzakebab-antwerpen.be
 helsinkipremierhotel.com
@@ -973,6 +983,7 @@ helsinkismuseum.com
 helsinkisolar.com
 helsinkispin.bet
 helsinkiswingbigband.com
+helsinkitechnology.com
 helsinkitodolist.com
 helsinkitogo.com
 helsinkitransport.com
@@ -1100,6 +1111,7 @@ insurxlfinland.bond
 internationalcallfinland.com
 internetcasinofinland.com
 interveystalo.com
+intimisimisuomi.com
 intimissimi-suomifi.com
 intimissimifinland.com
 intimissimisuomi.com
@@ -1755,6 +1767,7 @@ naisten-sadetakki.shop
 naisten-vaatteet.shop
 naistenasustenuutinen.com
 naistenhuivit-design.shop
+naistenkengat.com
 naistenkesken.com
 naistenmatka.web.id
 naistenmekot.com
@@ -1774,6 +1787,7 @@ naturovero-cuisine.fr
 naturval.net
 naturvalet.com
 nayteikkuna-verkkopeleihin-suomessa.buzz
+nbc-finland.com
 nblenkkaritsuomi.com
 nbsuomi.shop
 ndttukkufinland.com
@@ -1945,6 +1959,7 @@ oma-posti-fi.com
 oma-posti.com
 oma-posti.site
 oma-rapeti.com
+oma-sabaslots.site
 oma-sexanzeigen.com
 oma-sextreffen.ch
 oma-shop.com
@@ -1962,6 +1977,7 @@ omaaelisa.site
 omaakantaa-fi.net
 omaelisa.sbs
 omakanta-online.com
+omakanta.me
 omakantafi.info
 omakantafin.info
 omakantal-kansalaiset.com
@@ -2302,6 +2318,7 @@ s-mobiilielakkeella.com
 s-mobiilielakkeellaa.com
 s-mobiilifikampamja.com
 s-mobiilikampanja.com
+s-mobiilikampanjaa.com
 s-mobiilikampanjafi.com
 s-mobiilispankki.com
 s-mobiilispankki.online
@@ -2558,6 +2575,7 @@ soumissionenergie.com
 soumissionentrepreneurs.com
 soumissionentretienmenager.com
 soumissionhabitat.com
+soumissionhypothecaire.ca
 soumissionmauricie.com
 soumissionnettoyage.com
 soumissionnon.ch
@@ -2793,6 +2811,7 @@ suomenminimaailma.com
 suomenmuuttojakuljetus.com
 suomenmyyntiapu.com
 suomennuohousrekisteri.com
+suomennuohoustarvike.com
 suomenparhaatkohteet.com
 suomenparhaatlomat.com
 suomenparhaattarjoukset.online
@@ -2940,6 +2959,7 @@ suomibrilliantballs.com
 suomica.ru
 suomicam.com
 suomicanta.com
+suomicasinoopas.com
 suomicasinosocial.com
 suomichoices.com
 suomiclub.ru
@@ -3143,6 +3163,7 @@ suomituotteet.com
 suomiturva.com
 suomiturva.info
 suomiturvallisuus.com
+suomitv.com
 suomitv.net
 suomiurbanretreat.com
 suomiuu.top
@@ -3367,6 +3388,7 @@ tietopankki.com
 tietoturvapankki.com
 tifosisuomi.com
 tiktiksuomi.store
+tilataksihelsinki.com
 tilin-hallinta-asiakas.com
 tilipalvelu.net
 tilipalvelutalous360.com
@@ -3720,6 +3742,7 @@ vero-coach.com
 vero-coach.nu
 vero-contract.com
 vero-couture73.com
+vero-csn.site
 vero-cupiditate.site
 vero-deco.fr
 vero-dent.com
