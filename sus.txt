@@ -1,12 +1,13 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 22/01/2025 08:00 UTC
+# Last modified: 23/01/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
 1081asiakaspalvelu-op.info
 1082asiakaspalvelu-nordea.info
+1go-casino-suomi1.ru
 1suomi.site
 1win-finland.net
 1xcasinosuomen.casino
@@ -24,6 +25,7 @@
 7edgefinland.vip
 aamunkoihelsinki.com
 aanekoskenhinauspalvelu.com
+abogadosaccidentestraficomadrid.com
 abogadostraficomalaga.es
 abrantus-suomi.com
 abuja-finlandian.info
@@ -118,6 +120,7 @@ arcopedicosuomi.com
 arcticafinland.com
 arenasuomi-fi.com
 arenasuomiuinti.com
+ariat-finland.com
 ariatsuomioutlet.com
 armobilepay.com
 artbooksfinland.com
@@ -154,6 +157,7 @@ asoumi.com
 asoypalvelut.com
 assuranceviesoumissions.com
 asuomitv.com
+ateljeehelsinki.com
 athanasiagiasoumi.com
 athens-finlandian.info
 atvero-mail.co.uk
@@ -372,6 +376,7 @@ conversesuomi-fi.com
 conversesuomi.com
 cookinfinland.com
 coolcationinfinland.com
+copenhagen-helsinki-rail-vacation.today
 copenhagen-helsinki-train-tour-package-offers.today
 corossuomi.com
 corteiz-suomi.com
@@ -403,6 +408,7 @@ culturvations.online
 cuprahuolto.online
 customersupportfinland.com
 cvturvattua.xyz
+cwcfinland.com
 czasoumilacze.pl
 d-id-vahvista.info
 daily-helsinki.com
@@ -562,6 +568,7 @@ empmobilepay.com
 emrtalopalvelut.com
 energy-production-finland-384623749.fyi
 enviestates.co.uk
+enzoa-helsinki.com
 enzoa-suomi.com
 eo-palvelut.com
 eogaeafernandfinland.shop
@@ -682,6 +689,7 @@ fixerhelsinki.com
 fl-trafcom.info
 flealux-finland.com
 flexpalvelut.com
+flightclubfinland.com
 flightstofinland.com
 flirttisuomi.com
 flyhelsinki.com
@@ -716,6 +724,7 @@ fortumueble.com
 foshfinland.com
 fotoviesta.com
 fourleafclovergamesfinland.com
+fovero-agency.com
 france-insoumise.com
 france-insoumise.fr
 freebike-finland.com
@@ -1211,6 +1220,7 @@ kachincommunityfinland.org
 kaitesifinland.com
 kampaamotsuomi.online
 kampanja-fimobiili.com
+kampanja-fispankki.com
 kampanja-mobiilifi.com
 kampanjafi-mobilespankki.com
 kampanjamobiili-elakkeella.com
@@ -1262,6 +1272,7 @@ kellolaatikko-suomi.shop
 kengatsuomi.com
 keskooyj.com
 kiassnorthsuomiyear.com
+kickscrewsuomi.com
 kielipalvelukauno.com
 kiertokapulayrityspalvelut.com
 kiesinpesupalvelut.com
@@ -1406,6 +1417,7 @@ liisafromfinland.com
 lilleinsoumise.fr
 lilleinsoumise2026.fr
 limen-pc-huolto.net
+liningsuomi.com
 linsoumis.com
 lionheartmoviestitlecontest.com
 livelisuomi.com
@@ -1767,6 +1779,7 @@ naisten-sadetakki.shop
 naisten-vaatteet.shop
 naistenasustenuutinen.com
 naistenhuivit-design.shop
+naistenkengashop.com
 naistenkengat.com
 naistenkesken.com
 naistenmatka.web.id
@@ -1908,6 +1921,7 @@ oikeusturva.org
 olegsuomi.com
 oma-adimu.online
 oma-adriatic.com
+oma-ai.top
 oma-arpa.com
 oma-arpa.net
 oma-beaurepaire.com
@@ -1959,6 +1973,7 @@ oma-posti-fi.com
 oma-posti.com
 oma-posti.site
 oma-rapeti.com
+oma-rest.com
 oma-sabaslots.site
 oma-sexanzeigen.com
 oma-sextreffen.ch
@@ -2615,6 +2630,7 @@ soumitradey.com
 soumitrafurniture.com
 soumitrasaha.com
 soumitrasarkar.com
+soumitravsathe.com
 soumitukeaconnect.com
 soumivietnam.com
 soumiways.com
@@ -2927,6 +2943,7 @@ suomi.group
 suomi.in.ua
 suomi.locker
 suomi.media
+suomi.news
 suomi.nu
 suomi.tech
 suomi.uk
@@ -3057,6 +3074,7 @@ suomipelithotelli.com
 suomipelivarmuus.com
 suomipelyt.com
 suomipictures.org
+suomipnp.com
 suomiporno.top
 suomipost.xyz
 suomipremiumhotelli.com
@@ -3068,6 +3086,7 @@ suomirahafi.com
 suomirahafin.com
 suomirani.xyz
 suomirank.com
+suomiranker.com
 suomirata.site
 suomiratings.com
 suomirealty.com
@@ -3565,6 +3584,7 @@ turvallinensuomi.com
 turvallis.com
 turvalliset-kasinot.com
 turvallisetlisensoimattomatkasinot.com
+turvallistajuhlaa.info
 turvallistech.com
 turvallisus.com
 turvallisuus-facebook.info
@@ -3723,6 +3743,7 @@ vero-1.sbs
 vero-24.com
 vero-ab.site
 vero-aesthetics.com
+vero-ag.com
 vero-agency.com
 vero-agro.com
 vero-amara.com
@@ -3784,6 +3805,7 @@ vero-manager2.com
 vero-milano.it
 vero-minus.site
 vero-moda-nl.shop
+vero-moda.ru
 vero-modade.com
 vero-modaeinkaufen.com
 vero-modaverkauf.com
@@ -4071,6 +4093,7 @@ yigitkulturvakfii.net
 youinfinland.com
 young-lafinland.com
 youngla-finland.com
+your-instant-loan-for-you-finland.xyz
 yourtraveltofinland.com
 yritys-spankifinl-tunnistautuminentale.info
 yritys-spankifinl-tunnistautuminentale.online
