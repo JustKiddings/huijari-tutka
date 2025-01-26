@@ -1,13 +1,14 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 25/01/2025 08:00 UTC
+# Last modified: 26/01/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
 1081asiakaspalvelu-op.info
 1082asiakaspalvelu-nordea.info
 1go-casino-suomi1.ru
+1go-casino-suomi2.ru
 1suomi.site
 1win-finland.net
 1xcasinosuomen.casino
@@ -293,6 +294,7 @@ btcfinland.xyz
 btchelsinki.com
 buenaviesta.online
 buildabearsuomi.com
+business-consults-suomi.com
 businessmediafinland.com
 buypsychedelicsfinland.com
 by-soumi.de
@@ -340,6 +342,7 @@ charldaviestattoos.com
 charlesfinland.com
 charlestyrwhitt-suomi.com
 chat-gpt-suomi.com
+chatfinland.com
 chaturvate.cam
 cheap-flights-helsinki.xyz
 chillysfinland.com
@@ -404,6 +407,7 @@ croydoninsuomikoulu.org
 croydoninsuomikoulu.org.uk
 crusino-suomi.com
 cs2suomi.com
+ctheoxltdsuomensivuliike.com
 culturvalinteriors.shop
 culturvated.life
 culturvatedchef.com
@@ -721,6 +725,7 @@ fortum.world
 fortuma-apk.com
 fortuma.agency
 fortuma.info
+fortuma.net
 fortuma.org
 fortuma.xyz
 fortumate.com
@@ -1131,6 +1136,7 @@ innoluxfinland.com
 insoumidating.com
 insoumis.app
 insoumisdecreteil.fr
+insoumislespharaons.com
 insoumissansfrontieres.org
 insta-finland.website
 instant-loan-for-you-finland.today
@@ -1173,6 +1179,7 @@ iptvsuomi.co
 iptvsuomi.fun
 iptvsuomi.info
 iptvsuomi.live
+iptvsuomi.net
 iptvsuomi.news
 iptvsuomi.xyz
 iptvsuomis.com
@@ -1497,6 +1504,7 @@ luulajansuomiseura.se
 luvero-london.com
 lux-helsinki.com
 luxlifefinland.net
+luxury-finland-holiday-package-deals.xyz
 luzia-helsinki.com
 maalampohelsinki.com
 maalarihelsinki.com
@@ -1640,6 +1648,7 @@ minustwosuomi.com
 mirshturvalov.ru
 mis-finland.com
 misfinland.com
+misoumize.com
 misterlamp-helsinki.com
 mitsubishiclubfinland.net
 mittfortum.nu
@@ -1656,6 +1665,7 @@ mobiiepaysuomifi.com
 mobiili-elaakkeella.com
 mobiili-elakkeela.com
 mobiili-elakkeella.com
+mobiili-kammpanja-fi.com
 mobiili-kampanja-pankki.com
 mobiili-kampanjas.com
 mobiili-kasinot.org
@@ -1686,6 +1696,7 @@ mobilepay-hjaelp.online
 mobilepay-info-dk.com
 mobilepay-kasinot.com
 mobilepay-kayttaja.com
+mobilepay-opdater.info
 mobilepay-opdatering.online
 mobilepay-qr.dk
 mobilepay.biz
@@ -2256,6 +2267,8 @@ primark-finland.com
 primedrinksuomi.com
 princesspollyfinland.com
 pripanki.com
+private-pool-helsinki-106266285.today
+private-pool-helsinki-111609307.today
 private-pool-helsinki-611389190.today
 private-pool-helsinki-827094178.today
 private-pool-helsinki-909412661.today
@@ -2443,6 +2456,7 @@ saunas-finland-136215910.click
 saunas-finland-172191398.click
 savon-dronepalvelut.com
 savondronepalvelut.com
+sbxfinland.com
 schibsted-suomi.cfd
 scufferssuomi.com
 seathuolto.online
@@ -3123,6 +3137,7 @@ suomipelithotelli.com
 suomipelivarmuus.com
 suomipelyt.com
 suomipictures.org
+suomiply.com
 suomipnp.com
 suomiporno.top
 suomipost.xyz
@@ -3133,6 +3148,7 @@ suomipuolakajaani.net
 suomir3p.net
 suomirahafi.com
 suomirahafin.com
+suomirahafinnish.com
 suomirani.xyz
 suomirank.com
 suomiranker.com
@@ -3166,6 +3182,7 @@ suomispeak.com
 suomispincasino.com
 suomispinfi.com
 suomispinfin.com
+suomispinfinnish.com
 suomispinnas.com
 suomispinners.com
 suomispins.net
@@ -3182,6 +3199,7 @@ suomisubit.org
 suomisuositus.com
 suomisuretyswivel.shop
 suomisuwarrotahoe.shop
+suomisveitsisaatio.com
 suomiswarmedtalck.cfd
 suomitagassutasman.cloud
 suomitahti.com
@@ -3812,6 +3830,7 @@ vero-ca.org
 vero-ca.xyz
 vero-coach.com
 vero-coach.nu
+vero-comtacrea.com
 vero-contract.com
 vero-couture73.com
 vero-csn.site
