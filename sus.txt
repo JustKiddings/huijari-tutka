@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 27/01/2025 08:00 UTC
+# Last modified: 28/01/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -58,6 +58,8 @@ airtaxihelsinki.com
 airupsuomi.top
 aisuomi.com
 aisuomi.net
+aitechfinland.com
+aivasuomi.com
 aivonovapesuomi.com
 aivoterveysmuotoilu.com
 ajankanssapalvelut.com
@@ -101,6 +103,7 @@ ankerfinland.com
 ankersuomi.com
 annankotipalvelu.com
 anvero-group.com
+anviestates.com
 anyasoumi.com
 aomaeyokqgsuomii.xyz
 aosuomeng.net
@@ -736,6 +739,7 @@ fortumfln.com
 fortumholdings.ltd
 fortumnet.nu
 fortumon.com
+fortumopay.com
 fortumorbis.com
 fortumoy.com
 fortumq.ru
@@ -812,6 +816,7 @@ goldstarmobilepay.xyz
 gollandsky-shturval.ru
 gorewearsuomi.com
 goterveystalo.com
+gotourshelsinki.com
 goyard-suomi.com
 gpracingkartsfinland.com
 gravero-mails.live
@@ -867,6 +872,7 @@ helsinki-berlin-train-tours-packages.today
 helsinki-image.com
 helsinki-istanbul-train-tour-package.today
 helsinki-istanbul-train-tour-packages.today
+helsinki-lmn-eaa.info
 helsinki-london-train-tour-packages.today
 helsinki-lontoo-train-tour-package.today
 helsinki-lsra.rest
@@ -908,9 +914,12 @@ helsinki-mnmaa.rest
 helsinki-mnmab.rest
 helsinki-moph.rest
 helsinki-mpl-drb.info
+helsinki-mpl-eaa.info
+helsinki-mpl-eab.info
 helsinki-paris-train-tour-package-offers.today
 helsinki-paris-train-tour-package.today
 helsinki-paris-train-tour-packages.today
+helsinki-pch-eaa.info
 helsinki-pool-rental-353355716.live
 helsinki-pools.com
 helsinki-rome-train-tours-packages.today
@@ -2199,6 +2208,8 @@ petitervey.shop
 petroi-finland.com
 phautohuolto.com
 phfinland.com
+philipppleinsuomi.com
+pholmahelsinki.com
 pi-medical-finland.com
 pia-palvelut.com
 piankotipalvelu.com
@@ -2373,6 +2384,7 @@ ropoturva.com
 ropoviesti.com
 rothenrollmediafinland.com
 rouvahelsinki.com
+roxysuomi.com
 royalcaninsuomi.com
 royaldeviesta.com
 rturva.biz.id
@@ -2394,6 +2406,7 @@ s-pankki-asiakaspalvelu-fi-tietosi-iisiit.ru
 s-pankki-elakeella.com
 s-pankki-fi-mobiilillla-itliiiitilit.ru
 s-pankki-fi.com
+s-pankki-kampanja.com
 s-pankki-mobiilifi.com
 s-pankki-paivita-asiakaspalvelu-fi-acess.ru
 s-pankki-paivita-fi-ilii-tilit.ru
@@ -2457,9 +2470,11 @@ saunas-finland-172191398.click
 savon-dronepalvelut.com
 savondronepalvelut.com
 sbxfinland.com
+sbxfinland.net
 schibsted-suomi.cfd
 scufferssuomi.com
 seathuolto.online
+secludedpaternityopal.shop
 sedonamethodsuomi.com
 seek-mobilepaymonthlyau.info
 seek-mobilepaymonthlyca.info
@@ -2678,6 +2693,7 @@ soumissionsystemedalarme.com
 soumissionthermopompe.net
 soumit.tech
 soumitaddanki.com
+soumitasamanta.com
 soumitguha.com
 soumitr.com
 soumitra.link
@@ -2719,6 +2735,7 @@ spankkimobiilifi.com
 spanx-suomi.com
 spectrmmobilepayment.com
 sperm-donation-finland-ok.today
+spinsuomi.com
 sports-suomi.com
 sporttisuomi.site
 sportyfinland.com
@@ -3107,6 +3124,7 @@ suomilimoland.com
 suomilodges.com
 suomiloma.click
 suomiloma.com
+suomilounge.co.uk
 suomiluck.com
 suomilucky.com
 suomiluksushotelli.com
@@ -3445,6 +3463,7 @@ terveystalovirasto.com
 terveystalovirastory.com
 terveystaloweb.com
 terveystalox.info
+terveystase.com
 terveysvaikutukset.com
 terveysvaikutukset.net
 terveysvaikutukset.org
@@ -3566,7 +3585,9 @@ trafconsults.com
 trafcoo.store
 trafcor.com
 traficom-finland.com
+traficom-fl.com
 traficom-oyj.info
+traficomaestro.com
 traficomin.com
 traficomkt.com
 traficomoy.com
@@ -3635,6 +3656,7 @@ tunnistussuomi.info
 tunnlstautuninen-kirjaudu.com
 tupperwaresuomi.com
 turunkattohuolto.com
+turunmuuttopalvelu.com
 turva.pro
 turva.sbs
 turvaasiakasfi.com
