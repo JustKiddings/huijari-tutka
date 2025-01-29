@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 28/01/2025 08:00 UTC
+# Last modified: 29/01/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -127,6 +127,7 @@ arenasuomi-fi.com
 arenasuomiuinti.com
 ariat-finland.com
 ariatsuomioutlet.com
+arisefinland.org
 armobilepay.com
 artbooksfinland.com
 arthelsinki.com
@@ -138,6 +139,7 @@ asennuspalvelujoku.com
 ashritakantamneni.com
 asiakas-saastopanki.site
 asiakas-saatopanki.site
+asiakasalue.org
 asiakasarvokokemus.com
 asiakasdata.com
 asiakasino.net
@@ -184,6 +186,7 @@ autonosiasuomi.com
 autopalveluvuottolahti.com
 av-turva.com
 avero-california.com
+avero-cms.ru
 avero-group.com
 aviestatic.com
 aviestatic.tech
@@ -209,6 +212,7 @@ bangboxsuomi.com
 bangkok-finlandian.info
 bangvapesuomi.com
 bankaihelsinki.com
+banskyfinland.store
 bapehuppari-suomi.com
 bapesuomi.com
 baranmasoumian.com
@@ -549,6 +553,7 @@ eksklusiivisetsuomi.com
 elakkeela-smobiili.com
 elakkeella-mobiili.com
 elakkeella-spanki.com
+elakkeella-spankki-fi.com
 elakkeella-spankki-mobiili.com
 elakkeella-spankki.com
 elakkeellafi-spankki.com
@@ -952,6 +957,7 @@ helsinki2017.com
 helsinki5000.com
 helsinkiaamu.org
 helsinkiadorn.com
+helsinkiairport.rocks
 helsinkiaitio.com
 helsinkiapartments166494.icu
 helsinkiapartments833119.icu
@@ -990,6 +996,7 @@ helsinkigame.biz
 helsinkigamelab.com
 helsinkigamelab.online
 helsinkihairhub.com
+helsinkiharps.com
 helsinkihotelchoice.com
 helsinkihotelsonline.com
 helsinkihouse.cl
@@ -1239,6 +1246,7 @@ jlmonipalvelu.com
 jlphuolto.com
 jncofinland.com
 jncosuomi.com
+joinfinland.com
 jordan1suomi.com
 josefseibel-suomi.com
 journeytodayfinland.com
@@ -1266,6 +1274,7 @@ kampanja-mobiilifi.com
 kampanjafi-mobilespankki.com
 kampanjamobiili-elakkeella.com
 kampanjamobiili-fi.com
+kampanjas-pankki.com
 kampanjaspankki-elakkella.com
 kampanjaspankkifii.com
 kansalaiset-omakanta.com
@@ -1305,6 +1314,7 @@ kaupanvahvistajamikaloppi.com
 kedsfinland.com
 kedssuomi.shop
 keenfinland.com
+keensuomi.net
 kehystyspalvelunelilehti.com
 kela-fi.top
 kela-finn.com
@@ -1732,6 +1742,7 @@ mobilepaycasinot.com
 mobilepaycasinot.info
 mobilepaycasinot.net
 mobilepaycasinot.org
+mobilepayd.com
 mobilepayding.com
 mobilepaydirect.com
 mobilepaydk.link
@@ -1939,6 +1950,7 @@ nopeasuomipalvelu.online
 nopeatpelipalvelut.info
 nordeasuomi.com
 nordicaoilsfinland.com
+nordyen-finland.com
 norivahelsinki.com
 northfacesuomiale.com
 noshit-nikotiinipussit.com
@@ -2203,6 +2215,7 @@ perdavvero-lab.it
 perintapalvelu.net
 perlenarmband-suomi.shop
 persevero-watches.com
+personal-loans-finland.today
 peterveyt.com
 petitervey.shop
 petroi-finland.com
@@ -2881,6 +2894,7 @@ suomenkaihdinkeskus.com
 suomenkaista.online
 suomenkasinoarvostelut.com
 suomenkasinoetuja.com
+suomenkasinot.online
 suomenkasinotarjoukset.com
 suomenkasinothotellit.com
 suomenkattopinta.com
@@ -3555,6 +3569,7 @@ trafcodisp.ru
 trafcogroup.com
 trafcoin.com
 trafcom-fi.info
+trafcom-fin.com
 trafcom-fin.info
 trafcom-oyj.info
 trafcom-oyx.info
@@ -3584,6 +3599,7 @@ trafcomtrading.com
 trafconsults.com
 trafcoo.store
 trafcor.com
+traficom-fin.com
 traficom-finland.com
 traficom-fl.com
 traficom-oyj.info
@@ -3609,6 +3625,7 @@ transport-finland-818108826.click
 transport-finland-logistics-812277433.today
 transport-offer-helsinki-696882235.live
 transport-services-finland-kh-fi-1418571.live
+transportrapidromania-finlanda.com
 trap-star-suomi.com
 trap-starfinland.com
 trap-starsuomi.com
@@ -3843,6 +3860,7 @@ vero-apparel.com
 vero-arch.com
 vero-asperiores.com
 vero-assist.com
+vero-assist.digital
 vero-beach-south.web.id
 vero-beach.web.id
 vero-ca.com
@@ -3895,6 +3913,7 @@ vero-laudantium.site
 vero-luma.com
 vero-manager.site
 vero-manager2.com
+vero-media.net
 vero-milano.it
 vero-minus.site
 vero-moda-nl.shop
@@ -4129,6 +4148,7 @@ xn--brisadovero-i8a.com
 xn--casinoilmansuomenlisenssi-9ec.com
 xn--casinoilmansuomilisenssi-ecc.com
 xn--coraznagavero-flb.com
+xn--cosa--vero-cosa-no--vero-peco.ch
 xn--desafiodevero-7eb.site
 xn--erpalvelukontiometso-czb.com
 xn--esteetnsuomi-9ib.com
