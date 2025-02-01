@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 31/01/2025 08:00 UTC
+# Last modified: 01/02/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -16,6 +16,7 @@
 2024-omavero.info
 2024-omavero.net
 2024-omavero.xyz
+23811helsinki.com
 24suomi.com
 24suomi.net
 24suomi.org
@@ -253,6 +254,7 @@ besthelsinkihotels.com
 bestinsuomi.com
 bestofsuomi2k.com
 bestonlinecasinofinland.com
+bestsuomicasinos.com
 betalingsservice-mobilepay.com
 betalingsservicemobilepay.com
 bettisuomi.com
@@ -275,6 +277,7 @@ blackgirlinfinland.com
 blakelysuomi.com
 blankethelsinki.com
 blinkhelsinki.com
+bliss-siivouspalvelut.com
 blizsuomi.com
 boandteesuomi.com
 bognersuomi.com
@@ -1047,6 +1050,7 @@ helsinkisolar.com
 helsinkispin.bet
 helsinkispirit-fi.com
 helsinkiswingbigband.com
+helsinkisymphonyorchestra.tech
 helsinkitechnology.com
 helsinkitodolist.com
 helsinkitogo.com
@@ -1105,6 +1109,8 @@ houkuttelevasuomi.com
 houseofhelsinkiy.xyz
 hs-suomi.online
 hs-suomi.ru
+hubaconhelsinki.com
+hubeconhelsinki.com
 hugo-boss-suomi.com
 huilunhuolto.com
 huippusuomi.com
@@ -1601,6 +1607,7 @@ matkahuolto-paketti-41926673.top
 matkahuolto-paketti-48786838.top
 matkahuolto-paketti-49440981.top
 matkahuolto-paketti-60684334.top
+matkahuolto-paketti-73716832.top
 matkahuolto-paketti-78324915.top
 matkahuolto-paketti-79432435.top
 matkahuolto-paketti-81195262.top
@@ -2471,6 +2478,7 @@ saaviestates.com
 safetyfinland.com
 sahkomieshelsinki.net
 sahkopalvelutsalmi.com
+saimaatravelfinland.com
 sainttropezsuomi.com
 sajadmasoumi.com
 salomonfinland.com
@@ -2513,6 +2521,7 @@ schibsted-suomi.cfd
 scufferssuomi.com
 seathuolto.online
 secludedpaternityopal.shop
+secondhomefromfinland.com
 sedonamethodsuomi.com
 seek-mobilepaymonthlyau.info
 seek-mobilepaymonthlyca.info
@@ -2688,6 +2697,7 @@ soumission-assurance.com
 soumission-non.ch
 soumission-rapide.com
 soumission-referencement.com
+soumission-thermopompe.com
 soumissionario.com.br
 soumissionassurance.online
 soumissionassuranceauto.com
@@ -2765,6 +2775,7 @@ spankki-viestit.net
 spankki-viestit.online
 spankkielaakkeella.com
 spankkielakeella.com
+spankkielakella.com
 spankkielakkeella-mobiili.com
 spankkielakkeella.com
 spankkikampanja-fi.com
@@ -3002,6 +3013,7 @@ suomenvalinta.com
 suomenvannekorjaus.com
 suomenvip.com
 suomenwh.com
+suomenyksityisetsivat.com
 suomenyritysrahoitus.com
 suomenystavat.org
 suometa418-linkker0pen9617.site
@@ -3061,6 +3073,7 @@ suomi.gold
 suomi.group
 suomi.in.ua
 suomi.locker
+suomi.love
 suomi.media
 suomi.news
 suomi.nu
@@ -3197,6 +3210,7 @@ suomipelithotelli.com
 suomipelivarmuus.com
 suomipelyt.com
 suomipictures.org
+suomipiha.com
 suomiply.com
 suomipnp.com
 suomiporno.top
@@ -4158,6 +4172,7 @@ wellensteynfinland.com
 west-vero-corridor.web.id
 westernfinland.com
 whshensuomen.com
+windowviesta.com
 winnerzsuomi.com
 winzonefinland.com
 wodka-finlandia.pl
