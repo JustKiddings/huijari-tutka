@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 02/02/2025 08:00 UTC
+# Last modified: 03/02/2025 08:01 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -707,6 +707,7 @@ finewinefinland.com
 finishitfinland.com
 finland-suomi.ru
 finland-viesti.site
+finland.me.uk
 finland.nu
 finland.org.tr
 finlandrehabs.com
@@ -968,6 +969,7 @@ helsinki-swimming-725325571.click
 helsinki-swimming-907380973.click
 helsinki-swimming-pool-325513898.today
 helsinki-talvella.com
+helsinki-ui9.xyz
 helsinki.asia
 helsinki.baby
 helsinki.christmas
@@ -1241,6 +1243,7 @@ isoumi.com
 it-palvelu.ltd
 it-tyopaikat-suomi.cfd
 italianovero-varna.com
+italyinfinland.com
 itamerensuomi.net
 itjobfinderfinland.digital
 itpalvelutjuntunen.com
@@ -1692,6 +1695,8 @@ miesten-vaatteet.shop
 miesten-verkkarit.shop
 miesten-vyolaukku.shop
 miestencollegehousutshop.com
+miestenhajuvedet.org
+miestenhajuvedet.store
 miestenmuoti.net
 miestenrannekorut.shop
 miestentakki.com
@@ -1867,6 +1872,7 @@ my-suomen.site
 my-suomi.info
 my-suomifi.site
 my-viestit.site
+myomakantaa.com
 mysoumi.com
 myspankkimobiilifi.online
 mysuomi.com
@@ -2358,6 +2364,7 @@ profilefinland.com
 profinland.shop
 profuomosuomi.com
 proiptvsuomi.com
+prokotipalvelut.com
 proterveystalo.com
 provedotsuomi.com
 pruthviestates.com
@@ -2441,7 +2448,9 @@ rivero-automotive.se
 rivero-ayerza.com
 rivero-rp.space
 rockysuomi.com
+ropofinland.com
 ropopalvelut.com
+roposuomi.com
 ropotodennus.com
 ropoturva.com
 ropoviesti.com
@@ -2594,6 +2603,7 @@ siksilkfinland.com
 silberringe-suomi.shop
 silkiehelsinki.com
 silmu-helsinki.com
+simonhinauspalvelu.com
 sinunturvapalvelu.com
 sipetakantahmorotai.com
 sisleysuomi.com
@@ -3030,6 +3040,7 @@ suomenterassilasitus.com
 suomentimanttiurakointi.com
 suomentravelbook.com
 suomenuutiset.news
+suomenvaihtoautot.net
 suomenvakuuttavin.com
 suomenvakuuttavinmimmi.com
 suomenvalinta.com
@@ -3051,6 +3062,8 @@ suomi-ed.com
 suomi-education.com
 suomi-education.online
 suomi-fans.com
+suomi-fi-online.icu
+suomi-fi.cfd
 suomi-fi.icu
 suomi-fin.icu
 suomi-id.one
@@ -3068,6 +3081,7 @@ suomi-myfi.info
 suomi-neito.com
 suomi-nettikasinot.com
 suomi-oma.com
+suomi-online.icu
 suomi-palvelun.site
 suomi-pay.cfd
 suomi-poleneparis.com
@@ -3078,6 +3092,7 @@ suomi-prh.com
 suomi-rekisterointi.info
 suomi-select.com
 suomi-suomen.site
+suomi-tunnistus.com
 suomi-vavada.com
 suomi-veropalvelu.info
 suomi-viesteja.com
@@ -3258,6 +3273,7 @@ suomirent.com
 suomiresortcasino.com
 suomireview.com
 suomis.com
+suomisafaris.com
 suomisaunas.co
 suomisavvy.com
 suomise.com
@@ -3976,6 +3992,8 @@ vero-error.site
 vero-est.site
 vero-esthetique.com
 vero-eu.shop
+vero-fashion.com
+vero-fasion.com
 vero-fi-mytax.com
 vero-fi.sbs
 vero-fiber.com
@@ -4184,6 +4202,7 @@ vozolgear10000suomi.com
 vozolhelsinki.com
 vozolsuomi.net
 vozolvapesuomi.com
+vpnpalvelu.com
 vrterveystalo.com
 vsyrityspalvelu.info
 vuokatintaxipalvelu.com
