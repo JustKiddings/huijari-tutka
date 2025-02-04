@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 03/02/2025 08:01 UTC
+# Last modified: 04/02/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -459,10 +459,13 @@ dcpfinland.com
 dcshoes-suomi.com
 dcshoessuomi-fi.com
 dcshoessuomifi.com
+dds-masoumi.com
 deadlinehelsinki.com
 dealsinfinland.com
 debreaminhelsinki.com
 decken-suomi.shop
+deepseek-suomi.com
+deepseeksuomi.com
 defwk5sfiyiaoyj.top
 deittisuomi.com
 delfivisuomene.com
@@ -533,6 +536,7 @@ drmartenssuomifi.com
 drmasoumidrugstor.com
 drmirmasoumi.com
 drmohsenmasoumi.com
+dronepalvelu.com
 drsoumikghosh.com
 drsoumitraghosh.in
 dsafinland.com
@@ -685,6 +689,7 @@ fi-spankki.com
 fi-spankkimobiili.com
 fi-suomen.site
 fi-suomen.website
+fi-suomi.icu
 fi-suomi.sbs
 fi-suomi.website
 fi-trafcom.info
@@ -844,6 +849,7 @@ goessuomi.com
 goldfinland.com
 goldstarmobilepay.xyz
 gollandsky-shturval.ru
+goodrsuomi.com
 gorewearsuomi.com
 goterveystalo.com
 gotourshelsinki.com
@@ -951,6 +957,7 @@ helsinki-paris-train-tour-package-offers.today
 helsinki-paris-train-tour-package.today
 helsinki-paris-train-tour-packages.today
 helsinki-pch-eaa.info
+helsinki-pool-150964433.click
 helsinki-pool-rental-353355716.live
 helsinki-pools.com
 helsinki-risteily-tarjouksia.sbs
@@ -980,6 +987,7 @@ helsinki.rent
 helsinki.rocks
 helsinki.tips
 helsinki.tours
+helsinki.voyage
 helsinki10000.com
 helsinki2017.com
 helsinki5000.com
@@ -1021,6 +1029,7 @@ helsinkifilmmarket.online
 helsinkifinland.buzz
 helsinkiflow.com
 helsinkifreetour.online
+helsinkifunfest-ui16.top
 helsinkigame.biz
 helsinkigamelab.com
 helsinkigamelab.online
@@ -1069,6 +1078,7 @@ helsinkitodolist.com
 helsinkitogo.com
 helsinkitransport.com
 helsinkiweather.info
+helsinkiweekend-ui15.top
 helsinkiww.net
 helttipalvelut.com
 helttiterveys.com
@@ -1256,6 +1266,7 @@ jackpot-finlands.cfd
 jackwolfskinsuomi.shop
 jahansanatmasoumi.com
 jalmarinliikkuvapyorahuolto.com
+jamisuomi.com
 jamptipalvelut.com
 jannittavasuomi.com
 jansportssuomi.com
@@ -1611,6 +1622,7 @@ mastergastrofinland.com
 masterveyor.com
 matkahuolto-maksu-fi.online
 matkahuolto-paketti-01807323.top
+matkahuolto-paketti-10498143.top
 matkahuolto-paketti-11202885.top
 matkahuolto-paketti-11374544.top
 matkahuolto-paketti-11912994.top
@@ -1695,6 +1707,8 @@ miesten-vaatteet.shop
 miesten-verkkarit.shop
 miesten-vyolaukku.shop
 miestencollegehousutshop.com
+miestenhajuvedet.com
+miestenhajuvedet.net
 miestenhajuvedet.org
 miestenhajuvedet.store
 miestenmuoti.net
@@ -2026,6 +2040,7 @@ objectfinland.com
 obrazovanie-v-finland.ru
 obrazovanie-v-finlandii.ru
 obrazovanie-v-suomi.ru
+observingfinland.com
 offer-finland.com
 official-casino-finland.lat
 offlinefinland.com
@@ -2328,6 +2343,7 @@ pop-pankki.website
 popmartsuomi.com
 poppanki.site
 poppanki.website
+porinalituspalvelu.com
 porvoonmuuttopalvelu.com
 porvoonpalvelutalo.store
 posti-suomi.site
@@ -3053,6 +3069,7 @@ suomenystavat.org
 suometa418-linkker0pen9617.site
 suometa792-linkker0pen79214.site
 suomettumis.xyz
+suomi-0.icu
 suomi-2024.com
 suomi-amazing.com
 suomi-bonus.online
@@ -3069,6 +3086,7 @@ suomi-fin.icu
 suomi-id.one
 suomi-ilman-rekisteroitymista.com
 suomi-infi.site
+suomi-info.icu
 suomi-info.sbs
 suomi-iptv.com
 suomi-iptv.shop
@@ -3081,6 +3099,7 @@ suomi-myfi.info
 suomi-neito.com
 suomi-nettikasinot.com
 suomi-oma.com
+suomi-online.com
 suomi-online.icu
 suomi-palvelun.site
 suomi-pay.cfd
@@ -3763,6 +3782,7 @@ tunnistautuminen-suomi.com
 tunnistautumllnenssauomifi.com
 tunnistautunlnen-suomi.com
 tunnistavat.xyz
+tunnistus-suomi.com
 tunnistusfi.info
 tunnistussuomi.com
 tunnistussuomi.info
@@ -4031,6 +4051,7 @@ vero-n-co.net
 vero-necessitatibus.site
 vero-nika-photo.art
 vero-noir.com
+vero-occupational-therapy.com
 vero-odit.site
 vero-ornavero-fi.com
 vero-os.com
