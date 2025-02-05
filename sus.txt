@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 04/02/2025 08:00 UTC
+# Last modified: 05/02/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -689,6 +689,7 @@ fi-spankki.com
 fi-spankkimobiili.com
 fi-suomen.site
 fi-suomen.website
+fi-suomi.com
 fi-suomi.icu
 fi-suomi.sbs
 fi-suomi.website
@@ -1043,6 +1044,7 @@ helsinkiinnova.com
 helsinkikasino.com
 helsinkilegaltech.com
 helsinkilimo.info
+helsinkilimoservice.com
 helsinkilottery.com
 helsinkim.com
 helsinkimetaversemarket.com
@@ -1072,6 +1074,7 @@ helsinkisolar.com
 helsinkispin.bet
 helsinkispirit-fi.com
 helsinkiswingbigband.com
+helsinkisymphonygrchestra.tech
 helsinkisymphonyorchestra.tech
 helsinkitechnology.com
 helsinkitodolist.com
@@ -1318,6 +1321,7 @@ kampaamotsuomi.online
 kampanja-fimobiili.com
 kampanja-fispankki.com
 kampanja-mobiilifi.com
+kampanja-spankkifi.com
 kampanjafi-mobilespankki.com
 kampanjamobiili-elakkeella.com
 kampanjamobiili-fi.com
@@ -1386,6 +1390,7 @@ kikin-sisallontuotantopalvelut.com
 kilpailutuspalvelu.com
 kinderautos-suomi.shop
 kinderuhren-suomi.shop
+kingoffinland.com
 kipling-suomi-fi.com
 kiplingbagssuomi.com
 kiplinglaukutsuomi.com
@@ -1464,6 +1469,7 @@ laitehuolto.com
 laitteenturvallisuus.com
 lakimies-helsinki.com
 lameva-helsinki.com
+lampo-ja-vesipalvelut.com
 lampopalveluhr.com
 landyhelsinki.com
 lanoire-suomi.com
@@ -1520,6 +1526,8 @@ liisafromfinland.com
 lilleinsoumise.fr
 lilleinsoumise2026.fr
 limen-pc-huolto.net
+limoservicefinland.com
+limoservicehelsinki.com
 liningsuomi.com
 linsoumis.com
 lionheartmoviestitlecontest.com
@@ -2922,6 +2930,8 @@ suomeng.lol
 suomeng.top
 suomengfm.com
 suomengwl.top
+suomenhallitus.com
+suomenhallitus.org
 suomenhankintajuristitkoulutukset.com
 suomenhankintajuristitoy.com
 suomenhatavara.com
@@ -3060,6 +3070,8 @@ suomenvaihtoautot.net
 suomenvakuuttavin.com
 suomenvakuuttavinmimmi.com
 suomenvalinta.com
+suomenvaltio.com
+suomenvaltio.org
 suomenvannekorjaus.com
 suomenvip.com
 suomenwh.com
@@ -3249,6 +3261,7 @@ suomimarkkinointi.com
 suomimeme.xyz
 suomimetalstar.com
 suomimm.top
+suomimystica.com
 suominature.com
 suominettkasino.com
 suomingdaoshu-beidedeyuwangqingdan.net
@@ -3337,6 +3350,7 @@ suomisveitsisaatio.com
 suomiswarmedtalck.cfd
 suomitagassutasman.cloud
 suomitahti.com
+suomitarjoaa.site
 suomitarjoukset.blog
 suomitarjoukset.buzz
 suomitarjoukset.cfd
@@ -3994,6 +4008,7 @@ vero-ca.org
 vero-ca.xyz
 vero-coach.com
 vero-coach.nu
+vero-commodi.site
 vero-comtacrea.com
 vero-contract.com
 vero-couture73.com
@@ -4331,6 +4346,7 @@ xplorefinland.se
 xsuomi.site
 xsuomifi.site
 xxxfinland.com
+yarahelsinki.com
 yeezyfinland.com
 yeti-suomi.com
 yhteydenotto-suomi.site
