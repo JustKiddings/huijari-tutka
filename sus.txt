@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 07/02/2025 08:00 UTC
+# Last modified: 08/02/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -79,6 +79,7 @@ ajankanssapalvelut.com
 ajkiinteistohuolto.com
 ajosuomi.com
 akokaivopalvelut-1.online
+akshatakantak.com
 akunpalvelut.com
 al-monipalvelu.com
 alastonsuomi.shop
@@ -736,6 +737,7 @@ finplaysuomiwin.com
 fintalksfinland.com
 finterveys.top
 finvero-ti.com
+finwinsuomi.com
 firapalvelut.com
 firestonesuomi.com
 fishingtripfinland.com
@@ -862,6 +864,7 @@ goldfinland.com
 goldstarmobilepay.xyz
 gollandsky-shturval.ru
 goodrsuomi.com
+goods-transport-finland-kh-en-4428410.world
 gorewearsuomi.com
 goterveystalo.com
 gotourshelsinki.com
@@ -901,6 +904,7 @@ hauskaasuomessa.com
 hausschuhe-suomi.shop
 haustierbedarf-suomi.shop
 hautauspalvelut.online
+hcvgmpnyxtdgfruoyj.shop
 healthycoffeehelsinki.com
 heatlhincubatorhelsinki.com
 heatlhincubatorhelsinki.pro
@@ -965,6 +969,7 @@ helsinki-moph.rest
 helsinki-mpl-drb.info
 helsinki-mpl-eaa.info
 helsinki-mpl-eab.info
+helsinki-mpl-eaf.info
 helsinki-paris-train-tour-package-offers.today
 helsinki-paris-train-tour-package.today
 helsinki-paris-train-tour-packages.today
@@ -1048,6 +1053,7 @@ helsinkigamelab.com
 helsinkigamelab.online
 helsinkihairhub.com
 helsinkiharps.com
+helsinkihorizoncompany.com
 helsinkihotelchoice.com
 helsinkihotelsonline.com
 helsinkihouse.cl
@@ -1123,6 +1129,7 @@ hippuedunvalvonta.com
 hirmuhenkilostopalvelu.com
 hirvasenitpalvelut.online
 histotripsyfortumors.com
+hitsausjaautohuoltomakinen.com
 hiushuone-helsinki.com
 hkaturva.online
 hkfinland.co.uk
@@ -1171,6 +1178,7 @@ huoltoyhtio.com
 hute-suomi.shop
 hydroflasksuomi.com
 hyva-haukku-koirapalvelut.com
+hyvinkaansiivouspalvelu.com
 hyvinvointipalvelutjussila.net
 hzsoumi.xyz
 i-suomi.info
@@ -1218,6 +1226,7 @@ insoumidating.com
 insoumis.app
 insoumisdecreteil.fr
 insoumislespharaons.com
+insoumisoutremer.com
 insoumissansfrontieres.org
 insta-finland.website
 instant-loan-for-you-finland.today
@@ -1283,8 +1292,10 @@ ivhuoltoht.com
 jack-wolfskin-suomi.com
 jackelyn-suomi.com
 jackpot-finlands.cfd
+jackpot-finlands.cyou
 jackwolfskinsuomi.shop
 jahansanatmasoumi.com
+jalkapallosuomi.com
 jalmarinliikkuvapyorahuolto.com
 jamisuomi.com
 jamptipalvelut.com
@@ -1426,6 +1437,7 @@ kirjaudu-smobiiliilaa.com
 kirjaudu-suomi.com
 kirjaudu.site
 kirjaudusisaan.com
+kirjaudusmobiliilaa.com
 kiropraktiikkahelsinki.com
 kiropraktikko-helsinki.com
 kissen-suomi.shop
@@ -1488,6 +1500,7 @@ lainturva.com
 laitehuolto.com
 laitteenturvallisuus.com
 lakimies-helsinki.com
+lakipalvelut-emendatus.com
 lameva-helsinki.com
 lampo-ja-vesipalvelut.com
 lampopalveluhr.com
@@ -1720,6 +1733,7 @@ micafinland.com
 michael-kors-suomi.com
 michaelkorsoutletsuomi.net
 michaelkorssuomi.com
+micheladiviesti.com
 michelinsuomi.com
 miesten-aamutakit.shop
 miesten-bokserit.shop
@@ -1801,6 +1815,7 @@ mobiilispankki.com
 mobiilitiy-scooters.today
 mobiiliturvallisuus.net
 mobilepay-danmark.info
+mobilepay-danmark.link
 mobilepay-dk-bruger-opdatering.online
 mobilepay-dk.info
 mobilepay-fi.com
@@ -1963,6 +1978,7 @@ naturval.net
 naturvalet.com
 nayteikkuna-verkkopeleihin-suomessa.buzz
 nbc-finland.com
+nbcsymposiumfinland.com
 nblenkkaritsuomi.com
 nbsuomi.shop
 ndttukkufinland.com
@@ -1970,6 +1986,7 @@ ndttukkusuomi.com
 netterveystalo.com
 nettiapteekki-suomi.life
 nettiapteekkisuomi.life
+netticasino-suomi.com
 netticasinosuomi.shop
 netticasinosuomi.website
 nettikasinotilmanrekisteroitymista.bet
@@ -2116,6 +2133,7 @@ oma-germana.at
 oma-global.com
 oma-gourmandises.com
 oma-haus.com
+oma-holdings.com
 oma-insurance.com
 oma-kase.com
 oma-kuehnchen.de
@@ -2315,6 +2333,7 @@ peintureprostaticsoumission.com
 pelaaminensuomessa.com
 pelaasuomea.com
 peliliikesuomi.com
+pelipaitasuomi.com
 pelitoimintaasuomessa.com
 penfieldsuomi.com
 pensionfinland.buzz
@@ -2478,6 +2497,7 @@ rdsiivouspalvelut.com
 redumbrellatourshelsinki.com
 redvalentinosuomi.com
 reflexions-echanges-insoumis.org
+regattaoutdoorssuomi.com
 rekisterointi-nyt.com
 relepankki.com
 remonttimiespalvelut.online
@@ -2641,6 +2661,7 @@ shirtyopants.shop
 shirtyopants.store
 shopfinland.ru
 shopsuomi.com
+shotbarfinland.com
 showposuomi.com
 sidifinland.com
 sidisuomi.net
@@ -2879,6 +2900,7 @@ spanx-suomi.com
 spectrmmobilepayment.com
 sperm-donation-finland-ok.today
 spinsuomi.com
+spinz-suomi.com
 sports-suomi.com
 sporttisuomi.site
 sportyfinland.com
@@ -3048,6 +3070,7 @@ suomenmetalli.com
 suomenminimaailma.com
 suomenmuuttojakuljetus.com
 suomenmyyntiapu.com
+suomennettikasinot.net
 suomennuohousrekisteri.com
 suomennuohoustarvike.com
 suomenparhaatkohteet.com
@@ -4066,6 +4089,7 @@ vero-csn.site
 vero-cupiditate.site
 vero-deco.fr
 vero-dent.com
+vero-design.com
 vero-dev.com
 vero-diseno.com
 vero-doloribus.site
@@ -4133,6 +4157,7 @@ vero-ro.com
 vero-roma.com
 vero-santiago.com
 vero-skin.com
+vero-smith.com
 vero-sms.com
 vero-soluta.site
 vero-soto.com
@@ -4265,6 +4290,7 @@ vivaiasuomi-fi.com
 vivaiasuomi.com
 vivaiasuomioutlet.com
 vivero-app.website
+vivero-casa-romero.com
 vivero-cosmo.com
 vivero-elpotro.com
 vivero-romen.com
@@ -4297,6 +4323,8 @@ vuolo-helsinki.com
 vuori-suomi.com
 vv-autohuolto.com
 vvhuolto.online
+walkertapecofinland.com
+walkertapefinland.com
 walletohelsinki.com
 wanderfinland.xyz
 warehousepackingagenciesinhelsinki375882.icu
@@ -4434,6 +4462,7 @@ zartiquebysoumita.com
 zb-soumi.com
 zbshensuomen.cn
 zenola-helsinki.com
+zgxoehardwpcaoyj.shop
 zhaosuoming.com
 zhusuomenchuang.com
 zigarrenschneider-suomi.shop
