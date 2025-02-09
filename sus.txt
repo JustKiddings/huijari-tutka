@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 08/02/2025 08:00 UTC
+# Last modified: 09/02/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -224,6 +224,7 @@ baffin-suomi.com
 baggufinland.com
 baghdad-finlandian.info
 baku-finlandian.info
+balconyproductsfinland.com
 ball-finland.com
 balmainhairsuomi.com
 bamako-finlandian.info
@@ -389,6 +390,7 @@ cloudsuomi.click
 clubhousegrillfinland.com
 cmihelsinki.org
 coashopsuomis.com
+cojeanvero-formation.com
 collaborativecaresystemsfinland.com
 colnmotionfinland.cloud
 columbiafinland.com
@@ -491,6 +493,7 @@ delivero-uae-chocolatier.com
 delivero-uae.online
 deliveryfinland.com
 delivvero-ae.com
+deljvero-ae.com
 dellivero-fix.com
 dellvero-ae.com
 dellvero-uae.com
@@ -643,6 +646,7 @@ esport-suomi.com
 esprit-finland.com
 esprit-suomi.com
 essentials-suomi.com
+essisuomi.shop
 esteetonsuomi.com
 estonia-helsinki-rail-vacation.today
 ethereumfinland.xyz
@@ -1117,6 +1121,7 @@ heohelsinki.com
 herhelsinki.com
 herrenschmuck-suomi.shop
 hevospalveluvaisanen.com
+heyhelsinki.com
 hi-elisa.com
 hibachihelsinki.com
 hierontapalveluthuoponen.com
@@ -1475,6 +1480,7 @@ kremointipalvelut.bond
 kryptomobilepay.com
 kryptosuomi.net
 ks-ohjelmapalvelut.net
+kuittipalvelu.com
 kuljetuspalvelumiilumaki.com
 kulturvakt.nu
 kulturvakti.online
@@ -1792,6 +1798,7 @@ mobiili-elaakkeella.com
 mobiili-elakkeela.com
 mobiili-elakkeella.com
 mobiili-kammpanja-fi.com
+mobiili-kampanja-finland.com
 mobiili-kampanja-pankki.com
 mobiili-kampanjas.com
 mobiili-kasinot.org
@@ -2118,6 +2125,7 @@ oma-co.com
 oma-comunity.com
 oma-costruzioni.com
 oma-crm.com
+oma-ema.shop
 oma-email.site
 oma-emailing.site
 oma-emails.site
@@ -2166,6 +2174,7 @@ oma-shop.com
 oma-slot.site
 oma-smash.ch
 oma-smash.com
+oma-sucht-sex.com
 oma-system.net
 oma-talley-design.org
 oma-tech.com
@@ -2271,6 +2280,7 @@ oytrafcom.info
 ozempicsuomi247.com
 ozempicsuomi247.net
 paapankki.com
+padelsuomi.com
 pajar-finland.com
 pajarsfinland.com
 pajarsuomi.com
@@ -2364,6 +2374,7 @@ pikolionssuomiale.com
 pilarihelsinki.com
 pillerit-suomi.com
 pilviturva.lol
+pinjasuomela.com
 pinkpalmpuff-finland.com
 pinkpalmpufffinland.com
 pinkpalmpuffsuomi.com
@@ -2484,6 +2495,7 @@ rakennuspalvelukellmanoy.com
 rakennuspalveluoap.com
 rakennustietopankki.com
 ralph-lauren-suomi.com
+ramakantaseva.org
 rannikonkonehuolto.com
 raphafinland.com
 rasvero-service.ru
@@ -2515,6 +2527,7 @@ rexel-finland.com
 rexelfinland.com
 rhydon-helsinki.com
 richardvalvona.uk
+rickydaviestattoo.com
 ricovero-temporaneo.it
 ridgidsuomi.com
 riekersuomi.com
@@ -2584,6 +2597,7 @@ s-terveys.com
 saappaatdopefinland.com
 saappaatsuomi.com
 saaristohuolto.net
+saasatopankki.vip
 saaspankki.com
 saastopankki.online
 saaviestates.com
@@ -2605,6 +2619,7 @@ sammutinhuoltoketonen.com
 san-vero-milis.my.id
 sandqvistsuomi.com
 sanriokauppasuomi.com
+sansevero-c7.com
 santanahelsinki.com
 santasuomi.com
 sanuk-finland.com
@@ -2627,6 +2642,7 @@ saunas-finland-136215910.click
 saunas-finland-172191398.click
 savon-dronepalvelut.com
 savondronepalvelut.com
+savro-helsinki.com
 sbxfinland.com
 sbxfinland.net
 schibsted-suomi.cfd
@@ -2813,6 +2829,7 @@ soumission-non.ch
 soumission-rapide.com
 soumission-referencement.com
 soumission-thermopompe.com
+soumission.construction
 soumissionario.com.br
 soumissionassurance.online
 soumissionassuranceauto.com
@@ -3324,6 +3341,7 @@ suomiluotettavuus.com
 suomiluxhotelli.com
 suomiluxuskasino.com
 suomimarkkinointi.com
+suomimed.com
 suomimeme.xyz
 suomimetalstar.com
 suomimilf.com
@@ -3476,6 +3494,7 @@ suomivahvista.com
 suomivarmennus.com
 suomivarmista.info
 suomivedot.com
+suomivibesonline.shop
 suomiviesta.info
 suomivoitotfi.com
 suomivoitotfin.com
@@ -4119,6 +4138,7 @@ vero-hurtadolozada.com
 vero-ia.com
 vero-interactive.com
 vero-io.com
+vero-it.ru
 vero-kart.shop
 vero-ksa.com
 vero-kumamoto.com
