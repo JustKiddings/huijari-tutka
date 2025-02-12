@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 11/02/2025 08:00 UTC
+# Last modified: 12/02/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -79,6 +79,8 @@ aivoterveysmuotoilu.com
 ajankanssapalvelut.com
 ajkiinteistohuolto.com
 ajosuomi.com
+akashviestate.com
+akashviestates.com
 akokaivopalvelut-1.online
 akshatakantak.com
 akunpalvelut.com
@@ -521,6 +523,7 @@ dewamakantakoyaki.app
 dgcsvsuomi.info
 diadorasuomisale.com
 diamantefinland.com
+dickiesstorehelsinki.com
 dieselhuolto.com
 digiflavorsuomi.com
 digilancersoumik.in
@@ -896,6 +899,7 @@ gwearfinland.com
 gym-sharksuomi.com
 gymsfinland.click
 gymsharkfinlandstore.com
+gymsharksuomi.net
 haakuvaaja-helsinki.com
 haixsuomi.com
 hallintopalvelut-vayla.fit
@@ -1190,6 +1194,7 @@ huoltopistealhonen.com
 huoltoyhtio.com
 hute-suomi.shop
 hydroflasksuomi.com
+hydrogenfinland.com
 hyva-haukku-koirapalvelut.com
 hyvinkaansiivouspalvelu.com
 hyvinvointipalvelutjussila.net
@@ -1727,6 +1732,7 @@ medassistaulfinland.bond
 medassistshaslfinland.bond
 mediatukipalvelut.net
 medibridgeukfinland.co.uk
+meet-single-women-finland.today
 meilleuresoumission.com
 meindlhelsinki.com
 meine-leinwandbilder-suomi.shop
@@ -2495,9 +2501,11 @@ pyrenexsuomi.com
 qisuunnittelupalvelu.com
 qsfinland.com
 quero-vero-preco-do-pneu.today
+quick-loan-for-you-finland.today
 raabersoumimok.ru
 radianthelsinki.lol
 radiofreefinland.net
+radiosuomi.com
 radiosuomi.net
 rafinland.com
 raflahuolto.com
@@ -2809,6 +2817,7 @@ soumikagura.site
 soumikbag.com
 soumikbengaltourism.com
 soumikbiz.com
+soumikchakraborty.com
 soumikchaudhuri.tech
 soumikd4.tech
 soumikmanna2441139.xyz
@@ -2894,6 +2903,7 @@ soumitaddanki.com
 soumitasamanta.com
 soumitguha.com
 soumitr.com
+soumitra.fun
 soumitra.link
 soumitrab.com
 soumitradey.com
@@ -3152,6 +3162,7 @@ suomensahkoautohuolto.com
 suomensahkoautokorjaamo.com
 suomenseikkailut.com
 suomensiemenpankki-fi.com
+suomensisu.org
 suomentalousuutiset.blog
 suomentanssitapahtumat.com
 suomentarjous.com
@@ -3237,6 +3248,7 @@ suomi-viestit-fi.website
 suomi-viestit-osiossa.site
 suomi-viestit-osiossa.website
 suomi-viestits.site
+suomi-web.sbs
 suomi-wonderful.com
 suomi.email
 suomi.gold
@@ -3886,6 +3898,7 @@ travelexpertgroupfinland.com
 travelinfinland.net
 travero-pm.com
 treffitsuomi.com
+triathlonshopfinland.com
 tripspellfinland.com
 trjspalvelutoy.com
 trkfinland.org
@@ -4148,6 +4161,7 @@ vero-dublin.com
 vero-eg.com
 vero-electronics.com
 vero-enim.site
+vero-eric.com
 vero-error.site
 vero-est.site
 vero-esthetique.com
