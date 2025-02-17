@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 16/02/2025 08:00 UTC
+# Last modified: 17/02/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -202,6 +202,7 @@ auroralightsfinland.com
 aussiesuomi.net
 australian-cobberdog-finland.com
 auth-s-pankkii-fi.com
+autofixhelsinki.com
 autohuolto.org
 autohuoltopalokka.com
 autojakonehuolto.com
@@ -289,6 +290,7 @@ betyopaxv.xyz
 bfgoodrichsuomi.com
 bfinland.top
 bhcfinland.info
+bhelsinki.com
 bilgiegitimkulturvakfi.com
 bilgiegitimkulturvakfi.xyz
 bilgiegitimvekulturvakfi.xyz
@@ -534,7 +536,9 @@ deutersuomi.com
 deutschebibliothekhelsinki.net
 devero-dienstleistungen.com
 dewamakantakoyaki.app
+dfyne-finland.com
 dfyne-suomi.com
+dfynesuomishop.com
 dgcsvsuomi.info
 diadorasuomisale.com
 diamantefinland.com
@@ -941,6 +945,7 @@ hauskaasuomessa.com
 hausschuhe-suomi.shop
 haustierbedarf-suomi.shop
 hautauspalvelut.online
+havenhelsinki.com
 hcvgmpnyxtdgfruoyj.shop
 healthycoffeehelsinki.com
 heatlhincubatorhelsinki.com
@@ -1625,6 +1630,7 @@ limoservicehelsinki.com
 liningsuomi.com
 linsoumis.com
 lionheartmoviestitlecontest.com
+littlehelsinki.com
 livelisuomi.com
 livero-lp.com
 livero-mode.de
@@ -1726,6 +1732,7 @@ masoumii.com
 maspalvelut.com
 massage-services-in-finland.bond
 massimoduttifinland.com
+master-finland.com
 mastergastrofinland.com
 masterveyor.com
 matkahuolto-maksu-fi.online
@@ -2081,6 +2088,7 @@ newhelsinkibrassquintet.com
 newrocksuomi.com
 newterveystalo.com
 nfcmobilepay.com
+ngnordicfinland.com
 ni-pantins-ni-soumis.fr
 nicell-fortum.com
 nichehelsinki.com
@@ -2438,6 +2446,7 @@ pia-palvelut.com
 piankotipalvelu.com
 pianonvirittajahelsinki.com
 pianonvirityshelsinki.com
+pianonvirityshelsinki.net
 pieceoffinland.com
 pihajahuolto.com
 pikasuomi.com
@@ -2662,6 +2671,7 @@ s-pankki-asiakaspalvelu-fi-tietosi-iisiit.ru
 s-pankki-elakeella.com
 s-pankki-fi-mobiilillla-itliiiitilit.ru
 s-pankki-fi.com
+s-pankki-kampanja-mobiili.com
 s-pankki-kampanja.com
 s-pankki-kampanjafi.com
 s-pankki-mobiilifi.com
@@ -2739,6 +2749,7 @@ sbxfinland.com
 sbxfinland.net
 schibsted-suomi.cfd
 scufferssuomi.com
+search-for-ai-mental-testing-finland.today
 seathuolto.online
 secludedpaternityopal.shop
 secondhomefromfinland.com
@@ -2926,6 +2937,8 @@ soumishsengupta.com
 soumission-asdm.com
 soumission-assurance-moto.net
 soumission-assurance.com
+soumission-fenentres-1.online
+soumission-fenentres-2.online
 soumission-non.ch
 soumission-rapide.com
 soumission-referencement.com
@@ -3033,6 +3046,7 @@ sporttisuomi.site
 sportyfinland.com
 spr-turvapassi.com
 spr-turvapassi.net
+spyfilmfinland.com
 ssbdfinland.com
 ssl-omavero.com
 ssuomiibrilliantballs.com
@@ -3066,6 +3080,7 @@ studioksoumine.sn
 studyinfinland.today
 stussy-suomi.com
 stussyfi-suomi.com
+stussyfinland.com
 stussys-finland.com
 stussystoresuomi.com
 stussysuomi.eu
@@ -3260,6 +3275,7 @@ suomenteollisuushuolto.org
 suomenterassicenter.com
 suomenterassilasitus.com
 suomentimanttiurakointi.com
+suomentrade.com
 suomentravelbook.com
 suomenuutiset.news
 suomenvaihtoautot.net
@@ -3829,6 +3845,7 @@ tgsfinland.com
 the-ghost-of-finland.com
 thealleyhelsinki.com
 thefrankieshopsuomi.net
+thegaviestate.com
 thenorthface-suomi.com
 thenorthfacehelsinki.com
 thenorthfacessuomi.com
@@ -3908,6 +3925,7 @@ tourhelsinki.com
 tpaitafinland.com
 tpmssuomi.com
 tpmswholesalesuomi.com
+tradefinland.info
 traen2suomi.com
 trafco.agency
 trafco.info
@@ -4214,8 +4232,10 @@ verkkoasiointi-elisa.site
 verkkokaupanpalvelukeskus.com
 verkkokontakti-suomi.site
 verkkokoulutunnistautuminen.com
+verkkopalvelu-fi.com
 verkkopalvelu-suomi.site
 verkkopalvelut-fi.com
+verkkopankkiin-fi.com
 verkkopankkiin-fi.online
 verkkopankkiin-fi.site
 verkkopankkiin.site
@@ -4580,6 +4600,7 @@ xn--kitvero-suplementos-0vb.online
 xn--kylmlaitehuolto-3kb.com
 xn--kylmpalvelu-o8a.com
 xn--lastenhoitopalveluleikkis-9ec.com
+xn--lattialmmityshuolto-mwb.com
 xn--levinmkkihuolto-etb.com
 xn--lhipyorhuolto-bfbg.com
 xn--mobiiliprssi-cjb.com
