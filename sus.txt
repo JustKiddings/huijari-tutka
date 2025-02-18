@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 17/02/2025 08:00 UTC
+# Last modified: 18/02/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -162,6 +162,7 @@ asiakas-saastopanki.site
 asiakas-saatopanki.site
 asiakasalue.org
 asiakasarvokokemus.com
+asiakasbi.com
 asiakasdata.com
 asiakasino.net
 asiakasmagneetti.com
@@ -494,6 +495,7 @@ deadlinehelsinki.com
 dealsinfinland.com
 debreaminhelsinki.com
 decken-suomi.shop
+deelivero-ae.com
 deepseek-suomi.com
 deepseeksuomi.com
 defwk5sfiyiaoyj.top
@@ -1752,6 +1754,7 @@ matkahuolto-paketti-40790995.top
 matkahuolto-paketti-41926673.top
 matkahuolto-paketti-48786838.top
 matkahuolto-paketti-49440981.top
+matkahuolto-paketti-50533758.top
 matkahuolto-paketti-60684334.top
 matkahuolto-paketti-73474355.top
 matkahuolto-paketti-73716832.top
@@ -2226,6 +2229,7 @@ oma-l.com
 oma-l.online
 oma-l.store
 oma-labrigade.fr
+oma-lampe.com
 oma-mail.site
 oma-mailing.site
 oma-massage.com
@@ -2991,6 +2995,7 @@ soumissionstrois-rivieres.ca
 soumissionsystemedalarme.com
 soumissionthermopompe.net
 soumit.tech
+soumita.xyz
 soumitaddanki.com
 soumitasamanta.com
 soumitguha.com
@@ -3021,6 +3026,7 @@ spankki-elakkeeella.com
 spankki-elakkeela.com
 spankki-elakkeella.com
 spankki-elakkeellaa.com
+spankki-mobiili-fi.com
 spankki-mobiili-online.com
 spankki-viestit.com
 spankki-viestit.net
@@ -3218,6 +3224,7 @@ suomennettikasinot.net
 suomennuohousrekisteri.com
 suomennuohoustarvike.com
 suomenonni.com
+suomenpah.org
 suomenparhaatkohteet.com
 suomenparhaatlomat.com
 suomenparhaattarjoukset.online
@@ -3294,6 +3301,7 @@ suometa418-linkker0pen9617.site
 suometa792-linkker0pen79214.site
 suomettumis.xyz
 suomi-0.icu
+suomi-2.sbs
 suomi-2024.com
 suomi-amazing.com
 suomi-arvat.biz
@@ -3762,6 +3770,7 @@ tedbakersuomi.shop
 tedbakersuomifi.com
 teddyfreshsuomi.com
 tekstiviesti.com
+telaviestate.com
 telpalvelut.lol
 tendersfinland.com
 teollisuuspalvelu918.com
@@ -4489,6 +4498,7 @@ vivero-app.website
 vivero-casa-romero.com
 vivero-cosmo.com
 vivero-elpotro.com
+vivero-luxury.store
 vivero-romen.com
 vivero-selvatico.com
 viviennewestwood-finland.com
