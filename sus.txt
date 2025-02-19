@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 18/02/2025 08:00 UTC
+# Last modified: 19/02/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -85,6 +85,7 @@ akokaivopalvelut-1.online
 akshatakantak.com
 akunpalvelut.com
 al-monipalvelu.com
+alandskirjaudu.com
 alastonsuomi.shop
 aleppo-finlandian.info
 alexandrafinland.com
@@ -124,6 +125,7 @@ anvero-group.com
 anviestates.com
 any-pankki.icu
 anyasoumi.com
+anypankki.icu
 aomaeyokqgsuomii.xyz
 aosuomeng.net
 aoyj.cn
@@ -365,6 +367,7 @@ casino360finland.com
 casinonorthfinland.com
 casinosfinderssuomi.com
 casinosinfinland.com
+casinosuomi.click
 casinoswipersuomi.com
 casisuomi10.com
 castoresuomi.com
@@ -857,6 +860,7 @@ frostyopalglow.store
 fruit-packaging-jobs-finland.today
 fruityfinland.com
 fssuomei.com
+fufu4dhelsinki.xyz
 funeralillfinland.bond
 funeraljhbyquwqlifinland.bond
 funeralwljlfinland.bond
@@ -1241,6 +1245,7 @@ iafinland.com
 iamgiasuomi.com
 icebugfinland.com
 icecubefinland.com
+icedrivingfinland.online
 icepeakfinland.com
 icepeaksuomi.com
 ict-huolto.online
@@ -1328,6 +1333,7 @@ iptvsuomi.info
 iptvsuomi.live
 iptvsuomi.net
 iptvsuomi.news
+iptvsuomi.shop
 iptvsuomi.xyz
 iptvsuomis.com
 ireland-finland-train-holiday-deals-777.today
@@ -1341,6 +1347,7 @@ it-tyopaikat-suomi.cfd
 italianovero-varna.com
 italyinfinland.com
 itamerensuomi.net
+itasuomifrontend.xyz
 itjobfinderfinland.digital
 itpalvelutjuntunen.com
 iuoyj.icu
@@ -2673,6 +2680,7 @@ s-mobiilispankki.com
 s-mobiilispankki.online
 s-pankki-asiakaspalvelu-fi-tietosi-iisiit.ru
 s-pankki-elakeella.com
+s-pankki-fi-kampanja.com
 s-pankki-fi-mobiilillla-itliiiitilit.ru
 s-pankki-fi.com
 s-pankki-kampanja-mobiili.com
@@ -3211,6 +3219,7 @@ suomenkoulupalvelu.com
 suomenkuntotarkastustalo.com
 suomenkurssi.com
 suomenkuvalehti.com
+suomenkuvaszklubi.online
 suomenliikennevalmennus.com
 suomenlinnanvanhatparrat.com
 suomenmahtavin.com
@@ -3468,6 +3477,7 @@ suomikasinothotels.com
 suomike.com
 suomike.net
 suomikeskus.nu
+suomikimalainen.online
 suomikooooh.xyz
 suomikuvva.com
 suomileaniksi.com
@@ -4315,6 +4325,7 @@ vero-gaming.com
 vero-geothermal.energy
 vero-gomez.com
 vero-green.com
+vero-group.com
 vero-guard.com
 vero-holding.com
 vero-hurtadolozada.com
@@ -4366,6 +4377,7 @@ vero-soluta.site
 vero-soto.com
 vero-sports.com
 vero-store.com
+vero-store.store
 vero-strength.com
 vero-suomi.com
 vero-suomi.sbs
@@ -4498,6 +4510,7 @@ vivero-app.website
 vivero-casa-romero.com
 vivero-cosmo.com
 vivero-elpotro.com
+vivero-inteligente.info
 vivero-luxury.store
 vivero-romen.com
 vivero-selvatico.com
