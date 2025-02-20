@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 19/02/2025 08:00 UTC
+# Last modified: 20/02/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -220,6 +220,8 @@ avaa-pankkitili-netissa-2.online
 avero-california.com
 avero-cms.ru
 avero-group.com
+aviestas.site
+aviestas.space
 aviestatic.com
 aviestatic.tech
 axelarigato-helsinki.com
@@ -760,6 +762,7 @@ filasuomi-fi.com
 filmschoolfinland.com
 fimobiiliimaksut.com
 fin-mobilepay.com
+fin-virtuaalinen-terveys.online
 finansivalvonta.com
 findajobinfinland.com
 finediningfinland.com
@@ -826,6 +829,7 @@ fortuma.org
 fortuma.xyz
 fortumate.com
 fortumatic.com
+fortumecoins.com
 fortumejack.com
 fortumfix.info
 fortumfln.com
@@ -882,6 +886,7 @@ gameroomfinland.com
 gaminginfinland.com
 gantfinland.com
 gantoutletsuomi.com
+gatorade-suomi.com
 gatoradesuomi.com
 gegu-finland.com
 gelopalvelut.com
@@ -1117,6 +1122,7 @@ helsinkikasino.com
 helsinkilegaltech.com
 helsinkilimo.info
 helsinkilimoservice.com
+helsinkilm.lol
 helsinkilottery.com
 helsinkim.com
 helsinkimetaversemarket.com
@@ -1245,6 +1251,7 @@ iafinland.com
 iamgiasuomi.com
 icebugfinland.com
 icecubefinland.com
+icedrivingfinland.com
 icedrivingfinland.online
 icepeakfinland.com
 icepeaksuomi.com
@@ -1358,6 +1365,7 @@ jack-wolfskin-suomi.com
 jackelyn-suomi.com
 jackpot-finlands.cfd
 jackpot-finlands.cyou
+jackwolfskinsuomi.com
 jackwolfskinsuomi.shop
 jahansanatmasoumi.com
 jalkapallosuomi.com
@@ -1501,6 +1509,7 @@ kirjaudu-online.sbs
 kirjaudu-siaan.sbs
 kirjaudu-sisaan.sbs
 kirjaudu-smobiiliilaa.com
+kirjaudu-smobiilliinnffi.com
 kirjaudu-suomi.com
 kirjaudu.site
 kirjaudusisaan.com
@@ -1521,6 +1530,7 @@ kokonaisturvallisuudenosaamiskeskus.com
 komonofinland.com
 konehuoltoheinonen.com
 konehuoltokeskus.com
+konehuoltonurminen.com
 konepajapalvelut.com
 konnevedenvuokrauspalvelu.com
 konsumenturval.se
@@ -1532,6 +1542,8 @@ kontaktisaastopanki.site
 kontaktisaatopanki.site
 koodifinland.com
 korhonen-helsinki.com
+korttipankki.com
+korttipankki.net
 korulippaat-suomi.shop
 kotiapupalvelu.online
 kotiapupalvelu.site
@@ -1711,6 +1723,7 @@ mahdaviestate.com
 majuriturvallinen.com
 makantadbir.com
 makantahu.com
+makantahu.site
 makantahu.xyz
 makantahutempel.site
 makantamin.com
@@ -1875,6 +1888,7 @@ mmktpalvelut.com
 mnaoyj.info
 mnsuomessa.com
 mobiiepaysuomifi.com
+mobiil1xbet.com
 mobiili-elaakkeella.com
 mobiili-elakkeela.com
 mobiili-elakkeella.com
@@ -2142,6 +2156,7 @@ nikotiinipussit1.info
 nikotiinisakit.com
 nikotiinitori.com
 nikotiinivahvuuksiin.xyz
+ninjasuomi.com
 ninkifinland.com
 nisantasiegitimkulturvakfi.online
 nivakpankki.com
@@ -2362,6 +2377,7 @@ osuuspankki2.com
 osuusyrpankki.com
 ourfinland.com
 ourfinland.online
+outdoorsfinland.com
 owala-suomi.com
 owalasuomifi.com
 oy-trafcom.info
@@ -3074,6 +3090,7 @@ startupsuomi.org
 starzonefinland.net
 steelcraftfinland.com
 stefanini-finland.com
+stemitfinland.com
 stephiesuomiswashy.sbs
 sterveys.com
 stevemaddeninsuomi.com
@@ -3148,6 +3165,8 @@ suomeng.cc
 suomeng.lol
 suomeng.top
 suomengfm.com
+suomengummitehdas.com
+suomengummitehdas.net
 suomengwl.top
 suomenhallitus.com
 suomenhallitus.org
@@ -3435,6 +3454,7 @@ suomielectric.today
 suomiensin.com
 suomiescort.com
 suomifaama.com
+suomifans.site
 suomifeedback.com
 suomifi.com
 suomifi1.site
@@ -3921,6 +3941,7 @@ tonybiancosuomi.net
 toonzshopsuomi.com
 top-10suomi.com
 top-list-finland.com
+top-slot-finlandia.com
 top10-ilman-rekisteroitymista.com
 top10-suomi.com
 top10suomi.education
@@ -4102,6 +4123,7 @@ turvallisuuskoordinaattori.com
 turvallisuusstudio.com
 turvallisuusvarma.com
 turvalokero.com
+turvalty.com
 turvapassi.com
 turvapassi.net
 turvapilvi.lol
@@ -4110,6 +4132,7 @@ turvasuomifi.com
 turvat.com
 turvataksi.com
 turvataksi.net
+turvatarvike.com
 turvataxi.com
 turvataxi.net
 turvatekniikka.com
@@ -4210,6 +4233,7 @@ vahvistustorifi.store
 vahvistustransaktio.shop
 vaihdehuolto.nu
 vakantie-zweden-finland-reisblog.nl
+valestudiohelsinki.com
 valintaopasfinland.com
 valipalvelu.com
 valipalvelu.net
@@ -4400,6 +4424,7 @@ vero-vital.net
 vero-vivida-herbals.com
 vero-wealth.com
 vero-well.com
+vero-wellness.com
 vero-zone.store
 veroo-suomi.com
 veropalvelu-fi.info
@@ -4492,6 +4517,11 @@ virtuaalinen-terveys-3.online
 virtuaalinen-terveys-4.online
 virtuaalinen-terveys-5.online
 virtuaalinen-terveys-6.online
+virtuaalinen-terveys-7.online
+virtuaalinen-terveys-8.online
+virtuaalinen-terveys-fi.online
+virtuaalinen-terveys-no-2.online
+virtuaalinen-terveys-no.online
 virtuaalinen-terveys.online
 virtuaaliset-terveyspalvelut.online
 virtuaalisuomi.com
