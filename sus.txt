@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 20/02/2025 08:00 UTC
+# Last modified: 21/02/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -191,6 +191,7 @@ asoumi.com
 asoypalvelut.com
 assuranceviesoumissions.com
 asuomitv.com
+atelieriohaapalahelsinki.com
 ateljeehelsinki.com
 ateriapalvelu.com
 athanasiagiasoumi.com
@@ -217,9 +218,13 @@ autopalveluvuottolahti.com
 av-turva.com
 avaa-pankkitili-netissa-1.online
 avaa-pankkitili-netissa-2.online
+avaa-pankkitili-netissa-3.online
+avaa-pankkitili-netissa-4.online
+aveno-suomi.com
 avero-california.com
 avero-cms.ru
 avero-group.com
+aviestas.com
 aviestas.site
 aviestas.space
 aviestatic.com
@@ -453,6 +458,7 @@ cossuomi-fi.com
 cossuomi.com
 costadelmarsuomi.com
 cottagefinland.com
+courtyardtamperecityfinland.com
 crawlingthrufinland.com
 crazyhelsinki.com
 createchfinland.com
@@ -1053,6 +1059,7 @@ helsinki-talvella.com
 helsinki-ui9.xyz
 helsinki.asia
 helsinki.baby
+helsinki.bio
 helsinki.christmas
 helsinki.games
 helsinki.lat
@@ -1109,6 +1116,7 @@ helsinkigame.biz
 helsinkigamelab.com
 helsinkigamelab.online
 helsinkigranfondo.com
+helsinkihackathon.com
 helsinkihairhub.com
 helsinkiharps.com
 helsinkihorizon.com
@@ -1514,6 +1522,7 @@ kirjaudu-suomi.com
 kirjaudu.site
 kirjaudusisaan.com
 kirjaudusmobiliilaa.com
+kirjaudusmobilliinnffi.com
 kiropraktiikkahelsinki.com
 kiropraktikko-helsinki.com
 kissen-suomi.shop
@@ -1877,6 +1886,7 @@ misoumize.com
 misterlamp-helsinki.com
 mitsubishiclubfinland.net
 mittfortum.nu
+mizuno-suomi-fi.com
 mizuno-suomi.cc
 mizuno-suomi.com
 mizunoinsuomi.com
@@ -1910,6 +1920,7 @@ mobiililava.org
 mobiilinauhoitus.com
 mobiiliohjaus.com
 mobiilipankkionline.com
+mobiiliparcel.online
 mobiiliportaali.com
 mobiilirakendus.ee
 mobiilis-pankki.com
@@ -1938,6 +1949,7 @@ mobilepay.llc
 mobilepay.nu
 mobilepay.pro
 mobilepay.site
+mobilepay.space
 mobilepay.top
 mobilepay.website
 mobilepay24.com
@@ -2173,6 +2185,7 @@ nomavero.info
 nopeasuomipalvelu.online
 nopeatpelipalvelut.info
 nordeasuomi.com
+nordic-helsinki.com
 nordicaoilsfinland.com
 nordyen-finland.com
 norivahelsinki.com
@@ -2452,6 +2465,7 @@ pelaasuomea.com
 peliliikesuomi.com
 pelipaitasuomi.com
 pelitoimintaasuomessa.com
+peltipalvelu.com
 penfieldsuomi.com
 pensionfinland.buzz
 peppermayosuomi.com
@@ -2521,9 +2535,12 @@ pop-pankki.online
 pop-pankki.pro
 pop-pankki.site
 pop-pankki.website
+popankki.com
 popmartsuomi.com
 poppanki.site
 poppanki.website
+poppankki-fi.com
+poppankki-viestini.com
 porinalituspalvelu.com
 pornaistentietokonehuolto.com
 porvoonmuuttopalvelu.com
@@ -2634,6 +2651,7 @@ rekisterointi-nyt.com
 relepankki.com
 relocatefinland.com
 remonttimiespalvelut.online
+remulankiinteistojakotipalvelut.com
 rentedinfinland.com
 reppufinland.com
 reterveystalo.com
@@ -2676,6 +2694,7 @@ royalcaninsuomi.com
 royaldeviesta.com
 rturva.biz.id
 ruedxhelsinki.com
+rumienmiestenliitto.com
 ruoppaussuominen.com
 russellathleticsuomi.com
 ryosuuspankkifi.com
@@ -2692,6 +2711,7 @@ s-mobiilifikampamja.com
 s-mobiilikampanja.com
 s-mobiilikampanjaa.com
 s-mobiilikampanjafi.com
+s-mobiiliparcel.online
 s-mobiilispankki.com
 s-mobiilispankki.online
 s-pankki-asiakaspalvelu-fi-tietosi-iisiit.ru
@@ -2841,6 +2861,7 @@ sinunturvapalvelu.com
 sipetakantahmorotai.com
 siqfinland.site
 sisleysuomi.com
+sivado-helsinki.com
 sk-severo-zapad.ru
 skagensuomi.com
 skatingfinland.com
@@ -3062,6 +3083,7 @@ spankkielakkeella-mobiili.com
 spankkielakkeella.com
 spankkikampanja-fi.com
 spankkimobiili-elakkeella.com
+spankkimobiili.online
 spankkimobiilifi.com
 spanx-suomi.com
 spectrmmobilepayment.com
@@ -4233,6 +4255,7 @@ vahvistustorifi.store
 vahvistustransaktio.shop
 vaihdehuolto.nu
 vakantie-zweden-finland-reisblog.nl
+valero-helsinki.com
 valestudiohelsinki.com
 valintaopasfinland.com
 valipalvelu.com
@@ -4433,6 +4456,7 @@ veropalveluoyj.info
 veros-katt-vahvistaa.com
 verosa-suomi.com
 verosuomi.finance
+verovero-creativestore.com
 vesiturvallisuus.com
 vessi-finland.com
 vessifinland.com
@@ -4603,6 +4627,7 @@ workofsoumik.com
 worksfinland.com
 wotofosuomi.com
 wptafinland.com
+wulawulaoyj.com
 www-elisa-fi.site
 www-elisa.site
 www-mobilepay.info
