@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 23/02/2025 08:00 UTC
+# Last modified: 24/02/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -10,6 +10,7 @@
 1go-casino-suomi1.ru
 1go-casino-suomi2.ru
 1go-casino-suomi3.ru
+1go-casino-suomi4.ru
 1suomi.site
 1win-finland.net
 1xcasinosuomen.casino
@@ -289,6 +290,7 @@ berry-helsinki.com
 best-geme-finland.com
 best10suomi.com
 besteonlinefinland.com
+besthelsinki.com
 besthelsinkihotels.com
 bestinsuomi.com
 bestofsuomi2k.com
@@ -739,6 +741,7 @@ felidsuomi.store
 felizinpalvelut.com
 fellowmindfinland.cloud
 femalefounderssuomi.com
+femmesoumisex.com
 fenixhelsinki.com
 fenniaasiakaspalvelu.com
 fennoturvapalvelut.com
@@ -907,6 +910,7 @@ gensoumise.com
 germany-finland-train-holiday-deals.today
 gerryweberfinland.com
 gerrywebersuomi.com
+get-personal-loan-in-finland.bond
 ghdsuomi.com
 gilvero-ailyn.site
 ginatricotsuomi.com
@@ -988,10 +992,13 @@ helpmefinland.com
 helpmefinland.store
 helsinki-berlin-train-tour-package.today
 helsinki-berlin-train-tours-packages.today
+helsinki-fi.com
 helsinki-image.com
 helsinki-istanbul-train-tour-package.today
 helsinki-istanbul-train-tour-packages.today
 helsinki-lmn-eaa.info
+helsinki-lmn-eak.info
+helsinki-lmn-eal.info
 helsinki-london-train-tour-packages.today
 helsinki-lontoo-train-tour-package.today
 helsinki-lsra.rest
@@ -1038,6 +1045,9 @@ helsinki-mpl-eab.info
 helsinki-mpl-eaf.info
 helsinki-mpl-eag.info
 helsinki-mpl-eah.info
+helsinki-mpl-eai.info
+helsinki-mpl-eaj.info
+helsinki-mpl-eak.info
 helsinki-paris-train-tour-package-offers.today
 helsinki-paris-train-tour-package.today
 helsinki-paris-train-tour-packages.today
@@ -1312,6 +1322,7 @@ innoluxfinland.com
 insoumidating.com
 insoumis.app
 insoumisdecreteil.fr
+insoumises.net
 insoumislespharaons.com
 insoumisoutremer.com
 insoumissansfrontieres.org
@@ -1843,6 +1854,7 @@ merkurpankki.net
 merrell-suomi.org
 merrellssuomi.com
 merrellsuomi.biz
+merrellsuomi.com
 merryhelsinki.com
 merzbschwanensuomi.com
 mesiade-suomi.com
@@ -1936,6 +1948,7 @@ mobiilinauhoitus.com
 mobiiliohjaus.com
 mobiilipankkionline.com
 mobiiliparcel.online
+mobiilipelit.com
 mobiiliportaali.com
 mobiilirakendus.ee
 mobiilis-pankki.com
@@ -1945,6 +1958,7 @@ mobiilitiy-scooters.today
 mobiiliturvallisuus.net
 mobilepay-danmark.info
 mobilepay-danmark.link
+mobilepay-danmark.site
 mobilepay-dk-bruger-opdatering.online
 mobilepay-dk.info
 mobilepay-fi.com
@@ -1971,6 +1985,7 @@ mobilepay.website
 mobilepay24.com
 mobilepayandremit.com
 mobilepaybank.com
+mobilepaybd.xyz
 mobilepaycasino-fi.top
 mobilepaycasino.com
 mobilepaycasino.info
@@ -2047,6 +2062,7 @@ moviestates.com
 moviestation.click
 moviestation.net
 moviestato.xyz
+moviestitc.com
 moving-services-finland-246199794.zone
 moyfinland.info
 mphuolto.com
@@ -2947,6 +2963,7 @@ sorelsuomi.net
 sossoumissionchimique.com
 sossoumissionchimique.fr
 sossoumissionchimique.org
+soumi-fi2.sbs
 soumi-online.sbs
 soumi-sports.com
 soumi.icu
@@ -3179,6 +3196,7 @@ styopa.xyz
 styopam.photography
 sudansuomiszilard.sbs
 sugardaddyssuomessa.com
+sugardatingsuomi.com
 suitupfinland.com
 sukkafinland.com
 sun-suomen-ope.ru
@@ -3863,6 +3881,7 @@ telaviestate.com
 telpalvelut.lol
 tendersfinland.com
 teollisuuspalvelu918.com
+teollisuuspalvelut.com
 terosuomela.art
 tervesypalveluryr.com
 terveyasarvios.com
@@ -3961,6 +3980,7 @@ tietokonehuolto.org
 tietopankki.com
 tietoturvapankki.com
 tifosisuomi.com
+tiktakantalya.com
 tiktakantalya.pro
 tiktiksuomi.store
 tilahuolto.com
@@ -4383,6 +4403,7 @@ vero-commodi.site
 vero-comtacrea.com
 vero-contract.com
 vero-couture73.com
+vero-csn.com
 vero-csn.site
 vero-cupiditate.site
 vero-deco.fr
@@ -4428,6 +4449,7 @@ vero-labs.net
 vero-lammert.com
 vero-laudantium.site
 vero-luma.com
+vero-luxe.com
 vero-manager.site
 vero-manager2.com
 vero-media.net
@@ -4664,6 +4686,7 @@ winnerzsuomi.com
 winzonefinland.com
 wnpfinland.website
 wodka-finlandia.pl
+workerinfinland.com
 workinhelsinki.com
 workofsoumik.com
 worksfinland.com
