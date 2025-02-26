@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 25/02/2025 08:00 UTC
+# Last modified: 26/02/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -127,6 +127,7 @@ anvero-group.com
 anviestates.com
 any-pankki.icu
 anyasoumi.com
+anypankki.digital
 anypankki.icu
 aomaeyokqgsuomii.xyz
 aosuomeng.net
@@ -578,6 +579,7 @@ diviestate.com
 djpalvelu.com
 dk-mobilepay.info
 dlr-huolto-ja-pesu.com
+dlshensuomen.com
 dnrhelsinki.com
 docmartensuomi.com
 doctormartens-finland.com
@@ -1063,6 +1065,7 @@ helsinki-mpl-eau.info
 helsinki-mpl-eav.info
 helsinki-mpl-eaw.info
 helsinki-mpl-eax.info
+helsinki-mplex-aaa.info
 helsinki-ninj-eal.info
 helsinki-paris-train-tour-package-offers.today
 helsinki-paris-train-tour-package.today
@@ -1988,6 +1991,7 @@ mobilepay-info-dk.com
 mobilepay-kasinot.com
 mobilepay-kayttaja.com
 mobilepay-opdater.info
+mobilepay-opdatering.info
 mobilepay-opdatering.online
 mobilepay-qr.dk
 mobilepay.biz
@@ -2382,6 +2386,7 @@ omavero-fin.com
 omavero-finn.com
 omavero-online.com
 omavero-suomi.com
+omavero-veronpalautus.info
 omavero.cfd
 omaverofin25.com
 omaverofin9.com
@@ -2829,6 +2834,7 @@ sahkopalvelutsalmi.com
 saimaatravelfinland.com
 sainttropezsuomi.com
 sajadmasoumi.com
+salomomhelsinki.com
 salomonfinland.com
 salomonhelsinki.com
 salomonsuomi-fi.com
@@ -2978,6 +2984,7 @@ smsviesti-fi.site
 sn-infosys-meet-helsinki.com
 snoopysuomi.com
 snxfinland.com
+socialcontenthelsinki.com
 socialfunfinland.com
 socialzonefinland.com
 socken-suomi.shop
@@ -3992,6 +3999,7 @@ terveysvirasto.com
 tesoumira.com
 testi-mobiilipunnitus.com
 tetsuomizu.com
+teviestates.com
 tezenis-finland.com
 tgsfinland.com
 the-ghost-of-finland.com
@@ -4044,6 +4052,7 @@ todennusintrum.com
 todennusropo.com
 todennussuomi.com
 toimistopalvelu.online
+toivapalvelut.online
 tokaifinland.com
 tokaifinland.online
 tokmannifinland.com
@@ -4313,6 +4322,7 @@ upcyclerhelsinki.com
 upeaasuomea.com
 upptackfinland.nu
 urazinvacaturvalgus.cloud
+urbani-helsinki.com
 urheilubaarit-suomessa.com
 ushturvalapamyati.ru
 uudet-ilman-rekisteroitymista-fi.com
@@ -4715,6 +4725,7 @@ webkirjaudu.site
 webmobilepay.com
 webterveystalo.com
 wecoya-finland.com
+wellasiakashmir.com
 wellensteynfinland.com
 west-vero-corridor.web.id
 westernfinland.com
