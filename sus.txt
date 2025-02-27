@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 26/02/2025 08:00 UTC
+# Last modified: 27/02/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -634,6 +634,7 @@ edhelsinki.online
 educampfinland.com
 edufinland.cn
 edunvalvontavaltakirja.com
+edusparkfinland.com
 eflfinland.xyz
 egitimkulturvakfi.com
 egitimkulturvakfi.org
@@ -1001,6 +1002,7 @@ helsinki-fi.com
 helsinki-image.com
 helsinki-istanbul-train-tour-package.today
 helsinki-istanbul-train-tour-packages.today
+helsinki-lemonify-aaa.info
 helsinki-lmn-eaa.info
 helsinki-lmn-eak.info
 helsinki-lmn-eal.info
@@ -1258,6 +1260,7 @@ hoodrichsuomi-fi.com
 hoodrichsuomi.com
 hotelhelsinki.net
 hotelhubsuomi.com
+hotellihauskaasuomi.com
 hotellihelsinki.net
 hotellikasinosuomi.com
 hotellithelsinki.net
@@ -1935,6 +1938,7 @@ misfinland.com
 misoumize.com
 misterlamp-helsinki.com
 mitsubishiclubfinland.net
+mitsubishihelsinki.com
 mittfortum.nu
 mizuno-suomi-fi.com
 mizuno-suomi.cc
@@ -2116,6 +2120,7 @@ mysuomi.online
 mysuomifi.site
 myterveystalo.com
 myyntijohtajapalvelu.com
+naamiaispalvelu.com
 naifinland.cn
 nailora-helsinki.com
 naisten-bikinit.shop
@@ -2275,6 +2280,7 @@ obrazovanie-v-finland.ru
 obrazovanie-v-finlandii.ru
 obrazovanie-v-suomi.ru
 observingfinland.com
+occupationalhealthfinland.com
 offer-finland.com
 official-casino-finland.lat
 offlinefinland.com
@@ -2311,6 +2317,7 @@ oma-fi.site
 oma-fi.website
 oma-finland.site
 oma-finn.site
+oma-foods.com
 oma-france.bio
 oma-germana.at
 oma-global.com
@@ -2435,6 +2442,7 @@ opanki.com
 openstagefinland.com
 opisuomi-school.ru
 oppankii.com
+oppilaitosturvallisuus.org
 opturva.com
 opyrityspankkioyj.com
 oralbsuomi.com
@@ -2684,6 +2692,7 @@ purchaseautomobilepaylater.today
 purebeautyfinland.com
 purefinland.info
 pureslimxsuomi.online
+putkipalvelujv.com
 puuhuolto.info
 puutarhapalvelut.com
 puutarhurin-tyopaikat.online
@@ -2796,6 +2805,7 @@ s-mobiilispankki.online
 s-pankki-asiakaspalvelu-fi-tietosi-iisiit.ru
 s-pankki-elakeella.com
 s-pankki-fi-kampanja.com
+s-pankki-fi-mobiili.com
 s-pankki-fi-mobiilillla-itliiiitilit.ru
 s-pankki-fi.com
 s-pankki-kampanja-mobiili.com
@@ -2869,6 +2879,7 @@ sauna-suppliers-finland-128528036.live
 saunanfromfinland.com
 saunas-finland-136215910.click
 saunas-finland-172191398.click
+saunofinland.com
 savon-dronepalvelut.com
 savondronepalvelut.com
 savro-helsinki.com
@@ -3048,6 +3059,7 @@ soumilionario.com
 soumilitar.online
 soumilll.com
 soumilm.xyz
+soumilsarkar.dev
 soumima.com
 souminas.com
 soumine.net
@@ -3490,6 +3502,7 @@ suomi-rekisterointi.info
 suomi-select.com
 suomi-shop.ru
 suomi-suomen.site
+suomi-tunnistautuminen.com
 suomi-tunnistus.com
 suomi-vavada.com
 suomi-veropalvelu.info
@@ -4045,6 +4058,7 @@ tinyworldfinland.com
 tischdecke-suomi.shop
 tissotsuomi.com
 tistelgren-helsinki.com
+titaniturvapalvelut.com
 tmi-peppi-stiina-ahti-liikuntapalvelut.com
 tn-palvelu.com
 tnorthface-suomi.com
@@ -4083,6 +4097,7 @@ torbalamakantari.com
 torbalamakantari.xyz
 torihatakanta.com
 toriterveys.com
+toshibahelsinki.com
 tosoumitumori.com
 touchffinland.shop
 touchoffinland.shop
@@ -4324,6 +4339,7 @@ upptackfinland.nu
 urazinvacaturvalgus.cloud
 urbani-helsinki.com
 urheilubaarit-suomessa.com
+urheilusovelluksetsuomi.com
 ushturvalapamyati.ru
 uudet-ilman-rekisteroitymista-fi.com
 uudet-ilman-rekisteroitymista.com
@@ -4684,6 +4700,7 @@ viviennewestwood-finland.com
 viviennewestwoodfinland.com
 viviennewestwoodsuomi-fi.com
 viviestate.com
+vivobarefootoutletfinland.com
 vivobarefootsuomi-fi.com
 vivobarefootsuomi.com
 vivre-en-finlande.com
