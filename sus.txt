@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 27/02/2025 08:00 UTC
+# Last modified: 28/02/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -401,6 +401,7 @@ catskengatsuomi.com
 caturva.org
 ccfinland.com
 cellarhelsinki.com
+cemsclubhelsinki.com
 centrovero-suites.gr
 cevan-helsinki.com
 chakdefinland.com
@@ -483,6 +484,7 @@ croydoninsuomikoulu.org
 croydoninsuomikoulu.org.uk
 crusino-suomi.com
 cs2suomi.com
+csuomeia.xyz
 ctheoxltdsuomensivuliike.com
 culturvalinteriors.shop
 culturvated.life
@@ -1093,6 +1095,7 @@ helsinki-swimming-725325571.click
 helsinki-swimming-907380973.click
 helsinki-swimming-pool-325513898.today
 helsinki-talvella.com
+helsinki-tours.com
 helsinki-ui9.xyz
 helsinki.asia
 helsinki.baby
@@ -1108,6 +1111,7 @@ helsinki.tours
 helsinki.voyage
 helsinki10000.com
 helsinki2017.com
+helsinki24.com
 helsinki5000.com
 helsinkiaamu.org
 helsinkiadorn.com
@@ -1115,6 +1119,8 @@ helsinkiairport.rocks
 helsinkiaitio.com
 helsinkiapartments166494.icu
 helsinkiapartments833119.icu
+helsinkibachatablast.com
+helsinkibiennale.com
 helsinkiboattours.com
 helsinkibot.com
 helsinkibranding.com
@@ -1209,6 +1215,8 @@ helsinkitodolist.com
 helsinkitogo.com
 helsinkitransport.com
 helsinkitrav.com
+helsinkiunited.com
+helsinkivertiports.com
 helsinkiwealth.com
 helsinkiweather.info
 helsinkiweekend-ui15.top
@@ -1474,6 +1482,7 @@ kabu-kantan.com
 kachincommunityfinland.org
 kaitesifinland.com
 kampaamotsuomi.online
+kampanja-fi-mobiili.com
 kampanja-fi-spankki.com
 kampanja-fimobiili.com
 kampanja-fispankki.com
@@ -1486,6 +1495,7 @@ kampanjas-pankki.com
 kampanjaspankki-elakkella.com
 kampanjaspankkifii.com
 kansalaiset-omakanta.com
+kansallinenturvallisuus.com
 kanta-suomi.com
 kantakanta.co.uk
 kantaoyj.info
@@ -2447,6 +2457,7 @@ opturva.com
 opyrityspankkioyj.com
 oralbsuomi.com
 ordbadtravelcommoninfinland.com
+org-oyj.world
 organduofinland.com
 orijensuomi.com
 ornavero-fi.com
@@ -3066,6 +3077,7 @@ soumine.net
 soumine.ru
 souminecraft.com
 soumineirouai.com.br
+soumingzi.com
 souminhachefa.com
 souminhamaquiadora.com
 souminimenon.com
@@ -3095,6 +3107,7 @@ soumissionassuranceauto.com
 soumissionassurancecollective.com
 soumissionassuranceviesansexamenmedical.com
 soumissioncarrelage.com
+soumissionclimatisation.com
 soumissioncomptable.com
 soumissionconfort.com
 soumissionconstruction.com
@@ -3186,6 +3199,7 @@ spankkikampanja-fi.com
 spankkimobiili-elakkeella.com
 spankkimobiili.online
 spankkimobiilifi.com
+spankkiupdate.tech
 spanx-suomi.com
 spectrmmobilepayment.com
 sperm-donation-finland-ok.today
@@ -3267,6 +3281,7 @@ suomen-fi.website
 suomen-fin.site
 suomen-finland.site
 suomen-info.site
+suomen-pah.org
 suomen-sms-fi.site
 suomen-sms.site
 suomen-suomi.site
@@ -4036,6 +4051,7 @@ tietokonehuolto.org
 tietopankki.com
 tietoturvapankki.com
 tifosisuomi.com
+tigersomtilipalvelu.com
 tiktakantalya.com
 tiktakantalya.pro
 tiktiksuomi.store
@@ -4146,6 +4162,7 @@ trafcompalvelufl.com
 trafcompalveluinfo.com
 trafcomryifi.com
 trafcomtrading.com
+trafconf.site
 trafconsults.com
 trafcoo.store
 trafcor.com
