@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 28/02/2025 08:00 UTC
+# Last modified: 01/03/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -333,6 +333,7 @@ bonuscrabcasino-finland.com
 book-cruise-from-finland.today
 book-cruises-from-helsinki.today
 bookingtaxi-finland.com
+boomkarhufinland.com
 boostmobilepay.com
 borenpalvelu.com
 bottegaveneta-finland.com
@@ -1005,6 +1006,7 @@ helsinki-image.com
 helsinki-istanbul-train-tour-package.today
 helsinki-istanbul-train-tour-packages.today
 helsinki-lemonify-aaa.info
+helsinki-lemonify-aac.org
 helsinki-lmn-eaa.info
 helsinki-lmn-eak.info
 helsinki-lmn-eal.info
@@ -1070,12 +1072,15 @@ helsinki-mpl-eav.info
 helsinki-mpl-eaw.info
 helsinki-mpl-eax.info
 helsinki-mplex-aaa.info
+helsinki-mplify-aaa.org
+helsinki-mplify-aab.org
 helsinki-ninj-eal.info
 helsinki-paris-train-tour-package-offers.today
 helsinki-paris-train-tour-package.today
 helsinki-paris-train-tour-packages.today
 helsinki-pch-eaa.info
 helsinki-pch-eal.info
+helsinki-peachify-aac.org
 helsinki-pool-150964433.click
 helsinki-pool-rental-353355716.live
 helsinki-pools.com
@@ -1142,6 +1147,7 @@ helsinkidogshome.com
 helsinkiduckstore.com
 helsinkieast.aero
 helsinkieats.com
+helsinkiecho.com
 helsinkieconomy.com
 helsinkiescort.com
 helsinkifestival.org
@@ -1336,6 +1342,7 @@ ilman-rekisteroitymista-suomi.com
 ilmanrekisteroitymista.com
 ilmanrekisteroitymista.pro
 ilmanrekisteroitymista.xyz
+ilovefinland.se
 ilsejacobsensuomi.net
 iltaviesti.com
 imupalvelu.com
@@ -1405,6 +1412,7 @@ iptvsuomi.shop
 iptvsuomi.xyz
 iptvsuomi4k.shop
 iptvsuomis.com
+iranfinland.com
 ireland-finland-train-holiday-deals-777.today
 ireland-finland-train-holiday-deals.today
 irsehelsinki2026.info
@@ -1460,6 +1468,7 @@ jlphuolto.com
 jmcfinland.help
 jncofinland.com
 jncosuomi.com
+jobs-in-finland.fyi
 joinfinland.com
 jordan1suomi.com
 josefseibel-suomi.com
@@ -1725,6 +1734,7 @@ livero-lp.com
 livero-mode.de
 livero-tax.com
 living-in-finland.com
+lmnt-suomi.com
 lmntsuomi.com
 loakefinland.com
 loan-in-finland.today
@@ -1758,7 +1768,9 @@ lskdsuomi.com
 ltp-siivouspalvelut.com
 lucas-suomela.com
 luckynordicfinland.com
+luckysisufinland.com
 luckysuomi.com
+luckytorillafinland.com
 ludushelsinki.com
 lukoisuomian.com
 lululemonsuomishop.com
@@ -2601,6 +2613,7 @@ playboyfinland.media
 playboyfinlandsuomi.com
 playboysuomi.com
 playfina-finland.com
+playsaunafinland.com
 playspinsuomi.com
 playwinsuomen.com
 playwinsuomi.com
@@ -2638,6 +2651,7 @@ poppankki-fi.com
 poppankki-viestini.com
 porinalituspalvelu.com
 pornaistentietokonehuolto.com
+poro10finland.com
 porvoonmuuttopalvelu.com
 porvoonpalvelutalo.store
 possucasinosuomi.com
@@ -2727,6 +2741,7 @@ rajoittamatonsuomi.com
 rakennusjahuoltopalvelukakela.com
 rakennuspalvelu-m-ahonen-tmi.com
 rakennuspalvelukellmanoy.com
+rakennuspalvelunikki.com
 rakennuspalveluoap.com
 rakennustietopankki.com
 ralph-lauren-suomi.com
@@ -2778,6 +2793,7 @@ rivero-automotive.se
 rivero-ayerza.com
 rivero-rp.space
 rmvfinland.lol
+rockport-suomi.com
 rockysuomi.com
 ropofinland.com
 ropopalvelut.com
@@ -3434,6 +3450,7 @@ suomenprime.com
 suomenpyorapalvelu.com
 suomenrahoitusratkaisut.com
 suomenrahoitusratkaisut.net
+suomenrakennusklinikka.com
 suomensahkoautohuolto.com
 suomensahkoautokorjaamo.com
 suomenseikkailut.com
@@ -4239,7 +4256,12 @@ tunnistasuomi.info
 tunnistauth.com
 tunnistautuminen-fi.com
 tunnistautuminen-suom.com
+tunnistautuminen-suomi-fi-sivut-discovery-page.biz
+tunnistautuminen-suomi-fi-sivut-discovery-page.mobi
+tunnistautuminen-suomi-fi-sivut-discovery-page.org
+tunnistautuminen-suomi.biz
 tunnistautuminen-suomi.com
+tunnistautuminen-suomi.mobi
 tunnistautumllnenssauomifi.com
 tunnistautunlnen-suomi.com
 tunnistavat.xyz
@@ -4418,6 +4440,7 @@ varmaoyj.com
 varmennussuomi.com
 varmistasuomi.com
 varnaoyj.com
+vaude-suomi.com
 vavada-finland-bonus.com
 vavada-finland-bonus.net
 veiikvapesuomi.com
@@ -4540,6 +4563,7 @@ vero-moda.ru
 vero-modade.com
 vero-modaeinkaufen.com
 vero-modaverkauf.com
+vero-motion.com
 vero-n-co.net
 vero-necessitatibus.site
 vero-nika-photo.art
@@ -4689,6 +4713,7 @@ virtuaalinen-terveys-6.online
 virtuaalinen-terveys-7.online
 virtuaalinen-terveys-8.online
 virtuaalinen-terveys-fi.online
+virtuaalinen-terveys-fi5.online
 virtuaalinen-terveys-no-2.online
 virtuaalinen-terveys-no.online
 virtuaalinen-terveys.online
