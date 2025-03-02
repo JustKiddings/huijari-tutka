@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 01/03/2025 08:00 UTC
+# Last modified: 02/03/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -599,6 +599,7 @@ dram-suomi.com
 drfinland.com
 drinkanddrawhelsinki.com
 driving-school-helsinki-344791214.today
+drivinginfinland.info
 drmarten-suomi.com
 drmartensfinland.com
 drmartenssuomifi.com
@@ -1095,6 +1096,8 @@ helsinki-rthf.rest
 helsinki-rthh.rest
 helsinki-rthi.rest
 helsinki-saintpetersburg-train-vacation.today
+helsinki-shale-aaa.info
+helsinki-shale-aab.info
 helsinki-stockholm-rail-vacation.today
 helsinki-swimming-725325571.click
 helsinki-swimming-907380973.click
@@ -1693,6 +1696,7 @@ laviestatcom.online
 laviestatcom.ru
 laya-helsinki.com
 lazura-helsinki.com
+leadsifyasiakas.com
 leadsifysuomi.com
 ledger-suomi.com
 legerofinland.com
@@ -1867,6 +1871,7 @@ matkahuolto-paketti-82897487.top
 matkahuolto-paketti-84789985.top
 matkahuolto-paketti-87769305.top
 matkahuolto-paketti.top
+matkahuolto.email
 matkahuolto.top
 matkahuoltoapp.com
 matkahuoltoo.com
@@ -1978,6 +1983,7 @@ mobiil1xbet.com
 mobiili-elaakkeella.com
 mobiili-elakkeela.com
 mobiili-elakkeella.com
+mobiili-fi-spankki.com
 mobiili-kammpanja-fi.com
 mobiili-kampanja-finland.com
 mobiili-kampanja-pankki.com
@@ -2102,6 +2108,7 @@ mooseknucklesfinland.com
 mooseknucklesuomi.com
 morenipalvelut.com
 mosaicfinland.com
+mosaviestate.com
 motelrocksfinland.com
 motivapesuomi.com
 movetofinland.com
@@ -2170,6 +2177,7 @@ nanorebarsoumian.com
 napapijri-finland.com
 napapijrifinland.com
 narcotraficomx.com
+nassaustreetfinland.info
 nassoumi.com
 nationalparksinfinland.com
 nattihelsinki.com
@@ -2367,6 +2375,7 @@ oma-online.online
 oma-opa-uptodate.de
 oma-paketti.com
 oma-paravent.com
+oma-penny.com
 oma-pinheiros.com
 oma-posti-fi.com
 oma-posti.com
@@ -2471,6 +2480,7 @@ oralbsuomi.com
 ordbadtravelcommoninfinland.com
 org-oyj.world
 organduofinland.com
+oriflamesuomi.com
 orijensuomi.com
 ornavero-fi.com
 ornavero-fi.info
@@ -2499,6 +2509,7 @@ oytrafcom.info
 ozempicsuomi247.com
 ozempicsuomi247.net
 paapankki.com
+padelhousefinland.com
 padelsuomi.com
 pajar-finland.com
 pajarsfinland.com
@@ -2551,6 +2562,7 @@ parhaat-ilman-rekisteroitymista.com
 parhaat-siivouspalvelut.bond
 parhaatsuomihotellit.com
 parhaatsuomiopas.online
+patagohelsinki.com
 patagoniahelsinki.com
 patagoniasuomioutlet.com
 patriziapepefinland.com
@@ -2795,6 +2807,7 @@ rivero-rp.space
 rmvfinland.lol
 rockport-suomi.com
 rockysuomi.com
+roobet-finland.com
 ropofinland.com
 ropopalvelut.com
 roposuomi.com
@@ -2899,6 +2912,7 @@ sataturva.online
 satisfyrunningsuomi.com
 saturvalawassociates.com
 sauconysuomioutlet.com
+saudifinland.com
 sauna-finlandesa.cfd
 sauna-manufacturers-finland-146688915.today
 sauna-manufacturers-finland-783346085.today
@@ -2931,6 +2945,7 @@ selkopalvelu.online
 sendrabootssuomi.net
 senior-car-insurance-costs-in-finland.bond
 senior-living-finland-yshkin.click
+sennheisersuomi.com
 sensoumingshuangxiaodatou.top
 serenityopal.com
 setarehmasoumi.com
@@ -2940,6 +2955,7 @@ severisuominen.net
 severo-utah.com
 sh-suomei.com
 sharviestate.com
+shensuomen123.com
 shensuomenjiage.com
 shhautauspalvelut.online
 shirtyopants.com
@@ -3215,6 +3231,7 @@ spankkikampanja-fi.com
 spankkimobiili-elakkeella.com
 spankkimobiili.online
 spankkimobiilifi.com
+spankkiraportti.site
 spankkiupdate.tech
 spanx-suomi.com
 spectrmmobilepayment.com
@@ -4257,7 +4274,9 @@ tunnistauth.com
 tunnistautuminen-fi.com
 tunnistautuminen-suom.com
 tunnistautuminen-suomi-fi-sivut-discovery-page.biz
+tunnistautuminen-suomi-fi-sivut-discovery-page.com
 tunnistautuminen-suomi-fi-sivut-discovery-page.mobi
+tunnistautuminen-suomi-fi-sivut-discovery-page.net
 tunnistautuminen-suomi-fi-sivut-discovery-page.org
 tunnistautuminen-suomi.biz
 tunnistautuminen-suomi.com
