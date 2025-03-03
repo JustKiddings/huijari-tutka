@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 02/03/2025 08:00 UTC
+# Last modified: 03/03/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -87,6 +87,7 @@ akshatakantak.com
 akunpalvelut.com
 al-monipalvelu.com
 alandskirjaudu.com
+alastonsuomi.pics
 alastonsuomi.shop
 aleppo-finlandian.info
 alexandrafinland.com
@@ -360,6 +361,7 @@ btrfinland.com
 btrhelsinki.com
 buenaviesta.online
 buildabearsuomi.com
+burroughs-fortum.com
 business-consults-suomi.com
 businessmediafinland.com
 buypsychedelicsfinland.com
@@ -502,6 +504,7 @@ daily-helsinki.com
 dancestationsuomi.net
 dandysuomi.com
 daoyj.icu
+dapsypalvelut.com
 dasarisoumith.xyz
 datakantar.com
 datapalvelut.net
@@ -760,6 +763,7 @@ festivohuolto.pro
 fezbet-suomi.com
 fi-elisa.com
 fi-icebugsuomi.com
+fi-kampanja-mobiili.com
 fi-kampanja-spankki.com
 fi-mobiili-kampanja.com
 fi-mobiilikampanja.com
@@ -871,6 +875,7 @@ fourleafclovergamesfinland.com
 fovero-agency.com
 france-insoumise.com
 france-insoumise.fr
+free-loan-for-youu-finland.today
 freebike-finland.com
 freecasinofinland.com
 freedivingfinland.net
@@ -878,6 +883,7 @@ freehelsinkitours.com
 freeplayfinland.com
 freeplayssuomi.com
 freesocialcasinofinland.com
+freetourporhelsinki.com
 freetourshelsinki.com
 freight-forwarders-finland-595217652.today
 freight-forwarders-finland-910620832.world
@@ -899,6 +905,7 @@ funinfinland.com
 funinfinland.online
 funinfinland.store
 funnyfinland.com
+funsuomiplay.com
 futurehrpalvelut.com
 fuxionafinland.com
 fysiolinefinland.com
@@ -1147,6 +1154,7 @@ helsinkidancestudio.com
 helsinkidesignschool.net
 helsinkidigitalhouse.com
 helsinkidogshome.com
+helsinkidrinkfestival.com
 helsinkiduckstore.com
 helsinkieast.aero
 helsinkieats.com
@@ -1220,6 +1228,7 @@ helsinkiswingbigband.com
 helsinkisymphonygrchestra.tech
 helsinkisymphonyorchestra.tech
 helsinkitechnology.com
+helsinkitechshow.com
 helsinkitodolist.com
 helsinkitogo.com
 helsinkitransport.com
@@ -1870,6 +1879,7 @@ matkahuolto-paketti-81195262.top
 matkahuolto-paketti-82897487.top
 matkahuolto-paketti-84789985.top
 matkahuolto-paketti-87769305.top
+matkahuolto-paketti-88604195.top
 matkahuolto-paketti.top
 matkahuolto.email
 matkahuolto.top
@@ -2271,6 +2281,7 @@ no-bullsuomi.com
 no-fee-credit-cards-for-finland.today
 nobull-suomi.com
 nobulleuropesuomi.com
+nobullsuomi.com
 nodigfinland.com
 nohatefinland.org
 nomavero.co.uk
@@ -3468,6 +3479,7 @@ suomenpyorapalvelu.com
 suomenrahoitusratkaisut.com
 suomenrahoitusratkaisut.net
 suomenrakennusklinikka.com
+suomenreserviakut.com
 suomensahkoautohuolto.com
 suomensahkoautokorjaamo.com
 suomenseikkailut.com
@@ -3750,6 +3762,7 @@ suomis777.com
 suomisafaris.com
 suomisaunas.co
 suomisavvy.com
+suomiscentcandle.online
 suomise.com
 suomiseas.com
 suomiseason.com
@@ -4336,6 +4349,7 @@ turvataxi.com
 turvataxi.net
 turvatekniikka.com
 turvatie.info
+turvatools.com
 turvatorjunta.com
 turvaturizm.com
 tutkisuomea.com
@@ -4551,6 +4565,7 @@ vero-fiber.com
 vero-finanx.com
 vero-fratello.com
 vero-fs.com
+vero-gamers.com
 vero-gaming.com
 vero-geothermal.energy
 vero-gomez.com
@@ -4844,6 +4859,7 @@ www-viesti.com
 www-viesti.website
 www-viestit.site
 www-viestit.website
+wzsuoming.com
 x-finland.com
 xinmiaoyj.com
 xml-finland.org
