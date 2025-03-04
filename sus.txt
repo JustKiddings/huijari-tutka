@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 03/03/2025 08:00 UTC
+# Last modified: 04/03/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -563,6 +563,7 @@ despinayiasoumi.com
 detvitafinland.com
 deutersuomi.com
 deutschebibliothekhelsinki.net
+dev-soumitra.com
 devero-dienstleistungen.com
 dewamakantakoyaki.app
 dfyne-finland.com
@@ -571,6 +572,7 @@ dfynesuomishop.com
 dgcsvsuomi.info
 diadorasuomisale.com
 diamantefinland.com
+diandongshensuomen.com
 dickiesstorehelsinki.com
 dickiessuomi.com
 dieselhuolto.com
@@ -607,6 +609,7 @@ drmarten-suomi.com
 drmartensfinland.com
 drmartenssuomifi.com
 drmasoumidrugstor.com
+drmehdimasoumi.com
 drmirmasoumi.com
 drmohsenmasoumi.com
 dronepalvelu.com
@@ -1082,6 +1085,9 @@ helsinki-mpl-eax.info
 helsinki-mplex-aaa.info
 helsinki-mplify-aaa.org
 helsinki-mplify-aab.org
+helsinki-mplp-aac.info
+helsinki-mplp-aad.info
+helsinki-mplp-aae.info
 helsinki-ninj-eal.info
 helsinki-paris-train-tour-package-offers.today
 helsinki-paris-train-tour-package.today
@@ -1346,6 +1352,7 @@ ihor-finland.net
 iisiviisisuomi.com
 ikeasuomi.com
 illustratedhelsinki.com
+ilmaisetpelitsuomi.site
 ilmajoenpyorahuolto.com
 ilman-rekisteroitymista-2024.com
 ilman-rekisteroitymista-fi.com
@@ -2412,6 +2419,7 @@ oma-up.org
 oma-vergisst.at
 oma-vero.com
 oma-veroo.sbs
+oma-ye.com
 omaaelisa.site
 omaakantaa-fi.net
 omaelisa.sbs
@@ -2642,6 +2650,7 @@ playwinsuomen.com
 playwinsuomi.com
 pleaserfinland.com
 plentyopaws.com
+plinko-finland.com
 plitko-finland.com
 pod-finlandia.zgorzelec.pl
 pohjois-suomenmessut.com
@@ -3056,6 +3065,7 @@ socken-suomi.shop
 sofia-helsinki.com
 softwarefinland.store
 soldi-elisabeth.com
+solec-finland.xyz
 solfinland.site
 solovairsuomi.com
 solovapesuomi.com
@@ -3228,6 +3238,7 @@ spankki-elakkeeella.com
 spankki-elakkeela.com
 spankki-elakkeella.com
 spankki-elakkeellaa.com
+spankki-fi-mobiili.com
 spankki-mobiili-fi.com
 spankki-mobiili-online.com
 spankki-viestit.com
@@ -3664,6 +3675,7 @@ suomigame.com
 suomigems.com
 suomigroup.org
 suomiguide.com
+suomihauskapeli.site
 suomiherald.com
 suomii-fi.com
 suomiibrilliantballs.com
@@ -3762,6 +3774,7 @@ suomis777.com
 suomisafaris.com
 suomisaunas.co
 suomisavvy.com
+suomiscentcandle.com
 suomiscentcandle.online
 suomise.com
 suomiseas.com
@@ -4812,6 +4825,7 @@ wanderfinland.xyz
 warehousepackingagenciesinhelsinki375882.icu
 warehousesystemspackaginghelsinki109267.icu
 warmflaschen-suomi.shop
+wch-finland.org
 wclfinland.com
 weallfinland.org
 webkirjaudu.site
@@ -4936,6 +4950,7 @@ yhteys.net
 yhteystiedotsuomi.com
 yigitkulturvakfii.net
 yksityinen-allas-helsinki-240753774.today
+ylshensuomen.com
 youinfinland.com
 young-lafinland.com
 youngla-finland.com
