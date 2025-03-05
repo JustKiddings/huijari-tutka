@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 04/03/2025 08:00 UTC
+# Last modified: 05/03/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -195,6 +195,7 @@ asino-finland.com
 asiointisuomi.com
 asoumi.com
 asoypalvelut.com
+assist-suomi.online
 assuranceviesoumissions.com
 asuomitv.com
 atakantaga.art
@@ -1088,6 +1089,7 @@ helsinki-mplify-aab.org
 helsinki-mplp-aac.info
 helsinki-mplp-aad.info
 helsinki-mplp-aae.info
+helsinki-mplporg-aae.org
 helsinki-ninj-eal.info
 helsinki-paris-train-tour-package-offers.today
 helsinki-paris-train-tour-package.today
@@ -1127,6 +1129,7 @@ helsinki.lat
 helsinki.luxury
 helsinki.rent
 helsinki.rocks
+helsinki.tattoo
 helsinki.tips
 helsinki.tours
 helsinki.voyage
@@ -1219,6 +1222,7 @@ helsinkiphilharmonicorchestra.tech
 helsinkiphilharmonirchestra.tech
 helsinkipiercing.com
 helsinkipizzakebab-antwerpen.be
+helsinkiport.com
 helsinkipremierhotel.com
 helsinkiproductionservices.com
 helsinkiprofessionals.com
@@ -1396,6 +1400,7 @@ internationalcallfinland.com
 internetcasinofinland.com
 interveystalo.com
 intimisimisuomi.com
+intimissimi-finland.com
 intimissimi-suomifi.com
 intimissimifinland.com
 intimissimisuomi.com
@@ -1653,7 +1658,9 @@ kryptomobilepay.com
 kryptosuomi.net
 ks-ohjelmapalvelut.net
 kuittipalvelu.com
+kuljetuspalvelu.com
 kuljetuspalvelumiilumaki.com
+kuljetuspalvelut.net
 kulturvakt.nu
 kulturvakti.online
 kumppanipalvelu.com
@@ -1754,6 +1761,9 @@ livero-lp.com
 livero-mode.de
 livero-tax.com
 living-in-finland.com
+llavero-maps.click
+llavero-maps.cyou
+llavero-maps.xyz
 lmnt-suomi.com
 lmntsuomi.com
 loakefinland.com
@@ -1887,6 +1897,7 @@ matkahuolto-paketti-82897487.top
 matkahuolto-paketti-84789985.top
 matkahuolto-paketti-87769305.top
 matkahuolto-paketti-88604195.top
+matkahuolto-paketti-93740814.top
 matkahuolto-paketti.top
 matkahuolto.email
 matkahuolto.top
@@ -2868,6 +2879,7 @@ s-pankki-fi-kampanja.com
 s-pankki-fi-mobiili.com
 s-pankki-fi-mobiilillla-itliiiitilit.ru
 s-pankki-fi.com
+s-pankki-kampanja-fi.com
 s-pankki-kampanja-mobiili.com
 s-pankki-kampanja.com
 s-pankki-kampanjafi.com
@@ -2904,6 +2916,7 @@ sahkopalvelutsalmi.com
 saimaatravelfinland.com
 sainttropezsuomi.com
 sajadmasoumi.com
+salamahuolto.com
 salomomhelsinki.com
 salomonfinland.com
 salomonhelsinki.com
@@ -3141,6 +3154,7 @@ soumir.com
 soumisa.com
 soumisastroworld.in
 soumise.org
+soumiseroseblanche.blog
 soumisexxx.com
 soumisho.shop
 soumishsengupta.com
@@ -3349,6 +3363,7 @@ suomenaika.com
 suomenamyloidoosiyhdistys.com
 suomenautot.com
 suomenautotukku.com
+suomencapoeiraliitto.com
 suomendiilit.com
 suomenedulliset.com
 suomenetalaakarit.com
@@ -4438,6 +4453,7 @@ uwinvapesuomi.com
 vagabondsuomi.com
 vahinkosaneerauspalvelu.com
 vahinkosaneerauspalvelut.com
+vahvista-dk-id.com
 vahvista-id.info
 vahvista.info
 vahvistaa-elisa.com
@@ -4470,6 +4486,7 @@ valopilkkuhelsinki.com
 valopilkkuhelsinki.net
 valuthelsinki.com
 valvonacrolla-online.co.uk
+valvondan.store
 valvonia.sk
 valvonix.com
 valvontakamerat-design.shop
@@ -4496,6 +4513,7 @@ vejasuomi-fi.top
 velarahelsinki.com
 velkapalvelu.com
 velvero-team.com
+vendingfinland.online
 venla-helsinki.com
 venum-finland.com
 verificer-mobilepay.com
@@ -4813,6 +4831,7 @@ vrterveystalo.com
 vsmediafinland.com
 vsyrityspalvelu.com
 vsyrityspalvelu.info
+vuohipalvelu.com
 vuokatintaxipalvelu.com
 vuolo-helsinki.com
 vuori-suomi.com
