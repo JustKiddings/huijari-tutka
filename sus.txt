@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 05/03/2025 08:00 UTC
+# Last modified: 06/03/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -606,6 +606,7 @@ drfinland.com
 drinkanddrawhelsinki.com
 driving-school-helsinki-344791214.today
 drivinginfinland.info
+drkamranmassoumi.com
 drmarten-suomi.com
 drmartensfinland.com
 drmartenssuomifi.com
@@ -843,6 +844,7 @@ foodexfinland.com
 footurf-finland.com
 formulasoumilionaria.site
 fortum-energia.online
+fortum-fi.com
 fortum-harcourt.com
 fortum-hermine.com
 fortum-stainton.com
@@ -1001,6 +1003,7 @@ hedgren-finland.com
 heifromfinland.com
 heikkinen-helsinki.com
 heikkinenhelsinki.com
+heischoolsfinland.com
 hellemmesinsoumise.fr
 hellstar-suomi.com
 helly-hansen-suomi.com
@@ -1285,6 +1288,7 @@ hoglsuomi.com
 hoivapalvelut.net
 hoka-one-one-finland.com
 hoka-one-one-suomi.com
+hoka-suomi.com
 hokafinland.com
 hokaoneone-finland.com
 hokasuomi.org
@@ -1527,6 +1531,7 @@ kampanjamobiili-fi.com
 kampanjas-pankki.com
 kampanjaspankki-elakkella.com
 kampanjaspankkifii.com
+kamranmassoumi.com
 kansalaiset-omakanta.com
 kansallinenturvallisuus.com
 kanta-suomi.com
@@ -1586,6 +1591,7 @@ kielipalvelukauno.com
 kiertokapulayrityspalvelut.com
 kiesinpesupalvelut.com
 kietrapalvelut.com
+kiinteistohuoltotahti.com
 kiinteistopalvelu.com
 kiinteistopalvelu.net
 kiinteistopalvelui.icu
@@ -2256,6 +2262,7 @@ nike-helsinki.com
 nikefinland.org
 nikesportsuomis.com
 nikesuomi.com
+nikesuomi.net
 nikotiininurkka.com
 nikotiinipussi.art
 nikotiinipussi.bio
@@ -3306,6 +3313,7 @@ stillkissen-suomi.shop
 stitchtoyhelsinki.com
 stockholm-helsinki-rail-vacation.today
 stockholm-helsinki.com
+stofixfinland.com
 stogasuomicsvamin.fun
 stonevegasfinland.com
 stradivariusfinland.com
@@ -3641,6 +3649,7 @@ suomiarvostelee.com
 suomiasiakaspalvelunumero.com
 suomiautodeals.bond
 suomibestreviews.com
+suomibetmaster.com
 suomibettimaster.com
 suomibingo.com
 suomibrilliantballs.com
@@ -3649,6 +3658,7 @@ suomicam.com
 suomicanta.com
 suomicasinoopas.com
 suomicasinosocial.com
+suomichancehub.com
 suomichoices.com
 suomiclub.com
 suomiclub.ru
@@ -3680,13 +3690,16 @@ suomifinest.com
 suomifionline.site
 suomifitunnistus.com
 suomiflowergarden.com
+suomifortunequest.com
 suomifront.co.uk
 suomifront.com
 suomifun25.club
 suomifun25.info
 suomify.com
+suomigambit.com
 suomigambleportal.com
 suomigame.com
+suomigameswin.com
 suomigems.com
 suomigroup.org
 suomiguide.com
@@ -3697,6 +3710,7 @@ suomiibrilliantballs.com
 suomiifi.site
 suomiinsights.com
 suomiiptv.net
+suomijackpot365.com
 suomijy.com
 suomikanta.com
 suomikasi.cfd
@@ -3726,6 +3740,7 @@ suomiloma.click
 suomiloma.com
 suomilounge.co.uk
 suomiluck.com
+suomiluck777.com
 suomilucky.com
 suomiluksushotelli.com
 suomiluksusplaza.com
@@ -3769,6 +3784,7 @@ suomipost.xyz
 suomipremiumhotelli.com
 suomipressu.com
 suomiprime.com
+suomiprizes.com
 suomipuolakajaani.net
 suomir3p.net
 suomirahafi.com
@@ -3896,6 +3912,7 @@ suomivarmennus.com
 suomivarmista.info
 suomivedot.com
 suomivibesonline.shop
+suomivictory24.com
 suomiviesta.info
 suomiview.com
 suomivoitotfi.com
@@ -3906,6 +3923,7 @@ suomiweb.site
 suomiwin.com
 suomiwinfi.com
 suomiwinner.com
+suomiwinzone.com
 suomiworldstore.com
 suoratoistopalvelu.net
 surronsuomi.com
@@ -4333,6 +4351,7 @@ tunnlstautuninen-kirjaudu.com
 tupperwaresuomi.com
 turunkattohuolto.com
 turunmuuttopalvelu.com
+turva.net
 turva.pro
 turva.sbs
 turvaasiakasfi.com
@@ -4482,10 +4501,12 @@ valestudiohelsinki.com
 valintaopasfinland.com
 valipalvelu.com
 valipalvelu.net
+valkeakoskenkodinhoitopalvelut.com
 valopilkkuhelsinki.com
 valopilkkuhelsinki.net
 valuthelsinki.com
 valvonacrolla-online.co.uk
+valvondan.com
 valvondan.store
 valvonia.sk
 valvonix.com
@@ -4554,6 +4575,7 @@ vero-assist.digital
 vero-assist.ru
 vero-assistance.digital
 vero-assistance.ru
+vero-backend.site
 vero-beach-south.web.id
 vero-beach.web.id
 vero-brew.com
@@ -4999,5 +5021,6 @@ zhhfinland.quest
 zhusuomenchuang.com
 zigarrenschneider-suomi.shop
 zimplerkasinotsuomi.com
+zuoyj.com
 zuoyj.top
 zvero-polis.ru
