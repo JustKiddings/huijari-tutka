@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 06/03/2025 08:00 UTC
+# Last modified: 07/03/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -501,6 +501,7 @@ cvturvattua.xyz
 cwcfinland.com
 czasoumilacze.pl
 d-id-vahvista.info
+d2q-sl-ab-l-e-ak-r-ep-air-oyj.lat
 daily-helsinki.com
 dancestationsuomi.net
 dandysuomi.com
@@ -625,6 +626,7 @@ e-makantasis.gr
 e-suomen.site
 e-suomifi.site
 e-viestit.site
+eakoulutuspalvelu.com
 earthbrotherfinland.com
 easpringfinland.com
 easy-credit-card-finland.today
@@ -774,6 +776,7 @@ fi-mobiili-kampanja.com
 fi-mobiilikampanja.com
 fi-osuuspankki.com
 fi-petospalvelu-op.info
+fi-spankki-mobiilifi.com
 fi-spankki.com
 fi-spankkimobiili.com
 fi-suomen.site
@@ -934,6 +937,11 @@ germany-finland-train-holiday-deals.today
 gerryweberfinland.com
 gerrywebersuomi.com
 get-personal-loan-in-finland.bond
+getworkfinland.online
+getworkfinland.store
+getworkinfinland.online
+getworkinfinland.store
+gewfinland.com
 ghdsuomi.com
 gilvero-ailyn.site
 ginatricotsuomi.com
@@ -3035,6 +3043,7 @@ sinunturvapalvelu.com
 sipetakantahmorotai.com
 siqfinland.site
 sisleysuomi.com
+sitakantanayak.com
 sivado-helsinki.com
 sk-severo-zapad.ru
 skagensuomi.com
@@ -3158,6 +3167,7 @@ souministerioinfantil.com.br
 souminoon.net
 souminstitut.com
 soumir.com
+soumiri.com
 soumisa.com
 soumisastroworld.in
 soumise.org
@@ -3347,6 +3357,7 @@ sundayredsuomi.com
 sunketsuomictackier.blog
 suome.cn
 suomeenmatkustaminen.com
+suomei.art
 suomei.top
 suomeida.com
 suomeiyuan.com
@@ -3717,6 +3728,7 @@ suomikasi.cfd
 suomikasi.com
 suomikasi.sbs
 suomikasifreespins.click
+suomikasino-bonukset.com
 suomikasino.buzz
 suomikasinoinfo.com
 suomikasinolista.com
@@ -3748,6 +3760,7 @@ suomiluotettavuus.com
 suomiluxhotelli.com
 suomiluxuskasino.com
 suomimarkkinointi.com
+suomimax.com
 suomimed.com
 suomimeme.xyz
 suomimetalstar.com
@@ -4444,6 +4457,7 @@ uniroyaltiressuomi.com
 unisafinland.com
 unissuomi.com
 uniterveysohjelma.com
+univero-group.online
 universoumi.com
 universoumisshymeternal.net
 unlimitedfinland.com
@@ -4513,6 +4527,7 @@ valvonix.com
 valvontakamerat-design.shop
 valvontakamerat.shop
 valvonzandesk.com
+vanlayhteys.com
 vanssuomi.com
 vapesuomi.com
 vapetukkumyyntisuomi.com
@@ -4615,6 +4630,7 @@ vero-fasion.com
 vero-fi-mytax.com
 vero-fi.sbs
 vero-fiber.com
+vero-fin.com
 vero-finanx.com
 vero-fratello.com
 vero-fs.com
@@ -4679,6 +4695,7 @@ vero-sports.com
 vero-store.com
 vero-store.store
 vero-strength.com
+vero-studios.com
 vero-suomi.com
 vero-suomi.sbs
 vero-thoi-mien.com
@@ -4998,6 +5015,7 @@ youngla-finland.com
 your-instant-loan-for-you-finland.xyz
 yourtraveltofinland.com
 yrityksen-allasvuokraus-helsinki-316889966.today
+yrityksessuomessa.org
 yritys-spankifinl-tunnistautuminentale.info
 yritys-spankifinl-tunnistautuminentale.online
 yrityskyberturva.com
