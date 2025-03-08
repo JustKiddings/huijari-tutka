@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 07/03/2025 08:00 UTC
+# Last modified: 08/03/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -708,6 +708,7 @@ eroasuomesta.org
 escort-helsinki.vip
 escortservice-in-finland.xyz
 escortshelsinki.com
+esfinland.com
 espankki.com
 espoofinland.com
 espoonsaneerauspalvelu.com
@@ -739,6 +740,7 @@ excellenteventfinland.online
 exclusive-finland-vacation-packages.today
 exploringfinland.com
 extremefinland.online
+eyeonfinland.com
 fabsoumipseh.com
 fabu-helsinki.com
 facebook-turvallisuus.com
@@ -796,6 +798,7 @@ filadisruptorsuomi.com
 filakengathelsinki.com
 filasuomi-fi.com
 filmschoolfinland.com
+fimobiili-kampanja.com
 fimobiiliimaksut.com
 fin-mobilepay.com
 fin-virtuaalinen-terveys.online
@@ -937,8 +940,10 @@ germany-finland-train-holiday-deals.today
 gerryweberfinland.com
 gerrywebersuomi.com
 get-personal-loan-in-finland.bond
+getworkfinland.com
 getworkfinland.online
 getworkfinland.store
+getworkinfinland.com
 getworkinfinland.online
 getworkinfinland.store
 gewfinland.com
@@ -956,6 +961,7 @@ glowtouchoffinland.shop
 go-soumission.com
 goesfinland.com
 goessuomi.com
+gold-finland-89.today
 goldfinland.com
 goldstarmobilepay.xyz
 gollandsky-shturval.ru
@@ -1024,6 +1030,12 @@ helpmefinland.com
 helpmefinland.store
 helsinki-berlin-train-tour-package.today
 helsinki-berlin-train-tours-packages.today
+helsinki-dire-xaaa.info
+helsinki-dire-xaab.info
+helsinki-dire-xaac.info
+helsinki-dire-xaad.info
+helsinki-dire-xaae.info
+helsinki-dire-xaaf.info
 helsinki-fi.com
 helsinki-image.com
 helsinki-istanbul-train-tour-package.today
@@ -1101,6 +1113,8 @@ helsinki-mplp-aac.info
 helsinki-mplp-aad.info
 helsinki-mplp-aae.info
 helsinki-mplporg-aae.org
+helsinki-mplshale-aaaa.info
+helsinki-mplshale-aaab.info
 helsinki-ninj-eal.info
 helsinki-paris-train-tour-package-offers.today
 helsinki-paris-train-tour-package.today
@@ -1156,6 +1170,7 @@ helsinkiapartments166494.icu
 helsinkiapartments833119.icu
 helsinkibachatablast.com
 helsinkibiennale.com
+helsinkiblog.com
 helsinkiboattours.com
 helsinkibot.com
 helsinkibranding.com
@@ -1215,6 +1230,7 @@ helsinkilimoservice.com
 helsinkilm.lol
 helsinkilottery.com
 helsinkim.com
+helsinkimainos.com
 helsinkimetaversemarket.com
 helsinkimint.com
 helsinkimint.se
@@ -1229,6 +1245,7 @@ helsinkinotebooks.com
 helsinkioutletskechers.com
 helsinkiperfumeclub.shop
 helsinkipersonaltrainer.com
+helsinkiphilharmonicorchestra.berlin
 helsinkiphilharmonicorchestra.tech
 helsinkiphilharmonirchestra.tech
 helsinkipiercing.com
@@ -1427,6 +1444,7 @@ iptv-suomi-finland.site
 iptv-suomi.info
 iptv-suomi.me
 iptv-suomi.net
+iptv-suomi.one
 iptv-suomi.online
 iptv-suomi.org
 iptv-suomi.xyz
@@ -1941,6 +1959,7 @@ meindlhelsinki.com
 meine-leinwandbilder-suomi.shop
 meivcorefinland.com
 mekkofinland.com
+melissafortumwaterschools.com
 membersmobilepay.info
 meredithoffinland.com
 mereellshelsinki.com
@@ -2244,6 +2263,7 @@ netticasinosuomi.website
 nettikasinotilmanrekisteroitymista.bet
 nettikasinotilmanrekisteroitymista.org
 nettikasinotilmansuomenlisenssia.net
+nettikasinotsuomessa.com
 nettipalvelu-suomi.site
 nettisivupalvelu.online
 nettisuomenspin.com
@@ -2363,12 +2383,14 @@ ohpollysuomi.com
 oikeuspalvelut.com
 oikeusturva.info
 oikeusturva.org
+oivalakipalvelu.com
 olegsuomi.com
 oma-adimu.online
 oma-adriatic.com
 oma-ai.top
 oma-arpa.com
 oma-arpa.net
+oma-baker.xyz
 oma-beaurepaire.com
 oma-binz.de
 oma-by-mouna-yaya.com
@@ -2460,6 +2482,7 @@ omakantayr.info
 omasp-pankkin.xyz
 omasuomivero.finance
 omaterveys.ai
+omaturva.org
 omavalvontasuunnitelma.online
 omavalvontasuunnitelmani.com
 omavero-f1.com
@@ -3332,6 +3355,7 @@ strandkleid-suomi.shop
 stsiivouspalvelut.com
 stu-ssyfinland.com
 studioksoumine.sn
+studiopuistohelsinki.com
 studyinfinland.today
 stussy-suomi.com
 stussyfi-suomi.com
@@ -3350,6 +3374,7 @@ sudansuomiszilard.sbs
 sugardaddyssuomessa.com
 sugardatingsuomi.com
 suitupfinland.com
+sukitusvalvontaheikkijyrama.info
 sukkafinland.com
 sun-suomen-ope.ru
 sunburysuomiswings.sbs
@@ -3454,6 +3479,8 @@ suomenkaihdincenter.com
 suomenkaihdinkeskus.com
 suomenkaista.online
 suomenkasinoarvostelut.com
+suomenkasinobonus.com
+suomenkasinobonus.net
 suomenkasinoetuja.com
 suomenkasinot.online
 suomenkasinotarjoukset.com
@@ -3561,6 +3588,7 @@ suometa418-linkker0pen9617.site
 suometa792-linkker0pen79214.site
 suomettumis.xyz
 suomi-0.icu
+suomi-2.icu
 suomi-2.sbs
 suomi-2024.com
 suomi-amazing.com
@@ -3706,6 +3734,7 @@ suomifront.co.uk
 suomifront.com
 suomifun25.club
 suomifun25.info
+suomifx.net
 suomify.com
 suomigambit.com
 suomigambleportal.com
@@ -4372,6 +4401,7 @@ turvakaitse.ee
 turvakast.info
 turvakengat.com
 turvakengat.shop
+turvakomppania.com
 turvala.com
 turvalio.pro
 turvallinen-nettikasinot.com
