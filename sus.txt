@@ -1,12 +1,13 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 08/03/2025 08:00 UTC
+# Last modified: 09/03/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
 1081asiakaspalvelu-op.info
 1082asiakaspalvelu-nordea.info
+12tapaapilatahelsinki.net
 1go-casino-suomi1.ru
 1go-casino-suomi2.ru
 1go-casino-suomi3.ru
@@ -29,6 +30,7 @@
 24suomi.net
 24suomi.org
 27ooyj.us
+27turvap.ink
 3soumissionmenage.com
 4tturva.com
 5-popankki-fi.com
@@ -166,6 +168,7 @@ asailfinland.com
 asennuspalvelujoku.com
 ashritakantamneni.com
 asiakas-lowell.net
+asiakas-portaali.net
 asiakas-saastopanki.site
 asiakas-saatopanki.site
 asiakasalue.org
@@ -214,6 +217,7 @@ auroralightsfinland.com
 aussiesuomi.net
 australian-cobberdog-finland.com
 auth-s-pankkii-fi.com
+auth-tunnistautuminen-suomi.help
 autofixhelsinki.com
 autohuolto.org
 autohuoltopalokka.com
@@ -221,6 +225,7 @@ autojakonehuolto.com
 autolasipalvelu.com
 autolasipalvelu.net
 automavero.com
+automobiilio.com
 autonosiasuomi.com
 autopalveluvuottolahti.com
 av-turva.com
@@ -301,6 +306,7 @@ bestinsuomi.com
 bestofsuomi2k.com
 bestonlinecasinofinland.com
 bestsuomicasinos.com
+bestsuomis.com
 betalingsservice-mobilepay.com
 betalingsservicemobilepay.com
 bettisuomi.com
@@ -404,6 +410,7 @@ catfootwear-suomi.com
 catskengatsuomi.com
 caturva.org
 ccfinland.com
+cdtaoyj.com
 cellarhelsinki.com
 cemsclubhelsinki.com
 centrovero-suites.gr
@@ -724,6 +731,7 @@ etherviesta.ink
 etherviesta.pro
 etherviesta.site
 etherviesta.xyz
+etsipalvelu.com
 etsisuomesta.com
 etsivapalvelu.com
 eucreafinland.org
@@ -923,6 +931,7 @@ fuxionafinland.com
 fysiolinefinland.com
 gaborfinland.com
 gaborsuomi.com
+gaiascultsuomi.com
 galleria1981helsinki.com
 galleriakivipankki.com
 gameroomfinland.com
@@ -1036,6 +1045,7 @@ helsinki-dire-xaac.info
 helsinki-dire-xaad.info
 helsinki-dire-xaae.info
 helsinki-dire-xaaf.info
+helsinki-drec-abaa.info
 helsinki-fi.com
 helsinki-image.com
 helsinki-istanbul-train-tour-package.today
@@ -1115,6 +1125,9 @@ helsinki-mplp-aae.info
 helsinki-mplporg-aae.org
 helsinki-mplshale-aaaa.info
 helsinki-mplshale-aaab.info
+helsinki-mplshale-aaac.info
+helsinki-mplshale-aaad.info
+helsinki-mplshale-aaae.info
 helsinki-ninj-eal.info
 helsinki-paris-train-tour-package-offers.today
 helsinki-paris-train-tour-package.today
@@ -1485,6 +1498,7 @@ iuoyj.icu
 ivero-moda.cz
 ivhuoltoht.com
 iygfinland.cam
+jaahdytyspalvelu.com
 jack-wolfskin-suomi.com
 jackelyn-suomi.com
 jackpot-finlands.cfd
@@ -3292,6 +3306,7 @@ spankki-elakkeeella.com
 spankki-elakkeela.com
 spankki-elakkeella.com
 spankki-elakkeellaa.com
+spankki-fi-kampanja.com
 spankki-fi-mobiili.com
 spankki-mobiili-fi.com
 spankki-mobiili-online.com
@@ -3374,6 +3389,7 @@ sudansuomiszilard.sbs
 sugardaddyssuomessa.com
 sugardatingsuomi.com
 suitupfinland.com
+sukitusvalvontaheikkijyrama.com
 sukitusvalvontaheikkijyrama.info
 sukkafinland.com
 sun-suomen-ope.ru
@@ -3495,6 +3511,7 @@ suomenkurssi.com
 suomenkuvalehti.com
 suomenkuvaszklubi.online
 suomenlampopuu.com
+suomenlevytyo.com
 suomenliikennevalmennus.com
 suomenlinnanvanhatparrat.com
 suomenmahtavin.com
@@ -3592,6 +3609,8 @@ suomi-2.icu
 suomi-2.sbs
 suomi-2024.com
 suomi-amazing.com
+suomi-app.online
+suomi-app.store
 suomi-arvat.biz
 suomi-bonus.online
 suomi-choose.com
@@ -3740,6 +3759,7 @@ suomigambit.com
 suomigambleportal.com
 suomigame.com
 suomigameswin.com
+suomigaming.com
 suomigems.com
 suomigroup.org
 suomiguide.com
@@ -4575,6 +4595,7 @@ vavada-finland-bonus.net
 veiikvapesuomi.com
 veja-suomi.com
 vejafinland.com
+vejasrunningsuomi.com
 vejasuomi-fi.top
 velarahelsinki.com
 velkapalvelu.com
@@ -4660,6 +4681,7 @@ vero-fasion.com
 vero-fi-mytax.com
 vero-fi.sbs
 vero-fiber.com
+vero-fii.com
 vero-fin.com
 vero-finanx.com
 vero-fratello.com
@@ -4715,11 +4737,13 @@ vero-quis.site
 vero-retouch.ru
 vero-ro.com
 vero-roma.com
+vero-sante-support.com
 vero-santiago.com
 vero-skin.com
 vero-smith.com
 vero-sms.com
 vero-soluta.site
+vero-solutions.co.uk
 vero-soto.com
 vero-sports.com
 vero-store.com
