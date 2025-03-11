@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 10/03/2025 08:00 UTC
+# Last modified: 11/03/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -474,6 +474,7 @@ consolidationloanshelsinki096785.icu
 contrat-soumission-non.ch
 contratsoumissionnon.ch
 convero-enzyme.co.uk
+converse-finland.com
 conversealesuomi.com
 converseallstarsuomi.com
 conversesuomi-fi.com
@@ -532,6 +533,7 @@ davi-helsinki.com
 davvero-echt.nl
 dc-shoes-finland.com
 dc-shoessuomi.com
+dckengatsuomi.com
 dcpfinland.com
 dcshoes-suomi.com
 dcshoessuomi-fi.com
@@ -675,6 +677,7 @@ egitimkulturvakfi.org
 egitimkulturvakfi.xyz
 eid-konto-mobilepay.mobi
 eidbroker-mobilepay.fyi
+ejdfinland.com
 ekoterveys.com
 eksklusiivisetsuomi.com
 elakkeela-smobiili.com
@@ -793,6 +796,7 @@ fennoturvapalvelut.com
 ferrarihelsinki.com
 festivohuolto.pro
 fezbet-suomi.com
+fhqfinland.com
 fhxfinland.info
 fi-elisa.com
 fi-icebugsuomi.com
@@ -1065,6 +1069,8 @@ helsinki-dire-xaae.info
 helsinki-dire-xaaf.info
 helsinki-drec-abaa.info
 helsinki-drec-abab.info
+helsinki-drec-abac.info
+helsinki-drec-abad.info
 helsinki-fi.com
 helsinki-image.com
 helsinki-istanbul-train-tour-package.today
@@ -1170,6 +1176,8 @@ helsinki-rthi.rest
 helsinki-saintpetersburg-train-vacation.today
 helsinki-shale-aaa.info
 helsinki-shale-aab.info
+helsinki-shaple-abaa.info
+helsinki-shaple-abab.info
 helsinki-stockholm-rail-vacation.today
 helsinki-swimming-725325571.click
 helsinki-swimming-907380973.click
@@ -1370,6 +1378,7 @@ houseofhelsinkiy.xyz
 hrxfinland.info
 hs-suomi.online
 hs-suomi.ru
+htifinland.com
 hubaconhelsinki.com
 hubeconhelsinki.com
 hugo-boss-suomi.com
@@ -1730,6 +1739,7 @@ koulutuspalvelut.com
 kpalvelusavo.com
 kpalvelusavo.net
 kpkoirapalvelu.com
+kpopfinland.app
 kremointipalvelut-suomessa.today
 kremointipalvelut.bond
 kryptomobilepay.com
@@ -2067,6 +2077,8 @@ millasuominenoy.com
 millhelsinki.com
 millikulturvakfi.com
 millo-suomi.com
+minaistent.org
+minaistent.se
 minilovefinland.com
 minorityhelsinki.com
 minustwosuomi.com
@@ -2074,6 +2086,7 @@ mirshturvalov.ru
 mis-finland.com
 misfinland.com
 misoumize.com
+missinternationalfinland.com
 misterlamp-helsinki.com
 mitsubishiclubfinland.net
 mitsubishihelsinki.com
@@ -2129,6 +2142,7 @@ mobilepay-danmark.link
 mobilepay-danmark.site
 mobilepay-dk-bruger-opdatering.online
 mobilepay-dk.info
+mobilepay-dk.link
 mobilepay-fi.com
 mobilepay-help.com
 mobilepay-hjaelp.online
@@ -2986,6 +3000,7 @@ s-pankki-kampanja-fi.com
 s-pankki-kampanja-mobiili.com
 s-pankki-kampanja.com
 s-pankki-kampanjafi.com
+s-pankki-mobiili-fi.com
 s-pankki-mobiilifi.com
 s-pankki-paivita-asiakaspalvelu-fi-acess.ru
 s-pankki-paivita-fi-ilii-tilit.ru
@@ -3216,6 +3231,7 @@ soumiatique.com
 soumiayahiaoui.com
 soumic.com
 soumicosmetics.com
+soumidiaay.org
 soumieru.com
 soumiesol.xyz
 soumiez.net
@@ -3932,6 +3948,7 @@ suomiscentcandle.online
 suomise.com
 suomiseas.com
 suomiseason.com
+suomiseekho.com
 suomiseikkailu.com
 suomiseikkailut.click
 suomiseikkailut.cyou
@@ -3961,6 +3978,7 @@ suomispins.net
 suomisportti.club
 suomisportvibes.pro
 suomissivous.com
+suomisstay.com
 suomistaging.com
 suomistars.com
 suomistays.com
@@ -4167,6 +4185,7 @@ telpalvelut.lol
 tendersfinland.com
 teollisuuspalvelu918.com
 teollisuuspalvelut.com
+terapiajavalmennuspalveluhoxu.net
 terosuomela.art
 tervesypalveluryr.com
 terveyasarvios.com
@@ -4624,6 +4643,7 @@ vahvistustorifi.store
 vahvistustransaktio.shop
 vaihdehuolto.nu
 vakantie-zweden-finland-reisblog.nl
+vakilmasoumi.com
 valero-helsinki.com
 valestudiohelsinki.com
 valintaopasfinland.com
