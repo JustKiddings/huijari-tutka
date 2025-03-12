@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 11/03/2025 08:00 UTC
+# Last modified: 12/03/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -46,6 +46,7 @@ aanekoskenhinauspalvelu.com
 abogadosaccidentestraficomadrid.com
 abogadostraficomalaga.es
 abrantus-suomi.com
+abritinhelsinki.com
 abuja-finlandian.info
 accessfinland.com
 accountfinland.com
@@ -181,6 +182,7 @@ asiakasino.net
 asiakasmagneetti.com
 asiakasmestarit.com
 asiakaspalvelu-suomi.site
+asiakaspalvelu-uo.net
 asiakaspalvelut-suomi.site
 asiakassivut.online
 asiakastarjous.com
@@ -564,6 +566,8 @@ delivero-uae.online
 deliveryfinland.com
 delivvero-ae.com
 deljvero-ae.com
+deljvero-balaban.com
+deljvero-fix.com
 deljvvero-ae.com
 dellivero-fix.com
 dellvero-ae.com
@@ -758,6 +762,7 @@ eusoumidia.pt
 eusoumidiahub.com.br
 eusoumilionario.site
 eusoumistica.com
+evero-concept.com
 evero-consulting.ch
 eviestate.online
 evufinland.work
@@ -826,6 +831,7 @@ filadisruptorsuomi.com
 filakengathelsinki.com
 filasuomi-fi.com
 filmschoolfinland.com
+filuckysuomi.com
 fimobiili-kampanja.com
 fimobiiliimaksut.com
 fin-mobilepay.com
@@ -881,6 +887,7 @@ fortum-energia.online
 fortum-fi.com
 fortum-harcourt.com
 fortum-hermine.com
+fortum-impact.com
 fortum-stainton.com
 fortum.agency
 fortum.live
@@ -1178,6 +1185,8 @@ helsinki-shale-aaa.info
 helsinki-shale-aab.info
 helsinki-shaple-abaa.info
 helsinki-shaple-abab.info
+helsinki-shaple-abac.info
+helsinki-shledrc-acaa.info
 helsinki-stockholm-rail-vacation.today
 helsinki-swimming-725325571.click
 helsinki-swimming-907380973.click
@@ -1297,6 +1306,8 @@ helsinkiproductionservices.com
 helsinkiprofessionals.com
 helsinkirep.com
 helsinkis.top
+helsinkisaunaboats.com
+helsinkisecondhand.com
 helsinkisensualweekend.com
 helsinkislipper.com
 helsinkismuseum.com
@@ -1588,6 +1599,7 @@ jpkviesta.com
 juhasuomela.com
 juhla-palvelu.com
 julianusturvalisus.com
+julkinenkaupanvahvistaja.com
 junkremovalvonore.com
 justdancehelsinki.com
 juupfinland.com
@@ -1676,6 +1688,7 @@ kiinteistohuoltotahti.com
 kiinteistopalvelu.com
 kiinteistopalvelu.net
 kiinteistopalvelui.icu
+kiinteistopalvelusason.com
 kiinteistoturvallisuus.com
 kikin-sisallontuotantopalvelut.com
 kilpailutuspalvelu.com
@@ -2071,6 +2084,7 @@ miestenrannekorut.shop
 miestentakki.com
 miestenterveystabletit.info
 miestenvuoro.com
+miitithelsinki.com
 mikanhuolto.com
 millanhoivapalvelut.com
 millasuominenoy.com
@@ -2109,6 +2123,7 @@ mobiil1xbet.com
 mobiili-elaakkeella.com
 mobiili-elakkeela.com
 mobiili-elakkeella.com
+mobiili-fi-kampanja.com
 mobiili-fi-spankki.com
 mobiili-kammpanja-fi.com
 mobiili-kampanja-finland.com
@@ -2671,6 +2686,7 @@ palvelu.com
 palvelu.top
 palvelualusta.com
 palveluasiakasnordeasuomi.online
+palveluhaukat.com
 palvelukanta.com
 palveluliikenne.com
 palvelun-suomi.site
@@ -3231,6 +3247,8 @@ soumiatique.com
 soumiayahiaoui.com
 soumic.com
 soumicosmetics.com
+soumidiaay.com
+soumidiaay.net
 soumidiaay.org
 soumieru.com
 soumiesol.xyz
@@ -3367,6 +3385,7 @@ sousoumi.gr
 soviestates.com
 spadospaviestately.shop
 spalveluhatemelsayed.com
+spancofinland.com
 spanki-client.com
 spankii-fi.site
 spankiii-viesti.site
@@ -5032,6 +5051,7 @@ wclfinland.com
 weallfinland.org
 webkirjaudu.site
 webmobilepay.com
+webpankkin.com
 webterveystalo.com
 wecoya-finland.com
 wellasiakashmir.com
