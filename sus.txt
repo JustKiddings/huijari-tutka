@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 12/03/2025 08:00 UTC
+# Last modified: 13/03/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -138,6 +138,7 @@ anypankki.icu
 aomaeyokqgsuomii.xyz
 aosuomeng.net
 aoyj.cn
+ap-yhtiopalvelut.com
 apalvelut.com
 apikulturvakfi.com
 apikulturvakfi.org
@@ -473,6 +474,7 @@ comme-des-garconssuomi.com
 conference-hotel-helsinki-456239310.today
 confortuma-shop.com
 consolidationloanshelsinki096785.icu
+contentinfinland.com
 contrat-soumission-non.ch
 contratsoumissionnon.ch
 convero-enzyme.co.uk
@@ -488,6 +490,7 @@ copenhagen-helsinki-train-tour-package-offers.today
 corossuomi.com
 corteiz-suomi.com
 cosfinland.com
+cosmedica-suomi.com
 cosstoresuomi.com
 cossuomi-fi.com
 cossuomi.com
@@ -1009,12 +1012,14 @@ goterveystalo.com
 gotourshelsinki.com
 goyard-suomi.com
 gpracingkartsfinland.com
+gramonaamusefinland.com
 granfondohelsinki.com
 gravero-mails.live
 greece-finland-train-holiday-deals.today
 greenandbluefinland.com
 greenfinland.org
 greeninvestfinland.com
+greenlinefinland.com
 greenworkssuomi.com
 groominghelsinki.com
 guesssuomi.com
@@ -1345,6 +1350,7 @@ herrenschmuck-suomi.shop
 hevospalveluvaisanen.com
 heyhelsinki.com
 hi-elisa.com
+hi-helsinkicity.com
 hibachihelsinki.com
 hierontapalveluthuoponen.com
 hierontapalvelutkirkasplus.com
@@ -1468,6 +1474,7 @@ injfinland.mom
 inleifinland.ink
 inleifinland.pro
 innoluxfinland.com
+innovatefinland.com
 insoumidating.com
 insoumis.app
 insoumisdecreteil.fr
@@ -1524,6 +1531,7 @@ iptvsuomi.news
 iptvsuomi.shop
 iptvsuomi.xyz
 iptvsuomi4k.shop
+iptvsuomilive.com
 iptvsuomis.com
 iranfinland.com
 ireland-finland-train-holiday-deals-777.today
@@ -1617,6 +1625,7 @@ kampanja-fi-spankki.com
 kampanja-fimobiili.com
 kampanja-fispankki.com
 kampanja-mobiilifi.com
+kampanja-spankki-fi.com
 kampanja-spankkifi.com
 kampanjafi-mobilespankki.com
 kampanjamobiili-elakkeella.com
@@ -1668,6 +1677,7 @@ kedsfinland.com
 kedssuomi.shop
 keenfinland.com
 keensuomi.net
+kehonhuolto-jani-bergstrom.net
 kehonhuoltojopi.com
 kehystyspalvelunelilehti.com
 kela-fi.top
@@ -2778,6 +2788,7 @@ pinkpalmpuff-finland.com
 pinkpalmpufffinland.com
 pinkpalmpuffsuomi.com
 pinocchiohelsinki.com
+pintahuolto.com
 planfinland.info
 plangamesfinland.com
 playboy-finland.com
@@ -5067,6 +5078,7 @@ winzonefinland.com
 wkgfinland.info
 wnpfinland.website
 wodka-finlandia.pl
+wolfhelsinki.com
 workerinfinland.com
 workinhelsinki.com
 workofsoumik.com
@@ -5113,6 +5125,7 @@ xn--cosa--vero-cosa-no--vero-peco.ch
 xn--desafiodevero-7eb.site
 xn--erpalvelukontiometso-czb.com
 xn--esteetnsuomi-9ib.com
+xn--etsivpalvelut-ffb.com
 xn--fortumvrme-w5a.nu
 xn--heikkil-helsinki-1nb.com
 xn--ilmalmppumppuhuolto-kwb49a.com
@@ -5143,9 +5156,11 @@ xn--pshholoogilineturvalisus-wsc.com
 xn--rnovations3soumissions-b8b.com
 xn--shktyturvakortti-vnb04ac.com
 xn--shktyturvallisuuskortti-v7b66bc.online
+xn--suomenetsivpalvelut-qwb.com
 xn--suomenhtvara-mcbb.com
 xn--suomenshkautohuolto-mwb49a.com
 xn--suomenshkautokorjaamo-c2b03b.com
+xn--suomenyksityisetsivtoisto-3ec.com
 xn--tulkkaus-jaknnspalveluhatemelsayed-m4ca28d.com
 xn--turvakengt-y5a.com
 xn--tykonehuolto-5ib.com
