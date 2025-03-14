@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 13/03/2025 08:00 UTC
+# Last modified: 14/03/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -61,6 +61,7 @@ adultmoviestation.com
 af-buymakantan.com
 afinland.top
 afriqueinsoumise.com
+agriturvalle.com
 aguidetofinland.com
 ahertajayrityspalvelu.com
 ahertajayrityspalvelu.online
@@ -105,6 +106,7 @@ allekirjoituspalvelu.com
 allekirjoituspalvelu.net
 allhotelsuomi.com
 alltravelfinland.com
+allyspinsuomi.com
 alohahelsinki.com
 alurahelsinkishop.com
 alure-helsinki.com
@@ -379,6 +381,7 @@ buildabearsuomi.com
 burroughs-fortum.com
 business-consults-suomi.com
 businessmediafinland.com
+busrentalhelsinki.com
 buypsychedelicsfinland.com
 by-soumi.de
 bymalenebirgersuomi.com
@@ -438,6 +441,7 @@ charlesfinland.com
 charlestyrwhitt-suomi.com
 chat-gpt-suomi.com
 chatfinland.com
+chatsuomi.com
 chaturvate.cam
 cheap-flights-helsinki.xyz
 chillysfinland.com
@@ -562,6 +566,7 @@ delivero-aee.com
 delivero-chocolatier.com
 delivero-fixae.com
 delivero-fixdessertchocolatier.com
+delivero-fixdubaiae.com
 delivero-kw-fix.com
 delivero-salt.com
 delivero-uae-chocolatier.com
@@ -722,6 +727,7 @@ emilmasoumi.net
 empmobilepay.com
 emrtalopalvelut.com
 emufinland.info
+energiatodistuspalvelu.com
 energy-production-finland-384623749.fyi
 engineering-suomi.net
 engineeringsuomi.com
@@ -1192,6 +1198,7 @@ helsinki-shaple-abaa.info
 helsinki-shaple-abab.info
 helsinki-shaple-abac.info
 helsinki-shledrc-acaa.info
+helsinki-shledrc-acab.info
 helsinki-stockholm-rail-vacation.today
 helsinki-swimming-725325571.click
 helsinki-swimming-907380973.click
@@ -1390,6 +1397,7 @@ hotellihelsinki.net
 hotellikasinosuomi.com
 hotellithelsinki.net
 hotellodgingsuomi.com
+hotspinsuomi.com
 houkuttelevasuomi.com
 houseofhelsinkiy.xyz
 hrxfinland.info
@@ -1869,6 +1877,7 @@ linkmobilepay.com
 linsoumis.com
 lionheartmoviestitlecontest.com
 littlehelsinki.com
+liujosuomi.com
 livelisuomi.com
 livero-lp.com
 livero-mode.de
@@ -1991,6 +2000,7 @@ matkahuolto-paketti-11374544.top
 matkahuolto-paketti-11912994.top
 matkahuolto-paketti-16518475.top
 matkahuolto-paketti-17698858.top
+matkahuolto-paketti-19917094.top
 matkahuolto-paketti-21327142.top
 matkahuolto-paketti-23788691.top
 matkahuolto-paketti-30839559.top
@@ -2279,6 +2289,7 @@ moyfinland.info
 mphuolto.com
 mretsoumise.cam
 mretsoumise.com
+mtbpalvelut.com
 muckbootssuomi.com
 muffinland.xyz
 mugitsuomi.com
@@ -2849,8 +2860,11 @@ power-finland.com
 ppprojektipalvelu.com
 pqpfinland.site
 pranasuomi.com
+precisionfinland.com
+precisionfinland.net
 premiersuomi.com
 premiersuomideals.com
+premiumfinland.com
 prh-suomi.com
 prhsuomi.com
 price-saunas-finland-733676498.zone
@@ -3119,6 +3133,7 @@ seek-mobilepaymonthlyfrca.info
 seikosuomi.com
 sekura-kantahlambar.id
 selestakantaron.com
+selkirkfinland.online
 selkopalvelu.online
 sendrabootssuomi.net
 senior-car-insurance-costs-in-finland.bond
@@ -3318,6 +3333,7 @@ soumission-rapide.com
 soumission-referencement.com
 soumission-thermopompe.com
 soumission.construction
+soumissionalamaison.com
 soumissionario.com.br
 soumissionassurance.online
 soumissionassuranceauto.com
@@ -3346,6 +3362,7 @@ soumissionrenoplus.com
 soumissionresidentielle.xyz
 soumissionrsa.ca
 soumissions-assurances.ca
+soumissionsalamaison.com
 soumissionsarchitecte.ca
 soumissionsarmoiresdecuisine.ca
 soumissionsassurance.com
@@ -3900,6 +3917,7 @@ suomikuvva.com
 suomileaniksi.com
 suomileikki.info
 suomilimoland.com
+suomilocal.com
 suomilodges.com
 suomiloma.click
 suomiloma.com
@@ -4604,6 +4622,7 @@ uggsuomi.com
 uggsuomioutlet.com
 uhmfinland.info
 uima-altaan-puhdistus-tyopaikat.online
+ulosmittaus-asiakas.net
 ulpukanhuolto.shop
 ultrafcootball.shop
 umnasserfinland.edu.bh
@@ -4809,6 +4828,7 @@ vero-green.com
 vero-group.com
 vero-guard.com
 vero-holding.com
+vero-homes.com
 vero-hurtadolozada.com
 vero-ia.com
 vero-interactive.com
@@ -4869,6 +4889,7 @@ vero-strength.com
 vero-studios.com
 vero-suomi.com
 vero-suomi.sbs
+vero-tech.store
 vero-thoi-mien.com
 vero-token.com
 vero-token.site
@@ -4909,6 +4930,7 @@ viadore-finland.com
 viaggihelsinki.com
 vialore-helsinki.com
 vibramsuomi.com
+victor-bullies-finland.com
 victoriahelsinki.com
 victorias-secretsuomi.com
 victoriassecret-suomi.com
