@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 14/03/2025 08:00 UTC
+# Last modified: 15/03/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -1199,6 +1199,12 @@ helsinki-shaple-abab.info
 helsinki-shaple-abac.info
 helsinki-shledrc-acaa.info
 helsinki-shledrc-acab.info
+helsinki-shledrc-acac.info
+helsinki-shledrc-acad.info
+helsinki-shledrc-acae.info
+helsinki-shledrc-acaf.info
+helsinki-shledrc-acag.info
+helsinki-shleprx-aaaa.info
 helsinki-stockholm-rail-vacation.today
 helsinki-swimming-725325571.click
 helsinki-swimming-907380973.click
@@ -2014,6 +2020,7 @@ matkahuolto-paketti-50533758.top
 matkahuolto-paketti-60684334.top
 matkahuolto-paketti-73474355.top
 matkahuolto-paketti-73716832.top
+matkahuolto-paketti-73750867.top
 matkahuolto-paketti-76254522.top
 matkahuolto-paketti-78324915.top
 matkahuolto-paketti-79432435.top
@@ -2543,6 +2550,7 @@ oma-mailing.site
 oma-massage.com
 oma-mori.com
 oma-mx.site
+oma-nappe.com
 oma-nuclear-power-plant-pointcloud.com
 oma-online.ch
 oma-online.com
@@ -3106,6 +3114,7 @@ saturvalawassociates.com
 sauconysuomioutlet.com
 saudifinland.com
 sauna-finlandesa.cfd
+sauna-finlandesa.com
 sauna-manufacturers-finland-146688915.today
 sauna-manufacturers-finland-783346085.today
 sauna-suppliers-finland-128528036.live
@@ -3133,6 +3142,7 @@ seek-mobilepaymonthlyfrca.info
 seikosuomi.com
 sekura-kantahlambar.id
 selestakantaron.com
+selkirkfinland.com
 selkirkfinland.online
 selkopalvelu.online
 sendrabootssuomi.net
@@ -3158,6 +3168,7 @@ shopfinland.ru
 shopsuomi.com
 shotbarfinland.com
 showposuomi.com
+sialviestateandbuilders.com
 sidifinland.com
 sidisuomi.net
 siegelringe-suomi.shop
@@ -3328,6 +3339,7 @@ soumission-assurance-moto.net
 soumission-assurance.com
 soumission-fenentres-1.online
 soumission-fenentres-2.online
+soumission-manuelle.com
 soumission-non.ch
 soumission-rapide.com
 soumission-referencement.com
@@ -3834,6 +3846,7 @@ suomibrilliantballs.com
 suomica.ru
 suomicam.com
 suomicanta.com
+suomicare.com
 suomicasinoopas.com
 suomicasinosocial.com
 suomichancehub.com
@@ -3868,6 +3881,7 @@ suomifinest.com
 suomifionline.site
 suomifitunnistus.com
 suomiflowergarden.com
+suomifortune.com
 suomifortunequest.com
 suomifront.co.uk
 suomifront.com
@@ -4991,6 +5005,7 @@ vikra-helsinki.com
 vilano-suomi.com
 villenpalvelut.com
 villisuomi.com
+vinkkipankki.com
 vinkkipankki.net
 vinku-ja-hinku-atk-palvelut.com
 vintagetapahtumatsuomessa.com
@@ -5200,6 +5215,8 @@ xsuomifi.site
 xtremelashesfinland.com
 xxcfinland.org
 xxxfinland.com
+xylitolfinland.com
+xylitolfinland.net
 yarahelsinki.com
 yeezyfinland.com
 yeti-suomi.com
