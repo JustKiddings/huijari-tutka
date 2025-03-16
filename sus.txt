@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 15/03/2025 08:00 UTC
+# Last modified: 16/03/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -58,6 +58,7 @@ adeccofinland.com
 adevilinhelsinki.com
 adidasfinland.com
 adultmoviestation.com
+aecfinland.com
 af-buymakantan.com
 afinland.top
 afriqueinsoumise.com
@@ -108,6 +109,7 @@ allhotelsuomi.com
 alltravelfinland.com
 allyspinsuomi.com
 alohahelsinki.com
+alosuomi.com
 alurahelsinkishop.com
 alure-helsinki.com
 amami-helsinki.com
@@ -203,6 +205,7 @@ asicssuomioutlet.com
 asiicssuomi.net
 asino-finland.com
 asiointisuomi.com
+askautohuolto.com
 asoumi.com
 asoypalvelut.com
 assist-suomi.online
@@ -265,6 +268,7 @@ baggufinland.com
 baghdad-finlandian.info
 bagsmartsuomi.com
 baku-finlandian.info
+balabandeljvero-ae.com
 balconyproductsfinland.com
 ball-finland.com
 balmainhairsuomi.com
@@ -844,6 +848,7 @@ filuckysuomi.com
 fimobiili-kampanja.com
 fimobiiliimaksut.com
 fin-mobilepay.com
+fin-virtuaalinen-terveys-9.online
 fin-virtuaalinen-terveys.online
 finansivalvonta.com
 findajobinfinland.com
@@ -1205,6 +1210,11 @@ helsinki-shledrc-acae.info
 helsinki-shledrc-acaf.info
 helsinki-shledrc-acag.info
 helsinki-shleprx-aaaa.info
+helsinki-shleprx-aaab.info
+helsinki-shleprx-aaac.info
+helsinki-shleprx-aaad.info
+helsinki-shleprx-aaae.info
+helsinki-shleprx-aaaf.info
 helsinki-stockholm-rail-vacation.today
 helsinki-swimming-725325571.click
 helsinki-swimming-907380973.click
@@ -2294,6 +2304,7 @@ moviestitc.com
 moving-services-finland-246199794.zone
 moyfinland.info
 mphuolto.com
+mpnostintyopalvelut.com
 mretsoumise.cam
 mretsoumise.com
 mtbpalvelut.com
@@ -2584,6 +2595,7 @@ oma-trubel.de
 oma-up.org
 oma-vergisst.at
 oma-vero.com
+oma-vero.sbs
 oma-veroo.sbs
 oma-ye.com
 omaaelisa.site
@@ -2616,6 +2628,7 @@ omaverofin25.com
 omaverofin9.com
 omaverofiry.com
 omaveroinfo.com
+omaveroo-fi.sbs
 omaveroooxxfi.click
 omaveropalvelu-suomi.info
 omaverot.com
@@ -3041,6 +3054,7 @@ s-mobiilispankki.com
 s-mobiilispankki.online
 s-pankki-asiakaspalvelu-fi-tietosi-iisiit.ru
 s-pankki-elakeella.com
+s-pankki-fi-asiakaspalvelu-paivita-iislil.com
 s-pankki-fi-kampanja.com
 s-pankki-fi-mobiili.com
 s-pankki-fi-mobiilillla-itliiiitilit.ru
@@ -3063,6 +3077,7 @@ s-pankkielakella.com
 s-pankkielakkeella.com
 s-pankkiellakkeella.com
 s-pankkifi.net
+s-pankkikampanja-fi.com
 s-pankkikampanjafi.com
 s-pankkimobiili-fi.com
 s-pankkimobiilifi.com
@@ -3076,6 +3091,7 @@ saaristohuolto.net
 saasatopankki.vip
 saaspankki.com
 saastopankki.online
+saastoppankki.sbs
 saaviestates.com
 safetyfinland.com
 sahkomieshelsinki.net
@@ -3146,6 +3162,7 @@ selkirkfinland.com
 selkirkfinland.online
 selkopalvelu.online
 sendrabootssuomi.net
+senegalsuomiystavat.com
 senior-car-insurance-costs-in-finland.bond
 senior-living-finland-yshkin.click
 sennheisersuomi.com
@@ -3267,6 +3284,7 @@ soumi-online.sbs
 soumi-sports.com
 soumi.icu
 soumi.org
+soumi.xin
 soumiabeauty.com
 soumiabenchikh.com
 soumiabouamoud.com
@@ -3451,6 +3469,7 @@ spankkimobiili.online
 spankkimobiilifi.com
 spankkiraportti.site
 spankkiupdate.tech
+spankkiweb.site
 spanx-suomi.com
 spectrmmobilepayment.com
 sperm-donation-finland-ok.today
@@ -3755,6 +3774,7 @@ suomi-fi-online.icu
 suomi-fi.cfd
 suomi-fi.com
 suomi-fi.icu
+suomi-fi.one
 suomi-fi0.sbs
 suomi-fin.icu
 suomi-finland.icu
@@ -3793,6 +3813,8 @@ suomi-vavada.com
 suomi-veropalvelu.info
 suomi-viesteja.com
 suomi-viesti.com
+suomi-viesti.icu
+suomi-viesti.sbs
 suomi-viesti.site
 suomi-viesti.website
 suomi-viestin.com
@@ -4130,6 +4152,7 @@ suomiworldstore.com
 suoratoistopalvelu.net
 surronsuomi.com
 susanfetalvero-roces.com
+susihelsinki.com
 sussnaswamiestenso.cfd
 suupohjanosuuspankki.net
 suurisuomi.net
@@ -4259,6 +4282,8 @@ terveysarviios.com
 terveysarvioss.com
 terveysasemat.com
 terveysavios.com
+terveysboosti.com
+terveysbuusti.com
 terveyselama.com
 terveysjaloma.com
 terveyskauppa.com
@@ -5217,6 +5242,7 @@ xxcfinland.org
 xxxfinland.com
 xylitolfinland.com
 xylitolfinland.net
+xylitolfinland.org
 yarahelsinki.com
 yeezyfinland.com
 yeti-suomi.com
@@ -5256,6 +5282,7 @@ zarkovsoumisky.com
 zartiquebysoumita.com
 zb-soumi.com
 zbshensuomen.cn
+zdfinland.shop
 zenola-helsinki.com
 zfwfinland.pro
 zgxoehardwpcaoyj.shop
