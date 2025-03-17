@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 16/03/2025 08:00 UTC
+# Last modified: 17/03/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -118,6 +118,7 @@ ambiehelsinki.com
 ambulanssipalvelu.com
 ambulanssipalvelu.store
 amchamfinland.net
+amivero-labs.com
 amivero-verification.com
 anadolukulturvakfi.net
 anaistentation.com
@@ -304,6 +305,7 @@ beklysoumia.online
 beklysoumia.site
 belkinfinland.com
 belkinsuomi.com
+belleinsoumise.com
 belleviestationery.com
 beloylyhelsinki.com
 benshermansuomi.com
@@ -1644,6 +1646,7 @@ kachincommunityfinland.org
 kaitesifinland.com
 kajfinland.info
 kampaamotsuomi.online
+kampanja-elakkeella-spankki.com
 kampanja-fi-mobiili.com
 kampanja-fi-spankki.com
 kampanja-fimobiili.com
@@ -2282,6 +2285,7 @@ mobilllepayylasuomii.com
 mohsenmasoumi.nl
 mohsenmasoumi.online
 moncler-suomi.com
+monsinsoumise.com
 monsoonsuomi.com
 montecfinland.com
 moonsuomiboot.com
@@ -2317,6 +2321,7 @@ mummopalvelu.com
 mummopalvelut.com
 muntmentorsuomi.com
 muoti-helsinki.com
+museumsinfinland.com
 mxmobilepay.website
 my-sms-fi.site
 my-spankki.com
@@ -2623,6 +2628,8 @@ omavero-finn.com
 omavero-online.com
 omavero-suomi.com
 omavero-veronpalautus.info
+omavero-viesti.icu
+omavero-viesti.sbs
 omavero.cfd
 omaverofin25.com
 omaverofin9.com
@@ -3013,6 +3020,7 @@ riverislandsuomi.net
 rivero-automotive.se
 rivero-ayerza.com
 rivero-rp.space
+rivero-studios.com
 rmvfinland.lol
 rockport-suomi.com
 rockysuomi.com
@@ -3090,6 +3098,7 @@ saappaatsuomi.com
 saaristohuolto.net
 saasatopankki.vip
 saaspankki.com
+saastopankki-fi.com
 saastopankki.online
 saastoppankki.sbs
 saaviestates.com
@@ -3295,6 +3304,7 @@ soumiafakhar.com
 soumiai.com
 soumiaimmobilier.com
 soumiam.com
+soumiamaachi.info
 soumiao.net
 soumiasfit.com
 soumiashop.com
@@ -3775,6 +3785,7 @@ suomi-fi.cfd
 suomi-fi.com
 suomi-fi.icu
 suomi-fi.one
+suomi-fi.sbs
 suomi-fi0.sbs
 suomi-fin.icu
 suomi-finland.icu
@@ -3796,6 +3807,7 @@ suomi-nettikasinot.com
 suomi-oma.com
 suomi-online.com
 suomi-online.icu
+suomi-palveluja.com
 suomi-palvelun.site
 suomi-pay.cfd
 suomi-poleneparis.com
@@ -3845,6 +3857,7 @@ suomi2024.com
 suomi2025.com
 suomi22.com
 suomi24.nu
+suomi24.online
 suomi24casino.com
 suomi360.com
 suomiaaki.com
@@ -4159,6 +4172,7 @@ suurisuomi.net
 suvereenisuomi.com
 suvinsiivouspalvelu.com
 svekkahelsinki.com
+swan-helsinkiuni.net
 swarovski-suomi.com
 swatchsuomi.com
 swellsuomi.com
@@ -4719,6 +4733,9 @@ vahvistasuomi.com
 vahvistathan.info
 vahvistavacoach.com
 vahvistavacoaching.com
+vahvistavavalmennus.com
+vahvistavavalmentaja.com
+vahvistavavalmentaminen.com
 vahvistettaisiinked.xyz
 vahvistuijgg.xyz
 vahvistus-fi.com
@@ -4943,6 +4960,9 @@ vero-valore.uk
 vero-vera.com
 vero-vero.art
 vero-veronpalautus.com
+vero-viesti.com
+vero-viesti.icu
+vero-viesti.sbs
 vero-vital.com
 vero-vital.net
 vero-vivida-herbals.com
@@ -4985,6 +5005,8 @@ viesteja-suomi.com
 viesti-fi-sms.site
 viesti-fi.site
 viesti-info.site
+viesti-omavero.icu
+viesti-omavero.sbs
 viesti-sms-fi.site
 viesti-sms.site
 viesti-spankii.site
@@ -4998,6 +5020,8 @@ viesti-suomi.site
 viesti-suomi.website
 viesti-suomifi.info
 viesti-suomifi.site
+viesti-vero.icu
+viesti-vero.sbs
 viesti.app
 viesti.online
 viesti.top
