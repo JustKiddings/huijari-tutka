@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 18/03/2025 08:00 UTC
+# Last modified: 19/03/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -231,6 +231,7 @@ auth-s-pankkii-fi.com
 auth-tunnistautuminen-suomi.help
 autofixhelsinki.com
 autohuolto.org
+autohuoltoon.com
 autohuoltopalokka.com
 autojakonehuolto.com
 autolasipalvelu.com
@@ -270,6 +271,7 @@ baghdad-finlandian.info
 bagsmartsuomi.com
 baku-finlandian.info
 balabandeljvero-ae.com
+balabannedelivero-ae.com
 balconyproductsfinland.com
 ball-finland.com
 balmainhairsuomi.com
@@ -406,6 +408,7 @@ cartiersuomi.net
 casasuomi.com
 casino-suomi.net
 casino360finland.com
+casinohelsinki.online
 casinonorthfinland.com
 casinosfinderssuomi.com
 casinosinfinland.com
@@ -1522,6 +1525,7 @@ interveystalo.com
 intimisimisuomi.com
 intimissimi-finland.com
 intimissimi-suomifi.com
+intimissimieufinland.com
 intimissimifinland.com
 intimissimisuomi.com
 intimissimisuomifi.com
@@ -1825,6 +1829,7 @@ laitehuolto.com
 laitteenturvallisuus.com
 lakimies-helsinki.com
 lakipalvelut-emendatus.com
+lalasagnahelsinki.com
 lameva-helsinki.com
 lampo-ja-vesipalvelut.com
 lampopalveluhr.com
@@ -2525,6 +2530,7 @@ oma-arpa.net
 oma-baker.xyz
 oma-beaurepaire.com
 oma-binz.de
+oma-bloc.com
 oma-by-mouna-yaya.com
 oma-capital.com
 oma-chareef.com
@@ -2560,6 +2566,7 @@ oma-l.com
 oma-l.online
 oma-l.store
 oma-labrigade.fr
+oma-labs.com
 oma-lampe.com
 oma-mail.site
 oma-mailing.site
@@ -2923,6 +2930,7 @@ prokotipalvelut.com
 prontocasino-suomi.com
 proterveystalo.com
 provedotsuomi.com
+proweb-jssuomi.com
 pruthviestates.com
 przeprowadzki-finlandia.com
 psuhholoogilineturvalisus.com
@@ -3048,6 +3056,7 @@ s-kampanja-mobiili.com
 s-kampanja-pankki.com
 s-kampanjamobiili.com
 s-mobiili-elakkeela.com
+s-mobiili-fi-kamlanja.com
 s-mobiili-fi.com
 s-mobiili-fikampanja.com
 s-mobiili.online
@@ -3113,6 +3122,7 @@ salomomhelsinki.com
 salomonfinland.com
 salomonhelsinki.com
 salomonsuomi-fi.com
+salomonsuomi.com
 salomonsuomikokemuksia.com
 salomonsuomisale.com
 salomonsuomistore.com
@@ -3774,6 +3784,7 @@ suomi-app.online
 suomi-app.store
 suomi-arvat.biz
 suomi-bonus.online
+suomi-casino.online
 suomi-choose.com
 suomi-delta.com
 suomi-ed.com
@@ -3783,6 +3794,7 @@ suomi-fans.com
 suomi-fi-online.icu
 suomi-fi.cfd
 suomi-fi.com
+suomi-fi.help
 suomi-fi.icu
 suomi-fi.one
 suomi-fi.sbs
@@ -3935,6 +3947,7 @@ suomiguide.com
 suomihauskapeli.site
 suomiherald.com
 suomihillsflowerfarm.com
+suomihotelsfinder.com
 suomii-fi.com
 suomiibrilliantballs.com
 suomiifi.site
@@ -4632,6 +4645,7 @@ turvapassi.com
 turvapassi.net
 turvapilvi.lol
 turvapluss.ee
+turvaprofiili.com
 turvasuomifi.com
 turvat.com
 turvataksi.com
@@ -4675,6 +4689,7 @@ uggsuomi.com
 uggsuomioutlet.com
 uhmfinland.info
 uima-altaan-puhdistus-tyopaikat.online
+ukkos-helsinki.com
 ulosmittaus-asiakas.net
 ulpukanhuolto.shop
 ultrafcootball.shop
