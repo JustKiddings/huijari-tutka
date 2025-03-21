@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 20/03/2025 08:00 UTC
+# Last modified: 21/03/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -565,6 +565,7 @@ decken-suomi.shop
 deelivero-ae.com
 deepseek-suomi.com
 deepseeksuomi.com
+defencefinland.com
 defwk5sfiyiaoyj.top
 deittisuomi.com
 delfivisuomene.com
@@ -996,6 +997,7 @@ gatoradesuomi.com
 gdqfinland.wiki
 gegu-finland.com
 gelopalvelut.com
+gemfinland.com
 gennovasuomi.com
 genpotfinland.company
 gensoumise.com
@@ -1197,6 +1199,7 @@ helsinki-pch-eaa.info
 helsinki-pch-eal.info
 helsinki-peachify-aac.org
 helsinki-pool-150964433.click
+helsinki-pool-339338448.click
 helsinki-pool-rental-353355716.live
 helsinki-pools.com
 helsinki-risteily-tarjouksia.sbs
@@ -1234,6 +1237,7 @@ helsinki-shleprx-aaai.info
 helsinki-shleprx-aaaj.info
 helsinki-shleprx-aaak.info
 helsinki-shleprx-aaal.info
+helsinki-shleprx-aaam.info
 helsinki-stockholm-rail-vacation.today
 helsinki-swimming-725325571.click
 helsinki-swimming-907380973.click
@@ -1632,6 +1636,7 @@ jellycatsuomi.biz
 jellycatsuomi.net
 jellycatsuomi.org
 jennynterapiapalvelu.com
+jessen-rengaspalvelu.com
 jetcasino-suomi.com
 jetcasinosuomi.com
 jeunesinsoumis.site
@@ -1862,6 +1867,7 @@ lapinputkihuolto.com
 lapinputkihuolto.net
 lapinputkihuolto.org
 laroza-helsinki.com
+laserpalvelut.com
 laskuttaa-mobilepay.com
 laskutuspalvelufi.online
 laskutuspalvelut.net
@@ -2265,6 +2271,7 @@ mobilepaycasinot.info
 mobilepaycasinot.net
 mobilepaycasinot.org
 mobilepayd.com
+mobilepaydanmark.info
 mobilepayding.com
 mobilepaydirect.com
 mobilepaydk.link
@@ -2832,6 +2839,7 @@ perintapalvelu.net
 perlenarmband-suomi.shop
 persevero-watches.com
 personal-loans-finland.today
+pesapalvelut.com
 peterveyt.com
 petitervey.shop
 petroi-finland.com
@@ -4082,6 +4090,7 @@ suomiratings.com
 suomirealty.com
 suomirent.com
 suomiresortcasino.com
+suomiretketapp.click
 suomireview.com
 suomis.com
 suomis777.com
@@ -4121,7 +4130,10 @@ suomispinit.com
 suomispinnas.com
 suomispinners.com
 suomispins.net
+suomisportti.click
 suomisportti.club
+suomisportti365.click
+suomisporttiapp.click
 suomisportvibes.pro
 suomissivous.com
 suomisstay.com
@@ -4169,6 +4181,7 @@ suomitarjoukset.world
 suomitarjoukset.xyz
 suomiterapia.com
 suomiterapia.ru
+suomitieto.com
 suomitodennus.com
 suomitodennus.info
 suomitopfinn.com
@@ -4762,6 +4775,7 @@ urazinvacaturvalgus.cloud
 urbani-helsinki.com
 urheilubaarit-suomessa.com
 urheilusovelluksetsuomi.com
+urviestate.com
 ushturvalapamyati.ru
 uudet-ilman-rekisteroitymista-fi.com
 uudet-ilman-rekisteroitymista.com
@@ -4772,6 +4786,7 @@ uutisfinland.com
 uwattshelsinki.com
 uwellsuomi.com
 uwinvapesuomi.com
+vagabondhelsinki.com
 vagabondsuomi.com
 vahinkosaneerauspalvelu.com
 vahinkosaneerauspalvelut.com
@@ -5375,6 +5390,7 @@ zigarrenschneider-suomi.shop
 zimplerkasinotsuomi.com
 zkfinland.com
 zlwfinland.info
+zorello-suomi.com
 zrtfinland.org
 zuoyj.com
 zuoyj.top
