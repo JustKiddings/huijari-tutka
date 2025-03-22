@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 21/03/2025 08:00 UTC
+# Last modified: 22/03/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -66,6 +66,7 @@ agriturvalle.com
 aguidetofinland.com
 ahertajayrityspalvelu.com
 ahertajayrityspalvelu.online
+ai-palvelu.com
 ai-suomi.com
 aidinkielenhuoltoasema.com
 aihelsinki.com
@@ -469,6 +470,7 @@ cloudsaastopanki.site
 cloudsuomi.click
 clubhousegrillfinland.com
 cmihelsinki.org
+coachoutletsuomi.com
 coashopsuomis.com
 cojeanvero-formation.com
 collaborativecaresystemsfinland.com
@@ -1195,6 +1197,7 @@ helsinki-ninj-eal.info
 helsinki-paris-train-tour-package-offers.today
 helsinki-paris-train-tour-package.today
 helsinki-paris-train-tour-packages.today
+helsinki-pass.com
 helsinki-pch-eaa.info
 helsinki-pch-eal.info
 helsinki-peachify-aac.org
@@ -1225,6 +1228,7 @@ helsinki-shledrc-acad.info
 helsinki-shledrc-acae.info
 helsinki-shledrc-acaf.info
 helsinki-shledrc-acag.info
+helsinki-shledrc-acah.info
 helsinki-shleprx-aaaa.info
 helsinki-shleprx-aaab.info
 helsinki-shleprx-aaac.info
@@ -1308,6 +1312,7 @@ helsinkifilmmarket.online
 helsinkifinland.buzz
 helsinkiflow.com
 helsinkifreetour.online
+helsinkifun.com
 helsinkifunfest-ui16.top
 helsinkigame.biz
 helsinkigamelab.com
@@ -1333,6 +1338,7 @@ helsinkilm.lol
 helsinkilottery.com
 helsinkim.com
 helsinkimainos.com
+helsinkimassage.com
 helsinkimetaversemarket.com
 helsinkimint.com
 helsinkimint.se
@@ -1668,6 +1674,7 @@ jvaoyj.info
 jyvaskylaautohuolto.com
 k-palvelusavo.com
 k-palvelusavo.net
+kaavahelsinki.com
 kabu-kantan.com
 kachincommunityfinland.org
 kaitesifinland.com
@@ -1686,6 +1693,7 @@ kampanja-spankkifi.com
 kampanjafi-mobilespankki.com
 kampanjamobiili-elakkeella.com
 kampanjamobiili-fi.com
+kampanjamobiilispankki.com
 kampanjas-pankki.com
 kampanjaspankki-elakkella.com
 kampanjaspankkifii.com
@@ -1895,6 +1903,7 @@ ledger-suomi.com
 legerofinland.com
 leguanofinland.com
 leinwandbilder-suomi.shop
+lemmikkipalvelukeskus.com
 lemmikkipalveluoiva.com
 lempisiivouspalvelu.com
 lemsfinland.com
@@ -2513,6 +2522,7 @@ nordic-helsinki.com
 nordicaoilsfinland.com
 nordyen-finland.com
 norivahelsinki.com
+norrahelsinki.com
 northfacesuomiale.com
 norway-sweden-finland-holiday-package.today
 noshit-nikotiinipussit.com
@@ -2885,6 +2895,7 @@ playwinsuomi.com
 pleaserfinland.com
 plentyopaws.com
 plinko-finland.com
+plinkofinland.com
 plitko-finland.com
 pod-finlandia.zgorzelec.pl
 pohjois-suomenmessut.com
@@ -3022,6 +3033,7 @@ rannikonkonehuolto.com
 raphafinland.com
 rasvero-service.ru
 ratherbeinfinland.com
+rauduspalvelut.com
 ravintoterveys.net
 rawlingssuomi.com
 ray-bansuomi.com
@@ -3436,6 +3448,7 @@ soumissiondemetal.com
 soumissionenergie.com
 soumissionentrepreneurs.com
 soumissionentretienmenager.com
+soumissionexpress.com
 soumissionfemmedemenage.com
 soumissionhabitat.com
 soumissionhypothecaire.ca
@@ -4567,6 +4580,7 @@ trafconf.site
 trafconsults.com
 trafcoo.store
 trafcor.com
+trafcore.online
 traficom-fin.com
 traficom-finland.com
 traficom-fl.com
@@ -4969,6 +4983,8 @@ vero-labs.com
 vero-labs.net
 vero-lammert.com
 vero-laudantium.site
+vero-live.com
+vero-living.com
 vero-luma.com
 vero-luxe.com
 vero-manager.site
@@ -5172,6 +5188,7 @@ vivero-elpotro.com
 vivero-inteligente.info
 vivero-luxury.store
 vivero-romen.com
+vivero-sanrafael.com
 vivero-selvatico.com
 viviennewestwood-finland.com
 viviennewestwoodfinland.com
