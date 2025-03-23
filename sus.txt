@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 22/03/2025 08:00 UTC
+# Last modified: 23/03/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -109,6 +109,7 @@ allekirjoituspalvelu.net
 allhotelsuomi.com
 alltravelfinland.com
 allyspinsuomi.com
+almutraficom.com
 alohahelsinki.com
 alosuomi.com
 alurahelsinkishop.com
@@ -325,6 +326,7 @@ bestsuomicasinos.com
 bestsuomis.com
 betalingsservice-mobilepay.com
 betalingsservicemobilepay.com
+betssuomi.com
 bettisuomi.com
 betviesta.com
 betyopaxv.xyz
@@ -527,6 +529,7 @@ croydoninsuomikoulu.org
 croydoninsuomikoulu.org.uk
 crusino-suomi.com
 cs2suomi.com
+cscfinland.com
 csuomeia.xyz
 ctheoxltdsuomensivuliike.com
 culturvalinteriors.shop
@@ -754,6 +757,7 @@ eogaeafernandfinland.shop
 epicfinland.com
 epicsuomi.com
 erc-severo-zapad.ru
+erfinland.shop
 eroasuomesta.com
 eroasuomesta.net
 eroasuomesta.org
@@ -810,6 +814,7 @@ fanipaitasuomi.com
 fansclubsfinland.com
 farmaseuttinen-pakkaus-tyopaikat.xyz
 fashionclub-helsinki.com
+fastbetfinland.com
 fearofgodessentialssuomi.com
 fecsuomi.com
 feeco-helsinki.com
@@ -831,6 +836,7 @@ fi-elisa.com
 fi-icebugsuomi.com
 fi-kampanja-mobiili.com
 fi-kampanja-spankki.com
+fi-mobiili-elakkeella.com
 fi-mobiili-kampanja.com
 fi-mobiilikampanja.com
 fi-osuuspankki.com
@@ -965,6 +971,7 @@ freight-forwarders-finland-595217652.today
 freight-forwarders-finland-910620832.world
 freight-forwarders-finland-976873170.today
 freshcasinosuomi.com
+frontierfinland.com
 frostsuomi.xyz
 frostyopalglow.store
 fruit-packaging-jobs-finland.today
@@ -982,6 +989,8 @@ funinfinland.online
 funinfinland.store
 funnyfinland.com
 funsuomiplay.com
+furfinland.info
+furfinland.org
 futurehrpalvelut.com
 fuxionafinland.com
 fysiolinefinland.com
@@ -1377,6 +1386,9 @@ helsinkisymphonygrchestra.tech
 helsinkisymphonyorchestra.tech
 helsinkitechnology.com
 helsinkitechshow.com
+helsinkitimes.bet
+helsinkitimes.info
+helsinkitimes.news
 helsinkitodolist.com
 helsinkitogo.com
 helsinkitransport.com
@@ -2547,6 +2559,7 @@ nutrilabfinland.com
 nuvero-bergen.com
 nvgtnsuomifi.com
 nyrdonsuomi.com
+nzfinland.shop
 oaqfinland.xyz
 objectfinland.com
 obrazovanie-v-finland.ru
@@ -2624,6 +2637,7 @@ oma-online.online
 oma-opa-uptodate.de
 oma-paketti.com
 oma-paravent.com
+oma-partners.com
 oma-penny.com
 oma-pinheiros.com
 oma-podcast.de
@@ -2763,6 +2777,7 @@ owalasuomifi.com
 oy-trafcom.info
 oyj-trafcom.info
 oytrafcom.info
+oz-ayti-suomi.com
 ozempicsuomi247.com
 ozempicsuomi247.net
 paapankki.com
@@ -3298,6 +3313,7 @@ skulpturen-suomi.shop
 slipperhelsinki.com
 slowtretyopa.com
 slowtretyopa.shop
+smart-mobilepay.com
 smartdeals-finland.com
 smartdeals-suomi.com
 smegsuomi.com
@@ -3550,6 +3566,7 @@ spinesurgeryinfinland.com
 spinlinefinland.com
 spinsuomi.com
 spinz-suomi.com
+sportbetssuomi.com
 sports-suomi.com
 sporttisuomi.site
 sportyfinland.com
@@ -3799,6 +3816,7 @@ suomenseikkailut.com
 suomenshilajit.online
 suomensiemenpankki-fi.com
 suomensisu.org
+suomensotosperheet.com
 suomentalousuutiset.blog
 suomentanssitapahtumat.com
 suomentarjous.com
@@ -3884,6 +3902,7 @@ suomi-prh.com
 suomi-rekisterointi.info
 suomi-select.com
 suomi-shop.ru
+suomi-sports.com
 suomi-suomen.site
 suomi-tunnistautuminen.com
 suomi-tunnistus.com
@@ -3912,6 +3931,7 @@ suomi.love
 suomi.media
 suomi.news
 suomi.nu
+suomi.onl
 suomi.tech
 suomi.uk
 suomi001-fi.site
@@ -3939,6 +3959,7 @@ suomiarcxteryx.com
 suomiarvostelee.com
 suomiasiakaspalvelunumero.com
 suomiautodeals.bond
+suomibest.com
 suomibestreviews.com
 suomibetmaster.com
 suomibettimaster.com
@@ -4129,6 +4150,7 @@ suomisilver.com
 suomisinkut.com
 suomisk8fam.net
 suomisk9.com
+suomisocialgame.com
 suomisocialkasinot.com
 suomisocialslots.com
 suomisoul.com
@@ -4494,6 +4516,7 @@ todennusropo.com
 todennussuomi.com
 toimistopalvelu.online
 toivapalvelut.online
+toivolapalvelut.net
 tokaifinland.com
 tokaifinland.online
 tokmannifinland.com
@@ -5024,6 +5047,7 @@ vero-sms.com
 vero-soluta.site
 vero-solutions.co.uk
 vero-soto.com
+vero-sport.com
 vero-sports.com
 vero-store.com
 vero-store.store
