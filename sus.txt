@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 23/03/2025 08:00 UTC
+# Last modified: 24/03/2025 08:00 UTC
 #
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
@@ -53,6 +53,7 @@ accountfinland.com
 accountingfinland.com
 accra-finlandian.info
 acmfinland.info
+activefinland.com
 actorsinhelsinki.net
 adeccofinland.com
 adevilinhelsinki.com
@@ -121,6 +122,7 @@ ambulanssipalvelu.com
 ambulanssipalvelu.store
 amchamfinland.net
 amivero-labs.com
+amivero-solutions.com
 amivero-verification.com
 anadolukulturvakfi.net
 anaistentation.com
@@ -251,6 +253,7 @@ aveno-suomi.com
 avero-california.com
 avero-cms.ru
 avero-group.com
+avero-review.com
 aviestas.com
 aviestas.site
 aviestas.space
@@ -296,6 +299,7 @@ bavero-group.ru
 bay-helsinki.com
 baymakantalya.com.tr
 bazargani-massoumi.com
+bccsuomi.org
 bcsfinland.com
 be-vero-louange.com
 bearpawfinland.com
@@ -618,6 +622,7 @@ devicely-suomi.com
 dewamakantakoyaki.app
 dfyne-finland.com
 dfyne-suomi.com
+dfynegymsuomi.com
 dfynesuomishop.com
 dgcsvsuomi.info
 diadorasuomisale.com
@@ -990,6 +995,7 @@ funinfinland.store
 funnyfinland.com
 funsuomiplay.com
 furfinland.info
+furfinland.net
 furfinland.org
 futurehrpalvelut.com
 fuxionafinland.com
@@ -1077,6 +1083,7 @@ handyketten-suomi.shop
 hankintajuristitpalvelut.com
 hankintajuristitsuomi.com
 hankintapalvelut.com
+haoyj.net
 happypalvelut.com
 happyworkplaces-finland.com
 harleydavidsonsuomi.com
@@ -1388,6 +1395,7 @@ helsinkitechnology.com
 helsinkitechshow.com
 helsinkitimes.bet
 helsinkitimes.info
+helsinkitimes.net
 helsinkitimes.news
 helsinkitodolist.com
 helsinkitogo.com
@@ -1395,6 +1403,7 @@ helsinkitransport.com
 helsinkitrav.com
 helsinkiunited.com
 helsinkivertiports.com
+helsinkivoyage.com
 helsinkiwealth.com
 helsinkiweather.info
 helsinkiweekend-ui15.top
@@ -1423,6 +1432,7 @@ hierontapalvelutkirkasplus.com
 highrollerfinland.com
 highrollerfinland.net
 hillasuomi.com
+hinauspalvelu-moilanen.com
 hinku-ja-vinku-atk-palvelut.com
 hippuedunvalvonta.com
 hirmuhenkilostopalvelu.com
@@ -1665,6 +1675,7 @@ jlphuolto.com
 jmcfinland.help
 jncofinland.com
 jncosuomi.com
+joakimsuominen.com
 jobfinland.one
 jobs-in-finland.fyi
 joinfinland.com
@@ -2345,6 +2356,7 @@ moncler-suomi.com
 monsinsoumise.com
 monsoonsuomi.com
 montecfinland.com
+montecsuomi.net
 moonsuomiboot.com
 mooseknucklesfinland.com
 mooseknucklesuomi.com
@@ -2660,6 +2672,7 @@ oma-system.net
 oma-talley-design.org
 oma-tech.com
 oma-trading-zfn.xyz
+oma-tradingschool.com
 oma-trubel.de
 oma-up.org
 oma-vergisst.at
@@ -2695,6 +2708,7 @@ omavero-veronpalautus.info
 omavero-viesti.icu
 omavero-viesti.sbs
 omavero.cfd
+omavero.info
 omaverofin25.com
 omaverofin9.com
 omaverofiry.com
@@ -3377,6 +3391,7 @@ soumiacademy.com
 soumiacollection.com
 soumiaeducation.com
 soumiafakhar.com
+soumiahotels.com
 soumiai.com
 soumiaimmobilier.com
 soumiam.com
@@ -3406,6 +3421,7 @@ soumikchakraborty.com
 soumikchaudhuri.tech
 soumikd4.tech
 soumikmanna2441139.xyz
+soumiktarafdar.com
 soumilagarwal.com
 soumilhouse.com
 soumili.net
@@ -3763,6 +3779,7 @@ suomenminimaailma.com
 suomenmuuttojakuljetus.com
 suomenmyyntiapu.com
 suomennettikasinot.net
+suomennostatus.com
 suomennuohousrekisteri.com
 suomennuohoustarvike.com
 suomenonni.com
@@ -4485,6 +4502,7 @@ tietopankki.com
 tietoturvapankki.com
 tifosisuomi.com
 tigersomtilipalvelu.com
+tiina-suomela.ch
 tiktakantalya.com
 tiktakantalya.pro
 tiktiksuomi.store
@@ -4805,6 +4823,7 @@ unstonyvacaturvalutas.cfd
 untoldfinland.com
 unvero-ai.com
 unwomensuomiyk-n.website
+uo-asiakas.com
 upcyclerhelsinki.com
 upeaasuomea.com
 upptackfinland.nu
@@ -5008,6 +5027,7 @@ vero-lammert.com
 vero-laudantium.site
 vero-live.com
 vero-living.com
+vero-llc.com
 vero-luma.com
 vero-luxe.com
 vero-manager.site
@@ -5058,6 +5078,7 @@ vero-suomi.com
 vero-suomi.sbs
 vero-sydney.com
 vero-tech.store
+vero-templates.online
 vero-thoi-mien.com
 vero-token.com
 vero-token.site
