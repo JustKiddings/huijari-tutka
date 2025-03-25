@@ -1,8 +1,9 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 24/03/2025 08:00 UTC
+# Last modified: 25/03/2025 08:00 UTC
 #
+02autopalvelut.com
 0938-turvallisuus-op.info
 1081asiakaspalvelu-nordea.info
 1081asiakaspalvelu-op.info
@@ -743,6 +744,7 @@ elotecfinland.com
 elotecfinland.info
 elotecfinland.net
 elotecfinland.org
+elvani-helsinki.com
 elviestate.com
 elviestate.ru
 emaldosuomi.com
@@ -1054,6 +1056,7 @@ goterveystalo.com
 gotourshelsinki.com
 goyard-suomi.com
 gpracingkartsfinland.com
+graficheviesti.com
 gramonaamusefinland.com
 granfondohelsinki.com
 gravero-mails.live
@@ -1117,6 +1120,7 @@ helpmefinland.com
 helpmefinland.store
 helsinki-berlin-train-tour-package.today
 helsinki-berlin-train-tours-packages.today
+helsinki-card.com
 helsinki-dire-xaaa.info
 helsinki-dire-xaab.info
 helsinki-dire-xaac.info
@@ -1720,6 +1724,7 @@ kampanjamobiilispankki.com
 kampanjas-pankki.com
 kampanjaspankki-elakkella.com
 kampanjaspankkifii.com
+kamppihelsinkii.com
 kamranmassoumi.com
 kansalaiset-omakanta.com
 kansallinenturvallisuus.com
@@ -1781,6 +1786,7 @@ kielipalvelukauno.com
 kiertokapulayrityspalvelut.com
 kiesinpesupalvelut.com
 kietrapalvelut.com
+kihelsinki.cfd
 kiinteistohuoltotahti.com
 kiinteistopalvelu.com
 kiinteistopalvelu.net
@@ -3265,6 +3271,7 @@ senior-car-insurance-costs-in-finland.bond
 senior-living-finland-yshkin.click
 sennheisersuomi.com
 sensoumingshuangxiaodatou.top
+seoulbbqhelsinki.shop
 serenityopal.com
 setarehmasoumi.com
 sevenco-helsinki.com
