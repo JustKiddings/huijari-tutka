@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 25/03/2025 08:00 UTC
+# Last modified: 26/03/2025 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -125,6 +125,7 @@ amchamfinland.net
 amivero-labs.com
 amivero-solutions.com
 amivero-verification.com
+amorehelsinki.com
 anadolukulturvakfi.net
 anaistentation.com
 andersfinland.com
@@ -291,9 +292,11 @@ bapehuppari-suomi.com
 bapesuomi.com
 baranmasoumian.com
 bargainhubfinland.com
+barsoumiandesign.com
 base64finland.org
 basedfinland.com
 baskerit-suomi.shop
+bastviestate.com
 bauchkettchen-suomi.shop
 bavas-helsinki.com
 bavero-group.ru
@@ -335,6 +338,7 @@ betssuomi.com
 bettisuomi.com
 betviesta.com
 betyopaxv.xyz
+beyondfinland.site
 bfgoodrichsuomi.com
 bfinland.top
 bgifinland.info
@@ -520,6 +524,7 @@ cossuomi.com
 costadelmarsuomi.com
 cottagefinland.com
 courtyardtamperecityfinland.com
+cozyinfinland.club
 crawlingthrufinland.com
 crazyhelsinki.com
 createchfinland.com
@@ -639,6 +644,7 @@ digitalfactoryfinland.com
 digitoimistopalvelu.online
 digivero-energy.de
 dininghelsinki.info
+discoverhelsinki.site
 diviestate.com
 djpalvelu.com
 dk-mobilepay.info
@@ -1039,6 +1045,7 @@ giosepposuomi.com
 glamoursuomi.com
 glar-helsinki.ru
 glenfinland.com
+glimpsefinland.club
 globalmobilepay.africa
 globesuomi.com
 glowtouchoffinland.shop
@@ -1808,6 +1815,7 @@ kirjaudu-oma.com
 kirjaudu-omakanta.com
 kirjaudu-online.com
 kirjaudu-online.sbs
+kirjaudu-op.online
 kirjaudu-siaan.sbs
 kirjaudu-sisaan.sbs
 kirjaudu-smobiiliilaa.com
@@ -2406,6 +2414,7 @@ my-suomifi.site
 my-viestit.site
 myomakantaa.com
 mysoumi.com
+myspankki.shop
 myspankkimobiilifi.online
 mysuomi.com
 mysuomi.online
@@ -2545,6 +2554,7 @@ nohatefinland.org
 nomavero.co.uk
 nomavero.com
 nomavero.info
+nopea-online-laina-ilman-pankkia.today
 nopeasuomipalvelu.online
 nopeatpelipalvelut.info
 nordeasuomi.com
@@ -2638,6 +2648,7 @@ oma-kuehnchen.de
 oma-l.com
 oma-l.online
 oma-l.store
+oma-lab.com
 oma-labrigade.fr
 oma-labs.com
 oma-lampe.com
@@ -3014,6 +3025,7 @@ provedotsuomi.com
 proweb-jssuomi.com
 pruthviestates.com
 przeprowadzki-finlandia.com
+psgturva.site
 psuhholoogilineturvalisus.com
 psychedelicshopfinland.com
 ptr-autohuolto.com
@@ -3032,6 +3044,7 @@ pumasuomi.com
 purchaseautomobilepaylater.today
 purebeautyfinland.com
 purefinland.info
+purehelsinki.online
 pureslimxsuomi.online
 putkipalvelujv.com
 puuhuolto.info
@@ -3063,6 +3076,7 @@ rakennuspalvelunikki.com
 rakennuspalveluoap.com
 rakennustietopankki.com
 ralph-lauren-suomi.com
+ralphlaurensuomi.com
 ramakantaseva.org
 rannikonkonehuolto.com
 raphafinland.com
@@ -3128,6 +3142,7 @@ rouvahelsinki.com
 roxysuomi.com
 royalcaninsuomi.com
 royaldeviesta.com
+rp-huolto.com
 rturva.biz.id
 ruedxhelsinki.com
 rumienmiestenliitto.com
@@ -3172,6 +3187,8 @@ s-pankki-paivita-omat-tietosi-fi-illiiilliiiii.ru
 s-pankki-uusikampanja.com
 s-pankki.click
 s-pankki.digital
+s-pankki.icu
+s-pankki.live
 s-pankki.store
 s-pankkielakella.com
 s-pankkielakkeella.com
@@ -3422,6 +3439,7 @@ soumiji.com
 soumik.blog
 soumikagura.site
 soumikbag.com
+soumikbarber.com
 soumikbengaltourism.com
 soumikbiz.com
 soumikchakraborty.com
@@ -3986,6 +4004,7 @@ suomiautodeals.bond
 suomibest.com
 suomibestreviews.com
 suomibetmaster.com
+suomibetsfi.com
 suomibettimaster.com
 suomibingo.com
 suomibrilliantballs.com
@@ -4305,6 +4324,7 @@ tahtaimessaterveys.com
 taigatrekfinland.com
 taiwanmobilepay.diy
 takanta.online
+takemobilepayments.com
 takeyasuomi.com
 takkifinland.top
 taksipalvelu-koikkalainen.com
@@ -4406,6 +4426,7 @@ tendersfinland.com
 teollisuuspalvelu918.com
 teollisuuspalvelut.com
 terapiajavalmennuspalveluhoxu.net
+terapiapalvelupaile.com
 terosuomela.art
 tervesypalveluryr.com
 terveyasarvios.com
@@ -5060,6 +5081,7 @@ vero-pack.com
 vero-paintings-prints.com
 vero-pkl.xyz
 vero-pomerleau.art
+vero-potenco.org
 vero-praesentium.com
 vero-quibusdam.com
 vero-quis.site
@@ -5374,6 +5396,7 @@ xn--levinmkkihuolto-etb.com
 xn--lhipyorhuolto-bfbg.com
 xn--mobiiliprssi-cjb.com
 xn--mobilepay-hjlp-cjb.online
+xn--modavero-bucureti-19f.com
 xn--myyntipllikkpalvelu-mwba51b.com
 xn--nettikasinoilmansuomilisenssi-tqc.com
 xn--nettikasinotilmansuomilisenssi-ptc.com
