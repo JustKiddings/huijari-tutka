@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 26/03/2025 08:00 UTC
+# Last modified: 27/03/2025 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -308,6 +308,7 @@ bcsfinland.com
 be-vero-louange.com
 bearpawfinland.com
 beautyopa.com
+beautyopal.com
 beautyopathy.com
 beautysalonsaharmasoumi.com
 beerfromfinland.com
@@ -403,6 +404,7 @@ burroughs-fortum.com
 business-consults-suomi.com
 businessmediafinland.com
 busrentalhelsinki.com
+buynothingfinland.com
 buypsychedelicsfinland.com
 by-soumi.de
 bymalenebirgersuomi.com
@@ -500,6 +502,7 @@ comly-helsinki.com
 comme-des-garconssuomi.com
 conference-hotel-helsinki-456239310.today
 confortuma-shop.com
+connecta-finland.com
 consolidationloanshelsinki096785.icu
 contentinfinland.com
 contrat-soumission-non.ch
@@ -537,6 +540,7 @@ cremationgqafinland.bond
 crematrngqafinland.bond
 croydoninsuomikoulu.org
 croydoninsuomikoulu.org.uk
+crpalvelut.com
 crusino-suomi.com
 cs2suomi.com
 cscfinland.com
@@ -657,6 +661,7 @@ doctormartens-suomi.com
 domainfinland.com
 domainfinland.net
 dominantesetsoumis.com
+donepalvelut.online
 dooronesuomi.com
 dope-finland.com
 dope-suomi.com
@@ -704,6 +709,7 @@ eccooutlet-suomi.com
 eccooutletssuomi.com
 eccoshoesfinland.com
 eccoshopfinland.com
+ecofinland.com
 ed-hardy-suomi.com
 edelstahlschmuck-suomi.shop
 edhardyfinland.com
@@ -1001,6 +1007,10 @@ funinfinland.com
 funinfinland.online
 funinfinland.store
 funnyfinland.com
+funsuomi.click
+funsuomi.icu
+funsuomiapp.icu
+funsuomiapp.sbs
 funsuomiplay.com
 furfinland.info
 furfinland.net
@@ -1279,6 +1289,7 @@ helsinki-ui9.xyz
 helsinki.asia
 helsinki.baby
 helsinki.bio
+helsinki.cab
 helsinki.christmas
 helsinki.games
 helsinki.lat
@@ -1296,6 +1307,7 @@ helsinki5000.com
 helsinkiaamu.org
 helsinkiadorn.com
 helsinkiairport.rocks
+helsinkiairporttaxitransfers.com
 helsinkiaitio.com
 helsinkiapartments166494.icu
 helsinkiapartments833119.icu
@@ -1357,6 +1369,7 @@ helsinkihouse.cl
 helsinkiijing.lol
 helsinkiinnova.com
 helsinkikasino.com
+helsinkiknifeshow.com
 helsinkilakimies.eu
 helsinkilegaltech.com
 helsinkilimo.info
@@ -1521,6 +1534,7 @@ icebugfinland.com
 icecubefinland.com
 icedrivingfinland.com
 icedrivingfinland.online
+icepeak-suomi.com
 icepeakfinland.com
 icepeaksuomi.com
 ict-huolto.online
@@ -2097,6 +2111,7 @@ matkahuolto-paketti-11202885.top
 matkahuolto-paketti-11374544.top
 matkahuolto-paketti-11912994.top
 matkahuolto-paketti-16518475.top
+matkahuolto-paketti-17314553.top
 matkahuolto-paketti-17698858.top
 matkahuolto-paketti-19917094.top
 matkahuolto-paketti-21327142.top
@@ -2111,6 +2126,7 @@ matkahuolto-paketti-48786838.top
 matkahuolto-paketti-49440981.top
 matkahuolto-paketti-50533758.top
 matkahuolto-paketti-60684334.top
+matkahuolto-paketti-66334137.top
 matkahuolto-paketti-73474355.top
 matkahuolto-paketti-73716832.top
 matkahuolto-paketti-73750867.top
@@ -2414,6 +2430,7 @@ my-suomifi.site
 my-viestit.site
 myomakantaa.com
 mysoumi.com
+myspankki.com
 myspankki.shop
 myspankkimobiilifi.online
 mysuomi.com
@@ -2696,6 +2713,8 @@ oma-vergisst.at
 oma-vero.com
 oma-vero.sbs
 oma-veroo.sbs
+oma-vpn.online
+oma-vpn.ru
 oma-ye.com
 omaaelisa.site
 omaakantaa-fi.net
@@ -2840,6 +2859,7 @@ palvelupro.com
 palvelurakennetrauma.com
 palvelusaatopanki.site
 palvelutfi.com
+palvelutie.com
 palvelutvoittogroup.com
 palveluvalmennus.com
 palveluverkkokauppa.com
@@ -3025,6 +3045,7 @@ provedotsuomi.com
 proweb-jssuomi.com
 pruthviestates.com
 przeprowadzki-finlandia.com
+psgturva.com
 psgturva.site
 psuhholoogilineturvalisus.com
 psychedelicshopfinland.com
@@ -3255,6 +3276,7 @@ sauna-finlandesa.com
 sauna-manufacturers-finland-146688915.today
 sauna-manufacturers-finland-783346085.today
 sauna-suppliers-finland-128528036.live
+saunachannelfinland.com
 saunanfromfinland.com
 saunas-finland-136215910.click
 saunas-finland-172191398.click
@@ -3509,6 +3531,7 @@ soumissionexpress.com
 soumissionfemmedemenage.com
 soumissionhabitat.com
 soumissionhypothecaire.ca
+soumissionhypothequeenligne.com
 soumissionimprimerie.com
 soumissionmauricie.com
 soumissionnettoyage.com
@@ -3602,6 +3625,7 @@ spankkiweb.site
 spanx-suomi.com
 spectrmmobilepayment.com
 sperm-donation-finland-ok.today
+spinandofinland.com
 spinesurgeryfinland.com
 spinesurgeryinfinland.com
 spinlinefinland.com
@@ -3989,8 +4013,14 @@ suomi24.online
 suomi24casino.com
 suomi360.com
 suomiaaki.com
+suomiactive.sbs
 suomiadmin.com
+suomiadventure.click
 suomiadventure.com
+suomiadventure.rest
+suomiadventure.sbs
+suomiadventure365.sbs
+suomiadventureapp.sbs
 suomialfa.com
 suomiamazing.com
 suomiao.lol
@@ -4036,6 +4066,8 @@ suomielectric.bond
 suomielectric.today
 suomiensin.com
 suomiescort.com
+suomiexplore.click
+suomiexplore.online
 suomifaama.com
 suomifans.site
 suomifeedback.com
@@ -4051,8 +4083,14 @@ suomifortune.com
 suomifortunequest.com
 suomifront.co.uk
 suomifront.com
+suomifun.click
+suomifun.rest
+suomifun.site
+suomifun247.click
+suomifun247.sbs
 suomifun25.club
 suomifun25.info
+suomifunapp.top
 suomifx.net
 suomify.com
 suomigambit.com
@@ -4154,6 +4192,8 @@ suomipressu.com
 suomiprime.com
 suomiprizes.com
 suomipuolakajaani.net
+suomiquest.click
+suomiquest.sbs
 suomir3p.net
 suomirahafi.com
 suomirahafin.com
@@ -4301,6 +4341,12 @@ suomiwin.com
 suomiwinfi.com
 suomiwinner.com
 suomiwinzone.com
+suomiwonder.xyz
+suomiwonder247.xyz
+suomiwonder365.click
+suomiwonder365.xyz
+suomiwonderapp.click
+suomiwonderapp.xyz
 suomiworldstore.com
 suoratoistopalvelu.net
 surronsuomi.com
@@ -4650,6 +4696,7 @@ trafconsults.com
 trafcoo.store
 trafcor.com
 trafcore.online
+traffic-finland.com
 traficom-fin.com
 traficom-finland.com
 traficom-fl.com
@@ -5081,6 +5128,7 @@ vero-pack.com
 vero-paintings-prints.com
 vero-pkl.xyz
 vero-pomerleau.art
+vero-potenco.com
 vero-potenco.org
 vero-praesentium.com
 vero-quibusdam.com
@@ -5132,6 +5180,7 @@ vero-wantia.de
 vero-wealth.com
 vero-well.com
 vero-wellness.com
+vero-x.com
 vero-zone.store
 veroo-suomi.com
 veropalvelu-fi.info
@@ -5343,6 +5392,7 @@ www-elisa.site
 www-mobilepay.info
 www-op-fi.com
 www-panki-fi.site
+www-posti-fi.top
 www-posti-il.icu
 www-posti-il.life
 www-posti-il.one
