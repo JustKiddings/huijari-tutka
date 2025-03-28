@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 27/03/2025 08:00 UTC
+# Last modified: 28/03/2025 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -53,6 +53,7 @@ accessfinland.com
 accountfinland.com
 accountingfinland.com
 accra-finlandian.info
+acfinland.com
 acmfinland.info
 activefinland.com
 actorsinhelsinki.net
@@ -556,6 +557,7 @@ customersupportfinland.com
 cvturvattua.xyz
 cwcfinland.com
 czasoumilacze.pl
+czsoumi.com
 d-id-vahvista.info
 d2q-sl-ab-l-e-ak-r-ep-air-oyj.lat
 daily-helsinki.com
@@ -1048,6 +1050,7 @@ getworkinfinland.online
 getworkinfinland.store
 gewfinland.com
 ghdsuomi.com
+gigamobiili.com
 gilvero-ailyn.site
 ginatricotsuomi.com
 giorgioarmanisuomi.com
@@ -1112,6 +1115,7 @@ hatas-helsinki.com
 hatssoumi.site
 hattufinland.top
 hauskaasuomessa.com
+hauskasuomi.com
 hausschuhe-suomi.shop
 haustierbedarf-suomi.shop
 hautauspalvelut.online
@@ -1348,6 +1352,7 @@ helsinkifilmlab.online
 helsinkifilmlab.pro
 helsinkifilmmarket.com
 helsinkifilmmarket.online
+helsinkifinds.com
 helsinkifinland.buzz
 helsinkiflow.com
 helsinkifreetour.online
@@ -2476,6 +2481,7 @@ naturva.co
 naturval.fr
 naturval.net
 naturvalet.com
+navero-cup.com
 nayteikkuna-verkkopeleihin-suomessa.buzz
 nbc-finland.com
 nbcsymposiumfinland.com
@@ -2577,6 +2583,7 @@ nopeatpelipalvelut.info
 nordeasuomi.com
 nordic-helsinki.com
 nordicaoilsfinland.com
+nordiko-helsinki.com
 nordyen-finland.com
 norivahelsinki.com
 norrahelsinki.com
@@ -2693,6 +2700,7 @@ oma-posti.site
 oma-rapeti.com
 oma-rest.com
 oma-sabaslots.site
+oma-seuranta.net
 oma-sexanzeigen.com
 oma-sextreffen.ch
 oma-shop.com
@@ -3018,6 +3026,7 @@ price-saunas-finland-733676498.zone
 pridefinland.com
 primark-finland.com
 primedrinksuomi.com
+primehouseviestit.com
 princesspollyfinland.com
 pripanki.com
 private-pool-helsinki-106266285.today
@@ -3042,6 +3051,7 @@ prokotipalvelut.com
 prontocasino-suomi.com
 proterveystalo.com
 provedotsuomi.com
+provoicefinland.com
 proweb-jssuomi.com
 pruthviestates.com
 przeprowadzki-finlandia.com
@@ -3075,6 +3085,7 @@ puuturva.com
 pyrenexsuomi.com
 qbdfinland.info
 qisuunnittelupalvelu.com
+qmfinland.shop
 qowfinland.mom
 qsfinland.com
 quero-vero-preco-do-pneu.today
@@ -3111,6 +3122,7 @@ raycon-suomi.com
 rcepthelsinkisw.shop
 rdsiivouspalvelut.com
 realisointipalvelut.com
+rederihelsinki.com
 redumbrellatourshelsinki.com
 redvalentinosuomi.com
 reflexions-echanges-insoumis.org
@@ -3468,8 +3480,10 @@ soumikchakraborty.com
 soumikchaudhuri.tech
 soumikd4.tech
 soumikmanna2441139.xyz
+soumiksarker.com
 soumiktarafdar.com
 soumilagarwal.com
+soumilheiro.com
 soumilhouse.com
 soumili.net
 soumilifecoach.com
@@ -4108,6 +4122,7 @@ suomihotelsfinder.com
 suomii-fi.com
 suomiibrilliantballs.com
 suomiifi.site
+suomiinline.com
 suomiinsights.com
 suomiiptv.net
 suomijackpot365.com
@@ -4130,6 +4145,7 @@ suomike.com
 suomike.net
 suomikeskus.nu
 suomikimalainen.online
+suomikivaa.com
 suomikooooh.xyz
 suomikoulu.de
 suomikuvva.com
@@ -4567,6 +4583,7 @@ thermosfinland.com
 thermossuomi.com
 thestudiohelsinki.com
 theterveystalo.com
+thewhalehelsinki.com
 thursday-boots-suomi.com
 thursdayboot-suomi.com
 thursdaybootsfinland.com
@@ -4606,6 +4623,7 @@ tnorthface-suomi.com
 todennusintrum.com
 todennusropo.com
 todennussuomi.com
+toimenpideohjepankki.store
 toimistopalvelu.online
 toivapalvelut.online
 toivolapalvelut.net
@@ -4902,6 +4920,7 @@ uo-asiakas.com
 upcyclerhelsinki.com
 upeaasuomea.com
 upptackfinland.nu
+urasenke-finland.org
 urazinvacaturvalgus.cloud
 urbani-helsinki.com
 urheilubaarit-suomessa.com
@@ -5128,6 +5147,7 @@ vero-pack.com
 vero-paintings-prints.com
 vero-pkl.xyz
 vero-pomerleau.art
+vero-potenco.co.uk
 vero-potenco.com
 vero-potenco.org
 vero-praesentium.com
@@ -5361,6 +5381,7 @@ weallfinland.org
 webkirjaudu.site
 webmobilepay.com
 webpankkin.com
+webservicespankki.site
 webterveystalo.com
 wecoya-finland.com
 wellasiakashmir.com
