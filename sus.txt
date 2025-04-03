@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 02/04/2025 07:00 UTC
+# Last modified: 03/04/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -659,6 +659,8 @@ digivero-energy.de
 dininghelsinki.info
 discoverhelsinki.site
 diviestate.com
+djagencyfinland.com
+djagencyhelsinki.com
 djpalvelu.com
 dk-mobilepay.info
 dlr-huolto-ja-pesu.com
@@ -1965,6 +1967,7 @@ laserpalvelut.com
 laskuttaa-mobilepay.com
 laskutuspalvelufi.online
 laskutuspalvelut.net
+lasmi-helsinki.com
 lastenhoitopalvelupikkupanda.com
 lastenvaunut-suomi.shop
 laterveystalo.com
@@ -2730,6 +2733,7 @@ oma-podcast.de
 oma-posti-fi.com
 oma-posti.com
 oma-posti.site
+oma-psihoterapija.com
 oma-rapeti.com
 oma-rest.com
 oma-sabaslots.site
@@ -3343,7 +3347,9 @@ savutonsuomi.com
 sbxfinland.com
 sbxfinland.info
 sbxfinland.net
+sbxfinland.online
 sbxfinland.org
+sbxfinland.site
 sbxfinland.store
 schibsted-suomi.cfd
 scufferssuomi.com
@@ -3377,6 +3383,7 @@ setarehmasoumi.com
 sevenco-helsinki.com
 severisuominen.dev
 severisuominen.net
+severo-sarduy-foundation.com
 severo-utah.com
 sh-suomei.com
 sharviestate.com
@@ -3509,6 +3516,7 @@ soumiao.net
 soumiasfit.com
 soumiashop.com
 soumiatique.com
+soumiavoyage.com
 soumiayahiaoui.com
 soumic.com
 soumicosmetics.com
@@ -4264,6 +4272,7 @@ suomipelyt.com
 suomipickleball.com
 suomipictures.org
 suomipiha.com
+suomipirtti.org
 suomiply.com
 suomipnp.com
 suomiporno.top
@@ -4661,6 +4670,7 @@ thursday-boots-suomi.com
 thursdayboot-suomi.com
 thursdaybootsfinland.com
 thursdayfinland.com
+tiedonvalvonta.info
 tietokonehuolto.org
 tietopankki.com
 tietoturvapankki.com
@@ -5206,6 +5216,7 @@ vero-living.com
 vero-llc.com
 vero-luma.com
 vero-luxe.com
+vero-luxe.net
 vero-manager.site
 vero-manager2.com
 vero-media.net
