@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 03/04/2025 07:00 UTC
+# Last modified: 04/04/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -545,6 +545,7 @@ cremation-services-finland.bond
 cremationacwfinland.bond
 cremationgqafinland.bond
 crematrngqafinland.bond
+crownresortfinland.com
 croydoninsuomikoulu.org
 croydoninsuomikoulu.org.uk
 crpalvelut.com
@@ -974,6 +975,7 @@ fortuma.org
 fortuma.xyz
 fortumate.com
 fortumatic.com
+fortumbei.com
 fortumecoins.com
 fortumejack.com
 fortumfix.info
@@ -1065,7 +1067,13 @@ getworkinfinland.online
 getworkinfinland.store
 gewfinland.com
 ghdsuomi.com
+gigamobiili.app
 gigamobiili.com
+gigamobiili.help
+gigamobiili.info
+gigamobiili.org
+gigamobiili.support
+gigamobiili.tel
 gilvero-ailyn.site
 ginatricotsuomi.com
 giorgioarmanisuomi.com
@@ -1288,6 +1296,7 @@ helsinki-shledrc-acag.info
 helsinki-shledrc-acah.info
 helsinki-shledrc-acai.info
 helsinki-shledrc-acaj.info
+helsinki-shledrc-acak.info
 helsinki-shleprx-aaaa.info
 helsinki-shleprx-aaab.info
 helsinki-shleprx-aaac.info
@@ -1343,6 +1352,7 @@ helsinkibranding.com
 helsinkibtr.com
 helsinkibuses.com
 helsinkicab.com
+helsinkicards.com
 helsinkicarrental.com
 helsinkicasifreespins.click
 helsinkicasinonodeposit.click
@@ -1485,7 +1495,9 @@ highrollerfinland.net
 hillasuomi.com
 hinauspalvelu-moilanen.com
 hinku-ja-vinku-atk-palvelut.com
+hinterviesta.com
 hippuedunvalvonta.com
+hipshakershelsinki.com
 hirmuhenkilostopalvelu.com
 hirvasenitpalvelut.online
 histotripsyfortumors.com
@@ -1497,6 +1509,7 @@ hkfinland.co.uk
 hnnettisivupalvelu.com
 hnpfinland.info
 hoglsuomi.com
+hoitopalveluelohopia.com
 hoivapalvelut.net
 hoka-one-one-finland.com
 hoka-one-one-suomi.com
@@ -2409,6 +2422,7 @@ mobilepaymentsinsider.com
 mobilepaymentsolutions679508.icu
 mobilepayoneer.com
 mobilepayqr.dk
+mobilepaysea.com
 mobilepaysearch.online
 mobilepayservice.nu
 mobilepaysuomii-fi.com
@@ -2866,8 +2880,10 @@ osuuspankki-fi.com
 osuuspankki-fi1.com
 osuuspankki2.com
 osuusyrpankki.com
+oulunpintapalvelu.com
 ourfinland.com
 ourfinland.online
+ourhelsinkiflat.com
 outdoorsfinland.com
 owala-suomi.com
 owalasuomifi.com
@@ -2995,6 +3011,7 @@ pinkpalmpufffinland.com
 pinkpalmpuffsuomi.com
 pinocchiohelsinki.com
 pintahuolto.com
+pintapalvelu.com
 planfinland.info
 plangamesfinland.com
 playboy-finland.com
@@ -3100,6 +3117,7 @@ psgturva.com
 psgturva.site
 psuhholoogilineturvalisus.com
 psychedelicshopfinland.com
+psykoterapiajatyonohjauspalvelutmailiskarlsson.com
 ptr-autohuolto.com
 ptvfinland.com
 puffinland.net
@@ -3342,6 +3360,7 @@ saunas-finland-172191398.click
 saunofinland.com
 savon-dronepalvelut.com
 savondronepalvelut.com
+savottafinland.com
 savro-helsinki.com
 savutonsuomi.com
 sbxfinland.com
@@ -3654,6 +3673,7 @@ soumitra.link
 soumitrab.com
 soumitradey.com
 soumitrafurniture.com
+soumitrakanungo.com
 soumitrasaha.com
 soumitrasarkar.com
 soumitrasingha.com
@@ -3720,6 +3740,7 @@ ssl-omavero.com
 ssmfinland.art
 ssuomiibrilliantballs.com
 stair-lift-finland.bond
+standardfinland.com
 stanleycupfinland.com
 stanleyfinland.com
 stanleyssuomi.com
@@ -4245,6 +4266,7 @@ suomimeme.xyz
 suomimetalstar.com
 suomimilf.com
 suomimm.top
+suomimuoti.store
 suomimystica.com
 suomin.jp
 suominature.com
@@ -4805,6 +4827,7 @@ traficom-oyj.info
 traficom-palvelu.com
 traficom-virasto.com
 traficomaestro.com
+traficomagazine.com
 traficomin.com
 traficomkt.com
 traficomoy.com
@@ -5514,6 +5537,7 @@ www-posti-il.life
 www-posti-il.one
 www-posti-il.shop
 www-posti-il.xyz
+www-prettyupwithvero-inc.com
 www-sms-fi.site
 www-sms-suomi.site
 www-spankki.com
