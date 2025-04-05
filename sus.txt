@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 04/04/2025 07:00 UTC
+# Last modified: 05/04/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -454,6 +454,7 @@ cawfinland.info
 cbcafinland.com
 ccfinland.com
 cdtaoyj.com
+celestsuomi.com
 cellarhelsinki.com
 cemsclubhelsinki.com
 centrovero-suites.gr
@@ -742,6 +743,7 @@ ejdfinland.com
 ekoterveys.com
 eksklusiivisetsuomi.com
 elakkeela-smobiili.com
+elakkeela-spankkifi.com
 elakkeella-mobiili.com
 elakkeella-smobiilifi.com
 elakkeella-spanki.com
@@ -851,6 +853,7 @@ farmaseuttinen-pakkaus-tyopaikat.xyz
 fashionclub-helsinki.com
 fastbetfinland.com
 faxofferspankki.icu
+fcsmobilepay.com
 fearofgodessentialssuomi.com
 fecsuomi.com
 feeco-helsinki.com
@@ -1015,6 +1018,7 @@ frostyopalglow.store
 fruit-packaging-jobs-finland.today
 fruityfinland.com
 fssuomei.com
+fuelwoodfinland.com
 fufu4dhelsinki.xyz
 funeralillfinland.bond
 funeraljhbyquwqlifinland.bond
@@ -1067,10 +1071,12 @@ getworkinfinland.online
 getworkinfinland.store
 gewfinland.com
 ghdsuomi.com
+giga-mobiili.com
 gigamobiili.app
 gigamobiili.com
 gigamobiili.help
 gigamobiili.info
+gigamobiili.net
 gigamobiili.org
 gigamobiili.support
 gigamobiili.tel
@@ -1361,6 +1367,7 @@ helsinkicoffeeweeks.com
 helsinkicompany.com
 helsinkicrypto.com
 helsinkicurrent.com
+helsinkidailynews.com
 helsinkidancestudio.com
 helsinkidesignschool.net
 helsinkidigitalhouse.com
@@ -1371,6 +1378,7 @@ helsinkieast.aero
 helsinkieats.com
 helsinkiecho.com
 helsinkieconomy.com
+helsinkienglishmontessori.com
 helsinkiescort.com
 helsinkifestival.org
 helsinkiff.com
@@ -1494,6 +1502,7 @@ highrollerfinland.com
 highrollerfinland.net
 hillasuomi.com
 hinauspalvelu-moilanen.com
+hinauspalvelu.website
 hinku-ja-vinku-atk-palvelut.com
 hinterviesta.com
 hippuedunvalvonta.com
@@ -1756,6 +1765,7 @@ journeytofinland.xyz
 joustokeulahuolto.com
 joustokeulahuolto.store
 jpkviesta.com
+jsmokkihuolto.com
 juhasuomela.com
 juhla-palvelu.com
 julianusturvalisus.com
@@ -1773,6 +1783,8 @@ kachincommunityfinland.org
 kaitesifinland.com
 kaivinkonepalvelut.com
 kajfinland.info
+kamagra-finland247.store
+kamagra-suomi.store
 kampaamotsuomi.online
 kampanja-elakkeella-spankki.com
 kampanja-fi-mobiili.com
@@ -2520,6 +2532,7 @@ naluhelsinki.com
 nanorebarsoumian.com
 napapijri-finland.com
 napapijrifinland.com
+nappubgmobilepay.com
 narcotraficomx.com
 nassaustreetfinland.info
 nassoumi.com
@@ -2697,6 +2710,7 @@ oma-co.com
 oma-comunity.com
 oma-costruzioni.com
 oma-crm.com
+oma-electrical.com
 oma-ema.shop
 oma-email.site
 oma-emailing.site
@@ -2946,6 +2960,7 @@ parajumperstakkisuomi.xyz
 paras-lumenpoistopalvelu-suomi.today
 paras-suomi.com
 parassuomi.live
+parassuomilotto.live
 paremminsuomessa.net
 parhaat-ilman-rekisteroitymista.com
 parhaat-siivouspalvelut.bond
@@ -3140,6 +3155,7 @@ pureslimxsuomi.online
 putkipalvelujv.com
 puuhuolto.info
 puutarhapalvelut.com
+puutarhapalvelutaimi.com
 puutarhurin-tyopaikat.online
 puuturva.com
 pyrenexsuomi.com
@@ -3288,6 +3304,7 @@ s-pankki.store
 s-pankkielakella.com
 s-pankkielakkeella.com
 s-pankkiellakkeella.com
+s-pankkifi.com
 s-pankkifi.net
 s-pankkikampanja-fi.com
 s-pankkikampanjafi.com
@@ -4091,6 +4108,7 @@ suomi-viestit-fi.website
 suomi-viestit-osiossa.site
 suomi-viestit-osiossa.website
 suomi-viestits.site
+suomi-web-fi.sbs
 suomi-web.sbs
 suomi-wonderful.com
 suomi.email
@@ -5457,6 +5475,7 @@ vivobarefootoutletfinland.com
 vivobarefootsuomi-fi.com
 vivobarefootsuomi.com
 vivre-en-finlande.com
+vm-kotipalvelut.net
 vogelzubehor-suomi.shop
 voitapalvelu.xyz
 voiteluhuolto.com
@@ -5606,6 +5625,7 @@ xn--suomenyksityisetsivtoisto-3ec.com
 xn--tulkkaus-jaknnspalveluhatemelsayed-m4ca28d.com
 xn--turvakengt-y5a.com
 xn--tykonehuolto-5ib.com
+xn--tyterveysmeklari-nwb.com
 xn--tyturvakortti-jmb.com
 xn--tyturvakortti-jmb.online
 xn--tyturvallisuuskortti-49b.com
