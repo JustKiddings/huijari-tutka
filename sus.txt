@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 05/04/2025 07:00 UTC
+# Last modified: 06/04/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -40,6 +40,7 @@
 5suomietiao.vip
 7edgefinland.com
 7edgefinland.vip
+7kcasino-oyj.top
 7luckfinland.com
 91soumi.cn
 aamunkoihelsinki.com
@@ -603,6 +604,7 @@ delivero-ae-chocolatier.com
 delivero-ae-fix.com
 delivero-ae.com
 delivero-aee.com
+delivero-choco.com
 delivero-chocolatier.com
 delivero-fixae.com
 delivero-fixdessertchocolatier.com
@@ -809,6 +811,12 @@ esprit-finland.com
 esprit-suomi.com
 essentials-suomi.com
 essisuomi.shop
+essuomi.info
+essuomi.online
+essuomi.org
+essuomi.site
+essuomi.store
+essuomi.tech
 esteetonsuomi.com
 estonia-helsinki-rail-vacation.today
 ethereumfinland.xyz
@@ -821,6 +829,7 @@ etsisuomesta.com
 etsivapalvelu.com
 eucreafinland.org
 euranhuoltoasema.com
+eurosongfinland.com
 eusoumichaelldouglas.com.br
 eusoumidia.pt
 eusoumidiahub.com.br
@@ -828,6 +837,7 @@ eusoumilionario.site
 eusoumistica.com
 evero-concept.com
 evero-consulting.ch
+evero-consulting.com
 eviestate.online
 evufinland.work
 excavation3soumissions.com
@@ -1046,6 +1056,7 @@ gaborsuomi.com
 gaiascultsuomi.com
 galleria1981helsinki.com
 galleriakivipankki.com
+game-finland.com
 gameroomfinland.com
 gaminginfinland.com
 gantfinland.com
@@ -1783,7 +1794,9 @@ kachincommunityfinland.org
 kaitesifinland.com
 kaivinkonepalvelut.com
 kajfinland.info
+kamagra-finland247.com
 kamagra-finland247.store
+kamagra-suomi.com
 kamagra-suomi.store
 kampaamotsuomi.online
 kampanja-elakkeella-spankki.com
@@ -1853,6 +1866,7 @@ keensuomi.net
 kehonhuolto-jani-bergstrom.net
 kehonhuoltojopi.com
 kehystyspalvelunelilehti.com
+kekenhuolto.com
 kela-fi.top
 kela-finn.com
 kela-fl.com
@@ -2538,6 +2552,7 @@ nassaustreetfinland.info
 nassoumi.com
 nationalparksinfinland.com
 nattihelsinki.com
+naturewellbeingfinland.com
 naturovero-cuisine.fr
 naturva.co
 naturval.fr
@@ -2840,6 +2855,7 @@ oner-activefinland.com
 oneractivesuomi.net
 onjfinland.makeup
 online-bank-accounts-for-finland.today
+online-games-finland.com
 online-kirjaudu.sbs
 online-mobiili.com
 online-omakanta.com
@@ -3304,6 +3320,7 @@ s-pankki.store
 s-pankkielakella.com
 s-pankkielakkeella.com
 s-pankkiellakkeella.com
+s-pankkifi-mobiili.com
 s-pankkifi.com
 s-pankkifi.net
 s-pankkikampanja-fi.com
@@ -3497,6 +3514,7 @@ smobiilifi-kampanja.com
 smobiilifikampanja.com
 smobiilikammpanja.com
 smobiilispankki.com
+smobiilisuomifi.com
 smobiliilaafikirjaudu.com
 smokvapesuomi.net
 sms-saastopanki.site
@@ -3952,6 +3970,7 @@ suomenpah.com
 suomenpah.org
 suomenparhaatkohteet.com
 suomenparhaatlomat.com
+suomenparhaattapahtumat.site
 suomenparhaattarjoukset.online
 suomenparvekecenter.com
 suomenpelaaminen.com
@@ -4264,6 +4283,7 @@ suomileaniksi.com
 suomileikki.info
 suomilimoland.com
 suomilisenssi.net
+suomilisenssikasinot.com
 suomilocal.com
 suomilodges.com
 suomiloma.click
@@ -4591,6 +4611,7 @@ tarjousketsuomessa.website
 tarjousketsuomessa.world
 tarjousketsuomessa.xyz
 taschefinland.com
+tastesoffinland.com
 tattoohelsinki.com
 tawabilmaghniasoumicha.shop
 taxofferspankki.icu
@@ -4683,6 +4704,7 @@ terveystiedonabc.com
 terveysvaikutukset.com
 terveysvaikutukset.net
 terveysvaikutukset.org
+terveysviidakko.com
 terveysvirasto.com
 tesoumira.com
 testi-mobiilipunnitus.com
@@ -4893,6 +4915,7 @@ trkfinland.org
 truck-rental-helsinki-175745276.today
 truck-rental-helsinki-202450059.zone
 true-suomi.com
+tsoumisenterprises.com
 tsoutsoumida.com
 tsoutsoumida.net
 tsplus-finland.com
@@ -5530,9 +5553,11 @@ whshensuomen.com
 windowviesta.com
 wineroutefinland.com
 winforfinland.com
+winfried-fortum.com
 winnerzsuomi.com
 winzonefinland.com
 wkgfinland.info
+wlnner-finland.com
 wnpfinland.website
 wodka-finlandia.pl
 wolfhelsinki.com
@@ -5677,6 +5702,7 @@ yritystietoturva.com
 ysl-finland.com
 yslfinland.com
 ysuomic252.vip
+yukinosuomi.moe
 zaramekotsuomi.com
 zarkovsoumisky.com
 zartiquebysoumita.com
