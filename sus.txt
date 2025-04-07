@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 06/04/2025 07:00 UTC
+# Last modified: 07/04/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -199,6 +199,7 @@ asiakasmagneetti.com
 asiakasmestarit.com
 asiakaspalvelu-suomi.site
 asiakaspalvelu-uo.net
+asiakaspalvelunumero-yhteystiedot.com
 asiakaspalvelut-suomi.site
 asiakassivut.online
 asiakastarjous.com
@@ -411,6 +412,8 @@ business-consults-suomi.com
 businessmediafinland.com
 busrentalhelsinki.com
 buynothingfinland.com
+buynothingfinland.org
+buynothingsuomi.org
 buypsychedelicsfinland.com
 by-soumi.de
 bymalenebirgersuomi.com
@@ -556,6 +559,7 @@ cs2suomi.com
 cscfinland.com
 csuomeia.xyz
 ctheoxltdsuomensivuliike.com
+culturvalencia.com
 culturvalinteriors.shop
 culturvated.life
 culturvatedchef.com
@@ -811,7 +815,9 @@ esprit-finland.com
 esprit-suomi.com
 essentials-suomi.com
 essisuomi.shop
+essuomi.com
 essuomi.info
+essuomi.net
 essuomi.online
 essuomi.org
 essuomi.site
@@ -938,6 +944,7 @@ finplaysuomi.net
 finplaysuomiwin.com
 fintalksfinland.com
 finterveys.top
+finvero-pro.com
 finvero-ti.com
 finwinsuomi.com
 firapalvelut.com
@@ -1559,6 +1566,7 @@ hrxfinland.info
 hs-suomi.online
 hs-suomi.ru
 htifinland.com
+hturva.com
 hubaconhelsinki.com
 hubeconhelsinki.com
 hugo-boss-suomi.com
@@ -1888,6 +1896,7 @@ kiinteistopalvelu.net
 kiinteistopalvelui.icu
 kiinteistopalvelusason.com
 kiinteistoturvallisuus.com
+kiirjaudumobiiliipylafi.com
 kikin-sisallontuotantopalvelut.com
 kilpailutuspalvelu.com
 kinderautos-suomi.shop
@@ -2474,6 +2483,7 @@ mosaicfinland.com
 mosaviestate.com
 motelrocksfinland.com
 motivapesuomi.com
+movetofinland.co.uk
 movetofinland.com
 moviestash.click
 moviestash.net
@@ -2737,6 +2747,7 @@ oma-fi.site
 oma-fi.website
 oma-finland.site
 oma-finn.site
+oma-fitnes.com
 oma-foods.com
 oma-france.bio
 oma-germana.at
@@ -3226,6 +3237,7 @@ remonttimiespalvelut.online
 remulankiinteistojakotipalvelut.com
 rentedinfinland.com
 reppufinland.com
+residenssipalvelu.com
 reterveystalo.com
 returvaluta.com
 returvaluta.nu
@@ -3767,6 +3779,7 @@ sporttisuomi.site
 sportyfinland.com
 spr-turvapassi.com
 spr-turvapassi.net
+spybet-finland.com
 spyfilmfinland.com
 sqgfinland.info
 srmfinland.digital
@@ -3783,6 +3796,7 @@ stanleysuomi.com
 starburst-game-finland.site
 startupsuomi.org
 starzonefinland.net
+stayinfinland.com
 steelcraftfinland.com
 stefanini-finland.com
 stemitfinland.com
@@ -3805,6 +3819,7 @@ strandkleid-suomi.shop
 streetfoodfinland.com
 stsiivouspalvelut.com
 stu-ssyfinland.com
+studentfinland.com
 studioksoumine.sn
 studiomasoumi.com
 studiopuistohelsinki.com
@@ -4088,6 +4103,7 @@ suomi-info.sbs
 suomi-iptv.com
 suomi-iptv.shop
 suomi-kasino.info
+suomi-kasino.org
 suomi-kasinot.net
 suomi-kauppa.com
 suomi-kokemuksia.com
@@ -4267,6 +4283,7 @@ suomikasinoinfo.com
 suomikasinolista.com
 suomikasinonodeposit.click
 suomikasinot.biz
+suomikasinot.online
 suomikasinot2024.com
 suomikasinot365.com
 suomikasinothotels.com
@@ -4830,6 +4847,7 @@ trafcom-oyx.info
 trafcom-palvelu.com
 trafcom-virasto.com
 trafcomaksufin.com
+trafcomfi.com
 trafcomfi.info
 trafcomfin.info
 trafcomfinoy.info
@@ -4841,6 +4859,7 @@ trafcomflpal.com
 trafcominpalfi.com
 trafcomipalvfinr.com
 trafcommaksury.com
+trafcomoy.com
 trafcomoy.info
 trafcomoyfi.info
 trafcomoyj-fl.info
@@ -5081,6 +5100,7 @@ ushturvalapamyati.ru
 uudet-ilman-rekisteroitymista-fi.com
 uudet-ilman-rekisteroitymista.com
 uudetsuominettikasinot.com
+uusimaamuuttopalvelu.com
 uutisetsuomi.com
 uutisetsuomi.xyz
 uutisfinland.com
@@ -5125,6 +5145,7 @@ valintaopasfinland.com
 valipalvelu.com
 valipalvelu.net
 valkeakoskenkodinhoitopalvelut.com
+valmisturva.com
 valopilkkuhelsinki.com
 valopilkkuhelsinki.net
 valuthelsinki.com
@@ -5266,6 +5287,7 @@ vero-interactive.com
 vero-interiors.com
 vero-io.com
 vero-it.ru
+vero-jewelryshop.com
 vero-kart.shop
 vero-kebab.it
 vero-ksa.com
@@ -5309,6 +5331,7 @@ vero-potenco.com
 vero-potenco.org
 vero-praesentium.com
 vero-quibusdam.com
+vero-quintanar.online
 vero-quis.site
 vero-retouch.ru
 vero-ro.com
