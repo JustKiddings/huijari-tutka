@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 07/04/2025 07:00 UTC
+# Last modified: 08/04/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -203,6 +203,7 @@ asiakaspalvelunumero-yhteystiedot.com
 asiakaspalvelut-suomi.site
 asiakassivut.online
 asiakastarjous.com
+asiakastuki.site
 asiakasvelvollisuuslakien-fi.site
 asiakasvelvollisuuslakien-suomen.site
 asiakasvelvollisuuslakien-suomi-fi.site
@@ -310,6 +311,7 @@ bavero-group.ru
 bay-helsinki.com
 baymakantalya.com.tr
 bazargani-massoumi.com
+bccfinland.com
 bccsuomi.org
 bcsfinland.com
 be-vero-louange.com
@@ -688,6 +690,7 @@ dopesnowssuomi.com
 doucesoumission.com
 doucesoumission.pro
 draftsisusuomi.com
+dragonslotsfinland.com
 dram-suomi.com
 drfinland.com
 drinkanddrawhelsinki.com
@@ -758,6 +761,7 @@ elakkeella-spankki-mobiili.com
 elakkeella-spankki.com
 elakkeellafi-spankki.com
 elakkeellafimobiili.com
+elakkeellafimobiilispankki.com
 elakkeellamobiili-fi.com
 elakkeellamobiili.com
 elakkeellas-pankki.com
@@ -970,6 +974,8 @@ flyhelsinki.com
 fmoviesti.top
 fmsuomi.com
 folkfinland.com
+foodandfunfinland.com
+foodandfunhelsinki.com
 foodexfinland.com
 footurf-finland.com
 formulasoumilionaria.site
@@ -1451,6 +1457,7 @@ helsinkinoir.net
 helsinkinoko.com
 helsinkinotebooks.com
 helsinkioutletskechers.com
+helsinkipathfinder.com
 helsinkiperfumeclub.shop
 helsinkipersonaltrainer.com
 helsinkiphilharmonicorchestra.berlin
@@ -1476,6 +1483,7 @@ helsinkispirit-fi.com
 helsinkiswingbigband.com
 helsinkisymphonygrchestra.tech
 helsinkisymphonyorchestra.tech
+helsinkitap.com
 helsinkitechnology.com
 helsinkitechshow.com
 helsinkitimes.bet
@@ -2232,6 +2240,7 @@ matkahuolto.top
 matkahuoltoapp.com
 matkahuoltoo.com
 matsuomine.xyz
+mavero-re.org
 mavero-vault.com
 maviestilofeminino.online
 maviestilofeminino.store
@@ -3443,6 +3452,7 @@ senior-living-finland-yshkin.click
 sennheisersuomi.com
 sensoumingshuangxiaodatou.top
 seoulbbqhelsinki.shop
+sepa-finland-pay.com
 serenityopal.com
 setarehmasoumi.com
 sevenco-helsinki.com
@@ -3586,6 +3596,7 @@ soumiavoyage.com
 soumiayahiaoui.com
 soumic.com
 soumicosmetics.com
+soumidelrio.com
 soumidiaay.com
 soumidiaay.net
 soumidiaay.org
@@ -5344,6 +5355,7 @@ vero-sms.com
 vero-soluta.site
 vero-solutions.co.uk
 vero-soto.com
+vero-space.com
 vero-sport.com
 vero-sports.com
 vero-store.com
@@ -5381,6 +5393,7 @@ vero-wealth.com
 vero-well.com
 vero-wellness.com
 vero-x.com
+vero-xp.store
 vero-zone.store
 veroo-suomi.com
 veropalvelu-fi.info
