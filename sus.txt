@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 11/04/2025 07:00 UTC
+# Last modified: 12/04/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -861,6 +861,8 @@ evufinland.work
 excavation3soumissions.com
 excellenteventfinland.online
 exclusive-finland-vacation-packages.today
+experiencesuomi.com
+experiencesuomi247.com
 exploringfinland.com
 extremefinland.online
 eyeonfinland.com
@@ -1010,6 +1012,7 @@ fortuma.xyz
 fortumate.com
 fortumatic.com
 fortumbei.com
+fortumebuilders.com
 fortumecoins.com
 fortumejack.com
 fortumfix.info
@@ -1083,6 +1086,7 @@ gameroomfinland.com
 gaminginfinland.com
 gantfinland.com
 gantoutletsuomi.com
+gardenglow-suomi.com
 gatorade-suomi.com
 gatoradesuomi.com
 gdqfinland.wiki
@@ -1133,6 +1137,7 @@ goldstarmobilepay.xyz
 gollandsky-shturval.ru
 goodrsuomi.com
 goods-transport-finland-kh-en-4428410.world
+goodstufffinland.com
 gorewearsuomi.com
 goterveystalo.com
 gotourshelsinki.com
@@ -2064,6 +2069,7 @@ laviestat.online
 laviestat.ru
 laviestatcom.online
 laviestatcom.ru
+lavora-helsinki.com
 laya-helsinki.com
 lazura-helsinki.com
 leadsifyasiakas.com
@@ -2147,6 +2153,7 @@ lovana-helsinki.com
 lovehelsinki.com
 loveshackfancyfinland.com
 loviisansammutinhuolto.com
+lowellsuomi.net
 lskdsuomi.com
 ltp-siivouspalvelut.com
 lucas-suomela.com
@@ -2263,6 +2270,7 @@ matkahuolto-paketti-88604195.top
 matkahuolto-paketti-93740814.top
 matkahuolto-paketti-99153292.top
 matkahuolto-paketti.top
+matkahuolto.click
 matkahuolto.email
 matkahuolto.top
 matkahuoltoapp.com
@@ -2601,6 +2609,7 @@ nassaustreetfinland.info
 nassoumi.com
 nationalparksinfinland.com
 nattihelsinki.com
+nattihelsinki.store
 naturewellbeingfinland.com
 naturovero-cuisine.fr
 naturva.co
@@ -2687,6 +2696,7 @@ nikotiinipussit1.info
 nikotiinisakit.com
 nikotiinitori.com
 nikotiinivahvuuksiin.xyz
+nimipalvelu.mobi
 ninjasuomi.com
 ninkifinland.com
 nisantasiegitimkulturvakfi.online
@@ -2759,6 +2769,7 @@ oikeusturva.info
 oikeusturva.org
 oivalakipalvelu.com
 olegsuomi.com
+oma-academy.site
 oma-adimu.online
 oma-adriatic.com
 oma-ai.top
@@ -3000,6 +3011,7 @@ palvelualusta.com
 palveluasiakasnordeasuomi.online
 palveluhaukat.com
 palvelukanta.com
+palvelukeskusvaahtera.com
 palveluliikenne.com
 palvelun-suomi.site
 palveluonlinekanta.com
@@ -3016,6 +3028,7 @@ palveluviestit.com
 palveluvoittogroup.com
 palvelux.com
 palveluyhteydet-suomi.site
+panamajacksuomi.top
 pandorajewelryfinland.com
 panki-fi.site
 pankki.nl
@@ -3084,6 +3097,7 @@ pianonvirityshelsinki.com
 pianonvirityshelsinki.net
 pieceoffinland.com
 pihajahuolto.com
+piipansiivouspalvelut.com
 pikasuomi.com
 pikolionssuomi.com
 pikolionssuomiale.com
@@ -3614,6 +3628,7 @@ soumi-sports.com
 soumi.icu
 soumi.org
 soumi.xin
+soumiaasbaai.com
 soumiabeauty.com
 soumiabenchikh.com
 soumiabouamoud.com
@@ -4131,6 +4146,7 @@ suomi-app.com
 suomi-app.online
 suomi-app.store
 suomi-arvat.biz
+suomi-asekauppa.com
 suomi-bonus.online
 suomi-casino.online
 suomi-choose.com
@@ -4258,6 +4274,7 @@ suomicanta.com
 suomicare.com
 suomicasinoopas.com
 suomicasinosocial.com
+suomicelebrations.com
 suomichancehub.com
 suomichoices.com
 suomiclub.com
@@ -4460,6 +4477,7 @@ suomisilver.com
 suomisinkut.com
 suomisk8fam.net
 suomisk9.com
+suomismiles365.com
 suomisocialgame.com
 suomisocialkasinot.com
 suomisocials.com
@@ -5461,6 +5479,7 @@ verosa-suomi.com
 verosuomi.finance
 verotsuomessa.org
 verovero-creativestore.com
+vesistopalvelut.online
 vesiturvallisuus.com
 vessi-finland.com
 vessifinland.com
