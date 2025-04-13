@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 12/04/2025 07:00 UTC
+# Last modified: 13/04/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -902,6 +902,7 @@ fezbet-suomi.com
 fhqfinland.com
 fhxfinland.info
 fi-elisa.com
+fi-elkkeellaspankki.com
 fi-icebugsuomi.com
 fi-kampanja-mobiili.com
 fi-kampanja-spankki.com
@@ -923,6 +924,7 @@ fi-suomi.sbs
 fi-suomi.website
 fi-trafcom.info
 fi-tunnistus.homes
+fi-vahvistus.info
 fi-veropalvelu.info
 fi-viestit.info
 fi-viestit.site
@@ -1345,6 +1347,12 @@ helsinki-shledrc-acai.info
 helsinki-shledrc-acaj.info
 helsinki-shledrc-acak.info
 helsinki-shledrc-acal.info
+helsinki-shledrc-acam.info
+helsinki-shledrc-acan.info
+helsinki-shledrc-acao.info
+helsinki-shledrc-acap.info
+helsinki-shledrc-acaq.info
+helsinki-shledrc-acar.info
 helsinki-shleprx-aaaa.info
 helsinki-shleprx-aaab.info
 helsinki-shleprx-aaac.info
@@ -1396,6 +1404,7 @@ helsinkiapartments833119.icu
 helsinkiartservice.com
 helsinkibachatablast.com
 helsinkibiennale.com
+helsinkibiolabs.com
 helsinkiblog.com
 helsinkiboattours.com
 helsinkibot.com
@@ -2007,6 +2016,7 @@ kuittipalvelu.com
 kuljetuspalvelu.com
 kuljetuspalvelumiilumaki.com
 kuljetuspalvelut.net
+kultapalvelu.com
 kulturvakt.nu
 kulturvakti.online
 kumppanipalvelu.com
@@ -2769,6 +2779,7 @@ oikeusturva.info
 oikeusturva.org
 oivalakipalvelu.com
 olegsuomi.com
+oma-academy.com
 oma-academy.site
 oma-adimu.online
 oma-adriatic.com
@@ -3886,6 +3897,7 @@ streetfoodfinland.com
 stsiivouspalvelut.com
 stu-ssyfinland.com
 studentfinland.com
+studiohelsinki.com
 studioksoumine.sn
 studiomasoumi.com
 studiopuistohelsinki.com
@@ -4025,6 +4037,7 @@ suomenkasinotarjoukset.com
 suomenkasinothotellit.com
 suomenkattopinta.com
 suomenkellojakulta.com
+suomenkieliset-kasinot.com
 suomenkirjoja.com
 suomenkirkkoespanjassa.net
 suomenkoulupalvelu.com
@@ -4409,6 +4422,7 @@ suomingy.com
 suominope.online
 suominopea.com
 suominopeatpelit.com
+suominow.com
 suominu.com
 suominuevo.com
 suomiof.com
@@ -4875,6 +4889,7 @@ tokaifinland.com
 tokaifinland.online
 tokmannifinland.com
 tokomelisa.online
+tomisuomi.shop
 tommy-hilfiger-suomi.com
 tommyfinland.com
 tomoffinland.co.uk
@@ -5388,6 +5403,7 @@ vero-llc.com
 vero-luma.com
 vero-luxe.com
 vero-luxe.net
+vero-magni.com
 vero-manager.site
 vero-manager2.com
 vero-media.net
@@ -5479,6 +5495,7 @@ verosa-suomi.com
 verosuomi.finance
 verotsuomessa.org
 verovero-creativestore.com
+vesistopalvelut.com
 vesistopalvelut.online
 vesiturvallisuus.com
 vessi-finland.com
