@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 13/04/2025 07:00 UTC
+# Last modified: 14/04/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -263,10 +263,13 @@ avaa-pankkitili-netissa-2.online
 avaa-pankkitili-netissa-3.online
 avaa-pankkitili-netissa-4.online
 aveno-suomi.com
+avero-bistro.ru
 avero-california.com
 avero-cms.ru
 avero-group.com
+avero-mio.ru
 avero-mode.co.uk
+avero-rest.ru
 avero-review.com
 aviestas.com
 aviestas.site
@@ -782,6 +785,7 @@ eleppizpalvelut.info
 elfbarsuomi.net
 elfbarvapesuomi.com
 elisaviesta.com
+elkkeelaspankki-fi-kampanja.com
 elkkeella-spankki.com
 elkkeellas-pankki.com
 elmiestenlodgeensear.fun
@@ -983,6 +987,7 @@ flightclubfinland.com
 flightstofinland.com
 flirttisuomi.com
 flyhelsinki.com
+fmafinland.com
 fmoviesti.top
 fmsuomi.com
 folkfinland.com
@@ -1353,6 +1358,11 @@ helsinki-shledrc-acao.info
 helsinki-shledrc-acap.info
 helsinki-shledrc-acaq.info
 helsinki-shledrc-acar.info
+helsinki-shledrc-acas.info
+helsinki-shledrc-acat.info
+helsinki-shledrc-acau.info
+helsinki-shledrc-acav.info
+helsinki-shledrc-acaw.info
 helsinki-shleprx-aaaa.info
 helsinki-shleprx-aaab.info
 helsinki-shleprx-aaac.info
@@ -2242,6 +2252,7 @@ massimoduttifinland.com
 master-finland.com
 mastergastrofinland.com
 masterveyor.com
+mathlearning-helsinki00600.academy
 matkahuolto-maksu-fi.online
 matkahuolto-paketti-01807323.top
 matkahuolto-paketti-03705688.top
@@ -2454,6 +2465,7 @@ mobilepay.digital
 mobilepay.exchange
 mobilepay.help
 mobilepay.llc
+mobilepay.lol
 mobilepay.nu
 mobilepay.pro
 mobilepay.site
@@ -2712,6 +2724,7 @@ ninkifinland.com
 nisantasiegitimkulturvakfi.online
 nivakpankki.com
 nk-finland.com
+nlfinland.shop
 nnormalsuomi.com
 nnyfinland.bar
 no-bullsuomi.com
@@ -3327,6 +3340,7 @@ riippumatot-suomi.shop
 rintaliivitfinland.com
 ripndipsuomi-fi.com
 ristosisko-helsinki.com
+ritan-kauneuspalvelut.com
 riverislandsuomi.net
 rivero-automotive.se
 rivero-ayerza.com
@@ -3488,6 +3502,7 @@ sbxfinland.org
 sbxfinland.site
 sbxfinland.store
 schibsted-suomi.cfd
+schibsted-suomi.icu
 scufferssuomi.com
 sdsuomei.com
 search-for-ai-mental-testing-finland.today
@@ -3844,6 +3859,7 @@ spankkiweb.site
 spanx-suomi.com
 spectrmmobilepayment.com
 sperm-donation-finland-ok.today
+spicafinland.com
 spinandofinland.com
 spinesurgeryfinland.com
 spinesurgeryinfinland.com
@@ -3867,6 +3883,7 @@ ssuomiibrilliantballs.com
 stair-lift-finland.bond
 standardfinland.com
 stanleycupfinland.com
+stanleycupsfinland.com
 stanleyfinland.com
 stanleyssuomi.com
 stanleysuomi.com
@@ -3891,6 +3908,7 @@ stofixfinland.com
 stogasuomicsvamin.fun
 stonevegasfinland.com
 stradivariusfinland.com
+strafconsa.com
 strafconsulting.com
 strandkleid-suomi.shop
 streetfoodfinland.com
@@ -4444,6 +4462,7 @@ suomipirtti.org
 suomiply.com
 suomipnp.com
 suomiporno.top
+suomiportali.com
 suomipost.xyz
 suomipremiumhotelli.com
 suomipressu.com
@@ -4822,6 +4841,7 @@ tetsuomizu.com
 teviestates.com
 tezenis-finland.com
 tgsfinland.com
+thassoumi.dev
 thatsosuomi.com
 the-ghost-of-finland.com
 thealleyhelsinki.com
@@ -4881,6 +4901,7 @@ tnorthface-suomi.com
 todennusintrum.com
 todennusropo.com
 todennussuomi.com
+tof-palvelu.com
 toimenpideohjepankki.store
 toimistopalvelu.online
 toivapalvelut.online
@@ -5025,6 +5046,7 @@ travero-pm.com
 treffitsuomi.com
 treffitsuomi24.net
 triathlonshopfinland.com
+triinin-kotipalvelu.com
 trips2finland.com
 tripspellfinland.com
 trjspalvelutoy.com
@@ -5456,6 +5478,7 @@ vero-studios.com
 vero-suomi.com
 vero-suomi.sbs
 vero-sydney.com
+vero-synthai.fun
 vero-talent.com
 vero-tech.store
 vero-templates.online
@@ -5681,6 +5704,7 @@ westernfinland.com
 whdfinland.motorcycles
 whshensuomen.com
 whynetfinland.site
+wildberriesfinland.com
 windowviesta.com
 wineroutefinland.com
 winforfinland.com
@@ -5706,6 +5730,7 @@ www-elisa.site
 www-mobilepay.info
 www-op-fi.com
 www-panki-fi.site
+www-posti-fi.help
 www-posti-fi.top
 www-posti-il.icu
 www-posti-il.life
