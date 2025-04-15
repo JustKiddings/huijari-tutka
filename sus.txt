@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 14/04/2025 07:00 UTC
+# Last modified: 15/04/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -256,6 +256,7 @@ autolasipalvelu.net
 automavero.com
 automobiilio.com
 autonosiasuomi.com
+autopalvelukotkaoy.com
 autopalveluvuottolahti.com
 av-turva.com
 avaa-pankkitili-netissa-1.online
@@ -764,6 +765,7 @@ eksklusiivisetsuomi.com
 elakkee-mobiili-fi.com
 elakkeela-smobiili.com
 elakkeela-spankkifi.com
+elakkeella-mobiili-fi-spankki.com
 elakkeella-mobiili.com
 elakkeella-smobiilifi.com
 elakkeella-spanki.com
@@ -800,6 +802,7 @@ elviestate.com
 elviestate.ru
 emaldosuomi.com
 emilmasoumi.net
+emiratesmobilepay.com
 empmobilepay.com
 emrtalopalvelut.com
 emufinland.info
@@ -883,6 +886,7 @@ fanclubfinland.com
 fanclubsfinland.com
 fanipaitasuomi.com
 fansclubsfinland.com
+fantasiaurheilusuomi.com
 farmaseuttinen-pakkaus-tyopaikat.xyz
 fashionclub-helsinki.com
 fastbetfinland.com
@@ -994,6 +998,7 @@ folkfinland.com
 foodandfunfinland.com
 foodandfunhelsinki.com
 foodexfinland.com
+foodstopfinland.com
 footurf-finland.com
 formulasoumilionaria.site
 fortum-energia.online
@@ -1950,6 +1955,7 @@ kiinteistopalvelui.icu
 kiinteistopalvelusason.com
 kiinteistoturvallisuus.com
 kiirjaudumobiiliipylafi.com
+kiirjjaudumobiilipyla.com
 kikin-sisallontuotantopalvelut.com
 kilpailutuspalvelu.com
 kinderautos-suomi.shop
@@ -2242,6 +2248,7 @@ markiisipalvelu.com
 markkusuominen.net
 marmot-suomi-outlet.com
 marsvenuscoachingfinland.com
+masoumi-customs.com
 masoumiamlak.com
 masoumibrush.com
 masoumii.com
@@ -2588,6 +2595,7 @@ my-suomi.info
 my-suomifi.site
 my-viestit.site
 myomakantaa.com
+mypersonalsuomi.com
 mysoumi.com
 myspankki.com
 myspankki.shop
@@ -3154,6 +3162,8 @@ plinko-finland.com
 plinkofinland.com
 plitko-finland.com
 pod-finlandia.zgorzelec.pl
+podcastfinland.com
+podcastsuomi.com
 pohjois-suomenmessut.com
 pohjois-suomenmessut.net
 pointcloudfinland.com
@@ -3769,6 +3779,7 @@ soumissionmauricie.com
 soumissionnettoyage.com
 soumissionnon.ch
 soumissionprethypothecaire.com
+soumissionqc.com
 soumissionreno.com
 soumissionrenoplus.ca
 soumissionrenoplus.com
@@ -3791,6 +3802,7 @@ soumissionsmateriaux.ca
 soumissionsmenage.com
 soumissionspoutrelleschevrons.ca
 soumissionspro.com
+soumissionsqc.com
 soumissionsrefinancement.ca
 soumissionsrenoplus.com
 soumissionsrevetementinterieur.ca
@@ -4461,6 +4473,7 @@ suomipiha.com
 suomipirtti.org
 suomiply.com
 suomipnp.com
+suomipodcast.com
 suomiporno.top
 suomiportali.com
 suomipost.xyz
@@ -4605,6 +4618,7 @@ suomiurbanretreat.com
 suomiuu.top
 suomiuutiset.com
 suomivahvista.com
+suomivarastofi.bond
 suomivarmennus.com
 suomivarmista.info
 suomivedot.com
@@ -5054,6 +5068,7 @@ trkfinland.org
 truck-rental-helsinki-175745276.today
 truck-rental-helsinki-202450059.zone
 true-suomi.com
+trustmobilepay.com
 tsoumisenterprises.com
 tsoutsoumida.com
 tsoutsoumida.net
