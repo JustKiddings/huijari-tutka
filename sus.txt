@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 15/04/2025 07:00 UTC
+# Last modified: 16/04/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -722,6 +722,7 @@ drsoumitraghosh.in
 dsafinland.com
 duolifypalvelut.com
 duschzubehor-suomi.shop
+duviestates.com
 dwgfinland.com
 dxcfinland.info
 e-makantasis.com
@@ -778,6 +779,7 @@ elakkeellafimobiilispankki.com
 elakkeellamobiili-fi.com
 elakkeellamobiili.com
 elakkeellas-pankki.com
+elakkella-spankki-fimobiili.com
 elakkella-spankki.com
 elakkellaspankki.com
 elamyspalvelut.net
@@ -1368,6 +1370,9 @@ helsinki-shledrc-acat.info
 helsinki-shledrc-acau.info
 helsinki-shledrc-acav.info
 helsinki-shledrc-acaw.info
+helsinki-shledrc-acax.info
+helsinki-shledrc-acay.info
+helsinki-shledrc-acaz.info
 helsinki-shleprx-aaaa.info
 helsinki-shleprx-aaab.info
 helsinki-shleprx-aaac.info
@@ -2670,6 +2675,7 @@ nettisuomenspin.com
 nettiviesti.com
 new-offer-finland.com
 newbalance-suomi.com
+newbalancesuomi.net
 neweracap.com
 neweracapsuomi.com
 neweralippis.com
@@ -3378,6 +3384,7 @@ ruedxhelsinki.com
 rumienmiestenliitto.com
 ruoppaussuominen.com
 russellathleticsuomi.com
+rustsuomi.com
 rxjfinland.org
 ryosuuspankkifi.com
 s-kampanja-mobiili.com
@@ -3777,6 +3784,7 @@ soumissionhypothequeenligne.com
 soumissionimprimerie.com
 soumissionmauricie.com
 soumissionnettoyage.com
+soumissionnettoyageqc.com
 soumissionnon.ch
 soumissionprethypothecaire.com
 soumissionqc.com
@@ -4053,6 +4061,7 @@ suomenhuipputarjoukset.website
 suomenhuipputarjoukset.world
 suomenhuipputarjoukset.xyz
 suomenhuiput.com
+suomenhyvinvointitaivas.com
 suomenihmeet.com
 suomenkaihdin.com
 suomenkaihdincenter.com
@@ -5129,6 +5138,7 @@ turvallinenmatkapuhelin.com
 turvallinenmatkapuhelin.top
 turvallinensuomi.com
 turvallis.com
+turvallisemmin.com
 turvalliset-kasinot.com
 turvallisetlisensoimattomatkasinot.com
 turvallisetpikakasinot.com
@@ -5199,6 +5209,7 @@ ulosmittaus-asiakas.net
 ulpukanhuolto.shop
 ultrafcootball.shop
 umnasserfinland.edu.bh
+uniek-finland.com
 uniqlo-finland.com
 uniqlo-suomifi.com
 uniqloalesuomi.com
