@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 16/04/2025 07:00 UTC
+# Last modified: 17/04/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -325,6 +325,7 @@ bcsfinland.com
 be-vero-louange.com
 bearpawfinland.com
 beautyopa.com
+beautyopal.blog
 beautyopal.com
 beautyopathy.com
 beautysalonsaharmasoumi.com
@@ -644,6 +645,7 @@ deltafinland.com
 deltastateassociationfinland.com
 deluxhelsinki.com
 demoniacultssuomi.com
+demoniafinland.com
 demoniasuomi-fi.com
 demoniasuomifi.com
 demoteamfinland.com
@@ -722,6 +724,7 @@ drsoumitraghosh.in
 dsafinland.com
 duolifypalvelut.com
 duschzubehor-suomi.shop
+duviestates.co.uk
 duviestates.com
 dwgfinland.com
 dxcfinland.info
@@ -1373,6 +1376,7 @@ helsinki-shledrc-acaw.info
 helsinki-shledrc-acax.info
 helsinki-shledrc-acay.info
 helsinki-shledrc-acaz.info
+helsinki-shledrc-acba.info
 helsinki-shleprx-aaaa.info
 helsinki-shleprx-aaab.info
 helsinki-shleprx-aaac.info
@@ -1680,6 +1684,7 @@ ihnfinland.info
 ihor-finland.net
 iisiviisisuomi.com
 ikeasuomi.com
+ikkunahelsinki.org
 illustratedhelsinki.com
 ilmaisetpelitsuomi.site
 ilmajoenpyorahuolto.com
@@ -1800,6 +1805,7 @@ jackpot-finlands.cfd
 jackpot-finlands.cyou
 jackwolfskinsuomi.com
 jackwolfskinsuomi.shop
+jadorestudio-helsinki.com
 jahansanatmasoumi.com
 jalkapallosuomi.com
 jalmarinliikkuvapyorahuolto.com
@@ -2023,6 +2029,7 @@ korulippaat-suomi.shop
 kotiapupalvelu.online
 kotiapupalvelu.site
 kotipalvelunp.com
+kotipalvelunp.net
 koulutuspalvelut.com
 kpalvelusavo.com
 kpalvelusavo.net
@@ -2200,6 +2207,7 @@ lululemonsuomishop.com
 lulusuomi.net
 lumicasino-finland.com
 lumihelsinki.com
+lumivero-elc.app
 lumosfinland.com
 lunasandalssuomi.net
 luontoterveysmerkki.com
@@ -2272,6 +2280,7 @@ matkahuolto-paketti-10498143.top
 matkahuolto-paketti-11202885.top
 matkahuolto-paketti-11374544.top
 matkahuolto-paketti-11912994.top
+matkahuolto-paketti-15145572.top
 matkahuolto-paketti-16518475.top
 matkahuolto-paketti-17314553.top
 matkahuolto-paketti-17698858.top
@@ -2284,6 +2293,7 @@ matkahuolto-paketti-36239727.top
 matkahuolto-paketti-40790995.top
 matkahuolto-paketti-41926673.top
 matkahuolto-paketti-46727201.top
+matkahuolto-paketti-46790575.top
 matkahuolto-paketti-48786838.top
 matkahuolto-paketti-49440981.top
 matkahuolto-paketti-50533758.top
@@ -2413,6 +2423,7 @@ mizuno-suomi.com
 mizunoinsuomi.com
 mizunoshoessuomi.com
 mizunosuomishop.com
+mizunosuomistores.com
 mjmusoumini.com
 mjufinland.info
 mlhuolto.com
@@ -2693,6 +2704,7 @@ nicell-fortum.com
 nichehelsinki.com
 nieuwbouw-elisabeth.online
 nigeriafinland.com
+nightshiftfinland.com
 nike-finland.com
 nike-helsinki.com
 nikefinland.org
@@ -3072,6 +3084,7 @@ panki-fi.site
 pankki.nl
 pankkiasiakas.net
 pankkitalo.net
+pannkiifinland.shop
 panokavereita-helsinki.online
 panterahelsinki.com
 pantsuoffinland.cn
@@ -3728,6 +3741,7 @@ soumilll.com
 soumilm.xyz
 soumilsarkar.dev
 soumima.com
+soumimos.online
 souminas.com
 soumine.net
 soumine.ru
@@ -3746,6 +3760,7 @@ soumisa.com
 soumisastroworld.in
 soumisclasses.com
 soumise.org
+soumisepicofsilver.com
 soumiseroseblanche.blog
 soumisexxx.com
 soumisho.shop
@@ -3823,6 +3838,7 @@ soumissionthermopompe.net
 soumit.tech
 soumita.xyz
 soumitaddanki.com
+soumitaroy.com
 soumitasamanta.com
 soumitguha.com
 soumitr.com
@@ -3971,6 +3987,7 @@ suomehome.com
 suomei.art
 suomei.top
 suomeida.com
+suomeitu.com
 suomeiyuan.com
 suomeksi.net
 suomeksilightingroul.online
@@ -4005,6 +4022,7 @@ suomenfi.site
 suomeng.cc
 suomeng.lol
 suomeng.top
+suomeng.xyz
 suomengfm.com
 suomengummitehdas.com
 suomengummitehdas.net
@@ -4600,6 +4618,7 @@ suomitarjoukset.world
 suomitarjoukset.xyz
 suomiterapia.com
 suomiterapia.ru
+suomitest.xyz
 suomitieto.com
 suomitodennus.com
 suomitodennus.info
@@ -5698,6 +5717,7 @@ vrterveystalo.com
 vsmediafinland.com
 vsyrityspalvelu.com
 vsyrityspalvelu.info
+vulvahvisker.info
 vuohipalvelu.com
 vuokatintaxipalvelu.com
 vuolo-helsinki.com
@@ -5896,6 +5916,7 @@ zfwfinland.pro
 zgxoehardwpcaoyj.shop
 zhaosuoming.com
 zhhfinland.quest
+zhiviestate.ru
 zhusuomenchuang.com
 zigarrenschneider-suomi.shop
 zimplerkasinotsuomi.com
