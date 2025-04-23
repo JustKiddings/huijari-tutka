@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 22/04/2025 07:00 UTC
+# Last modified: 23/04/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -47,6 +47,7 @@
 a2zmobilepay.com
 aamunkoihelsinki.com
 aanekoskenhinauspalvelu.com
+abogadoaccidentestraficomataro.com
 abogadosaccidentestraficomadrid.com
 abogadostraficomalaga.es
 abrantus-suomi.com
@@ -99,6 +100,8 @@ ajankanssapalvelut.com
 ajanvaraus-palvelu.net
 ajkiinteistohuolto.com
 ajosuomi.com
+ajovarma-kirjaudu.com
+ajovarma-suomi.com
 akashviestate.com
 akashviestates.com
 akokaivopalvelut-1.online
@@ -460,6 +463,7 @@ casinonorthfinland.com
 casinosfinderssuomi.com
 casinosinfinland.com
 casinosuomi.click
+casinosuomi.net
 casinoswipersuomi.com
 casisuomi10.com
 castoresuomi.com
@@ -842,6 +846,7 @@ epicsuomi.com
 eqjfinland.info
 erc-severo-zapad.ru
 erfinland.shop
+erikoispalvelut.online
 eroasuomesta.com
 eroasuomesta.net
 eroasuomesta.org
@@ -1415,6 +1420,10 @@ helsinki-shledrc-acbg.info
 helsinki-shledrc-acbh.info
 helsinki-shledrc-acbi.info
 helsinki-shledrc-acbj.info
+helsinki-shledrc-acbk.info
+helsinki-shledrc-acbl.info
+helsinki-shledrc-acbm.info
+helsinki-shledrc-acbn.info
 helsinki-shleprx-aaaa.info
 helsinki-shleprx-aaab.info
 helsinki-shleprx-aaac.info
@@ -1968,6 +1977,7 @@ karshenasimasoumi.ir
 karttapalvelut.com
 kartyakevero-gep-az-en.shop
 kartyakevero-gep.shop
+kasiakasauli.com
 kasinoilmanrekisteroitymistajalisenssia.com
 kasinopankkitunnuksilla.com
 kasinot-ilman-rekisteroitymista.online
@@ -2348,6 +2358,7 @@ matkahuolto-paketti-30839559.top
 matkahuolto-paketti-33658490.top
 matkahuolto-paketti-36239727.top
 matkahuolto-paketti-40790995.top
+matkahuolto-paketti-41127967.top
 matkahuolto-paketti-41926673.top
 matkahuolto-paketti-46727201.top
 matkahuolto-paketti-46790575.top
@@ -2355,6 +2366,7 @@ matkahuolto-paketti-48786838.top
 matkahuolto-paketti-49440981.top
 matkahuolto-paketti-50533758.top
 matkahuolto-paketti-60684334.top
+matkahuolto-paketti-61765184.top
 matkahuolto-paketti-66334137.top
 matkahuolto-paketti-73474355.top
 matkahuolto-paketti-73716832.top
@@ -2499,6 +2511,7 @@ mobiili-elakkeella.com
 mobiili-fi-kampanja.com
 mobiili-fi-spankki.com
 mobiili-kammpanja-fi.com
+mobiili-kampanja-elakkeela.com
 mobiili-kampanja-finland.com
 mobiili-kampanja-pankki.com
 mobiili-kampanjas.com
@@ -2890,6 +2903,7 @@ oma-academy.com
 oma-academy.site
 oma-adimu.online
 oma-adriatic.com
+oma-ai.com
 oma-ai.top
 oma-arpa.com
 oma-arpa.net
@@ -3361,6 +3375,7 @@ pumasalesuomi.com
 pumastorefinland.com
 pumasuomi.com
 pumasuomiofficial.com
+puppiesyogahelsinki.com
 purchaseautomobilepaylater.today
 purebeautyfinland.com
 purefinland.info
@@ -3373,6 +3388,7 @@ puutarhapalvelutaimi.com
 puutarhurin-tyopaikat.online
 puuturva.com
 pyrenexsuomi.com
+pyro-helsinki.com
 qbdfinland.info
 qisuunnittelupalvelu.com
 qmfinland.shop
@@ -3415,6 +3431,7 @@ rdsiivouspalvelut.com
 rdstrsuomi.com
 realisointipalvelut.com
 rederihelsinki.com
+redsoumies.com
 redumbrellatourshelsinki.com
 redvalentinosuomi.com
 reflexions-echanges-insoumis.org
@@ -3509,6 +3526,7 @@ s-pankki-kampanja-fi.com
 s-pankki-kampanja-mobiili.com
 s-pankki-kampanja.com
 s-pankki-kampanjafi.com
+s-pankki-laina-ilman-luottotietoja.bond
 s-pankki-mobiili-fi.com
 s-pankki-mobiilifi.com
 s-pankki-paivita-asiakaspalvelu-fi-acess.ru
@@ -3556,6 +3574,7 @@ sahkopalvelutsalmi.com
 sailwind-finland.com
 saimaatravelfinland.com
 sainttropezsuomi.com
+sairaalapalvelutasda.top
 sajadmasoumi.com
 salamahuolto.com
 salomomhelsinki.com
@@ -3904,6 +3923,7 @@ soumissionsarmoiresdecuisine.ca
 soumissionsassurance.com
 soumissionsassurancevieenligne.com
 soumissionsceramique.ca
+soumissionscoffrage.com
 soumissionsconstructeurs.ca
 soumissionsebenisterie.ca
 soumissionsentretienmenager.ca
@@ -3935,6 +3955,7 @@ soumitr.com
 soumitra.fun
 soumitra.link
 soumitrab.com
+soumitrabhose.com
 soumitradey.com
 soumitrafurniture.com
 soumitrakanungo.com
@@ -3968,6 +3989,7 @@ spankki-fi-mobiili.com
 spankki-kampanjafi.com
 spankki-mobiili-fi.com
 spankki-mobiili-online.com
+spankki-s-mobile.com
 spankki-viestit.com
 spankki-viestit.net
 spankki-viestit.online
@@ -3976,6 +3998,7 @@ spankkielakeella.com
 spankkielakella.com
 spankkielakkeella-mobiili.com
 spankkielakkeella.com
+spankkific.com
 spankkikampanja-fi.com
 spankkimobiili-elakkeella.com
 spankkimobiili.online
@@ -4117,6 +4140,7 @@ suomeng.lol
 suomeng.top
 suomeng.xyz
 suomengfm.com
+suomengrup.org
 suomengummitehdas.com
 suomengummitehdas.net
 suomengwl.top
@@ -4215,6 +4239,7 @@ suomennuohoustarvike.com
 suomenonni.com
 suomenpah.com
 suomenpah.org
+suomenparhaatkasinot.net
 suomenparhaatkohteet.com
 suomenparhaatlomat.com
 suomenparhaattapahtumat.site
@@ -4392,6 +4417,7 @@ suomi.news
 suomi.nu
 suomi.onl
 suomi.pro
+suomi.style
 suomi.team
 suomi.tech
 suomi.uk
@@ -5065,6 +5091,7 @@ top10-ilman-rekisteroitymista.com
 top10-suomi.com
 top10suomi.education
 top10suomi2k.com
+topchurchfinland.org
 topkasinotsuomi.com
 topratedsuomi.com
 topsuomi.com
@@ -5329,6 +5356,7 @@ ulosmittaus-asiakas.net
 ulpukanhuolto.shop
 ultrafcootball.shop
 umnasserfinland.edu.bh
+unfinland.shop
 uniek-finland.com
 uniqlo-finland.com
 uniqlo-suomifi.com
@@ -5363,6 +5391,7 @@ urazinvacaturvalgus.cloud
 urbani-helsinki.com
 urheilubaarit-suomessa.com
 urheilusovelluksetsuomi.com
+urheiluviesti.com
 urviestate.com
 ushturvalapamyati.ru
 uudet-ilman-rekisteroitymista-fi.com
@@ -5566,6 +5595,7 @@ vero-labs.net
 vero-lammert.com
 vero-laudantium.site
 vero-lighting.com
+vero-line.store
 vero-live.com
 vero-living.com
 vero-living.store
@@ -5684,6 +5714,7 @@ victorias-secretsuomi.com
 victoriassecret-suomi.com
 videoconferencefinland.today
 videohelsinki.com
+videohuoltosfdfs.xyz
 vierellasihyvinvointipalvelut.com
 viesta-spankii.site
 viesta.info
