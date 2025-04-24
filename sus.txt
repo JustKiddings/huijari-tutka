@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 23/04/2025 07:00 UTC
+# Last modified: 24/04/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -6064,6 +6064,7 @@ zigarrenschneider-suomi.shop
 zimplerkasinotsuomi.com
 zkfinland.com
 zlwfinland.info
+zorada-helsinki.com
 zorello-suomi.com
 zrtfinland.org
 zuoyj.com
