@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 27/04/2025 07:00 UTC
+# Last modified: 28/04/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -532,6 +532,7 @@ clubhousegrillfinland.com
 cmihelsinki.org
 coachoutletsuomi.com
 coashopsuomis.com
+codewithsoumik.com
 cojeanvero-formation.com
 collaborativecaresystemsfinland.com
 colnmotionfinland.cloud
@@ -800,6 +801,7 @@ eksklusiivisetsuomi.com
 elakkee-mobiili-fi.com
 elakkeela-smobiili.com
 elakkeela-spankkifi.com
+elakkeelafispankki.com
 elakkeella-mobiili-fi-spankki.com
 elakkeella-mobiili.com
 elakkeella-smobiilifi.com
@@ -874,6 +876,7 @@ esport-suomi.com
 esprit-finland.com
 esprit-suomi.com
 essentials-suomi.com
+esseyyidabdulbakielhuseyniilimegitimvekulturvakfi.com
 essisuomi.shop
 essuomi.com
 essuomi.info
@@ -1177,6 +1180,8 @@ getworkinfinland.com
 getworkinfinland.online
 getworkinfinland.store
 gewfinland.com
+ggbet-finland.com
+ggbet-suomi.com
 ghdsuomi.com
 giga-mobiili.com
 gigamobiili.app
@@ -1454,6 +1459,8 @@ helsinki-shledrc-acbs.info
 helsinki-shledrc-acbt.info
 helsinki-shledrc-acbu.info
 helsinki-shledrc-acbv.info
+helsinki-shledrc-acbw.info
+helsinki-shledrc-acbx.info
 helsinki-shleprx-aaaa.info
 helsinki-shleprx-aaab.info
 helsinki-shleprx-aaac.info
@@ -1521,6 +1528,7 @@ helsinkicasifreespins.click
 helsinkicasinonodeposit.click
 helsinkicoach.com
 helsinkicoffeeweeks.com
+helsinkicommittee.org
 helsinkicompany.com
 helsinkicrypto.com
 helsinkicurrent.com
@@ -1570,6 +1578,7 @@ helsinkiijing.lol
 helsinkiinnova.com
 helsinkikasino.com
 helsinkiknifeshow.com
+helsinkikw.work
 helsinkilakimies.eu
 helsinkilegaltech.com
 helsinkilimo.info
@@ -1724,6 +1733,7 @@ hunajaasuomesta.com
 hunter-finland.com
 huntersuomi.shop
 huolto.app
+huolto.plus
 huoltoasennushellsten.com
 huoltohelppi.com
 huoltokanta.com
@@ -1766,6 +1776,7 @@ id-vahvistaa.info
 id-vahvistus.info
 identify-tunnistus.top
 idmobilepay.com
+igamingfinland.com
 igni-finland.casino
 ihnfinland.info
 ihor-finland.net
@@ -2172,6 +2183,7 @@ lacostenfinland.com
 ladore-helsinki.com
 laffinland.com
 lafranceinsoumise.vote
+lafranceinsoumise17.org
 laina-suomi.com
 lainaturva.com
 laine-helsinki.com
@@ -2825,6 +2837,7 @@ newrocksuomi.com
 newrsffinland.buzz
 newterveystalo.com
 nexafortum.com
+nexafortum.org
 nfcmobilepay.com
 ngnordicfinland.com
 ngvfinland.cam
@@ -3208,7 +3221,12 @@ palveluhaukat.com
 palvelukanta.com
 palvelukeskusvaahtera.com
 palveluliikenne.com
+palvelulink.com
+palvelulink.net
+palvelulinkki.com
+palvelulinkki.net
 palvelun-suomi.site
+palveluni.com
 palveluonlinekanta.com
 palvelupro.com
 palvelurakennetrauma.com
@@ -3296,6 +3314,7 @@ pieceoffinland.com
 pihajahuolto.com
 piipansiivouspalvelut.com
 pikasuomi.com
+pikoilnossuomi.com
 pikolionssuomi.com
 pikolionssuomiale.com
 pilarihelsinki.com
@@ -3523,6 +3542,7 @@ ridgidsuomi.com
 riekersuomi.com
 riippumatot-suomi.shop
 rintaliivitfinland.com
+ripa-rakennuspalvelut.com
 ripndipsuomi-fi.com
 ristosisko-helsinki.com
 ritan-kauneuspalvelut.com
@@ -3794,6 +3814,7 @@ skp-huolto.com
 skullring-suomi.shop
 skulpturen-suomi.shop
 slipperhelsinki.com
+slotsgemfinland.com
 slowtretyopa.com
 slowtretyopa.shop
 smart-mobilepay.com
@@ -4119,6 +4140,7 @@ steamacademyfinland.com
 steelcraftfinland.com
 stefanini-finland.com
 stemacademyfinland.com
+stemcellfinland.com
 stemcellfinland.vip
 stemitfinland.com
 stephiesuomiswashy.sbs
@@ -4535,6 +4557,7 @@ suomibetmaster.com
 suomibetsfi.com
 suomibettimaster.com
 suomibingo.com
+suomibox.com
 suomibrilliantballs.com
 suomica.ru
 suomicam.com
@@ -4994,6 +5017,7 @@ tbsuomi.com
 tdpfinland.autos
 team-finland.com
 team-kantals.xyz
+ted-baker-suomi.com
 tedbakerssuomi.com
 tedbakersuomi.com
 tedbakersuomi.shop
@@ -5884,6 +5908,7 @@ virtuaalinen-terveys-5.online
 virtuaalinen-terveys-6.online
 virtuaalinen-terveys-7.online
 virtuaalinen-terveys-8.online
+virtuaalinen-terveys-9.online
 virtuaalinen-terveys-fi.online
 virtuaalinen-terveys-fi5.online
 virtuaalinen-terveys-no-2.online
