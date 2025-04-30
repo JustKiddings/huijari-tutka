@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 29/04/2025 07:00 UTC
+# Last modified: 30/04/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -364,6 +364,7 @@ besthelsinkihotels.com
 bestinsuomi.com
 bestofsuomi2k.com
 bestonlinecasinofinland.com
+bestresortsinfinland.com
 bestsuomicasinos.com
 bestsuomis.com
 betalingsservice-mobilepay.com
@@ -1179,9 +1180,12 @@ getworkfinland.store
 getworkinfinland.com
 getworkinfinland.online
 getworkinfinland.store
+getyopaper.com
 gewfinland.com
 ggbet-finland.com
+ggbet-finland.net
 ggbet-suomi.com
+ggbett-finland.com
 ghdsuomi.com
 giga-mobiili.com
 gigamobiili.app
@@ -1461,6 +1465,13 @@ helsinki-shledrc-acbu.info
 helsinki-shledrc-acbv.info
 helsinki-shledrc-acbw.info
 helsinki-shledrc-acbx.info
+helsinki-shledrc-acby.info
+helsinki-shledrc-acbz.info
+helsinki-shledrc-acca.info
+helsinki-shledrc-accb.info
+helsinki-shledrc-accc.info
+helsinki-shledrc-accd.info
+helsinki-shledrc-acce.info
 helsinki-shleprx-aaaa.info
 helsinki-shleprx-aaab.info
 helsinki-shleprx-aaac.info
@@ -1557,6 +1568,7 @@ helsinkifilmmarket.online
 helsinkifinds.com
 helsinkifinland.buzz
 helsinkiflow.com
+helsinkifoodguide.com
 helsinkifreetour.online
 helsinkifun.com
 helsinkifunfest-ui16.top
@@ -1721,6 +1733,7 @@ hs-suomi.ru
 hstaxihelsinki.com
 htifinland.com
 hturva.com
+huanuoyj.com
 hubaconhelsinki.com
 hubeconhelsinki.com
 hugo-boss-suomi.com
@@ -1732,6 +1745,7 @@ humoazulvapesuomi.net
 hunajaasuomesta.com
 hunter-finland.com
 huntersuomi.shop
+huoleton-koirapalvelut.com
 huolto.app
 huolto.plus
 huoltoasennushellsten.com
@@ -1743,6 +1757,7 @@ huoltomaalaus.net
 huoltomiesovelle.com
 huoltopalvelutvepe.com
 huoltopistealhonen.com
+huoltoyhdistys.net
 huoltoyhtio.com
 hute-suomi.shop
 hwffinland.info
@@ -2837,7 +2852,9 @@ newrocksuomi.com
 newrsffinland.buzz
 newterveystalo.com
 nexafortum.com
+nexafortum.net
 nexafortum.org
+nexafortum.xyz
 nfcmobilepay.com
 ngnordicfinland.com
 ngvfinland.cam
@@ -2921,12 +2938,15 @@ norrahelsinki.com
 northfacesuomiale.com
 norway-sweden-finland-holiday-package.today
 noshit-nikotiinipussit.com
+nostojasiirtopalvelu.com
 notimobilepay.com
 nourixfinland.com
 nousuhelsinki.com
 novahelsinki.shop
 noveler-helsinki.com
 novellohelsinki.com
+novero-lamp.ru
+novero-lamp.store
 nrityopachara.com
 nshotelornfinland.com
 nsrfinland.coupons
@@ -4046,6 +4066,7 @@ soumitaddanki.com
 soumitaroy.com
 soumitasamanta.com
 soumitguha.com
+soumitiyu.com
 soumitr.com
 soumitra.fun
 soumitra.link
@@ -4563,14 +4584,17 @@ suomica.ru
 suomicam.com
 suomicanta.com
 suomicare.com
+suomicasino.org
 suomicasinoopas.com
 suomicasinosocial.com
+suomicbd.com
 suomicelebrations.com
 suomichancehub.com
 suomichoices.com
 suomiclub.com
 suomiclub.ru
 suomicoin.com
+suomicojp.com
 suomiconnect.site
 suomicorporation.com
 suomicosmetic.com
@@ -4753,6 +4777,7 @@ suomis.com
 suomis777.com
 suomisafaris.com
 suomisaunas.co
+suomisaundi.space
 suomisavvy.com
 suomiscene.org
 suomiscentcandle.com
@@ -5132,6 +5157,7 @@ thesuomiexperience.online
 thesuomiexperience.pics
 theterveystalo.com
 thewhalehelsinki.com
+thrakpalvelut.com
 thursday-boots-suomi.com
 thursdayboot-suomi.com
 thursdaybootsfinland.com
@@ -5419,6 +5445,7 @@ turvataksi.net
 turvatarvike.com
 turvataxi.com
 turvataxi.net
+turvatehno.net
 turvatekniikka.com
 turvatie.info
 turvatools.com
@@ -5636,6 +5663,7 @@ vero-backend.site
 vero-beach-south.web.id
 vero-beach.web.id
 vero-brew.com
+vero-byte.store
 vero-ca.com
 vero-ca.info
 vero-ca.net
@@ -5900,6 +5928,7 @@ vippsmobilepay.nu
 vippsmobilepay.org
 virelasuomi.com
 virikepalveluseija.pro
+virtuaalinen-terveys-0.online
 virtuaalinen-terveys-1.online
 virtuaalinen-terveys-2.online
 virtuaalinen-terveys-3.online
@@ -5917,7 +5946,9 @@ virtuaalinen-terveys.online
 virtuaaliset-terveyspalvelut.online
 virtuaalisuomi.com
 virtuaaliterveys.online
+visifinland.com
 visitahelsinki.online
+visuomis.com
 vitamiinipankki.online
 vittaro-helsinki.com
 vivahvishwakarma.com
@@ -6110,6 +6141,7 @@ xn--tyturvakortti-jmb.com
 xn--tyturvakortti-jmb.online
 xn--tyturvallisuuskortti-49b.com
 xn--tyturvallisuuskortti-49b.online
+xn--vartaakantalya-msb.com
 xn--vero-epa.com
 xn--vero-pg-zwa.com
 xn--vero-pivitt-q8afa.com
