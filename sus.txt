@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 30/04/2025 07:00 UTC
+# Last modified: 01/05/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -88,6 +88,7 @@ airjordans-suomi.com
 airjordansuomi.com
 airport-food-packaging-jobs-finland.today
 airtaxihelsinki.com
+airupfinland.net
 airupsuomi.top
 aischoolfinland.com
 aisuomi.com
@@ -1472,6 +1473,9 @@ helsinki-shledrc-accb.info
 helsinki-shledrc-accc.info
 helsinki-shledrc-accd.info
 helsinki-shledrc-acce.info
+helsinki-shledrc-accf.info
+helsinki-shledrc-accg.info
+helsinki-shledrc-acch.info
 helsinki-shleprx-aaaa.info
 helsinki-shleprx-aaab.info
 helsinki-shleprx-aaac.info
@@ -2169,6 +2173,7 @@ kpkoirapalvelu.com
 kpopfinland.app
 kremointipalvelut-suomessa.today
 kremointipalvelut.bond
+kriisiturva.se
 kryptomobilepay.com
 kryptosuomi.net
 ks-ohjelmapalvelut.net
@@ -2417,6 +2422,7 @@ mathlearning-helsinki00600.academy
 matkahuolto-maksu-fi.online
 matkahuolto-paketti-01807323.top
 matkahuolto-paketti-03705688.top
+matkahuolto-paketti-04473838.top
 matkahuolto-paketti-10498143.top
 matkahuolto-paketti-11202885.top
 matkahuolto-paketti-11374544.top
@@ -2439,6 +2445,7 @@ matkahuolto-paketti-46790575.top
 matkahuolto-paketti-48786838.top
 matkahuolto-paketti-49440981.top
 matkahuolto-paketti-50533758.top
+matkahuolto-paketti-58336317.top
 matkahuolto-paketti-60684334.top
 matkahuolto-paketti-61765184.top
 matkahuolto-paketti-66334137.top
@@ -3018,6 +3025,7 @@ oma-en-opa.nu
 oma-fi.com
 oma-fi.site
 oma-fi.website
+oma-ficken.net
 oma-finland.site
 oma-finn.site
 oma-fitnes.com
@@ -3569,6 +3577,7 @@ ritan-kauneuspalvelut.com
 riverislandsuomi.net
 rivero-automotive.se
 rivero-ayerza.com
+rivero-mebel.ru
 rivero-rp.space
 rivero-studios.com
 rmvfinland.lol
@@ -4079,6 +4088,7 @@ soumitrasaha.com
 soumitrasarkar.com
 soumitrasingha.com
 soumitravsathe.com
+soumitrawedspranjali.com
 soumitroy.com
 soumitukeaconnect.com
 soumivietnam.com
@@ -4586,6 +4596,7 @@ suomicanta.com
 suomicare.com
 suomicasino.org
 suomicasinoopas.com
+suomicasinos.online
 suomicasinosocial.com
 suomicbd.com
 suomicelebrations.com
@@ -5183,6 +5194,7 @@ tilipalvelu.net
 tilipalvelutalous360.com
 tilisuomi.com
 timberland-helsinki-outlet.com
+timberland-helsinki-outlet.pro
 timberland-suomi.net
 timberlandhelsinki.com
 timbuk2suomi.com
@@ -5572,6 +5584,7 @@ vahvistustransaktio.shop
 vaihdehuolto.nu
 vakantie-zweden-finland-reisblog.nl
 vakilmasoumi.com
+valdemarhelsinki.com
 valenclavero-portafolio.xyz
 valero-helsinki.com
 valestudiohelsinki.com
