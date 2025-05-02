@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 01/05/2025 07:00 UTC
+# Last modified: 02/05/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -354,6 +354,8 @@ belkinsuomi.com
 belleinsoumise.com
 belleviestationery.com
 beloylyhelsinki.com
+benoa-palvelut.com
+benoapalvelut.com
 benshermansuomi.com
 berlin-insoumise.org
 berry-helsinki.com
@@ -515,6 +517,7 @@ chatfinland.com
 chatsuomi.com
 chaturvate.cam
 cheap-flights-helsinki.xyz
+chicntrafco.run
 chillysfinland.com
 chillyssuomi.com
 chinamobilepayment.com
@@ -632,6 +635,7 @@ dcpfinland.com
 dcshoes-suomi.com
 dcshoessuomi-fi.com
 dcshoessuomifi.com
+dcshoesuomi.com
 ddpfinland.bond
 dds-masoumi.com
 deadlinehelsinki.com
@@ -729,6 +733,7 @@ donepalvelut.online
 dooronesuomi.com
 dope-finland.com
 dope-suomi.com
+dopefinland.com
 dopesnowssuomi.com
 doucesoumission.com
 doucesoumission.pro
@@ -1506,6 +1511,7 @@ helsinki.christmas
 helsinki.games
 helsinki.homes
 helsinki.lat
+helsinki.love
 helsinki.luxury
 helsinki.media
 helsinki.rent
@@ -2017,6 +2023,7 @@ kampanja-mobiilifi.com
 kampanja-s-pankkimobiili.com
 kampanja-spankki-fi.com
 kampanja-spankki-mobiili.com
+kampanja-spankki-mobillifi.com
 kampanja-spankkifi.com
 kampanjafi-mobilespankki.com
 kampanjamobiili-elakkeella.com
@@ -2173,6 +2180,7 @@ kpkoirapalvelu.com
 kpopfinland.app
 kremointipalvelut-suomessa.today
 kremointipalvelut.bond
+kriisiturva.com
 kriisiturva.se
 kryptomobilepay.com
 kryptosuomi.net
@@ -3073,8 +3081,10 @@ oma-posti.site
 oma-psihoterapija.com
 oma-rapeti.com
 oma-rest.com
+oma-s-house.blog
 oma-sabaslots.site
 oma-sage-landes.com
+oma-scp.com
 oma-seuranta.net
 oma-sexanzeigen.com
 oma-sextreffen.ch
@@ -3802,6 +3812,7 @@ sidisuomi.net
 siegelringe-suomi.shop
 siggsuomi.com
 siggsuomis.top
+siirtopalvelu.com
 siivousalan-tyopaikat.online
 siivouspalvelu24hr.com
 siivouspalvelukiille.com
@@ -4827,6 +4838,8 @@ suomispinit.com
 suomispinnas.com
 suomispinners.com
 suomispins.net
+suomisportshop.com
+suomisportsshop.com
 suomisportti.click
 suomisportti.club
 suomisportti365.click
@@ -5786,6 +5799,7 @@ vero-praesentium.com
 vero-quibusdam.com
 vero-quintanar.online
 vero-quis.site
+vero-reiki.com
 vero-retouch.ru
 vero-ro.com
 vero-roma.com
@@ -5824,6 +5838,7 @@ vero-valore.co.uk
 vero-valore.com
 vero-valore.fr
 vero-valore.uk
+vero-velo.com
 vero-vera.com
 vero-vero.art
 vero-veronpalautus.com
