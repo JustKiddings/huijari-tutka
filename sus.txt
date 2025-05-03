@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 02/05/2025 07:00 UTC
+# Last modified: 03/05/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -21,6 +21,7 @@
 2024-omavero.net
 2024-omavero.xyz
 22bit-finland.com
+22bitfinland.com
 23811helsinki.com
 24casino-suomi.com
 24casino-suomibonus.com
@@ -145,6 +146,7 @@ anadolukulturvakfi.net
 anaistentation.com
 andersfinland.com
 anfrapalvelut.com
+angelaviesti.com
 angoulemeinsoumise.fr
 aniaautopalvelu.com
 animaltourismfinland.com
@@ -180,6 +182,7 @@ aquilasuomi.online
 arakengatsuomi.com
 archiwumpanki.pl
 arcopedicosuomi.com
+arctic-helsinki.com
 arcticafinland.com
 arcusfinland.net
 arenasuomi-fi.com
@@ -2377,6 +2380,7 @@ luxury-finland-holiday-package-deals.xyz
 luxury777-helsinki.lat
 luzia-helsinki.com
 lxhfinland.com
+lyhytvideotpalvelu.com
 maalampohelsinki.com
 maalarihelsinki.com
 madeinfinland.cn
@@ -2711,6 +2715,7 @@ mobilepayments.site
 mobilepaymentsinsider.com
 mobilepaymentsolutions679508.icu
 mobilepayoneer.com
+mobilepayoutland.com
 mobilepayqr.dk
 mobilepaysea.com
 mobilepaysearch.online
@@ -2885,6 +2890,7 @@ nikefinland.org
 nikesportsuomis.com
 nikesuomi.com
 nikesuomi.net
+nikotiini-pussit.com
 nikotiininurkka.com
 nikotiinipussi.art
 nikotiinipussi.bio
@@ -2972,6 +2978,7 @@ nudiejeans-suomi.com
 nudiejeanshelsinki.com
 numobilepay.com
 nuohouspalvelu.com
+nuovafinland.com
 nuoyj.com
 nutraficorporate.com
 nutrihealthfinland.com
@@ -3698,6 +3705,7 @@ sahkopalvelu-vuori.com
 sahkopalvelutsalmi.com
 sailwind-finland.com
 saimaatravelfinland.com
+saimmobiilier.com
 sainttropezsuomi.com
 sairaalapalvelutasda.top
 sajadmasoumi.com
@@ -4110,6 +4118,7 @@ soundcorefinland.com
 soundcoresuomi.com
 sousoumi.gr
 sousuomi.com
+southern-finlands-156097653.click
 soviestates.com
 spadospaviestately.shop
 spalveluhatemelsayed.com
@@ -4282,6 +4291,7 @@ suomengfm.com
 suomengrup.org
 suomengummitehdas.com
 suomengummitehdas.net
+suomengvalve.com
 suomengwl.top
 suomenhallitus.com
 suomenhallitus.org
@@ -4459,6 +4469,7 @@ suomenvaltio.com
 suomenvaltio.org
 suomenvannekorjaus.com
 suomenvip.com
+suomenvoimaoljy.com
 suomenwh.com
 suomenyksityisetsivat.com
 suomenyritysrahoitus.com
@@ -4631,6 +4642,7 @@ suomideals.info
 suomidelivery.com
 suomidiilit.click
 suomidopesnowe.com
+suomidt.com
 suomielectric.bond
 suomielectric.today
 suomiensin.com
@@ -4769,6 +4781,7 @@ suomipiha.com
 suomipirtti.org
 suomiply.com
 suomipnp.com
+suomipod.store
 suomipodcast.com
 suomiporno.top
 suomiportali.com
@@ -4924,6 +4937,7 @@ suomivarastofi.bond
 suomivarmennus.com
 suomivarmista.info
 suomivedot.com
+suomivibes.com
 suomivibesonline.shop
 suomivictory24.com
 suomiviesta.info
@@ -5617,6 +5631,7 @@ valvonix.com
 valvontakamerat-design.shop
 valvontakamerat.shop
 valvonzandesk.com
+vanityopal.site
 vanlayhteys.com
 vanssuomi.com
 vapesuomi.com
