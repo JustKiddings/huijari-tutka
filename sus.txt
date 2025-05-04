@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 03/05/2025 07:00 UTC
+# Last modified: 04/05/2025 07:02 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -50,6 +50,7 @@ aamunkoihelsinki.com
 aanekoskenhinauspalvelu.com
 abogadoaccidentestraficomataro.com
 abogadosaccidentestraficomadrid.com
+abogadosaccidentestraficomalaga.com
 abogadostraficomalaga.es
 abrantus-suomi.com
 abritinhelsinki.com
@@ -244,6 +245,7 @@ assist-suomi.online
 assuranceviesoumissions.com
 asuomitv.com
 atakantaga.art
+atakantaktikal.com
 atelieriohaapalahelsinki.com
 ateljeehelsinki.com
 ateriapalvelu.com
@@ -371,6 +373,7 @@ bestinsuomi.com
 bestofsuomi2k.com
 bestonlinecasinofinland.com
 bestresortsinfinland.com
+beststaysfinland.com
 bestsuomicasinos.com
 bestsuomis.com
 betalingsservice-mobilepay.com
@@ -813,6 +816,7 @@ elakkeela-smobiili.com
 elakkeela-spankkifi.com
 elakkeelafispankki.com
 elakkeella-mobiili-fi-spankki.com
+elakkeella-mobiili-fi.com
 elakkeella-mobiili.com
 elakkeella-smobiilifi.com
 elakkeella-spanki.com
@@ -1245,6 +1249,7 @@ greenworkssuomi.com
 groominghelsinki.com
 guesssuomi.com
 guidesuomi.com
+gummyfortummy.com
 gunturvala.com
 guoyj.top
 gupiaoyj.cn
@@ -1484,6 +1489,15 @@ helsinki-shledrc-acce.info
 helsinki-shledrc-accf.info
 helsinki-shledrc-accg.info
 helsinki-shledrc-acch.info
+helsinki-shledrc-acci.info
+helsinki-shledrc-accj.info
+helsinki-shledrc-acck.info
+helsinki-shledrc-accl.info
+helsinki-shledrc-accm.info
+helsinki-shledrc-accn.info
+helsinki-shledrc-acco.info
+helsinki-shledrc-accp.info
+helsinki-shledrc-accq.info
 helsinki-shleprx-aaaa.info
 helsinki-shleprx-aaab.info
 helsinki-shleprx-aaac.info
@@ -1596,6 +1610,7 @@ helsinkiharps.com
 helsinkihorizon.com
 helsinkihorizoncompany.com
 helsinkihotelchoice.com
+helsinkihotelsguide.com
 helsinkihotelsonline.com
 helsinkihouse.cl
 helsinkihunt.xyz
@@ -1689,6 +1704,7 @@ hetkihelsinki.com
 hevospalveluvaisanen.com
 heyfinland.com
 heyhelsinki.com
+hhaoyj.sbs
 hi-elisa.com
 hi-helsinkicity.com
 hibachihelsinki.com
@@ -1732,6 +1748,7 @@ hoodrichsuomi.com
 hosfinland.buzz
 hotelhelsinki.net
 hotelhubsuomi.com
+hotelhuntfinland.com
 hotellihauskaasuomi.com
 hotellihelsinki.net
 hotellikasinosuomi.com
@@ -1745,6 +1762,8 @@ hs-suomi.online
 hs-suomi.ru
 hstaxihelsinki.com
 htifinland.com
+httpsoumission-couriters.com
+httpsoumissioncouriters.com
 hturva.com
 huanuoyj.com
 hubaconhelsinki.com
@@ -2320,6 +2339,7 @@ lmnt-suomi.com
 lmntsuomi.com
 loakefinland.com
 loan-in-finland.today
+lodgingfinland.com
 logicshelsinki.com
 logistics-finland-kh-7434042.world
 loimaanasuntopalvelu.com
@@ -2716,6 +2736,7 @@ mobilepaymentsinsider.com
 mobilepaymentsolutions679508.icu
 mobilepayoneer.com
 mobilepayoutland.com
+mobilepayoutrace.com
 mobilepayqr.dk
 mobilepaysea.com
 mobilepaysearch.online
@@ -2723,12 +2744,15 @@ mobilepayservice.nu
 mobilepaysuomii-fi.com
 mobilepaysuomii.com
 mobilepaysupport.com
+mobilepayto.info
 mobilepayverifydk.com
 mobilepaywalls.com
+mobilepaywo.info
 mobilitybedfinland.today
 mobillispankki.online
 mobilllepayylasuomii.com
 modavero-bucuresti.com
+modevohelsinki.com
 mohsenmasoumi.nl
 mohsenmasoumi.online
 moncler-suomi.com
@@ -2746,6 +2770,7 @@ motelrocksfinland.com
 motivapesuomi.com
 movetofinland.co.uk
 movetofinland.com
+moviesta.site
 moviestash.click
 moviestash.net
 moviestat.site
@@ -4186,7 +4211,9 @@ stanleysuomi.com
 starburst-game-finland.site
 startupsuomi.org
 starzonefinland.net
+stayfinderfinland.com
 stayinfinland.com
+staynordicfinland.com
 steamacademyfinland.com
 steelcraftfinland.com
 stefanini-finland.com
@@ -4748,6 +4775,7 @@ suomimeme.xyz
 suomimetalstar.com
 suomimilf.com
 suomimm.top
+suomimonky.com
 suomimuoti.store
 suomimystica.com
 suomin.jp
@@ -5820,6 +5848,7 @@ vero-ro.com
 vero-roma.com
 vero-sante-support.com
 vero-santiago.com
+vero-se.com
 vero-skin.com
 vero-smith.com
 vero-sms.com
