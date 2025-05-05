@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 04/05/2025 07:02 UTC
+# Last modified: 05/05/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -447,6 +447,7 @@ btrhelsinki.com
 bucketlistfinland.com
 buenaviesta.online
 buildabearsuomi.com
+buoyj.com
 burroughs-fortum.com
 business-consults-suomi.com
 businessmediafinland.com
@@ -559,6 +560,7 @@ comityopay.com
 comityopayment.com
 comly-helsinki.com
 comme-des-garconssuomi.com
+concresoumiixconcret.shop
 conference-hotel-helsinki-456239310.today
 confortuma-shop.com
 connecta-finland.com
@@ -1096,6 +1098,7 @@ fortumfix.info
 fortumfln.com
 fortumholdings.ltd
 fortumi.com
+fortumlab.com
 fortumnet.nu
 fortumon.com
 fortumopay.com
@@ -1134,6 +1137,7 @@ fsqfinland.boutique
 fssuomei.com
 fuelwoodfinland.com
 fufu4dhelsinki.xyz
+fullthrottlefinland.com
 funbuzzhctfinland.art
 funeralillfinland.bond
 funeraljhbyquwqlifinland.bond
@@ -1275,6 +1279,7 @@ happypalvelut.com
 happyworkplaces-finland.com
 harjunhyvinvointipalvelut.com
 harleydavidsonsuomi.com
+harlowmobilepay.info
 harpersbazaarfinland.com
 hatas-helsinki.com
 hatssoumi.site
@@ -2318,6 +2323,7 @@ limoservicefinland.com
 limoservicehelsinki.com
 liningsuomi.com
 linkmobilepay.com
+linsoumis-clothing.com
 linsoumis.com
 lionheartmoviestitlecontest.com
 littlehelsinki.com
@@ -2401,6 +2407,7 @@ luxury777-helsinki.lat
 luzia-helsinki.com
 lxhfinland.com
 lyhytvideotpalvelu.com
+lyvero-agency.com
 maalampohelsinki.com
 maalarihelsinki.com
 madeinfinland.cn
@@ -2546,6 +2553,7 @@ metalindustryfinland.com
 metasoumis.gr
 metsa-ja-luontopalvelut-tmi-tuire-holli.com
 metsapalvelu.net
+metsastyspalvelut.com
 mia-koutsoumidis.com
 micafinland.com
 michael-kors-suomi.com
@@ -3248,6 +3256,7 @@ ostaarekisteroityajokortti.com
 ostaatietokantojasuomi.com
 ostabentsodiatsepiinitsuomi.com
 osuus-pankki.com
+osuuspankin-op-fi-asiakaspalvelu-paivita-i.com
 osuuspankki-fi.com
 osuuspankki-fi1.com
 osuuspankki2.com
@@ -4175,6 +4184,7 @@ spankkimobiili-elakkeella.com
 spankkimobiili.online
 spankkimobiilifi.com
 spankkiraportti.site
+spankkitunnuslukutaulukolla-paivitys.com
 spankkiupdate.tech
 spankkiweb.site
 spanx-suomi.com
@@ -6158,6 +6168,7 @@ xinmiaoyj.com
 xkpfinland.work
 xml-finland.org
 xmnfinland.beauty
+xn--app-especialdevero-itb.online
 xn--autohuoltojyvskyl-2qbe.com
 xn--brisadovero-i8a.com
 xn--casinoilmansuomenlisenssi-9ec.com
