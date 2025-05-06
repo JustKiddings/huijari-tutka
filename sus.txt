@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 05/05/2025 07:00 UTC
+# Last modified: 06/05/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -127,6 +127,7 @@ allekirjoituspalvelu.net
 allhotelsuomi.com
 allsaintssuomi.net
 alltravelfinland.com
+allvero-sa.com
 allyspinsuomi.com
 almutraficom.com
 alohahelsinki.com
@@ -474,6 +475,7 @@ carcapsulefinland.com
 carpediemvero-24.com
 cartiersuomi.net
 casasuomi.com
+casavero-dubai.com
 casino-suomi.net
 casino360finland.com
 casinohelsinki.online
@@ -665,6 +667,7 @@ delivero-ae.com
 delivero-aee.com
 delivero-choco.com
 delivero-chocolatier.com
+delivero-delivery.business
 delivero-fixae.com
 delivero-fixdessertchocolatier.com
 delivero-fixdubaiae.com
@@ -801,6 +804,7 @@ edhelsinki.online
 educampfinland.com
 edufinland.cn
 edunvalvontavaltakirja.com
+edunvalvontavaltuutus.org
 edusparkfinland.com
 eevi-helsinki.com
 eflfinland.xyz
@@ -817,6 +821,7 @@ elakkee-mobiili-fi.com
 elakkeela-smobiili.com
 elakkeela-spankkifi.com
 elakkeelafispankki.com
+elakkeella-kampanja-spankki.com
 elakkeella-mobiili-fi-spankki.com
 elakkeella-mobiili-fi.com
 elakkeella-mobiili.com
@@ -1058,6 +1063,7 @@ flightclubfinland.com
 flightstofinland.com
 flirttisuomi.com
 flyhelsinki.com
+flyingdresshelsinki.com
 fmafinland.com
 fmoviesti.top
 fmsuomi.com
@@ -1664,6 +1670,7 @@ helsinkisaunaboats.com
 helsinkisecondhand.com
 helsinkisensualweekend.com
 helsinkislipper.com
+helsinkislotmuseum.com
 helsinkismuseum.com
 helsinkisolar.com
 helsinkispin.bet
@@ -2676,6 +2683,7 @@ mobilepay-kayttaja.com
 mobilepay-opdater.info
 mobilepay-opdatering.info
 mobilepay-opdatering.online
+mobilepay-order.ru
 mobilepay-qr.dk
 mobilepay.biz
 mobilepay.casino
@@ -2813,6 +2821,7 @@ my-suomen.site
 my-suomi.info
 my-suomifi.site
 my-viestit.site
+mydataturvatarkastus.com
 myomakantaa.com
 mypersonalsuomi.com
 mysoumi.com
@@ -3224,6 +3233,7 @@ onlyfanssuomi.com
 onpointsiivouspalvelut.com
 onrunnersfinland.com
 op-fi-asiakaspalvelu-paivita-omat-liil.com
+op-fi-verkkopalvel-asiakaspalvelu-paivita-lsii.com
 op-kirjaudu.com
 op-mobiili.net
 op-pankki.com
@@ -3470,6 +3480,9 @@ posturva.store
 potterhelsinki.com
 power-finland.com
 ppprojektipalvelu.com
+ppu-finland.com
+ppufinland.com
+ppusuomi.com
 pqpfinland.site
 pranasuomi.com
 precisionfinland.com
@@ -3896,6 +3909,7 @@ skp-huolto.com
 skullring-suomi.shop
 skulpturen-suomi.shop
 slipperhelsinki.com
+slotfinland.com
 slotsgemfinland.com
 slowtretyopa.com
 slowtretyopa.shop
@@ -4491,6 +4505,7 @@ suomentimanttipurku.com
 suomentimanttiurakointi.com
 suomentrade.com
 suomentravelbook.com
+suomenurheilu-uutiset.com
 suomenurheilu.com
 suomenuutiset.news
 suomenvaihtoautot.net
@@ -4731,6 +4746,7 @@ suomiibrilliantballs.com
 suomiifi.site
 suomiinline.com
 suomiinsights.com
+suomiiptv.forum
 suomiiptv.net
 suomijackpot365.com
 suomijordan.com
@@ -5566,6 +5582,7 @@ ulosmittaus-asiakas.net
 ulpukanhuolto.shop
 ultrafcootball.shop
 umnasserfinland.edu.bh
+uncoverfinland.com
 unfinland.shop
 uniek-finland.com
 uniqlo-finland.com
@@ -5582,6 +5599,7 @@ unisafinland.com
 unissuomi.com
 uniterveysohjelma.com
 univero-group.online
+universityofeasternfinland.org
 universoumi.com
 universoumisshymeternal.net
 unlimitedfinland.com
@@ -5814,6 +5832,7 @@ vero-lammert.com
 vero-laudantium.site
 vero-lighting.com
 vero-line.store
+vero-linguista.com
 vero-live.com
 vero-living.com
 vero-living.store
@@ -5856,6 +5875,7 @@ vero-reiki.com
 vero-retouch.ru
 vero-ro.com
 vero-roma.com
+vero-sa.com
 vero-sante-support.com
 vero-santiago.com
 vero-se.com
@@ -6087,6 +6107,7 @@ vuori-suomi.com
 vutfinland.today
 vv-autohuolto.com
 vvhuolto.online
+vyrehelsinki.com
 wajtoday365finland.com
 walkertapecofinland.com
 walkertapefinland.com
