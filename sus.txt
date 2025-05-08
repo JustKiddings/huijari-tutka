@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 07/05/2025 07:00 UTC
+# Last modified: 08/05/2025 07:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -1048,6 +1048,7 @@ finvero-x.com
 finwinsuomi.com
 firapalvelut.com
 firestonesuomi.com
+firola-helsinki.com
 fishingtripfinland.com
 fisuomi.site
 fisuominen24.buzz
@@ -1065,6 +1066,7 @@ flexpalvelut.com
 flightclubfinland.com
 flightstofinland.com
 flirttisuomi.com
+flowhelsinki.com
 flyhelsinki.com
 flyingdresshelsinki.com
 fmafinland.com
@@ -1427,6 +1429,9 @@ helsinki-pool-150964433.click
 helsinki-pool-339338448.click
 helsinki-pool-rental-353355716.live
 helsinki-pools.com
+helsinki-prxali-yakad.info
+helsinki-prxali-yakae.info
+helsinki-prxali-yakaf.info
 helsinki-risteily-tarjouksia.sbs
 helsinki-rome-train-tours-packages.today
 helsinki-rovaniemi-rail-vacations.today
@@ -3917,6 +3922,7 @@ skulpturen-suomi.shop
 slipperhelsinki.com
 slotfinland.com
 slotsgemfinland.com
+slotterfinland.com
 slowtretyopa.com
 slowtretyopa.shop
 smart-mobilepay.com
@@ -4704,6 +4710,7 @@ suomidelivery.com
 suomidiilit.click
 suomidopesnowe.com
 suomidt.com
+suomie.website
 suomielectric.bond
 suomielectric.today
 suomiensin.com
@@ -5035,6 +5042,7 @@ suupohjanosuuspankki.net
 suurisuomi.net
 suvereenisuomi.com
 suvinsiivouspalvelu.com
+suvinsiivouspalvelu.info
 svekkahelsinki.com
 svsfinland.info
 swan-helsinkiuni.net
@@ -6165,6 +6173,7 @@ workofsoumik.com
 worksfinland.com
 workshophelsinki.com
 wotofosuomi.com
+wowmobiilization.org
 wpsfinland.top
 wptafinland.com
 wulawulaoyj.com
