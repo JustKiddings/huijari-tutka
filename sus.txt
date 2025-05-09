@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 08/05/2025 07:01 UTC
+# Last modified: 09/05/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -127,6 +127,7 @@ allekirjoituspalvelu.com
 allekirjoituspalvelu.net
 allhotelsuomi.com
 allsaintssuomi.net
+allstarfinland.com
 alltravelfinland.com
 allvero-sa.com
 allyspinsuomi.com
@@ -1816,6 +1817,7 @@ hwffinland.info
 hxvfinland.info
 hydro-flask-suomi.com
 hydroflasksuomi.com
+hydroflasksuomi.net
 hydrogenfinland.com
 hyhfinland.info
 hyrfinland.world
@@ -1884,6 +1886,7 @@ inifinland.fun
 injfinland.mom
 inleifinland.ink
 inleifinland.pro
+inneralchemyfinland.com
 innoluxfinland.com
 innovatefinland.com
 insoumidating.com
@@ -1972,6 +1975,7 @@ iuoyj.icu
 ivcfinland.world
 ivero-moda.cz
 ivhuoltoht.com
+iwebprofinland.info
 ixjfinland.rocks
 iygfinland.cam
 jaahdytyspalvelu.com
@@ -2760,6 +2764,7 @@ mobilepayments.shop
 mobilepayments.site
 mobilepaymentsinsider.com
 mobilepaymentsolutions679508.icu
+mobilepaynow.com
 mobilepayoneer.com
 mobilepayoutland.com
 mobilepayoutrace.com
@@ -3064,6 +3069,7 @@ oma-academy.com
 oma-academy.site
 oma-adimu.online
 oma-adriatic.com
+oma-agentaccelerator.com
 oma-ai.com
 oma-ai.top
 oma-arpa.com
@@ -3358,6 +3364,7 @@ paras-lumenpoistopalvelu-suomi.today
 paras-suomi.com
 parassuomi.live
 parassuomilotto.live
+parastasuomeatarjousta.com
 paremminsuomessa.net
 parhaat-ilman-rekisteroitymista.com
 parhaat-siivouspalvelut.bond
@@ -3736,8 +3743,10 @@ s-pankkiellakkeella.com
 s-pankkifi-mobiili.com
 s-pankkifi.com
 s-pankkifi.net
+s-pankkii.com
 s-pankkikampanja-fi.com
 s-pankkikampanjafi.com
+s-pankkimobiili-fi-kampanja.com
 s-pankkimobiili-fi.com
 s-pankkimobiilifi.com
 s-pankkimobile.online
@@ -3925,6 +3934,8 @@ slotsgemfinland.com
 slotterfinland.com
 slowtretyopa.com
 slowtretyopa.shop
+slowtvfinland.com
+slowtvfinland.online
 smart-mobilepay.com
 smartdeals-finland.com
 smartdeals-suomi.com
@@ -4835,6 +4846,7 @@ suominu.com
 suominuevo.com
 suomiof.com
 suomiolut.com
+suomionline.casino
 suomionline.sbs
 suomiparaspaikat.com
 suomiparturit.com
@@ -5438,6 +5450,7 @@ transport-finland-logistics-812277433.today
 transport-offer-helsinki-696882235.live
 transport-services-finland-kh-fi-1418571.live
 transportrapidromania-finlanda.com
+transvero-solutions.com
 trap-star-suomi.com
 trap-starfinland.com
 trap-starsuomi.com
@@ -6048,6 +6061,7 @@ vippsmobilepay.nu
 vippsmobilepay.org
 virelasuomi.com
 virikepalveluseija.pro
+virtanenssuomi.com
 virtuaalinen-terveys-0.online
 virtuaalinen-terveys-1.online
 virtuaalinen-terveys-2.online
