@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 09/05/2025 07:00 UTC
+# Last modified: 10/05/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -393,6 +393,7 @@ bhcfinland.info
 bhelsinki.com
 bilgiegitimkulturvakfi.com
 bilgiegitimkulturvakfi.xyz
+bilgiegitimvekulturvakfi.com
 bilgiegitimvekulturvakfi.xyz
 bilimvekulturvak.net
 bimmerfinland.com
@@ -469,6 +470,7 @@ calzedoniafinland.com
 camelactivesuomi.com
 camelbak-suomi.com
 canadagoosesuomi.top
+cannabisfortumors.com
 caparolfinland.com
 carawayfinland.info
 carawayfinland.mobi
@@ -501,6 +503,7 @@ caterpliarssuomi.com
 catfinland.com
 catfootwear-suomi.com
 catskengatsuomi.com
+catsuomi.top
 caturva.org
 cawfinland.info
 cbcafinland.com
@@ -850,6 +853,7 @@ eleppizpalvelut.info
 elfbarsuomi.net
 elfbarvapesuomi.com
 elisaviesta.com
+elisaviesta.org
 elkkeelaspankki-fi-kampanja.com
 elkkeella-spankki.com
 elkkeellas-pankki.com
@@ -1068,6 +1072,7 @@ flightclubfinland.com
 flightstofinland.com
 flirttisuomi.com
 flowhelsinki.com
+flowproductionsfinland.com
 flyhelsinki.com
 flyingdresshelsinki.com
 fmafinland.com
@@ -1103,6 +1108,7 @@ fortuma.xyz
 fortumate.com
 fortumatic.com
 fortumbei.com
+fortumcorporation.com
 fortumebuilders.com
 fortumecoins.com
 fortumejack.com
@@ -1331,6 +1337,9 @@ helsinki-dire-xaad.info
 helsinki-dire-xaae.info
 helsinki-dire-xaaf.info
 helsinki-dmc.com
+helsinki-drc-dcraac.info
+helsinki-drc-dcraad.info
+helsinki-drc-dcraae.info
 helsinki-drec-abaa.info
 helsinki-drec-abab.info
 helsinki-drec-abac.info
@@ -2280,6 +2289,7 @@ lapinputkihuolto.net
 lapinputkihuolto.org
 laroza-helsinki.com
 laserpalvelut.com
+lasiturva.com
 laskuttaa-mobilepay.com
 laskutuspalvelu.io
 laskutuspalvelufi.online
@@ -2318,6 +2328,7 @@ lempisiivouspalvelu.com
 lemsfinland.com
 lemsfootwearfinland.com
 lemsshoessuomi.net
+lemssuomi.top
 lemurdesinsoumis.org
 lenkkaritfinland.com
 lentokenttahotellihelsinki.com
@@ -3219,6 +3230,7 @@ omaverotus.com
 omaverotus.finance
 omaveroxyfin.com
 omaveroyfix.com
+omelo-helsinki.com
 omenahuolto.com
 ompelimohelsinki.com
 onchainfinland.com
@@ -3523,6 +3535,7 @@ private-pool-helsinki-611389190.today
 private-pool-helsinki-827094178.today
 private-pool-helsinki-909412661.today
 privatlan-finland.bond
+pro-finland.top
 procurementlawyersfinland.com
 prodjfinland.com
 prodjfinland.org
@@ -4064,6 +4077,7 @@ soumine.net
 soumine.ru
 souminecraft.com
 soumineirouai.com.br
+soumingdan.com
 soumingzi.com
 souminhachefa.com
 souminhamaquiadora.com
@@ -4565,6 +4579,7 @@ suomi-app.online
 suomi-app.store
 suomi-arvat.biz
 suomi-asekauppa.com
+suomi-best-list.com
 suomi-bonus.online
 suomi-casino.online
 suomi-choose.com
@@ -4611,6 +4626,7 @@ suomi-poliisi.info
 suomi-porno.com
 suomi-pressu.com
 suomi-prh.com
+suomi-ratings.com
 suomi-rekisterointi.info
 suomi-select.com
 suomi-shop.ru
@@ -5495,6 +5511,7 @@ tukiyhteydet-suomi.site
 tukiyhteys-suomi.site
 tuninstus-kirjaudu.com
 tunnelmanhuolto.net
+tunnista.com
 tunnistaminen-fi.com
 tunnistasuomi.com
 tunnistasuomi.info
@@ -5709,6 +5726,7 @@ valkeakoskenkodinhoitopalvelut.com
 valmisturva.com
 valopilkkuhelsinki.com
 valopilkkuhelsinki.net
+valuefortummy.com
 valuthelsinki.com
 valvonacrolla-online.co.uk
 valvondan.com
@@ -5899,6 +5917,7 @@ vero-potenco.co.uk
 vero-potenco.com
 vero-potenco.org
 vero-praesentium.com
+vero-publishing.com
 vero-quibusdam.com
 vero-quintanar.online
 vero-quis.site
@@ -5939,6 +5958,7 @@ vero-trade.com
 vero-transcription.com
 vero-tw.cam
 vero-universal.com
+vero-urbannet.cloud
 vero-valore.co.uk
 vero-valore.com
 vero-valore.fr
@@ -6059,6 +6079,7 @@ vippsmobilepay.info
 vippsmobilepay.net
 vippsmobilepay.nu
 vippsmobilepay.org
+viralo-helsinki.com
 virelasuomi.com
 virikepalveluseija.pro
 virtanenssuomi.com
