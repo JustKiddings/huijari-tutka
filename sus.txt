@@ -1,7 +1,7 @@
 # Title Suomalaiset Valeverkkokaupat
 # Description: Lista, joka pyrkii estämään valeverkkokauppoja.
 # Homepage: https://github.com/Axonym/huijari-tutka
-# Last modified: 10/05/2025 07:00 UTC
+# Last modified: 11/05/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -467,6 +467,7 @@ bymalenebirgersuomi.com
 cacisuomi.com
 caffearomavero.com
 calzedoniafinland.com
+calzedoniafinland.top
 camelactivesuomi.com
 camelbak-suomi.com
 canadagoosesuomi.top
@@ -1340,6 +1341,11 @@ helsinki-dmc.com
 helsinki-drc-dcraac.info
 helsinki-drc-dcraad.info
 helsinki-drc-dcraae.info
+helsinki-drc-dcraaf.info
+helsinki-drc-dcraag.info
+helsinki-drc-dcraah.info
+helsinki-drc-dcraai.info
+helsinki-drc-dcraaj.info
 helsinki-drec-abaa.info
 helsinki-drec-abab.info
 helsinki-drec-abac.info
@@ -1348,6 +1354,7 @@ helsinki-fi.com
 helsinki-image.com
 helsinki-istanbul-train-tour-package.today
 helsinki-istanbul-train-tour-packages.today
+helsinki-kasino.com
 helsinki-lemonify-aaa.info
 helsinki-lemonify-aac.org
 helsinki-lmn-eaa.info
@@ -2388,6 +2395,7 @@ lomasuomi.click
 lomaterveys.com
 london-finland-train-holiday-deals-777.today
 london-finland-train-holiday-deals.today
+london-finland-train-tour-deals.sbs
 london-helsinki-train-holiday-deals.today
 long-champ-suomi.com
 long-champsuomi.com
@@ -2404,6 +2412,7 @@ lovana-helsinki.com
 lovehelsinki.com
 loveshackfancyfinland.com
 loviisansammutinhuolto.com
+lovilux-helsinki.com
 lowellsuomi.net
 lskdsuomi.com
 ltp-siivouspalvelut.com
@@ -3040,6 +3049,7 @@ nrityopachara.com
 nshotelornfinland.com
 nsrfinland.coupons
 nu-mobilepay.com
+nubollssuomi.com
 nudehelsinki.com
 nudeviesta.buzz
 nudiejeans-suomi.com
@@ -3138,6 +3148,7 @@ oma-mailing.site
 oma-massage.com
 oma-meccanica.com
 oma-mori.com
+oma-mori.net
 oma-mx.site
 oma-nappe.com
 oma-nuclear-power-plant-pointcloud.com
@@ -3370,6 +3381,7 @@ panokavereita-helsinki.online
 panterahelsinki.com
 pantsuoffinland.cn
 panttipankki.com
+papavero-restaurant.co.uk
 paperipankki.com
 parajumperstakkisuomi.xyz
 paras-lumenpoistopalvelu-suomi.today
@@ -3597,6 +3609,7 @@ qmfinland.shop
 qowfinland.mom
 qsfinland.com
 qtrfinland.net
+queertrailfinland.com
 quero-vero-preco-do-pneu.today
 quick-loan-for-you-finland.today
 raabersoumimok.ru
@@ -3632,6 +3645,7 @@ raycon-suomi.com
 rcepthelsinkisw.shop
 rdsiivouspalvelut.com
 rdstrsuomi.com
+realglowsautohuoltokorjaamo.com
 realisointipalvelut.com
 rederihelsinki.com
 redsoumies.com
@@ -3813,6 +3827,7 @@ sanuk-finland.com
 sanukfinland.com
 sanuksuomi-fi.com
 sanuksuomi.com
+sanviestates.com
 saoyj.sbs
 saramasoumi.com
 saspalvelut.com
@@ -4083,6 +4098,7 @@ souminhachefa.com
 souminhamaquiadora.com
 souminimenon.com
 souministerioinfantil.com.br
+souminivasan.com
 souminjud.com
 souminoon.net
 souminstitut.com
@@ -4285,6 +4301,7 @@ stemacademyfinland.com
 stemcellfinland.com
 stemcellfinland.vip
 stemitfinland.com
+stephenvalvonis.shop
 stephiesuomiswashy.sbs
 sterveys.com
 stevemaddeninsuomi.com
@@ -4911,6 +4928,8 @@ suomis777.com
 suomisafaris.com
 suomisaunas.co
 suomisaundi.space
+suomisaundi.store
+suomisaundi.studio
 suomisavvy.com
 suomiscene.org
 suomiscentcandle.com
@@ -6291,6 +6310,7 @@ xn--suomenetsivpalvelut-qwb.com
 xn--suomenhtvara-mcbb.com
 xn--suomenshkautohuolto-mwb49a.com
 xn--suomenshkautokorjaamo-c2b03b.com
+xn--suomentekolypalvelut-kzb.com
 xn--suomenyksityisetsivtoisto-3ec.com
 xn--tulkkaus-jaknnspalveluhatemelsayed-m4ca28d.com
 xn--turvakengt-y5a.com
@@ -6331,6 +6351,7 @@ yhteys.net
 yhteystiedotsuomi.com
 yiffinland.info
 yigitkulturvakfii.net
+yisuomiya.com
 yksityinen-allas-helsinki-240753774.today
 ylshensuomen.com
 ylwfinland.buzz
