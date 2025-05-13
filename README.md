@@ -1,4 +1,4 @@
-# Verkkokauppahuijaukset pois internetistä!
+# Huijaukset pois internetistä!
 
 Ota lista käyttöön uBlock Originissa importtaamalla alla oleva linkki.
 
