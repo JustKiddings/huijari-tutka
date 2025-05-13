@@ -2,4 +2,4 @@
 
 Ota lista käyttöön uBlock Originissa importtaamalla alla oleva linkki.
 
-```https://raw.githubusercontent.com/Axonym/huijari-tutka/main/sus.txt```
+```https://raw.githubusercontent.com/aptPatcher/huijari-tutka/main/sus.txt```
