@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 21/05/2025 07:00 UTC
+# Last modified: 22/05/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -108,6 +108,7 @@ aivoterveysmuotoilu.com
 ajankanssapalvelut.com
 ajanvaraus-palvelu.net
 ajkiinteistohuolto.com
+ajo-varmaoyj.com
 ajokoefinland.com
 ajosuomi.com
 ajovarma-kirjaudu.com
@@ -359,6 +360,7 @@ baymakantalya.com.tr
 bazargani-massoumi.com
 bccfinland.com
 bccsuomi.org
+bcgame-finland.com
 bcsfinland.com
 be-vero-louange.com
 bearpawfinland.com
@@ -1138,6 +1140,7 @@ fortuma.org
 fortuma.xyz
 fortumadncc.com
 fortumarket.com
+fortumars.com
 fortumate.com
 fortumatic.com
 fortumbei.com
@@ -1518,6 +1521,16 @@ helsinki-pools.com
 helsinki-prx-ksaac.info
 helsinki-prx-ksaad.info
 helsinki-prx-ksaae.info
+helsinki-prx-ksaaf.info
+helsinki-prx-ksaag.info
+helsinki-prx-ksaah.info
+helsinki-prx-ksaai.info
+helsinki-prx-ksaaj.info
+helsinki-prx-ksaak.info
+helsinki-prx-ksaal.info
+helsinki-prx-ksaam.info
+helsinki-prx-ksaan.info
+helsinki-prx-ksaao.info
 helsinki-prxali-yakad.info
 helsinki-prxali-yakae.info
 helsinki-prxali-yakaf.info
@@ -1673,6 +1686,8 @@ helsinkicards.com
 helsinkicarrental.com
 helsinkicasifreespins.click
 helsinkicasinonodeposit.click
+helsinkiclub.co.uk
+helsinkiclub.uk
 helsinkicoach.com
 helsinkicoffeeweeks.com
 helsinkicommittee.org
@@ -1966,6 +1981,7 @@ ilsejacobsensuomi.net
 ilsuomer.online
 ilsuomer.xyz
 iltaviesti.com
+immosenpyorahuolto.com
 imupalvelu.com
 inaoyj.info
 inarinkylmahuolto.com
@@ -2405,6 +2421,7 @@ laviestat.ru
 laviestatcom.online
 laviestatcom.ru
 lavora-helsinki.com
+lawyerfinland.com
 laya-helsinki.com
 lazura-helsinki.com
 leadsifyasiakas.com
@@ -2593,6 +2610,7 @@ matkahuolto-maksu-fi.online
 matkahuolto-paketti-01807323.top
 matkahuolto-paketti-03705688.top
 matkahuolto-paketti-04473838.top
+matkahuolto-paketti-07875025.top
 matkahuolto-paketti-10498143.top
 matkahuolto-paketti-11202885.top
 matkahuolto-paketti-11374544.top
@@ -2623,6 +2641,7 @@ matkahuolto-paketti-73474355.top
 matkahuolto-paketti-73716832.top
 matkahuolto-paketti-73750867.top
 matkahuolto-paketti-76254522.top
+matkahuolto-paketti-78259403.top
 matkahuolto-paketti-78324915.top
 matkahuolto-paketti-79432435.top
 matkahuolto-paketti-81195262.top
@@ -2682,6 +2701,7 @@ merryhelsinki.com
 merzbschwanensuomi.com
 mesiade-suomi.com
 mestaripalvelut.com
+meta-vahvista.click
 metalindustryfinland.com
 metasoumis.gr
 metsa-ja-luontopalvelut-tmi-tuire-holli.com
@@ -3366,6 +3386,7 @@ one-mobilepayments.online
 oneillsuomi.com
 oner-activefinland.com
 oneractivesuomi.net
+onilne-s-pankki-fi.com
 onjfinland.makeup
 online-bank-accounts-for-finland.today
 online-games-finland.com
@@ -3398,6 +3419,7 @@ op-pankki.com
 op-suomi-fi.com
 op-tiliturva.com
 op-turva.com
+op-turva.finance
 op-turvattu.com
 opanki.com
 openstagefinland.com
@@ -3504,6 +3526,7 @@ pantsuoffinland.cn
 panttipankki.com
 papavero-restaurant.co.uk
 paperipankki.com
+paradoxfinland.sbs
 parajumperstakkisuomi.xyz
 paras-lumenpoistopalvelu-suomi.today
 paras-suomi.com
@@ -4286,6 +4309,7 @@ soumissionassurance.online
 soumissionassuranceauto.com
 soumissionassurancecollective.com
 soumissionassuranceviesansexamenmedical.com
+soumissionassuredirect.com
 soumissioncarrelage.com
 soumissionclimatisation.com
 soumissioncomptable.com
@@ -4346,6 +4370,7 @@ soumissionthermopompe.net
 soumist.com
 soumit.tech
 soumita.xyz
+soumitabhattacharyasen.com
 soumitaddanki.com
 soumitaroy.com
 soumitasamanta.com
@@ -5449,6 +5474,7 @@ terveystalomedia.com
 terveystaloo.com
 terveystaloofi.com
 terveystaloonline.com
+terveystaloonline.net
 terveystalooy.com
 terveystalooy.info
 terveystalooyj.com
@@ -5748,7 +5774,9 @@ turunkattohuolto.com
 turunmuuttopalvelu.com
 turva.net
 turva.pro
+turva.ru
 turva.sbs
+turva.store
 turvaasiakasfi.com
 turvakaitse.ee
 turvakast.info
