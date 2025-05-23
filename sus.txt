@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 22/05/2025 07:00 UTC
+# Last modified: 23/05/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -141,6 +141,7 @@ alltravelfinland.com
 allvero-sa.com
 allyspinsuomi.com
 almutraficom.com
+aloeverasuomi.com
 alohahelsinki.com
 alosuomi.com
 alurahelsinkishop.com
@@ -555,6 +556,7 @@ chatsuomi.com
 chaturvate.cam
 cheap-flights-helsinki.xyz
 chicntrafco.run
+chillstayfinland.com
 chillysfinland.com
 chillyssuomi.com
 chinamobilepayment.com
@@ -1637,6 +1639,7 @@ helsinki-swimming-725325571.click
 helsinki-swimming-907380973.click
 helsinki-swimming-pool-325513898.today
 helsinki-talvella.com
+helsinki-topcasino.com
 helsinki-tours.com
 helsinki-truck-517334517.click
 helsinki-ui9.xyz
@@ -1669,6 +1672,7 @@ helsinkiairport.rocks
 helsinkiairporttaxitransfers.com
 helsinkiaitio.com
 helsinkialvar.online
+helsinkiapartment.com
 helsinkiapartments166494.icu
 helsinkiapartments833119.icu
 helsinkiartservice.com
@@ -1692,6 +1696,7 @@ helsinkicoach.com
 helsinkicoffeeweeks.com
 helsinkicommittee.org
 helsinkicompany.com
+helsinkiconference.com
 helsinkicrypto.com
 helsinkicurrent.com
 helsinkidailynews.com
@@ -2215,6 +2220,7 @@ karttapalvelut.com
 kartyakevero-gep-az-en.shop
 kartyakevero-gep.shop
 kasiakasauli.com
+kasino-helsinki.com
 kasinoilmanrekisteroitymistajalisenssia.com
 kasinopankkitunnuksilla.com
 kasinot-ilman-rekisteroitymista.online
@@ -2702,6 +2708,7 @@ merzbschwanensuomi.com
 mesiade-suomi.com
 mestaripalvelut.com
 meta-vahvista.click
+meta-vahvista515725.click
 metalindustryfinland.com
 metasoumis.gr
 metsa-ja-luontopalvelut-tmi-tuire-holli.com
@@ -2911,6 +2918,7 @@ mobilepayservice.nu
 mobilepaysuomii-fi.com
 mobilepaysuomii.com
 mobilepaysupport.com
+mobilepaytakht.com
 mobilepayto.info
 mobilepayverifydk.com
 mobilepaywalls.com
@@ -3563,6 +3571,8 @@ penfieldsuomi.com
 pensionfinland.buzz
 peppermayosuomi.com
 perdavvero-lab.it
+perhepalvelutruori.com
+perhepalvelutruori.net
 perintapalvelu.net
 perlenarmband-suomi.shop
 persevero-watches.com
@@ -3631,6 +3641,7 @@ pohjois-suomenmessut.com
 pohjois-suomenmessut.net
 pointcloudfinland.com
 pokerhandsfinland.com
+polarpathfinland.com
 polenebagssuomi.com
 polenefinland.com
 polenessuomi.com
@@ -4817,6 +4828,7 @@ suomi-iptv.com
 suomi-iptv.shop
 suomi-kanta.com
 suomi-kantafi.com
+suomi-kantaon.com
 suomi-kantas.com
 suomi-kasino.info
 suomi-kasino.org
@@ -5002,6 +5014,7 @@ suomiguide.com
 suomihauskapeli.site
 suomiherald.com
 suomihillsflowerfarm.com
+suomihotellit.com
 suomihotelsfinder.com
 suomii-fi.com
 suomiibrilliantballs.com
@@ -5057,6 +5070,7 @@ suomiluotettavuus.com
 suomiluxhotelli.com
 suomiluxuskasino.com
 suomimarkkinointi.com
+suomimasters.com
 suomimax.com
 suomimed.com
 suomimeme.xyz
@@ -5592,6 +5606,7 @@ top10-suomi.com
 top10nettikasinotsuomi.com
 top10suomi.education
 top10suomi2k.com
+topcasino-helsinki.com
 topchurchfinland.org
 topkasinotsuomi.com
 topratedsuomi.com
@@ -5710,6 +5725,7 @@ trapstarsuomi.shop
 trapstarsuomifi.com
 trapstartracksuitsfinland.com
 trapstartracksuitsuomi.com
+traumanvaikutuksetaivoterveyteen.com
 travelekstrafinland.com
 travelexpertgroupfinland.com
 travelfinland.net
@@ -5812,6 +5828,7 @@ turvallisuusvarma.com
 turvalo.com
 turvalokero.com
 turvalty.com
+turvapaikkafin.com
 turvapassi.com
 turvapassi.net
 turvapilvi.lol
@@ -5997,6 +6014,7 @@ veiikvapesuomi.com
 veja-suomi.com
 vejafinland.com
 vejasrunningsuomi.com
+vejasuomi-fi.shop
 vejasuomi-fi.top
 velarahelsinki.com
 velkapalvelu.com
@@ -6510,6 +6528,7 @@ xn--desafiodevero-7eb.site
 xn--erpalvelukontiometso-czb.com
 xn--esteetnsuomi-9ib.com
 xn--etsivpalvelut-ffb.com
+xn--evecavero-revlut-09d.com
 xn--fortumvrme-w5a.nu
 xn--heikkil-helsinki-1nb.com
 xn--huoltoss-5zac.com
@@ -6604,6 +6623,7 @@ your-instant-loan-for-you-finland.xyz
 yourtraveltofinland.com
 yoyaku-kantan.com
 yrityksen-allasvuokraus-helsinki-316889966.today
+yrityksenpalvelut.com
 yrityksessuomessa.org
 yritys-spankifinl-tunnistautuminentale.info
 yritys-spankifinl-tunnistautuminentale.online
@@ -6636,6 +6656,7 @@ zimplerkasinotsuomi.com
 zkfinland.com
 zkvfinland.com
 zlwfinland.info
+zooyj.cyou
 zorada-helsinki.com
 zorello-suomi.com
 zrtfinland.org
