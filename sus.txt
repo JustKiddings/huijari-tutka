@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 24/05/2025 07:00 UTC
+# Last modified: 25/05/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -238,6 +238,7 @@ asiakaspalvelut-suomi.site
 asiakaspalveluyhteystiedot.com
 asiakassivut.online
 asiakastarjous.com
+asiakastuki.icu
 asiakastuki.site
 asiakasvelvollisuuslakien-fi.site
 asiakasvelvollisuuslakien-suomen.site
@@ -354,6 +355,7 @@ barsoumiandesign.com
 base64finland.org
 basedfinland.com
 baskerit-suomi.shop
+bastu-suomi.com
 bastviestate.com
 bauchkettchen-suomi.shop
 bavas-helsinki.com
@@ -385,6 +387,7 @@ beloylyhelsinki.com
 benoa-palvelut.com
 benoapalvelut.com
 benshermansuomi.com
+berlin-finland-coach-tour-package-de.sbs
 berlin-insoumise.org
 berry-helsinki.com
 berthold-elisa.com
@@ -420,6 +423,7 @@ bilimvekulturvak.net
 bimmerfinland.com
 bioturva.com
 biqfinland.monster
+birdhelsinki.com
 birkenstock-suomi-fi.com
 birkenstocksuomifi.com
 bitcoinfinland.xyz
@@ -766,6 +770,7 @@ digivero-energy.de
 digiviestit.com
 dininghelsinki.info
 discoverhelsinki.site
+discoverysoumin.xxx
 diviestate.com
 djagencyfinland.com
 djagencyhelsinki.com
@@ -1127,6 +1132,7 @@ foodandfunhelsinki.com
 foodexfinland.com
 foodstopfinland.com
 footurf-finland.com
+forexpankki.xxx
 formulasoumilionaria.site
 fortum-energia.online
 fortum-fi.com
@@ -1253,6 +1259,7 @@ gelopalvelut.com
 gemfinland.com
 gemmasuomi.com
 gennova-helsinki.com
+gennova-suomi.com
 gennovasuomi.com
 genpotfinland.company
 gensoumise.com
@@ -1432,6 +1439,19 @@ helsinki-drc-dcrabi.info
 helsinki-drc-dcrabj.info
 helsinki-drc-dcrabk.info
 helsinki-drc-tusaaa.info
+helsinki-drc-tusaab.info
+helsinki-drc-tusaac.info
+helsinki-drc-tusaad.info
+helsinki-drc-tusaae.info
+helsinki-drc-tusaaf.info
+helsinki-drc-tusaag.info
+helsinki-drc-tusaah.info
+helsinki-drc-tusaai.info
+helsinki-drc-tusaaj.info
+helsinki-drc-tusaak.info
+helsinki-drc-tusaal.info
+helsinki-drc-tusaam.info
+helsinki-drc-tusaan.info
 helsinki-drec-abaa.info
 helsinki-drec-abab.info
 helsinki-drec-abac.info
@@ -1741,6 +1761,7 @@ helsinkifinland.buzz
 helsinkiflow.com
 helsinkifoodguide.com
 helsinkifreetour.online
+helsinkifreewalkingtours.com
 helsinkifun.com
 helsinkifunfest-ui16.top
 helsinkigame.biz
@@ -1785,6 +1806,7 @@ helsinkinoko.com
 helsinkinotebooks.com
 helsinkioutletskechers.com
 helsinkipathfinder.com
+helsinkipatientsafety.org
 helsinkiperfumeclub.shop
 helsinkipersonaltrainer.com
 helsinkiphilharmonicorchestra.berlin
@@ -1982,6 +2004,7 @@ ikeasuomi.com
 ikkunahelsinki.com
 ikkunahelsinki.net
 ikkunahelsinki.org
+illumet-helsinki.com
 illustratedhelsinki.com
 ilmaisetpelitsuomi.site
 ilmajoenpyorahuolto.com
@@ -2216,6 +2239,7 @@ kamppihelsinkii.com
 kamranmassoumi.com
 kansalaiset-omakanta.com
 kansallinenturvallisuus.com
+kansanpankki.com
 kanta-suomi.com
 kantakanta.co.uk
 kantaoyj.info
@@ -2517,6 +2541,7 @@ lomallesisuomessa.com
 lomasuomi.art
 lomasuomi.click
 lomaterveys.com
+london-finland-coach-tour-package-uk.sbs
 london-finland-train-holiday-deals-777.today
 london-finland-train-holiday-deals.today
 london-finland-train-tour-deals.sbs
@@ -2594,6 +2619,7 @@ makantamin.com
 makantanah.com
 makantaneku.com
 makantangan.store
+makantanju.top
 makantashelcom.com
 makantasis.gr
 makea-viesti.com
@@ -2701,6 +2727,7 @@ mediatukipalvelut.net
 medibridgeukfinland.co.uk
 medium-vero-raphael.com
 meet-single-women-finland.today
+meghanfortumwater.com
 meilleuresoumission.com
 meindlhelsinki.com
 meine-leinwandbilder-suomi.shop
@@ -2913,12 +2940,14 @@ mobilepayment-update2.com
 mobilepayment.africa
 mobilepayment.blog
 mobilepayment.top
+mobilepaymentaustralia.online
 mobilepaymentprocessing.in
 mobilepaymentprocessing.us
 mobilepayments.africa
 mobilepayments.co.nz
 mobilepayments.shop
 mobilepayments.site
+mobilepaymentsaustralia.online
 mobilepaymentsinsider.com
 mobilepaymentsolutions679508.icu
 mobilepaynow.com
@@ -3071,6 +3100,7 @@ nettiapteekkisuomi.life
 netticasino-suomi.com
 netticasinosuomi.shop
 netticasinosuomi.website
+nettikasino-finland.com
 nettikasinotilmanrekisteroitymista.bet
 nettikasinotilmanrekisteroitymista.org
 nettikasinotilmansuomenlisenssia.net
@@ -3261,6 +3291,7 @@ oma-capital.com
 oma-cha.com
 oma-chareef.com
 oma-circles.com
+oma-closet.com
 oma-cn.com
 oma-co.com
 oma-comunity.com
@@ -3331,6 +3362,7 @@ oma-sabaslots.site
 oma-sage-landes.com
 oma-scp.com
 oma-seuranta.net
+oma-sex.xxx
 oma-sexanzeigen.com
 oma-sextreffen.ch
 oma-shop.com
@@ -3812,6 +3844,8 @@ rakennuspalvelukellmanoy.com
 rakennuspalvelukorpinen.com
 rakennuspalvelunikki.com
 rakennuspalveluoap.com
+rakennuspalvelut-ismo-koponen.com
+rakennuspalvelutismokoponen.com
 rakennuspalveluvilcore.com
 rakennustietopankki.com
 ralph-lauren-suomi.com
@@ -3910,6 +3944,7 @@ s-mobiili-fi-kamlanja.com
 s-mobiili-fi-spankki.com
 s-mobiili-fi.com
 s-mobiili-fikampanja.com
+s-mobiili-kampanja-fi-spankki.com
 s-mobiili.online
 s-mobiilielakkeella.com
 s-mobiilielakkeellaa.com
@@ -4430,6 +4465,7 @@ sousoumi.gr
 sousuomi.com
 southern-finlands-156097653.click
 soviestates.com
+sp-suomifi.com
 spaceaifinland.com
 spadospaviestately.shop
 spalveluhatemelsayed.com
@@ -4867,6 +4903,7 @@ suomi-online.com
 suomi-online.icu
 suomi-palveluja.com
 suomi-palvelun.site
+suomi-palvelut.com
 suomi-palvelut.shop
 suomi-pay.cfd
 suomi-poleneparis.com
@@ -6043,6 +6080,7 @@ vejasuomi-fi.shop
 vejasuomi-fi.top
 velarahelsinki.com
 velkapalvelu.com
+velvero-style.com
 velvero-team.com
 vendingfinland.online
 venla-helsinki.com
@@ -6269,6 +6307,7 @@ vero-vitae.com
 vero-vital.com
 vero-vital.net
 vero-vivida-herbals.com
+vero-voluptatum.site
 vero-wantia.de
 vero-wealth.com
 vero-well.com
@@ -6342,6 +6381,7 @@ viestin-suomenfi.site
 viestintalinna.com
 viestintalinna.online
 viestintapalvelu-suomi.site
+viestintapalvelut.xxx
 viestintayhteydet-suomi.site
 viestintayhteys-suomi.site
 viestipalvelu-suomi.site
@@ -6642,6 +6682,7 @@ yisuomiya.com
 yksityinen-allas-helsinki-240753774.today
 ylshensuomen.com
 ylwfinland.buzz
+yoga-suomi.com
 yokkaofinland.com
 yomfinland.info
 youdaoyj.top
