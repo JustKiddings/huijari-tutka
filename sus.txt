@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 25/05/2025 07:00 UTC
+# Last modified: 26/05/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -1452,6 +1452,10 @@ helsinki-drc-tusaak.info
 helsinki-drc-tusaal.info
 helsinki-drc-tusaam.info
 helsinki-drc-tusaan.info
+helsinki-drc-tusaao.info
+helsinki-drc-tusaap.info
+helsinki-drc-tusaaq.info
+helsinki-drc-tusaar.info
 helsinki-drec-abaa.info
 helsinki-drec-abab.info
 helsinki-drec-abac.info
@@ -2227,6 +2231,7 @@ kampanja-spankki-fi.com
 kampanja-spankki-mobiili.com
 kampanja-spankki-mobillifi.com
 kampanja-spankkifi.com
+kampanja-suomi-fi-spankki.com
 kampanjafi-mobilespankki.com
 kampanjamobiili-elakkeella.com
 kampanjamobiili-fi.com
@@ -2911,6 +2916,7 @@ mobilepaycasinot.com
 mobilepaycasinot.info
 mobilepaycasinot.net
 mobilepaycasinot.org
+mobilepaycheck.com
 mobilepayd.com
 mobilepaydanmark.info
 mobilepayding.com
@@ -2940,6 +2946,7 @@ mobilepayment-update2.com
 mobilepayment.africa
 mobilepayment.blog
 mobilepayment.top
+mobilepaymentaustralia.com
 mobilepaymentaustralia.online
 mobilepaymentprocessing.in
 mobilepaymentprocessing.us
@@ -2947,6 +2954,9 @@ mobilepayments.africa
 mobilepayments.co.nz
 mobilepayments.shop
 mobilepayments.site
+mobilepayments.xyz
+mobilepaymentsaustralia.com
+mobilepaymentsaustralia.net
 mobilepaymentsaustralia.online
 mobilepaymentsinsider.com
 mobilepaymentsolutions679508.icu
@@ -3496,6 +3506,7 @@ ornavero-oy.com
 ornavero-oy.info
 ornavero-ry.com
 ororowearsuomi.com
+orozo-helsinki.com
 orvero-product.xyz
 oslo-helsinki-train-tour-package-offers.today
 ostaarekisteroityajokortti.com
@@ -3586,6 +3597,7 @@ paradoxfinland.sbs
 parajumperstakkisuomi.xyz
 paras-lumenpoistopalvelu-suomi.today
 paras-suomi.com
+paraskasinosuomessa.com
 parassuomi.live
 parassuomilotto.live
 parastasuomeatarjousta.com
@@ -4459,6 +4471,7 @@ soumivietnam.com
 soumiways.com
 soumiya.africa
 soumiyahinako.com
+soumiyajalal.art
 soundcorefinland.com
 soundcoresuomi.com
 sousoumi.gr
@@ -5583,6 +5596,7 @@ thassoumi.dev
 thatsosuomi.com
 the-ghost-of-finland.com
 thealleyhelsinki.com
+theautodennashville.com
 thefrankieshopsuomi.net
 thegaviestate.com
 thehappyhelsinki.pics
@@ -5911,11 +5925,13 @@ turvatorjunta.com
 turvaturizm.com
 tutkisuomea.com
 tutti-sensuomi.com
+tuulenvirepalvelut.com
 tuuli-helsinki.com
 tv-soumitiyu.com
 twinklingtoadstoolhelsinki.com
 tyomaaturvallisuus.com
 tyonohjauspalvelu-tyotuulia.com
+tyonohjauspalvelu.com
 tyopaikat-siivousyrityksissa-fi.online
 tyopaikat-siivousyrityksissa.online
 tyopaikat.best
