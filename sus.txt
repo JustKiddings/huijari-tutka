@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 26/05/2025 07:00 UTC
+# Last modified: 27/05/2025 07:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -881,6 +881,7 @@ elakkeella-spankki-fi-mobiilifi.com
 elakkeella-spankki-fi.com
 elakkeella-spankki-mobiili.com
 elakkeella-spankki.com
+elakkeella-spankkifi-kampanja.com
 elakkeellafi-spankki.com
 elakkeellafimobiili.com
 elakkeellafimobiilispankki.com
@@ -1305,6 +1306,7 @@ go-soumission.com
 go-spankki-to.pro
 goesfinland.com
 goessuomi.com
+gofinland.click
 gold-finland-89.today
 goldfinland.com
 goldstarmobilepay.xyz
@@ -1456,6 +1458,9 @@ helsinki-drc-tusaao.info
 helsinki-drc-tusaap.info
 helsinki-drc-tusaaq.info
 helsinki-drc-tusaar.info
+helsinki-drc-tusaas.info
+helsinki-drc-tusaat.info
+helsinki-drc-tusaau.info
 helsinki-drec-abaa.info
 helsinki-drec-abab.info
 helsinki-drec-abac.info
@@ -1730,6 +1735,7 @@ helsinkiclub.co.uk
 helsinkiclub.uk
 helsinkicoach.com
 helsinkicoffeeweeks.com
+helsinkicomercial.com
 helsinkicommittee.org
 helsinkicompany.com
 helsinkiconference.com
@@ -1785,6 +1791,7 @@ helsinkihouse.cl
 helsinkihunt.xyz
 helsinkiijing.lol
 helsinkiinnova.com
+helsinkijs.com
 helsinkikasino.com
 helsinkiknifeshow.com
 helsinkikw.work
@@ -2361,6 +2368,7 @@ kokki-avoimet-tyopaikat.cfd
 kokonaisturvallisuudenosaamiskeskus.com
 kokosuomi.net
 komonofinland.com
+komviesta.xyz
 konehuoltoheinonen.com
 konehuoltokeskus.com
 konehuoltonurminen.com
@@ -3475,6 +3483,7 @@ onlineyhteys-suomi.site
 onlyfanssuomi.com
 onpointsiivouspalvelut.com
 onrunnersfinland.com
+ooyj.casa
 op-fi-asiakaspalvelu-paivita-omat-liil.com
 op-fi-asiakaspalvelu-verkkopalvel-tietosi-iillll.com
 op-fi-verkkopalvel-asiakaspalvelu-paivita-lsii.com
@@ -4000,6 +4009,7 @@ s-pankki.shop
 s-pankki.site
 s-pankki.store
 s-pankki.tech
+s-pankki.website
 s-pankkielakella.com
 s-pankkielakkeella.com
 s-pankkiellakkeella.com
@@ -4102,6 +4112,7 @@ schoolofaifinland.com
 scufferssuomi.com
 sdsuomei.com
 sdsuomeng.com
+seamshelsinki.org
 search-for-ai-mental-testing-finland.today
 search-in-finland-mental-test.sbs
 seathuolto.online
@@ -4130,6 +4141,7 @@ sepa-finland-pay.com
 serenityopal.com
 servicehelsinki.com
 setarehmasoumi.com
+sevahvsta-spankki.xyz
 sevenco-helsinki.com
 severisuominen.dev
 severisuominen.net
@@ -4373,6 +4385,7 @@ soumission-fenentres-1.online
 soumission-fenentres-2.online
 soumission-manuelle.com
 soumission-non.ch
+soumission-particulier.com
 soumission-rapide.com
 soumission-referencement.com
 soumission-thermopompe.com
@@ -4420,6 +4433,7 @@ soumissionsarchitecte.ca
 soumissionsarmoiresdecuisine.ca
 soumissionsassurance.com
 soumissionsassurancevieenligne.com
+soumissionscellant.com
 soumissionsceramique.ca
 soumissionscoffrage.com
 soumissionsconstructeurs.ca
@@ -5809,6 +5823,7 @@ travelinfinland.net
 travero-pm.com
 treffitsuomi.com
 treffitsuomi24.net
+triangelic-finland.com
 triathlonshopfinland.com
 triinin-kotipalvelu.com
 trips2finland.com
@@ -5878,6 +5893,7 @@ turvakomppania.com
 turvala.com
 turvaldovino.com
 turvaldovino.info
+turvalex.shop
 turvalio.pro
 turvaliq.digital
 turvallinen-nettikasinot.com
@@ -5908,6 +5924,7 @@ turvapaikkafin.com
 turvapassi.com
 turvapassi.net
 turvapilvi.lol
+turvaplus.com
 turvapluss.ee
 turvaprofiili.com
 turvasuomifi.com
