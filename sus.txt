@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 27/05/2025 07:01 UTC
+# Last modified: 28/05/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -111,6 +111,7 @@ ajkiinteistohuolto.com
 ajo-varmaoyj.com
 ajokoefinland.com
 ajosuomi.com
+ajoterveystarkastus.com
 ajovarma-kirjaudu.com
 ajovarma-suomi.com
 ajovarmaoyj.com
@@ -1307,6 +1308,7 @@ go-spankki-to.pro
 goesfinland.com
 goessuomi.com
 gofinland.click
+golasuomi.com
 gold-finland-89.today
 goldfinland.com
 goldstarmobilepay.xyz
@@ -1461,6 +1463,7 @@ helsinki-drc-tusaar.info
 helsinki-drc-tusaas.info
 helsinki-drc-tusaat.info
 helsinki-drc-tusaau.info
+helsinki-drc-tusaav.info
 helsinki-drec-abaa.info
 helsinki-drec-abab.info
 helsinki-drec-abac.info
@@ -1870,6 +1873,7 @@ helttipalvelut.com
 helttiterveys.com
 helttiterveyspalvelut.com
 helttityoterveys.com
+helwalkhelsinki.com
 hemteepalvelu.com
 henkilostopalveluhirmu.com
 henkilostopalvelut.com
@@ -2072,6 +2076,7 @@ insurancelujnuwlfinland.bond
 insurxlfinland.bond
 internationalcallfinland.com
 internetcasinofinland.com
+internetmobilepay.com
 interveystalo.com
 intimisimisuomi.com
 intimissimi-finland.com
@@ -2403,6 +2408,7 @@ kriisiturva.se
 kryptomobilepay.com
 kryptosuomi.net
 ks-ohjelmapalvelut.net
+kuismasuominen.com
 kuittipalvelu.com
 kuljetuspalvelu.com
 kuljetuspalvelumiilumaki.com
@@ -3575,6 +3581,7 @@ palvelulinkki.net
 palvelun-suomi.site
 palveluni.com
 palveluonlinekanta.com
+palvelupirtti.com
 palvelupro.com
 palvelurakennetrauma.com
 palvelusaatopanki.site
@@ -3922,6 +3929,7 @@ riippumatot-suomi.shop
 rintaliivitfinland.com
 ripa-rakennuspalvelut.com
 ripndipsuomi-fi.com
+rippa-finland.com
 ristosisko-helsinki.com
 ritan-kauneuspalvelut.com
 riverislandsuomi.net
