@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 28/05/2025 07:00 UTC
+# Last modified: 29/05/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -785,6 +785,7 @@ doctormartens-finland.com
 doctormartens-suomi.com
 domainfinland.com
 domainfinland.net
+domhelsinkitopwork.icu
 dominantesetsoumis.com
 donepalvelut.online
 dooronesuomi.com
@@ -1464,6 +1465,7 @@ helsinki-drc-tusaas.info
 helsinki-drc-tusaat.info
 helsinki-drc-tusaau.info
 helsinki-drc-tusaav.info
+helsinki-drc-tusaaw.info
 helsinki-drec-abaa.info
 helsinki-drec-abab.info
 helsinki-drec-abac.info
@@ -2129,6 +2131,7 @@ ireland-finland-train-holiday-deals.today
 irmfinland.boutique
 irsehelsinki2026.info
 isfinland.com
+isma2026helsinki.org
 isolationsoumission.com
 isoumi.com
 it-palvelu.ltd
@@ -2442,6 +2445,7 @@ lafranceinsoumise17.org
 laina-suomi.com
 lainaturva.com
 laine-helsinki.com
+lainehelsinki.com
 lainturva.com
 laitehuolto.com
 laitteenturvallisuus.com
@@ -3282,6 +3286,7 @@ oeofinland.watch
 offer-finland.com
 offerspankkitax.icu
 office-cleaner-finland.bond
+official-casino-finland.biz
 official-casino-finland.lat
 offlinefinland.com
 oh-pollysuomi.com
@@ -3527,6 +3532,7 @@ oslo-helsinki-train-tour-package-offers.today
 ostaarekisteroityajokortti.com
 ostaatietokantojasuomi.com
 ostabentsodiatsepiinitsuomi.com
+ostakannabistaverkostasuomessa.top
 osuus-pankki.com
 osuuspankin-op-fi-asiakaspalvelu-paivita-i.com
 osuuspankin-op-fi-asiakaspalvelu-verkkopalvel-omat-iii.com
@@ -5622,6 +5628,7 @@ theautodennashville.com
 thefrankieshopsuomi.net
 thegaviestate.com
 thehappyhelsinki.pics
+themobiilitypeople.com
 thenorthface-suomi.com
 thenorthfacehelsinki.com
 thenorthfacessuomi.com
