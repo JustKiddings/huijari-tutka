@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 29/05/2025 07:00 UTC
+# Last modified: 30/05/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -87,7 +87,10 @@ aiacademyfinland.com
 aidinkielenhuoltoasema.com
 aifinland.xyz
 aihelsinki.com
+aihelsinkihub.com
 aihuakantan.com
+aihubfinland.com
+aihubhelsinki.com
 aino-helsinki.com
 air-up-finland.com
 airistonterveys.com
@@ -511,6 +514,7 @@ carpediemvero-24.com
 cartiersuomi.net
 casasuomi.com
 casavero-dubai.com
+casinhelsinki.com
 casino-suomi.net
 casino360finland.com
 casinohelsinki.online
@@ -528,6 +532,7 @@ caterpilarssuomi.com
 caterpiliarssuomi.com
 caterpiliarsuomi.com
 caterpillarfinland.com
+caterpillarinsuomi.com
 caterpillarsuomi-fi.com
 caterpillarsuomi.shop
 caterpliarssuomi.com
@@ -638,6 +643,7 @@ crazyhelsinki.com
 createchfinland.com
 createchfinland.info
 createchfinland.org
+credit-asiakas.com
 cremation-in-finland.today
 cremation-services-finland.bond
 cremationacwfinland.bond
@@ -901,6 +907,7 @@ elfbarsuomi.net
 elfbarvapesuomi.com
 elisaviesta.com
 elisaviesta.org
+elise-helsinki.com
 elkkeelaspankki-fi-kampanja.com
 elkkeella-spankki.com
 elkkeellas-pankki.com
@@ -1555,6 +1562,7 @@ helsinki-mplshale-aaad.info
 helsinki-mplshale-aaae.info
 helsinki-ninj-eal.info
 helsinki-online.store
+helsinki-outlets.com
 helsinki-paris-train-tour-package-offers.today
 helsinki-paris-train-tour-package.today
 helsinki-paris-train-tour-packages.today
@@ -1714,6 +1722,7 @@ helsinki24.com
 helsinki5000.com
 helsinkiaamu.org
 helsinkiadorn.com
+helsinkiaihub.com
 helsinkiairport.rocks
 helsinkiairporttaxitransfers.com
 helsinkiaitio.com
@@ -1734,6 +1743,7 @@ helsinkibuses.com
 helsinkicab.com
 helsinkicards.com
 helsinkicarrental.com
+helsinkicas-fi.com
 helsinkicasifreespins.click
 helsinkicasinonodeposit.click
 helsinkiclub.co.uk
@@ -1773,6 +1783,7 @@ helsinkifilmmarket.com
 helsinkifilmmarket.online
 helsinkifinds.com
 helsinkifinland.buzz
+helsinkifl.online
 helsinkiflow.com
 helsinkifoodguide.com
 helsinkifreetour.online
@@ -2442,6 +2453,7 @@ ladore-helsinki.com
 laffinland.com
 lafranceinsoumise.vote
 lafranceinsoumise17.org
+lahiterveys.com
 laina-suomi.com
 lainaturva.com
 laine-helsinki.com
@@ -2757,6 +2769,7 @@ meine-leinwandbilder-suomi.shop
 meivcorefinland.com
 mekkofinland.com
 meklaripalvelu.com
+mekonomenautohuoltokauhajoki.com
 melissafortumwaterschools.com
 membersmobilepay.info
 meredithoffinland.com
@@ -2827,6 +2840,7 @@ minorityhelsinki.com
 minustwosuomi.com
 mirshturvalov.ru
 mis-finland.com
+misasuomi.shop
 misfinland.com
 misoumize.com
 missinternationalfinland.com
@@ -3529,6 +3543,7 @@ ororowearsuomi.com
 orozo-helsinki.com
 orvero-product.xyz
 oslo-helsinki-train-tour-package-offers.today
+oslo-helsinki-train-tour-packages-no.sbs
 ostaarekisteroityajokortti.com
 ostaatietokantojasuomi.com
 ostabentsodiatsepiinitsuomi.com
@@ -3652,6 +3667,7 @@ peltipalvelu.com
 penfieldsuomi.com
 pensionfinland.buzz
 peppermayosuomi.com
+percetakantafaza.store
 perdavvero-lab.it
 perhepalvelutruori.com
 perhepalvelutruori.net
@@ -3851,6 +3867,7 @@ puutarhurin-tyopaikat.online
 puuturva.com
 pwofinland.homes
 pyrenexsuomi.com
+pyretrinfinland.com
 pyro-helsinki.com
 qbdfinland.info
 qisuunnittelupalvelu.com
@@ -3957,6 +3974,7 @@ ropoviesti.com
 rotaractfinland.com
 rothenrollmediafinland.com
 rouvahelsinki.com
+rovero-airvent.com
 roxysuomi.com
 royalcaninsuomi.com
 royaldeviesta.com
@@ -4357,6 +4375,7 @@ soumilitar.online
 soumilll.com
 soumilm.xyz
 soumilsarkar.dev
+soumilvoma.com
 soumima.com
 soumimode.com
 soumimos.online
@@ -5426,6 +5445,7 @@ takanta.online
 takemobilepayments.com
 takeyasuomi.com
 takkifinland.top
+taksihelsinki.link
 taksipalvelu-koikkalainen.com
 takuuterveys.com
 talentfinland.com
@@ -5834,6 +5854,7 @@ traumanvaikutuksetaivoterveyteen.com
 travelekstrafinland.com
 travelexpertgroupfinland.com
 travelfinland.net
+travelfinland.shop
 travelinfinland.net
 travero-pm.com
 treffitsuomi.com
@@ -5886,6 +5907,7 @@ tunnistautuminen-suomi.mobi
 tunnistautumllnenssauomifi.com
 tunnistautunlnen-suomi.com
 tunnistavat.xyz
+tunnistus-op.com
 tunnistus-suomi.com
 tunnistusfi.info
 tunnistussuomi.com
@@ -5941,6 +5963,7 @@ turvapassi.net
 turvapilvi.lol
 turvaplus.com
 turvapluss.ee
+turvaposti.cloud
 turvaprofiili.com
 turvasuomifi.com
 turvat.com
@@ -6666,6 +6689,7 @@ xn--lastenhoitopalveluleikkis-9ec.com
 xn--lattialmmityshuolto-mwb.com
 xn--levinmkkihuolto-etb.com
 xn--lhipyorhuolto-bfbg.com
+xn--lhiterveys-q5a.com
 xn--mobiiliprssi-cjb.com
 xn--mobilepay-hjlp-cjb.online
 xn--modavero-bucureti-19f.com
