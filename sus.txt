@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 30/05/2025 07:00 UTC
+# Last modified: 31/05/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -359,6 +359,7 @@ barsoumiandesign.com
 base64finland.org
 basedfinland.com
 baskerit-suomi.shop
+bassoumi.com
 bastu-suomi.com
 bastviestate.com
 bauchkettchen-suomi.shop
@@ -776,6 +777,7 @@ digitoimistopalvelu.online
 digivero-energy.de
 digiviestit.com
 dininghelsinki.info
+discoverhelsinki.online
 discoverhelsinki.site
 discoverysoumin.xxx
 diviestate.com
@@ -933,6 +935,7 @@ energiatodistuspalvelu.com
 energy-production-finland-384623749.fyi
 engineering-suomi.net
 engineeringsuomi.com
+envero-consulting.org
 enviestates.co.uk
 enzoa-helsinki.com
 enzoa-suomi.com
@@ -1473,6 +1476,7 @@ helsinki-drc-tusaat.info
 helsinki-drc-tusaau.info
 helsinki-drc-tusaav.info
 helsinki-drc-tusaaw.info
+helsinki-drc-tusaax.info
 helsinki-drec-abaa.info
 helsinki-drec-abab.info
 helsinki-drec-abac.info
@@ -1746,6 +1750,7 @@ helsinkicarrental.com
 helsinkicas-fi.com
 helsinkicasifreespins.click
 helsinkicasinonodeposit.click
+helsinkicharter.com
 helsinkiclub.co.uk
 helsinkiclub.uk
 helsinkicoach.com
@@ -1834,6 +1839,7 @@ helsinkinotebooks.com
 helsinkioutletskechers.com
 helsinkipathfinder.com
 helsinkipatientsafety.org
+helsinkipenthouse.com
 helsinkiperfumeclub.shop
 helsinkipersonaltrainer.com
 helsinkiphilharmonicorchestra.berlin
@@ -1921,6 +1927,7 @@ histotripsyfortumors.com
 hitsausjaautohuoltomakinen.com
 hiushuone-helsinki.com
 hjkhelsinki.club
+hjxoooyj.sbs
 hkaturva.online
 hkfinland.co.uk
 hnnettisivupalvelu.com
@@ -2282,6 +2289,7 @@ kantapalvelury.com
 kantapalvelut-tunnistautnminen.com
 kantapalvelut-tunnistautuminen.com
 karajafinland.com
+karikaturvakfi.org
 karlkanisuomi.com
 karllagerfeldsuomi.com
 karshenasimasoumi.ir
@@ -3259,6 +3267,9 @@ norway-sweden-finland-holiday-package.today
 noshit-nikotiinipussit.com
 nostojasiirtopalvelu.com
 notimobilepay.com
+notyopappyscookin.online
+notyopappyscookin.org
+notyopappyscookin.site
 nourixfinland.com
 nourixsuomi.com
 nousuhelsinki.com
@@ -3387,6 +3398,7 @@ oma-online.ch
 oma-online.com
 oma-online.online
 oma-opa-uptodate.de
+oma-opa.com
 oma-paketti.com
 oma-paravent.com
 oma-partners.com
@@ -3488,6 +3500,8 @@ oneractivesuomi.net
 onilne-s-pankki-fi.com
 onjfinland.makeup
 online-bank-accounts-for-finland.today
+online-finland-casino.com
+online-finlandcasino.com
 online-games-finland.com
 online-kirjaudu.sbs
 online-mobiili.com
@@ -3506,6 +3520,7 @@ onlinespankkifiwebsoft.shop
 onlineyhteydet-suomi.site
 onlineyhteys-suomi.site
 onlyfanssuomi.com
+onlyinfinland.com
 onpointsiivouspalvelut.com
 onrunnersfinland.com
 ooyj.casa
@@ -3621,6 +3636,7 @@ pandorajewelryfinland.com
 panki-fi.site
 pankki.nl
 pankkiasiakas.net
+pankkipalvelut-smobiilissa-fi.xyz
 pankkitalo.net
 pannkiifinland.com
 pannkiifinland.shop
@@ -3911,7 +3927,11 @@ ravintoterveys.net
 rawlingssuomi.com
 ray-bansuomi.com
 raycon-suomi.com
+rbmfinland.com
+rbmfinland.net
 rcepthelsinkisw.shop
+rcsfinland.com
+rcsfinland.net
 rdsiivouspalvelut.com
 rdstrsuomi.com
 realglowsautohuoltokorjaamo.com
@@ -4233,6 +4253,7 @@ sitakantanayak.com
 sivado-helsinki.com
 sk-severo-zapad.ru
 skagensuomi.com
+skandifootsuomi.com
 skatingfinland.com
 skcfinland.info
 skechersoutletssuomi.com
@@ -5635,6 +5656,7 @@ terveysviidakko.com
 terveysvirasto.com
 tesoumira.com
 testi-mobiilipunnitus.com
+testivoittaja-terveys.com
 tetsuomi.com
 tetsuomizu.com
 teviestates.com
@@ -6151,6 +6173,7 @@ vejasuomi-fi.shop
 vejasuomi-fi.top
 velarahelsinki.com
 velkapalvelu.com
+velmi-helsinki.com
 velvero-style.com
 velvero-team.com
 vendingfinland.online
@@ -6230,6 +6253,7 @@ vero-design.com
 vero-dev.com
 vero-diseno.com
 vero-doloribus.site
+vero-doors.com
 vero-dublin.com
 vero-eg.com
 vero-electronics.com
@@ -6576,6 +6600,7 @@ walkertapecofinland.com
 walkertapefinland.com
 walletohelsinki.com
 wanderfinland.xyz
+warehouse-positions-in-finland.live
 warehousepackingagenciesinhelsinki375882.icu
 warehousesystemspackaginghelsinki109267.icu
 warmflaschen-suomi.shop
