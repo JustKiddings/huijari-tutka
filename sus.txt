@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 31/05/2025 07:00 UTC
+# Last modified: 01/06/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -149,6 +149,7 @@ almutraficom.com
 aloeverasuomi.com
 alohahelsinki.com
 alosuomi.com
+alphaletesuomi.com
 alurahelsinkishop.com
 alure-helsinki.com
 alvero-cz.eu
@@ -709,6 +710,7 @@ defencefinland.com
 defendfinland.com
 defwk5sfiyiaoyj.top
 deittisuomi.com
+delfavero-custers.net
 delfivisuomene.com
 deliivero-fix.com
 delivero-ae-chocolatier.com
@@ -935,6 +937,7 @@ energiatodistuspalvelu.com
 energy-production-finland-384623749.fyi
 engineering-suomi.net
 engineeringsuomi.com
+envero-consulting.com
 envero-consulting.org
 enviestates.co.uk
 enzoa-helsinki.com
@@ -1000,6 +1003,7 @@ evufinland.work
 excavation3soumissions.com
 excellenteventfinland.online
 exclusive-finland-vacation-packages.today
+exolfinland.com
 experiencesuomi.com
 experiencesuomi247.com
 exploringfinland.com
@@ -1477,6 +1481,8 @@ helsinki-drc-tusaau.info
 helsinki-drc-tusaav.info
 helsinki-drc-tusaaw.info
 helsinki-drc-tusaax.info
+helsinki-drc-tusaay.info
+helsinki-drc-tusaaz.info
 helsinki-drec-abaa.info
 helsinki-drec-abab.info
 helsinki-drec-abac.info
@@ -2226,6 +2232,7 @@ journeytofinland.xyz
 joustokeulahuolto.com
 joustokeulahuolto.store
 jpkviesta.com
+jrafinland.com
 jsmokkihuolto.com
 juhasuomela.com
 juhla-palvelu.com
@@ -2415,6 +2422,7 @@ korttipankki.net
 korulippaat-suomi.shop
 kotiapupalvelu.online
 kotiapupalvelu.site
+kotiinpalvelut.com
 kotipalvelu-ilo-ja-onni.com
 kotipalvelunp.com
 kotipalvelunp.net
@@ -2471,6 +2479,7 @@ laitehuolto.com
 laitteenturvallisuus.com
 lakimies-helsinki.com
 lakipalvelut-emendatus.com
+lakipalvelutjpconsulting.com
 lalasagnahelsinki.com
 lameva-helsinki.com
 lampo-ja-vesipalvelut.com
@@ -2845,6 +2854,7 @@ minaistent.org
 minaistent.se
 minilovefinland.com
 minorityhelsinki.com
+mintoo-helsinki.com
 minustwosuomi.com
 mirshturvalov.ru
 mis-finland.com
@@ -3267,6 +3277,8 @@ norway-sweden-finland-holiday-package.today
 noshit-nikotiinipussit.com
 nostojasiirtopalvelu.com
 notimobilepay.com
+notyopappyscookin.com
+notyopappyscookin.net
 notyopappyscookin.online
 notyopappyscookin.org
 notyopappyscookin.site
@@ -3533,6 +3545,7 @@ op-mobiili.net
 op-pankki.com
 op-suomi-fi.com
 op-tiliturva.com
+op-tunnistaudu.com
 op-turva.com
 op-turva.finance
 op-turvattu.com
@@ -3949,6 +3962,7 @@ relocatefinland.com
 remonttimiespalvelut.online
 remulankiinteistojakotipalvelut.com
 rentedinfinland.com
+rentohelsinki.com
 reppufinland.com
 residenssipalvelu.com
 reterveystalo.com
@@ -5135,6 +5149,7 @@ suomifreespins.com
 suomifront.co.uk
 suomifront.com
 suomifun.click
+suomifun.club
 suomifun.rest
 suomifun.site
 suomifun247.click
@@ -5315,6 +5330,7 @@ suomisocials.com
 suomisocialslots.com
 suomisolovair.com
 suomisoul.com
+suomisoulcrochet.com
 suomispa.ca
 suomispa.com
 suomispeak.com
@@ -5943,6 +5959,7 @@ turva.pro
 turva.ru
 turva.sbs
 turva.store
+turva.xyz
 turvaasiakasfi.com
 turvakaitse.ee
 turvakast.info
@@ -5960,6 +5977,7 @@ turvallinen.chat
 turvallinenlaite.com
 turvallinenmatkapuhelin.com
 turvallinenmatkapuhelin.top
+turvallinennoormarkku.org
 turvallinensuomi.com
 turvallis.com
 turvallisemmin.com
@@ -6363,6 +6381,7 @@ vero-soto.com
 vero-space.com
 vero-sport.com
 vero-sports.com
+vero-stile.com
 vero-store.com
 vero-store.store
 vero-street-food.it
