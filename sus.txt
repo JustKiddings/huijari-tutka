@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 01/06/2025 07:00 UTC
+# Last modified: 02/06/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -658,6 +658,7 @@ crpalvelut.com
 crusino-suomi.com
 cs2suomi.com
 cscfinland.com
+cscmobilepay.com
 csuomeia.xyz
 ctheoxltdsuomensivuliike.com
 culturvalencia.com
@@ -1355,6 +1356,7 @@ guesssuomi.com
 guidesuomi.com
 gummyfortummy.com
 gunturvala.com
+guohaoyj.top
 guoyj.top
 gupiaoyj.cn
 gwearfinland.com
@@ -2154,6 +2156,8 @@ ireland-finland-train-holiday-deals-777.today
 ireland-finland-train-holiday-deals.today
 irmfinland.boutique
 irsehelsinki2026.info
+isabellemassoumi.com
+isabelmassoumi.com
 isfinland.com
 isma2026helsinki.org
 isolationsoumission.com
@@ -3255,6 +3259,7 @@ nobull-suomi.com
 nobulleuropesuomi.com
 nobullsuomi.com
 nodigfinland.com
+noe-palvelut.com
 nohatefinland.org
 nomavero.co.uk
 nomavero.com
@@ -3344,6 +3349,7 @@ oma-agentaccelerator.com
 oma-ai.com
 oma-ai.top
 oma-aisolutions.com
+oma-ajo.com
 oma-architecture.com
 oma-arpa.com
 oma-arpa.net
@@ -3461,6 +3467,7 @@ oma-ye.com
 omaaelisa.site
 omaakantaa-fi.net
 omaelisa.sbs
+omajo-kirjaudu.com
 omakanta-online.com
 omakanta-suomi.com
 omakanta.me
@@ -3469,6 +3476,7 @@ omakantafin.info
 omakantal-kansalaiset.com
 omakantarypalv.com
 omakantayr.info
+omaposti-fi.icu
 omasp-pankkin.xyz
 omasuomivero.finance
 omaterveys.ai
@@ -3537,6 +3545,7 @@ onpointsiivouspalvelut.com
 onrunnersfinland.com
 ooyj.casa
 op-fi-asiakaspalvelu-paivita-omat-liil.com
+op-fi-asiakaspalvelu-tietosi-auth.com
 op-fi-asiakaspalvelu-verkkopalvel-tietosi-iillll.com
 op-fi-verkkopalvel-asiakaspalvelu-paivita-lsii.com
 op-fi-verkkopalvel-asiakaspalvelu-paivita-omat-iliii.com
@@ -3726,6 +3735,7 @@ pieceoffinland.com
 pihajahuolto.com
 piipansiivouspalvelut.com
 pikasuomi.com
+pikefishingfinland.com
 pikoilnossuomi.com
 pikolionssuomi.com
 pikolionssuomiale.com
@@ -3904,6 +3914,7 @@ qmfinland.shop
 qowfinland.mom
 qsfinland.com
 qtrfinland.net
+quantumhelsinki.com
 queertrailfinland.com
 quero-vero-preco-do-pneu.today
 quick-loan-for-you-finland.today
@@ -4227,6 +4238,7 @@ shopsuomi.com
 shopwheeloffortume.com
 shotbarfinland.com
 showposuomi.com
+showroomhelsinki.com
 sialviestateandbuilders.com
 sidifinland.com
 sidisuomi.net
@@ -4573,6 +4585,7 @@ spankki-elakkeela.com
 spankki-elakkeella.com
 spankki-elakkeellaa.com
 spankki-fi-kampanja.com
+spankki-fi-kampanjaa.com
 spankki-fi-mobiili.com
 spankki-kampanja-mobilliifi.com
 spankki-kampanjafi.com
@@ -5059,6 +5072,7 @@ suomi2025.com
 suomi22.com
 suomi24.nu
 suomi24.online
+suomi24bingo.com
 suomi24casino.com
 suomi2u.com
 suomi360.com
@@ -6372,6 +6386,7 @@ vero-sa.com
 vero-sante-support.com
 vero-santiago.com
 vero-se.com
+vero-sicurezza.com
 vero-skin.com
 vero-smith.com
 vero-sms.com
