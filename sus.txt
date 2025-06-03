@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 02/06/2025 07:00 UTC
+# Last modified: 03/06/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -320,6 +320,7 @@ aviestas.site
 aviestas.space
 aviestatic.com
 aviestatic.tech
+avuxipalvelut.com
 awfinland.shop
 axelarigato-helsinki.com
 ayshensuomen.com
@@ -1485,6 +1486,11 @@ helsinki-drc-tusaaw.info
 helsinki-drc-tusaax.info
 helsinki-drc-tusaay.info
 helsinki-drc-tusaaz.info
+helsinki-drc-tusaba.info
+helsinki-drc-tusabb.info
+helsinki-drc-tusabc.info
+helsinki-drc-tusabd.info
+helsinki-drc-tusabe.info
 helsinki-drec-abaa.info
 helsinki-drec-abab.info
 helsinki-drec-abac.info
@@ -1922,6 +1928,7 @@ hierontapalveluthuoponen.com
 hierontapalvelutkirkasplus.com
 highrollerfinland.com
 highrollerfinland.net
+highrollersuomi.com
 hillasuomi.com
 hinauspalvelu-moilanen.com
 hinauspalvelu.website
@@ -3424,7 +3431,9 @@ oma-penny.com
 oma-pinheiros.com
 oma-podcast.de
 oma-posti-fi.com
+oma-posti-fi.icu
 oma-posti.com
+oma-posti.icu
 oma-posti.site
 oma-promotion.com
 oma-psihoterapija.com
@@ -3468,6 +3477,7 @@ omaaelisa.site
 omaakantaa-fi.net
 omaelisa.sbs
 omajo-kirjaudu.com
+omajo-oyj.com
 omakanta-online.com
 omakanta-suomi.com
 omakanta.me
@@ -3477,6 +3487,7 @@ omakantal-kansalaiset.com
 omakantarypalv.com
 omakantayr.info
 omaposti-fi.icu
+omaposti-fi.sbs
 omasp-pankkin.xyz
 omasuomivero.finance
 omaterveys.ai
@@ -4027,6 +4038,7 @@ rp-huolto.com
 rtps27viesta.site
 rturva.biz.id
 ruedxhelsinki.com
+rumahmakantaliwangbersaudara.shop
 rumienmiestenliitto.com
 ruoppaussuominen.com
 russellathleticsuomi.com
@@ -4142,6 +4154,7 @@ sameda-kanta.com
 sammutinhuoltoketonen.com
 san-vero-milis.my.id
 sandqvistsuomi.com
+sanni-helsinki.com
 sanriokauppasuomi.com
 sansevero-c7.com
 santanahelsinki.com
@@ -4451,6 +4464,7 @@ soumisa.com
 soumisastroworld.in
 soumisclasses.com
 soumise.ch
+soumise.net
 soumise.org
 soumisepicofsilver.com
 soumiseroseblanche.blog
@@ -4498,6 +4512,7 @@ soumissionmauricie.com
 soumissionnettoyage.com
 soumissionnettoyageqc.com
 soumissionnon.ch
+soumissionpeinturetoiture.com
 soumissionplus.com
 soumissionprethypothecaire.com
 soumissionqc.com
@@ -4647,6 +4662,7 @@ stanleyfinland.com
 stanleyssuomi.com
 stanleysuomi.com
 starburst-game-finland.site
+starcomfinland.com
 startupsuomi.org
 starzonefinland.net
 stayfinderfinland.com
@@ -5412,6 +5428,7 @@ suomiterapia.com
 suomiterapia.ru
 suomitest.xyz
 suomitiedot.info
+suomitiedot.net
 suomitieto.com
 suomitodennus.com
 suomitodennus.info
@@ -5508,6 +5525,7 @@ talvero-co.com
 tampereenhautauspalvelu.com
 tampereenkuvauspalvelu.com
 tampereentietokonepalvelu.com
+tamsecfinland.com
 tansuomedia.com.tw
 tansuomi.com
 tantrasecretshelsinki.com
@@ -6179,6 +6197,7 @@ valvonia.sk
 valvonix.com
 valvontakamerat-design.shop
 valvontakamerat.shop
+valvonte.com
 valvonzandesk.com
 vanityopal.site
 vanlayhteys.com
@@ -6294,6 +6313,7 @@ vero-eric.com
 vero-error.site
 vero-est.site
 vero-esthetique.com
+vero-et.com
 vero-eu.shop
 vero-fashion.com
 vero-fasion.com
@@ -6331,6 +6351,7 @@ vero-ksa.com
 vero-kumamoto.com
 vero-labs.com
 vero-labs.net
+vero-lake-estates.com
 vero-lammert.com
 vero-laudantium.site
 vero-lighting.com
@@ -6386,6 +6407,7 @@ vero-sa.com
 vero-sante-support.com
 vero-santiago.com
 vero-se.com
+vero-sicurezza.co.uk
 vero-sicurezza.com
 vero-skin.com
 vero-smith.com
