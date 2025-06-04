@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 03/06/2025 07:00 UTC
+# Last modified: 04/06/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -77,6 +77,7 @@ aemfinland.info
 af-buymakantan.com
 afinland.top
 afriqueinsoumise.com
+agifinland.com
 agriturvalle.com
 aguidetofinland.com
 ahertajayrityspalvelu.com
@@ -85,8 +86,10 @@ ai-palvelu.com
 ai-suomi.com
 aiacademyfinland.com
 aidinkielenhuoltoasema.com
+aifinland.solutions
 aifinland.xyz
 aihelsinki.com
+aihelsinki.solutions
 aihelsinkihub.com
 aihuakantan.com
 aihubfinland.com
@@ -1740,6 +1743,7 @@ helsinki24.com
 helsinki5000.com
 helsinkiaamu.org
 helsinkiadorn.com
+helsinkiai.solutions
 helsinkiaihub.com
 helsinkiairport.rocks
 helsinkiairporttaxitransfers.com
@@ -1790,6 +1794,7 @@ helsinkieconomy.com
 helsinkienglishmontessori.com
 helsinkiescort.com
 helsinkiesports.com
+helsinkiestates.com
 helsinkifestival.org
 helsinkiff.com
 helsinkifi.com
@@ -1836,6 +1841,7 @@ helsinkilimo.info
 helsinkilimoservice.com
 helsinkilm.lol
 helsinkilottery.com
+helsinkiluxury.com
 helsinkim.com
 helsinkimainos.com
 helsinkimassage.com
@@ -1866,6 +1872,7 @@ helsinkipremierhotel.com
 helsinkiproductionservices.com
 helsinkiprofessionals.com
 helsinkipumpproduction.com
+helsinkiquantum.solutions
 helsinkirep.com
 helsinkis.top
 helsinkisaunaboats.com
@@ -2535,6 +2542,7 @@ leadsifyasiakas.com
 leadsifysuomi.com
 lecfinland.art
 ledger-suomi.com
+leena-helsinki.com
 legerofinland.com
 leguanofinland.com
 leinwandbilder-suomi.shop
@@ -2575,6 +2583,7 @@ linkmobilepay.com
 linsoumis-clothing.com
 linsoumis.com
 lionheartmoviestitlecontest.com
+liorahelsinki.com
 littlehelsinki.com
 littlemissfinland.com
 liujosuomi.com
@@ -2864,6 +2873,7 @@ millo-suomi.com
 minaistent.org
 minaistent.se
 minilovefinland.com
+minna-helsinki.com
 minorityhelsinki.com
 mintoo-helsinki.com
 minustwosuomi.com
@@ -3367,6 +3377,7 @@ oma-binz.de
 oma-bloc.com
 oma-by-mouna-yaya.com
 oma-capital.com
+oma-celeste.com
 oma-cha.com
 oma-chareef.com
 oma-circles.com
@@ -3756,6 +3767,7 @@ pillerit-suomi.com
 pilviturva.lol
 pinjasuomela.com
 pinklemonfinland.com
+pinkosuomisale.com
 pinkpalmpuff-finland.com
 pinkpalmpufffinland.com
 pinkpalmpuffsuomi.com
@@ -3925,7 +3937,9 @@ qmfinland.shop
 qowfinland.mom
 qsfinland.com
 qtrfinland.net
+quantumfinland.solutions
 quantumhelsinki.com
+quantumhelsinki.solutions
 queertrailfinland.com
 quero-vero-preco-do-pneu.today
 quick-loan-for-you-finland.today
@@ -4018,6 +4032,7 @@ rivero-mebel.ru
 rivero-rp.space
 rivero-studios.com
 rmvfinland.lol
+roamfinland.com
 rockport-suomi.com
 rockysuomi.com
 roobet-finland.com
@@ -4377,6 +4392,7 @@ soumi-sports.com
 soumi.icu
 soumi.org
 soumi.xin
+soumi.xyz
 soumiaasbaai.com
 soumiabeauty.com
 soumiabenchikh.com
@@ -4733,6 +4749,7 @@ suomeenmatkustaminen.com
 suomehome.com
 suomei.art
 suomei.top
+suomeiao.com
 suomeida.com
 suomeitu.com
 suomeiyuan.com
@@ -5785,6 +5802,7 @@ tokaifinland.com
 tokaifinland.online
 tokmannifinland.com
 tokomelisa.online
+tomfinland.ru
 tomisuomi.shop
 tommy-hilfiger-suomi.com
 tommyfinland.com
@@ -5803,6 +5821,7 @@ top10suomi.education
 top10suomi2k.com
 topcasino-helsinki.com
 topchurchfinland.org
+tophelsinki.online
 topkasinotsuomi.com
 topratedsuomi.com
 topsuomi.com
@@ -5838,6 +5857,7 @@ trafco.uk
 trafcodisp.ru
 trafcogroup.com
 trafcoin.com
+trafcolog.net
 trafcom-fi.info
 trafcom-fin.com
 trafcom-fin.info
