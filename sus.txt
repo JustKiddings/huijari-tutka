@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 05/06/2025 07:00 UTC
+# Last modified: 06/06/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -328,6 +328,7 @@ awfinland.shop
 axelarigato-helsinki.com
 ayshensuomen.com
 azurslot-finland.com
+azurslotcasinofinland.com
 azurslotfinland.com
 b2bfinland.com
 b2bfinland.net
@@ -404,6 +405,7 @@ berthold-elisa.com
 best-geme-finland.com
 best10suomi.com
 besteonlinefinland.com
+bestestarcrownfinland.com
 besthelsinki.com
 besthelsinkihotels.com
 bestinsuomi.com
@@ -1321,6 +1323,7 @@ glenfinland.com
 glimpsefinland.club
 globalmobilepay.africa
 globesuomi.com
+glowfinland.sbs
 glowtouchoffinland.shop
 gmifinland.motorcycles
 go-soumission.com
@@ -1356,6 +1359,7 @@ greeninvestfinland.com
 greenlinefinland.com
 greenworkssuomi.com
 groominghelsinki.com
+guessoutletfinland.com
 guesssuomi.com
 guidesuomi.com
 gummyfortummy.com
@@ -1494,6 +1498,12 @@ helsinki-drc-tusabb.info
 helsinki-drc-tusabc.info
 helsinki-drc-tusabd.info
 helsinki-drc-tusabe.info
+helsinki-drc-tusabk.info
+helsinki-drc-tusabl.info
+helsinki-drc-tusabm.info
+helsinki-drc-tusabn.info
+helsinki-drc-tusabo.info
+helsinki-drc-tusabp.info
 helsinki-drec-abaa.info
 helsinki-drec-abab.info
 helsinki-drec-abac.info
@@ -1871,6 +1881,8 @@ helsinkiport.com
 helsinkipremierhotel.com
 helsinkiproductionservices.com
 helsinkiprofessionals.com
+helsinkipulse.click
+helsinkipulse247.click
 helsinkipumpproduction.com
 helsinkiquantum.solutions
 helsinkirep.com
@@ -1931,6 +1943,7 @@ hhwfinland.monster
 hi-elisa.com
 hi-helsinkicity.com
 hibachihelsinki.com
+hierontapalveluaaltonen.com
 hierontapalveluthuoponen.com
 hierontapalvelutkirkasplus.com
 highrollerfinland.com
@@ -1971,6 +1984,7 @@ hoodrichsuomi-ale.com
 hoodrichsuomi-fi.com
 hoodrichsuomi.com
 hosfinland.buzz
+hotel-helsinki.com
 hotelhelsinki.net
 hotelhubsuomi.com
 hotelhuntfinland.com
@@ -2016,6 +2030,7 @@ huoltomaalaus.net
 huoltomiesovelle.com
 huoltopalvelutvepe.com
 huoltopistealhonen.com
+huoltotarra.com
 huoltoyhdistys.net
 huoltoyhtio.com
 hute-suomi.shop
@@ -2142,6 +2157,7 @@ iptv-suomi.net
 iptv-suomi.one
 iptv-suomi.online
 iptv-suomi.org
+iptv-suomi.store
 iptv-suomi.xyz
 iptvfinland.info
 iptvfinland.online
@@ -2635,6 +2651,7 @@ loveshackfancyfinland.com
 loviisansammutinhuolto.com
 lovilux-helsinki.com
 lowellsuomi.net
+lpglobalfinland.com
 lskdsuomi.com
 ltp-siivouspalvelut.com
 lucas-suomela.com
@@ -2863,6 +2880,7 @@ miestenrannekorut.shop
 miestentakki.com
 miestenterveystabletit.info
 miestenvuoro.com
+miinna-helsinki.com
 miitithelsinki.com
 mikanhuolto.com
 millanhoivapalvelut.com
@@ -3571,6 +3589,7 @@ op-fi-asiakaspalvelu-tietosi-auth.com
 op-fi-asiakaspalvelu-verkkopalvel-tietosi-iillll.com
 op-fi-verkkopalvel-asiakaspalvelu-paivita-lsii.com
 op-fi-verkkopalvel-asiakaspalvelu-paivita-omat-iliii.com
+op-fi-verkkopalvelu-tietosi.online
 op-kirjaudu.com
 op-mobiili.net
 op-pankki.com
@@ -4648,6 +4667,7 @@ speedking-suomi.com
 speedking-suomi.net
 sperm-donation-finland-ok.today
 spicafinland.com
+spinando-finland.com
 spinandofinland.com
 spinesurgeryfinland.com
 spinesurgeryinfinland.com
@@ -4709,6 +4729,7 @@ stradivariusfinland.com
 strafconsa.com
 strafconsulting.com
 strandkleid-suomi.shop
+stravero-group.com
 streetfoodfinland.com
 stsiivouspalvelut.com
 stu-ssyfinland.com
@@ -4755,6 +4776,7 @@ suomeitu.com
 suomeiyuan.com
 suomeksi.net
 suomeksilightingroul.online
+suomela.ch
 suomela.nu
 suomen-apteekki.com
 suomen-fi.site
@@ -5380,6 +5402,7 @@ suomisoul.com
 suomisoulcrochet.com
 suomispa.ca
 suomispa.com
+suomispark.xyz
 suomispeak.com
 suomispincasino.com
 suomispinfi.com
@@ -5478,6 +5501,8 @@ suomivarmennus.com
 suomivarmista.info
 suomivedot.com
 suomivibes.com
+suomivibes.space
+suomivibesapp.space
 suomivibesonline.shop
 suomivictory24.com
 suomiviesta.info
@@ -6319,6 +6344,7 @@ vero-csn.com
 vero-csn.site
 vero-cupiditate.site
 vero-deco.fr
+vero-decor.com
 vero-dent.com
 vero-design.com
 vero-dev.com
@@ -6574,6 +6600,7 @@ viikinautohuolto.com
 viivi-helsinki.com
 vikra-helsinki.com
 vilano-suomi.com
+villarrealfinland.com
 villenpalvelut.com
 villisuomi.com
 vinkkipankki.com
