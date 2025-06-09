@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 08/06/2025 07:00 UTC
+# Last modified: 09/06/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -669,6 +669,7 @@ crusino-suomi.com
 cs2suomi.com
 cscfinland.com
 cscmobilepay.com
+csfinland.com
 csuomeia.xyz
 ctheoxltdsuomensivuliike.com
 culturvalencia.com
@@ -916,6 +917,7 @@ elakkeellas-pankki.com
 elakkella-spankki-fimobiili.com
 elakkella-spankki.com
 elakkellaspankki.com
+elamyspalvelut.info
 elamyspalvelut.net
 elanikasoumila.xyz
 elements-suomi.com
@@ -1068,6 +1070,7 @@ fi-elkkeellaspankki.com
 fi-icebugsuomi.com
 fi-kampanja-mobiili.com
 fi-kampanja-spankki.com
+fi-kampanjamobiili-spanki.com
 fi-mobiili-elakkeella.com
 fi-mobiili-kampanja.com
 fi-mobiili-spankki-kampanja-fi.com
@@ -1372,6 +1375,7 @@ guidesuomi.com
 guisuomiu.website
 gummyfortummy.com
 gunturvala.com
+guohaoyj.fun
 guohaoyj.top
 guoyj.top
 gupiaoyj.cn
@@ -1926,6 +1930,7 @@ helsinkitransport.com
 helsinkitrav.com
 helsinkiunited.com
 helsinkiuutiset.com
+helsinkivalley.com
 helsinkivenue.com
 helsinkivenue.net
 helsinkivertiports.com
@@ -2603,6 +2608,7 @@ lifewavex39finland.com
 lightkevytyrittajapalvelu.com
 liidipalvelu.com
 liidisuomi.com
+liikeideapankki.com
 liikenneupseerin-tyopaikat.online
 liikuntasuomi.site
 liisafromfinland.com
@@ -3218,6 +3224,7 @@ netticasino-suomi.com
 netticasinosuomi.shop
 netticasinosuomi.website
 nettikasino-finland.com
+nettikasinosuomi.xyz
 nettikasinotilmanrekisteroitymista.bet
 nettikasinotilmanrekisteroitymista.org
 nettikasinotilmansuomenlisenssia.net
@@ -3253,6 +3260,7 @@ ngvfinland.cam
 ni-pantins-ni-soumis.fr
 nicell-fortum.com
 nichehelsinki.com
+niemi-helsinki.com
 nieuwbouw-elisabeth.online
 nigeriafinland.com
 nightshiftfinland.com
@@ -3370,6 +3378,7 @@ nuvero-bergen.com
 nvgtnsuomifi.com
 nyrdonsuomi.com
 nzfinland.shop
+o-tunnistautuminen.com
 oaqfinland.xyz
 objectfinland.com
 obrazovanie-v-finland.ru
@@ -3395,6 +3404,7 @@ oikeusturva.info
 oikeusturva.org
 oivalakipalvelu.com
 olegsuomi.com
+olivero-ai-vinci.art
 olivero-construction-ubaye.fr
 oma-academy.com
 oma-academy.site
@@ -3873,6 +3883,7 @@ poppankki-viestini.com
 porinalituspalvelu.com
 pornaistentietokonehuolto.com
 poro10finland.com
+portfoliosoumik.shop
 porvoonmuuttopalvelu.com
 porvoonpalvelutalo.store
 possucasinosuomi.com
@@ -4115,6 +4126,7 @@ rturva.biz.id
 ruedxhelsinki.com
 rumahmakantaliwangbersaudara.shop
 rumienmiestenliitto.com
+runvero-line.top
 ruoppaussuominen.com
 russellathleticsuomi.com
 rustsuomi.com
@@ -4383,6 +4395,7 @@ slot-free-finland.site
 slot-game-finland.online
 slotfinland.com
 slotsgemfinland.com
+slotspalace-suomi.com
 slotterfinland.com
 slowtretyopa.com
 slowtretyopa.shop
@@ -4631,6 +4644,7 @@ soumissionssuccession.ca
 soumissionstrois-rivieres.ca
 soumissionsystemedalarme.com
 soumissionthermopompe.net
+soumissiontravaux.com
 soumist.com
 soumit.tech
 soumita.xyz
@@ -5070,6 +5084,7 @@ suomi-education.online
 suomi-fans.com
 suomi-fi-etusivu.online
 suomi-fi-online.icu
+suomi-fi-palvelut.com
 suomi-fi-palvelut.shop
 suomi-fi-verkkopalvelu.com
 suomi-fi-verkkopalvelu.online
@@ -5249,6 +5264,8 @@ suomiexplore.online
 suomifaama.com
 suomifans.site
 suomifeedback.com
+suomifest.com
+suomifi-palvelut.shop
 suomifi.com
 suomifi1.site
 suomifin.eu
@@ -5348,6 +5365,7 @@ suomimeme.xyz
 suomimetalstar.com
 suomimilf.com
 suomimm.top
+suomimobilisa.com
 suomimonky.com
 suomimuoti.store
 suomimystica.com
@@ -5699,6 +5717,7 @@ tbsuomi.com
 tdpfinland.autos
 team-finland.com
 team-kantals.xyz
+teamfinland.info
 ted-baker-suomi.com
 tedbakerssuomi.com
 tedbakersuomi.com
@@ -6312,6 +6331,7 @@ varmaoyj.com
 varmennussuomi.com
 varmistasuomi.com
 varnaoyj.com
+vartiointipalvelumikkola.com
 vaude-suomi.com
 vavada-finland-bonus.com
 vavada-finland-bonus.net
@@ -6534,6 +6554,7 @@ vero-tbt.xyz
 vero-tech.store
 vero-templates.online
 vero-thoi-mien.com
+vero-todentaminen.xyz
 vero-token.com
 vero-token.site
 vero-trade.com
@@ -6943,6 +6964,7 @@ ylwfinland.buzz
 yoga-suomi.com
 yokkaofinland.com
 yomfinland.info
+yorubainfinland.com
 youdaoyj.top
 youinfinland.com
 young-lafinland.com
