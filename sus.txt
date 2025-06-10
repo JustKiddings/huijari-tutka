@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 09/06/2025 07:00 UTC
+# Last modified: 10/06/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -430,6 +430,7 @@ bfinland.top
 bgifinland.info
 bhcfinland.info
 bhelsinki.com
+bigluckysuomi.com
 bilgiegitimkulturvakfi.com
 bilgiegitimkulturvakfi.xyz
 bilgiegitimvekulturvakfi.com
@@ -1900,6 +1901,7 @@ helsinkiprofessionals.com
 helsinkipulse.click
 helsinkipulse247.click
 helsinkipumpproduction.com
+helsinkiquantum.com
 helsinkiquantum.solutions
 helsinkirep.com
 helsinkis.top
@@ -1940,6 +1942,7 @@ helsinkiweather.info
 helsinkiweekend-ui15.top
 helsinkiwhisper.com
 helsinkiww.net
+helsinkiyes.com
 heltti-palvelu.com
 helttipalvelut.com
 helttiterveys.com
@@ -2167,6 +2170,7 @@ intimissimisuomi.com
 intimissimisuomifi.com
 intrumtodennus.com
 intrumturva.com
+inuikiihelsinki.com
 invero-cashton.com
 invest-finland-metals-kh-9392815.fyi
 iotsuomi.net
@@ -2478,6 +2482,8 @@ korttipankki.net
 korulippaat-suomi.shop
 kotiapupalvelu.online
 kotiapupalvelu.site
+kotienhuolto.com
+kotienhuoltopalvelu.com
 kotiinpalvelut.com
 kotipalvelu-ilo-ja-onni.com
 kotipalvelunp.com
@@ -3098,6 +3104,7 @@ modevohelsinki.com
 mohsenmasoumi.nl
 mohsenmasoumi.online
 moncler-suomi.com
+moniva-helsinki.com
 monsinsoumise.com
 monsoonsuomi.com
 montecfinland.com
@@ -3545,8 +3552,10 @@ omakantafin.info
 omakantal-kansalaiset.com
 omakantarypalv.com
 omakantayr.info
+omaposti-fi.com
 omaposti-fi.icu
 omaposti-fi.sbs
+omaposti-viesti.com
 omasp-pankkin.xyz
 omasuomivero.finance
 omaterveys.ai
@@ -3818,6 +3827,7 @@ pilarihelsinki.com
 pilateshelsinki.pro
 pillerit-suomi.com
 pilviturva.lol
+pinballfinland.com
 pinjasuomela.com
 pinklemonfinland.com
 pinkosuomisale.com
@@ -4628,6 +4638,7 @@ soumissionsebenisterie.ca
 soumissionsentretienmenager.ca
 soumissionsfitness.ca
 soumissionsgaragecabanon.ca
+soumissionshypothecaires.com
 soumissionsinfiltrations.ca
 soumissionsmateriaux.ca
 soumissionsmenage.com
@@ -4710,6 +4721,7 @@ spankkielakella.com
 spankkielakkeella-mobiili.com
 spankkielakkeella.com
 spankkific.com
+spankkiifinlandfi.com
 spankkikampanja-fi.com
 spankkimobiili-elakkeella.com
 spankkimobiili.online
@@ -5265,6 +5277,7 @@ suomifaama.com
 suomifans.site
 suomifeedback.com
 suomifest.com
+suomifi-palvelut.com
 suomifi-palvelut.shop
 suomifi.com
 suomifi1.site
@@ -5386,6 +5399,7 @@ suomiof.com
 suomiolut.com
 suomionline.casino
 suomionline.sbs
+suomioriginals.com
 suomiparaspaikat.com
 suomiparturit.com
 suomipelikuuk.com
@@ -6946,6 +6960,7 @@ yarbo-finland.eu
 ydffinland.quest
 yeezyfinland.com
 yellowumbrellatourshelsinki.com
+yeshelsinki.com
 yeti-suomi.com
 yhteydenotto-suomi.site
 yhteydenottopalvelu-suomi.site
