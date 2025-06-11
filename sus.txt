@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 10/06/2025 07:00 UTC
+# Last modified: 11/06/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -1195,6 +1195,7 @@ fortumars.com
 fortumate.com
 fortumatic.com
 fortumbei.com
+fortumcapital.com
 fortumcorporation.com
 fortumebuilders.com
 fortumecoins.com
@@ -1288,6 +1289,7 @@ gatoradesuomi.com
 gbkfinland.today
 gccfinland.monster
 gdqfinland.wiki
+geekbarsuomi.com
 gegu-finland.com
 gelfinland.store
 gelopalvelut.com
@@ -1784,6 +1786,7 @@ helsinkibiolabs.com
 helsinkiblog.com
 helsinkiboattours.com
 helsinkibot.com
+helsinkiboutiquehotel.com
 helsinkibranding.com
 helsinkibtr.com
 helsinkibuses.com
@@ -2309,6 +2312,7 @@ k-palvelusavo.net
 kaavahelsinki.com
 kabu-kantan.com
 kachincommunityfinland.org
+kaikkiterveyteni.com
 kaitesifinland.com
 kaivinkonepalvelut.com
 kajfinland.info
@@ -3105,6 +3109,7 @@ mohsenmasoumi.nl
 mohsenmasoumi.online
 moncler-suomi.com
 moniva-helsinki.com
+monivahelsinki.com
 monsinsoumise.com
 monsoonsuomi.com
 montecfinland.com
@@ -3763,6 +3768,7 @@ parastasuomeatarjousta.com
 paremminsuomessa.net
 parhaat-ilman-rekisteroitymista.com
 parhaat-siivouspalvelut.bond
+parhaat-suomi-kasinot.com
 parhaatsuomihotellit.com
 parhaatsuomiopas.online
 patagohelsinki.com
@@ -4400,6 +4406,7 @@ skisuomi.com
 skp-huolto.com
 skullring-suomi.shop
 skulpturen-suomi.shop
+sleeplessfinland.com
 slipperhelsinki.com
 slot-free-finland.site
 slot-game-finland.online
@@ -4720,6 +4727,7 @@ spankkielakeella.com
 spankkielakella.com
 spankkielakkeella-mobiili.com
 spankkielakkeella.com
+spankkifi-mobiili-kmpanja.com
 spankkific.com
 spankkiifinlandfi.com
 spankkikampanja-fi.com
@@ -6011,6 +6019,7 @@ traficom-fl.com
 traficom-oyj.info
 traficom-palvelu.com
 traficom-virasto.com
+traficom.news
 traficomaestro.com
 traficomagazine.com
 traficomfl.com
@@ -6623,6 +6632,7 @@ viadore-finland.com
 viaggihelsinki.com
 vialore-helsinki.com
 vibramsuomi.com
+vibramsuomishop.com
 victor-bullies-finland.com
 victoriahelsinki.com
 victorias-secretsuomi.com
@@ -6632,6 +6642,7 @@ vidala-helsinki.com
 videoconferencefinland.today
 videohelsinki.com
 videohuoltosfdfs.xyz
+vienza-helsinki.com
 vierellasihyvinvointipalvelut.com
 viesta-spankii.site
 viesta.info
@@ -6800,6 +6811,7 @@ warehouse-positions-in-finland.live
 warehousepackingagenciesinhelsinki375882.icu
 warehousesystemspackaginghelsinki109267.icu
 warmflaschen-suomi.shop
+warmhearthfinland.com
 wartaviesta.info
 wch-finland.org
 wclfinland.com
@@ -7001,6 +7013,7 @@ ysl-finland.com
 yslfinland.com
 ysuomic252.vip
 yukinosuomi.moe
+yuzhaoyj.com
 yxcfinland.guru
 zaramekotsuomi.com
 zarkovsoumisky.com
