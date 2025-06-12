@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 11/06/2025 07:00 UTC
+# Last modified: 12/06/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -1519,11 +1519,13 @@ helsinki-drc-tusabm.info
 helsinki-drc-tusabn.info
 helsinki-drc-tusabo.info
 helsinki-drc-tusabp.info
+helsinki-drc-tusabq.info
 helsinki-drec-abaa.info
 helsinki-drec-abab.info
 helsinki-drec-abac.info
 helsinki-drec-abad.info
 helsinki-fi.com
+helsinki-fi.org
 helsinki-image.com
 helsinki-istanbul-train-tour-package.today
 helsinki-istanbul-train-tour-packages.today
@@ -4098,6 +4100,7 @@ reviewsuomenhotelit.com
 reviewsuomi.com
 rexel-finland.com
 rexelfinland.com
+rhelsinki.com
 rhsfinland.com
 rhydon-helsinki.com
 richardvalvona.uk
@@ -4809,6 +4812,7 @@ strafconsulting.com
 strandkleid-suomi.shop
 stravero-group.com
 streetfoodfinland.com
+streetluxfinland.com
 stsiivouspalvelut.com
 stu-ssyfinland.com
 studentfinland.com
@@ -5758,6 +5762,7 @@ terapiapalvelupaile.com
 terosuomela.art
 tervesypalveluryr.com
 terveyasarvios.com
+terveydenedistaminen.blog
 terveydenhoitopalvelut.com
 terveys.shop
 terveysapteekki.com
@@ -6633,6 +6638,7 @@ viaggihelsinki.com
 vialore-helsinki.com
 vibramsuomi.com
 vibramsuomishop.com
+vibramsuomistore.com
 victor-bullies-finland.com
 victoriahelsinki.com
 victorias-secretsuomi.com
