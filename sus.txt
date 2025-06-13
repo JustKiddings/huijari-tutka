@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 12/06/2025 07:00 UTC
+# Last modified: 13/06/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -263,6 +263,7 @@ asicsoutletsuomi.com
 asicssuomioutlet.com
 asiicssuomi.net
 asino-finland.com
+asiointipalvelu-oma.com
 asiointisuomi.com
 askautohuolto.com
 asoumi.com
@@ -409,6 +410,7 @@ best-geme-finland.com
 best10suomi.com
 besteonlinefinland.com
 bestestarcrownfinland.com
+bestfinland.com
 besthelsinki.com
 besthelsinkihotels.com
 bestinsuomi.com
@@ -967,6 +969,7 @@ era-ja-kalastuspalvelut-suomi-oy.com
 erc-severo-zapad.ru
 erfinland.shop
 erikoispalvelut.online
+ero-asiointipalvelu.com
 eroasuomesta.com
 eroasuomesta.net
 eroasuomesta.org
@@ -1520,6 +1523,8 @@ helsinki-drc-tusabn.info
 helsinki-drc-tusabo.info
 helsinki-drc-tusabp.info
 helsinki-drc-tusabq.info
+helsinki-drc-tusabr.info
+helsinki-drc-tusabs.info
 helsinki-drec-abaa.info
 helsinki-drec-abab.info
 helsinki-drec-abac.info
@@ -2026,6 +2031,8 @@ hotspinsuomi.com
 houkuttelevasuomi.com
 houseofhelsinkiy.xyz
 hrpankkine.com
+hrsuomi.shop
+hrsuomifinland.shop
 hrxfinland.info
 hs-suomi.online
 hs-suomi.ru
@@ -2305,6 +2312,7 @@ julianusturvalisus.com
 julkinenkaupanvahvistaja.com
 jumbofinland.com
 junkremovalvonore.com
+jussisuominen.com
 justdancehelsinki.com
 juupfinland.com
 jvaoyj.info
@@ -2499,6 +2507,7 @@ kpalvelusavo.com
 kpalvelusavo.net
 kpkoirapalvelu.com
 kpopfinland.app
+kreasi-helsinki.com
 kremointipalvelut-suomessa.today
 kremointipalvelut.bond
 kriisiturva.com
@@ -2750,6 +2759,7 @@ makea-viesti.com
 malahosuomi.com
 mallunjuontojaohjelmapalvelut.com
 manoloblahniksuomi.com
+manufacturedinfinland.com
 many-helsinki-events-756119764.today
 marela-helsinki.com
 mariahietanenterapiapalvelut.com
@@ -2991,6 +3001,7 @@ mobiilis-pankki.com
 mobiilispankki.com
 mobiilisti.com
 mobiilitiedot.info
+mobiilitiedot.net
 mobiilitiy-scooters.today
 mobiiliturvallisuus.net
 mobilepay-danmark.info
@@ -3562,6 +3573,8 @@ omakantayr.info
 omaposti-fi.com
 omaposti-fi.icu
 omaposti-fi.sbs
+omaposti-suomi.icu
+omaposti-suomi.sbs
 omaposti-viesti.com
 omasp-pankkin.xyz
 omasuomivero.finance
@@ -4124,6 +4137,7 @@ rivero-studios.com
 rmvfinland.lol
 roamfinland.com
 rockport-suomi.com
+rockrothsuomi.com
 rockysuomi.com
 roobet-finland.com
 ropofinland.com
@@ -4722,6 +4736,7 @@ spankki-kampanjafimobiili-fi.com
 spankki-mobiili-fi.com
 spankki-mobiili-online.com
 spankki-s-mobile.com
+spankki-suomi-kampanja-fi.com
 spankki-viestit.com
 spankki-viestit.net
 spankki-viestit.online
@@ -4773,6 +4788,7 @@ ssmfinland.art
 ssuomiibrilliantballs.com
 stair-lift-finland.bond
 standardfinland.com
+stanley-finland.com
 stanleycupfinland.com
 stanleycupsfinland.com
 stanleyfinland.com
@@ -5367,6 +5383,7 @@ suomileaniksi.com
 suomileikki.info
 suomilife.com
 suomilimoland.com
+suomiline.com
 suomilisenssi.net
 suomilisenssikasinot.com
 suomilocal.com
@@ -5623,6 +5640,7 @@ surronsuomi.com
 susanfetalvero-roces.com
 susihelsinki.com
 sussnaswamiestenso.cfd
+suuntasipaihdepalvelut.org
 suupohjanosuuspankki.net
 suurisuomi.net
 suvereenisuomi.com
@@ -6197,6 +6215,7 @@ tutkisuomea.com
 tutti-sensuomi.com
 tuulenvirepalvelut.com
 tuuli-helsinki.com
+tuvera-suomi.com
 tv-soumitiyu.com
 twinklingtoadstoolhelsinki.com
 tyomaaturvallisuus.com
@@ -6215,6 +6234,7 @@ typocraftshelsinki.com
 tyyli-helsinki.com
 tyylikkaat-naisten-vaatteet.shop
 uae-dellivero-fix.com
+uaemobilepay.pro
 uagsuomi.com
 uapfinland.com
 ublfinland.info
@@ -6370,6 +6390,7 @@ vejafinland.com
 vejasrunningsuomi.com
 vejasuomi-fi.shop
 vejasuomi-fi.top
+velallisenpalvelut.com
 velarahelsinki.com
 velkapalvelu.com
 velmi-helsinki.com
@@ -6381,6 +6402,7 @@ venum-finland.com
 venumsuomifi.com
 verif-soumission.com
 verificer-mobilepay.com
+veritaspalvelut.com
 verkkaponki-kirjaudu.com
 verkkoapteekki-suomi.life
 verkkoapteekkisuomi.life
