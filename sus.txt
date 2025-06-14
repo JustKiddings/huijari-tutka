@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 13/06/2025 07:00 UTC
+# Last modified: 14/06/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -85,6 +85,7 @@ ahertajayrityspalvelu.online
 ai-palvelu.com
 ai-suomi.com
 aiacademyfinland.com
+aiartgalleryfinland.com
 aidinkielenhuoltoasema.com
 aifinland.solutions
 aifinland.xyz
@@ -219,6 +220,7 @@ arisefinland.org
 arminterveys.com
 armobilepay.com
 artbooksfinland.com
+artgalleryfinland.com
 arthelsinki.com
 artigraficheviesti.com
 artsanfinland.com
@@ -296,6 +298,8 @@ auth-s-pankkii-fi.com
 auth-tunnistautuminen-suomi.help
 autofixhelsinki.com
 autohuolto.org
+autohuoltokami.com
+autohuoltokami.net
 autohuoltoon.com
 autohuoltopalokka.com
 autojakonehuolto.com
@@ -394,6 +398,7 @@ befreshsuomi.com
 beklysoumia.com
 beklysoumia.online
 beklysoumia.site
+belano-helsinki.com
 belkinfinland.com
 belkinsuomi.com
 belleinsoumise.com
@@ -517,6 +522,7 @@ calzedoniafinland.com
 calzedoniafinland.top
 camelactivesuomi.com
 camelbak-suomi.com
+camelbakfinland.com
 canadagoosesuomi.top
 cannabisfortumors.com
 caparolfinland.com
@@ -694,6 +700,7 @@ d-id-vahvista.info
 d2q-sl-ab-l-e-ak-r-ep-air-oyj.lat
 daily-helsinki.com
 dancestationsuomi.net
+dandepalvelu.info
 dandysuomi.com
 daoyj.icu
 dapsypalvelut.com
@@ -1861,6 +1868,7 @@ helsinkiharps.com
 helsinkihorizon.com
 helsinkihorizoncompany.com
 helsinkihotelchoice.com
+helsinkihotelroom.com
 helsinkihotelsguide.com
 helsinkihotelsonline.com
 helsinkihouse.cl
@@ -2076,6 +2084,7 @@ hydro-flask-suomi.com
 hydroflasksuomi.com
 hydroflasksuomi.net
 hydrogenfinland.com
+hyggehelsinki.com
 hyhfinland.info
 hyrfinland.world
 hyva-haukku-koirapalvelut.com
@@ -2214,6 +2223,7 @@ iptvsuomi.net
 iptvsuomi.news
 iptvsuomi.sale
 iptvsuomi.shop
+iptvsuomi.store
 iptvsuomi.xyz
 iptvsuomi4k.shop
 iptvsuomilive.com
@@ -2579,6 +2589,7 @@ laskutuspalvelut.net
 lasmi-helsinki.com
 lastenhoitopalvelupikkupanda.com
 lastenvaunut-suomi.shop
+lasuoumifinland.shop
 laterveystalo.com
 lattiapalveluroyal.com
 laurilanpalvelu.com
@@ -3002,6 +3013,7 @@ mobiilispankki.com
 mobiilisti.com
 mobiilitiedot.info
 mobiilitiedot.net
+mobiilitiedot.org
 mobiilitiy-scooters.today
 mobiiliturvallisuus.net
 mobilepay-danmark.info
@@ -3055,6 +3067,7 @@ mobilepaycheck.com
 mobilepayd.com
 mobilepaydanmark.info
 mobilepaydanmark.online
+mobilepaydanmarks.info
 mobilepayding.com
 mobilepaydirect.com
 mobilepaydk.link
@@ -3266,6 +3279,7 @@ neweracapsuomi.com
 neweralippis.com
 neweralippisuomi.com
 newerasuomi.net
+newerasuomi.org
 newerasuomis.com
 newhelsinkibrassquintet.com
 newjcsfinland.sbs
@@ -4234,6 +4248,7 @@ s-pankkimobiili-fi.com
 s-pankkimobiilifi.com
 s-pankkimobile.online
 s-pankkioffer.icu
+s-pankkista.com
 s-pankkitax.icu
 s-siivouspalvelut.com
 s-steel-finland.com
@@ -4616,6 +4631,8 @@ soumissionario.com.br
 soumissionassurance.online
 soumissionassuranceauto.com
 soumissionassurancecollective.com
+soumissionassurancequebec.com
+soumissionassuranceviequebec.com
 soumissionassuranceviesansexamenmedical.com
 soumissionassuredirect.com
 soumissioncarrelage.com
@@ -5121,6 +5138,7 @@ suomi-delta.com
 suomi-ed.com
 suomi-education.com
 suomi-education.online
+suomi-etusivu.com
 suomi-fans.com
 suomi-fi-etusivu.online
 suomi-fi-online.icu
@@ -5640,6 +5658,7 @@ surronsuomi.com
 susanfetalvero-roces.com
 susihelsinki.com
 sussnaswamiestenso.cfd
+suuntasipaihdepalvelut.com
 suuntasipaihdepalvelut.org
 suupohjanosuuspankki.net
 suurisuomi.net
@@ -5753,6 +5772,7 @@ tarjousketsuomessa.website
 tarjousketsuomessa.world
 tarjousketsuomessa.xyz
 taschefinland.com
+tastefinland.com
 tastesoffinland.com
 tattoohelsinki.com
 tawabilmaghniasoumicha.shop
@@ -5969,6 +5989,7 @@ topsuomis.com
 topsuomispill25.click
 topsuomispill25.fun
 topsuomitravel.com
+topupmobilepayment.com
 torbalamakantari.com
 torbalamakantari.xyz
 torihatakanta.com
@@ -6237,6 +6258,7 @@ uae-dellivero-fix.com
 uaemobilepay.pro
 uagsuomi.com
 uapfinland.com
+uavsuomi.com
 ublfinland.info
 ucobssuomishop.org
 ucr-finland.com
@@ -6510,6 +6532,7 @@ vero-homecare.com
 vero-homecare.net
 vero-homes.com
 vero-hurtadolozada.com
+vero-i-nika.ru
 vero-ia.com
 vero-interactive.com
 vero-interiors.com
@@ -6571,6 +6594,7 @@ vero-quibusdam.com
 vero-quintanar.online
 vero-quis.site
 vero-reiki.com
+vero-reprehenderit.com
 vero-retouch.ru
 vero-ro.com
 vero-roma.com
