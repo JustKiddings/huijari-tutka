@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 16/06/2025 07:00 UTC
+# Last modified: 17/06/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -571,6 +571,7 @@ catfootwear-suomi.com
 catskengatsuomi.com
 catsuomi.top
 caturva.org
+cavero-profesional.com
 cawfinland.info
 cbcafinland.com
 cbdcmobilepay.com
@@ -1553,6 +1554,11 @@ helsinki-drc-tusabs.info
 helsinki-drc-tusabt.info
 helsinki-drc-tusabu.info
 helsinki-drc-tusabv.info
+helsinki-drc-tusabw.info
+helsinki-drc-tusabx.info
+helsinki-drc-tusaby.info
+helsinki-drc-tusabz.info
+helsinki-drc-tusacaa.info
 helsinki-drec-abaa.info
 helsinki-drec-abab.info
 helsinki-drec-abac.info
@@ -1819,6 +1825,7 @@ helsinkibachatablast.com
 helsinkibiennale.com
 helsinkibiolabs.com
 helsinkiblog.com
+helsinkiboattour.com
 helsinkiboattours.com
 helsinkibot.com
 helsinkiboutiquehotel.com
@@ -3578,6 +3585,8 @@ oma-pinheiros.com
 oma-podcast.de
 oma-posti-fi.com
 oma-posti-fi.icu
+oma-posti-suomi.icu
+oma-posti-suomi.sbs
 oma-posti.com
 oma-posti.icu
 oma-posti.site
@@ -3635,6 +3644,7 @@ omakantayr.info
 omaposti-fi.com
 omaposti-fi.icu
 omaposti-fi.sbs
+omaposti-suomi.com
 omaposti-suomi.icu
 omaposti-suomi.sbs
 omaposti-viesti.com
@@ -3789,6 +3799,7 @@ palladiumsuomifi.com
 palmupalvelut.com
 paloturvallisuus.net
 paloturvapiste.com
+palvelu-lowell.com
 palvelu-suomi.site
 palvelu.com
 palvelu.top
@@ -3858,6 +3869,7 @@ patternsfromfinland.com
 pay-finland.cfd
 pay-suomi.cfd
 paylevocasino-finland.top
+paysuomi.com
 pchuolto.com
 peakperformance-suomi.net
 pecaviestate.com
@@ -3989,6 +4001,9 @@ posti-fi.life
 posti-fi.net
 posti-fi.sbs
 posti-fin-fi.buzz
+posti-suomi.com
+posti-suomi.icu
+posti-suomi.sbs
 posti-suomi.site
 postifinland.delivery
 postisuomen.site
@@ -4321,6 +4336,7 @@ saastoppankki.sbs
 saaviestates.com
 saavuttamatonmielenterveyteni.com
 safe-mobilepay.ru
+safecasinosuomi.com
 safetyfinland.com
 sahkomieshelsinki.net
 sahkopalvelu-vuori.com
@@ -4592,6 +4608,7 @@ soumiai.com
 soumiaimmobilier.com
 soumiam.com
 soumiamaachi.info
+soumiamekkaoui.com
 soumiao.net
 soumiasfit.com
 soumiashop.com
@@ -4902,6 +4919,7 @@ stockholm-helsinki.com
 stofixfinland.com
 stogasuomicsvamin.fun
 stonevegasfinland.com
+storifyfinland.com
 stradivariusfinland.com
 strafconsa.com
 strafconsulting.com
@@ -5336,10 +5354,12 @@ suomiauto.com
 suomiautodeals.bond
 suomib.com
 suomibest.com
+suomibestexperience.com
 suomibestreviews.com
 suomibetmaster.com
 suomibetsfi.com
 suomibettimaster.com
+suomibigvibe.com
 suomibingo.com
 suomibox.com
 suomibrilliantballs.com
@@ -5531,7 +5551,9 @@ suomipelyt.com
 suomipickleball.com
 suomipictures.org
 suomipiha.com
+suomipilvi.com
 suomipilvi.info
+suomipilvi.net
 suomipilvi.org
 suomipirtti.org
 suomiply.com
@@ -6686,6 +6708,7 @@ vero-roma.com
 vero-sa.com
 vero-sante-support.com
 vero-santiago.com
+vero-schwarz.com
 vero-se.com
 vero-sicurezza.co.uk
 vero-sicurezza.com
@@ -6709,6 +6732,7 @@ vero-suomi.sbs
 vero-sydney.com
 vero-synthai.fun
 vero-talent.com
+vero-talent.net
 vero-tbt.xyz
 vero-tech.store
 vero-templates.online
@@ -6726,6 +6750,7 @@ vero-valore.co.uk
 vero-valore.com
 vero-valore.fr
 vero-valore.uk
+vero-value.com
 vero-velo.com
 vero-vera.com
 vero-vero.art
@@ -6790,6 +6815,7 @@ viesteja-suomi.com
 viesti-fi-sms.site
 viesti-fi.site
 viesti-info.site
+viesti-omaposti-fi.com
 viesti-omavero.icu
 viesti-omavero.sbs
 viesti-sms-fi.site
@@ -6915,6 +6941,7 @@ volgaclubfinland.com
 volthelsinki.com
 vondutchfinland.com
 vondutchsuomi.com
+vonio-helsinki.com
 voopoofinland.com
 voopoovapesuomi.com
 vozolfinland.com
@@ -7120,6 +7147,7 @@ yhteydenpito-suomi.site
 yhteys-suomi.site
 yhteys.ai
 yhteys.net
+yhteys.org
 yhteystiedotsuomi.com
 yiffinland.info
 yigitkulturvakfii.net
