@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 17/06/2025 07:00 UTC
+# Last modified: 18/06/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -228,6 +228,7 @@ artbooksfinland.com
 artgalleryfinland.com
 arthelsinki.com
 artigraficheviesti.com
+artiviesta.com
 artsanfinland.com
 artsanfinland.net
 arvokoruhelsinki.com
@@ -412,6 +413,7 @@ belleviestationery.com
 beloylyhelsinki.com
 benoa-palvelut.com
 benoapalvelut.com
+benovia-helsinki.com
 benshermansuomi.com
 berlin-finland-coach-tour-package-de.sbs
 berlin-insoumise.org
@@ -697,6 +699,7 @@ culturvated.life
 culturvatedchef.com
 culturvations.com
 culturvations.online
+culturvator.org
 cuprahuolto.online
 customersupportfinland.com
 cutprofinland.com
@@ -873,6 +876,7 @@ duviestates.co.uk
 duviestates.com
 dwgfinland.com
 dxcfinland.info
+e-fortum.ru
 e-makantasis.com
 e-makantasis.gr
 e-suomen.site
@@ -1917,11 +1921,13 @@ helsinkilm.lol
 helsinkilottery.com
 helsinkiluxury.com
 helsinkim.com
+helsinkimag.com
 helsinkimainos.com
 helsinkimassage.com
 helsinkimetaversemarket.com
 helsinkimint.com
 helsinkimint.se
+helsinkimirror.com
 helsinkimushroomfestival.com
 helsinkimusical.com
 helsinkinews.buzz
@@ -2019,6 +2025,7 @@ hierontapalvelutkirkasplus.com
 highrollerfinland.com
 highrollerfinland.net
 highrollersuomi.com
+hihelsinki.com
 hillasuomi.com
 hinauspalvelu-moilanen.com
 hinauspalvelu.website
@@ -3277,6 +3284,7 @@ naistenmekot.com
 naistenmuotia.com
 naistenmutajuoksu.com
 naistenpankki.com
+naistenterveys.com
 naistenurheiluasut.com
 naisyrittajatsuomi.com
 nakedwolfefinland.com
@@ -3425,6 +3433,7 @@ nopea-online-laina-ilman-pankkia.today
 nopeasuomipalvelu.online
 nopeatpelipalvelut.info
 nordeasuomi.com
+nordefinland.com
 nordic-helsinki.com
 nordicaoilsfinland.com
 nordicwalkinghelsinki.pro
@@ -3469,6 +3478,7 @@ nutraficorporate.com
 nutrihealthfinland.com
 nutrilabfinland.com
 nuvero-bergen.com
+nuvora-helsinki.com
 nvgtnsuomifi.com
 nyrdonsuomi.com
 nzfinland.shop
@@ -3660,6 +3670,7 @@ omavero-fi1.com
 omavero-fin.com
 omavero-finn.com
 omavero-online.com
+omavero-suomi-viesti.com
 omavero-suomi.com
 omavero-veronpalautus.info
 omavero-viesti.icu
@@ -3764,6 +3775,7 @@ ostakannabistaverkostasuomessa.top
 osuus-pankki.com
 osuuspankin-op-fi-asiakaspalvelu-paivita-i.com
 osuuspankin-op-fi-asiakaspalvelu-verkkopalvel-omat-iii.com
+osuuspankin-op-verkkopalvelu-op-fi.com
 osuuspankki-fi.com
 osuuspankki-fi1.com
 osuuspankki2.com
@@ -5071,6 +5083,7 @@ suomenkaihdin.com
 suomenkaihdincenter.com
 suomenkaihdinkeskus.com
 suomenkaista.online
+suomenkartanot.com
 suomenkasinoarvostelut.com
 suomenkasinobonus.com
 suomenkasinobonus.net
@@ -5267,6 +5280,7 @@ suomi-online.com
 suomi-online.icu
 suomi-palveluja.com
 suomi-palvelun.site
+suomi-palvelut-fi.com
 suomi-palvelut.com
 suomi-palvelut.shop
 suomi-pay.cfd
@@ -5539,6 +5553,7 @@ suomiolut.com
 suomionline.casino
 suomionline.sbs
 suomioriginals.com
+suomipalvelut-fi.com
 suomiparaspaikat.com
 suomiparturit.com
 suomipelikuuk.com
@@ -5773,6 +5788,7 @@ swinginhelsinki.com
 synlawnfinland.com
 synlawnhelsinki.com
 syomapuikot-suomi.shop
+syruphelsinki.com
 syvellssuomi.com
 tahtaimessaterveys.com
 taigatrekfinland.com
@@ -6668,6 +6684,7 @@ vero-luxe.net
 vero-magni.com
 vero-manager.site
 vero-manager2.com
+vero-med.ru
 vero-media.net
 vero-microfluent.com
 vero-milano.it
@@ -6903,6 +6920,7 @@ virtuaalisuomi.com
 virtuaaliterveys.online
 visifinland.com
 visitahelsinki.online
+visitfinland.online
 visitlaplandfinland.com
 vistasfinland.com
 visuomis.com
