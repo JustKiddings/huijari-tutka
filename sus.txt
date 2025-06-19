@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 18/06/2025 07:00 UTC
+# Last modified: 19/06/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -142,6 +142,7 @@ alexandrafinland.com
 alibarbarvapesuomi.com
 alimasoumi.info
 alisapankki.online
+alium-helsinki.com
 allasvuokraus-kokoukset-helsinki-624362939.today
 allbirdssuomi-fi.com
 allekirjoituspalvelu.com
@@ -1367,6 +1368,7 @@ glimpsefinland.club
 globalmobilepay.africa
 globesuomi.com
 glowfinland.sbs
+glowmed-elisabeth.xyz
 glowtouchoffinland.shop
 gmifinland.motorcycles
 go-soumission.com
@@ -2074,6 +2076,7 @@ hotelshelsinkifinland.net
 hotspinsuomi.com
 houkuttelevasuomi.com
 houseofhelsinkiy.xyz
+howzitfinland.com
 hrpankkine.com
 hrsuomi.com
 hrsuomi.shop
@@ -2640,6 +2643,7 @@ lastenhoitopalvelupikkupanda.com
 lastenvaunut-suomi.shop
 lasuoumifinland.com
 lasuoumifinland.shop
+latasseinsoumise.com
 laterveystalo.com
 lattiapalveluroyal.com
 laurilanpalvelu.com
@@ -3004,6 +3008,7 @@ minna-helsinki.com
 minorityhelsinki.com
 mintoo-helsinki.com
 minustwosuomi.com
+mirabel-helsinki.com
 mirshturvalov.ru
 mis-finland.com
 misasuomi.shop
@@ -3182,6 +3187,7 @@ mobilepayverifydk.com
 mobilepaywalls.com
 mobilepaywo.info
 mobilitybedfinland.today
+mobillisifinland.com
 mobillispankki.online
 mobilllepayylasuomii.com
 modavero-bucuresti.com
@@ -3650,6 +3656,7 @@ omakantafi.info
 omakantafin.info
 omakantal-kansalaiset.com
 omakantarypalv.com
+omakantasuomi.shop
 omakantayr.info
 omaposti-fi.com
 omaposti-fi.icu
@@ -4401,6 +4408,7 @@ sauna-manufacturers-finland-783346085.today
 sauna-suppliers-finland-128528036.live
 saunachannelfinland.com
 saunanfromfinland.com
+saunaoffinland.se
 saunas-finland-136215910.click
 saunas-finland-172191398.click
 saunashopfinland.com
@@ -5391,6 +5399,7 @@ suomichancehub.com
 suomichoices.com
 suomiclub.com
 suomiclub.ru
+suomiclub.store
 suomicoin.com
 suomicojp.com
 suomiconnect.site
@@ -5526,6 +5535,7 @@ suomimetalstar.com
 suomimilf.com
 suomimm.top
 suomimobilisa.com
+suomimobilissi.com
 suomimonky.com
 suomimuoti.store
 suomimystica.com
