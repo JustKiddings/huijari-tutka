@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 19/06/2025 07:00 UTC
+# Last modified: 20/06/2025 07:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -34,6 +34,7 @@
 24suomi.org
 27ooyj.us
 27turvap.ink
+2esoumission.com
 3soumissionmenage.com
 4tturva.com
 5-popankki-fi.com
@@ -304,6 +305,7 @@ aussiesuomi.net
 australian-cobberdog-finland.com
 auth-s-pankkii-fi.com
 auth-tunnistautuminen-suomi.help
+authorokothowityopap.com
 autofixhelsinki.com
 autohuolto.org
 autohuoltokami.com
@@ -919,6 +921,7 @@ egitimkulturvakfi.org
 egitimkulturvakfi.xyz
 eid-konto-mobilepay.mobi
 eidbroker-mobilepay.fyi
+einosuomen.com
 ejdfinland.com
 ekoterveys.com
 eksklusiivisetsuomi.com
@@ -1817,6 +1820,7 @@ helsinki24.com
 helsinki5000.com
 helsinkiaamu.org
 helsinkiadorn.com
+helsinkiaethetics.com
 helsinkiai.solutions
 helsinkiaihub.com
 helsinkiairport.rocks
@@ -2014,6 +2018,7 @@ herhelsinki.com
 herrenschmuck-suomi.shop
 hetkihelsinki.com
 hevospalveluvaisanen.com
+hexeafinland.com
 heyfinland.com
 heyhelsinki.com
 hhaoyj.sbs
@@ -2134,6 +2139,7 @@ hyrfinland.world
 hyva-haukku-koirapalvelut.com
 hyvinkaansiivouspalvelu.com
 hyvinvointipalvelutjussila.net
+hyvinvointipalvelutrennompi.com
 hzpirkulturvakfi.org
 hzpirkulturvakfi.xyz
 hzsoumi.xyz
@@ -2310,6 +2316,7 @@ jackpot-finlands.cfd
 jackpot-finlands.cyou
 jackwolfskinsuomi.com
 jackwolfskinsuomi.shop
+jackwolfskinsuomi.top
 jadorestudio-helsinki.com
 jahansanatmasoumi.com
 jalkapallosuomi.com
@@ -2641,6 +2648,7 @@ laskutuspalvelut.net
 lasmi-helsinki.com
 lastenhoitopalvelupikkupanda.com
 lastenvaunut-suomi.shop
+lastupdaatingspankki.com
 lasuoumifinland.com
 lasuoumifinland.shop
 latasseinsoumise.com
@@ -3656,6 +3664,7 @@ omakantafi.info
 omakantafin.info
 omakantal-kansalaiset.com
 omakantarypalv.com
+omakantasuomi.com
 omakantasuomi.shop
 omakantayr.info
 omaposti-fi.com
@@ -3861,6 +3870,7 @@ pankkitalo.net
 pannkiifinland.com
 pannkiifinland.shop
 panokavereita-helsinki.online
+panslotsuomi.club
 panterahelsinki.com
 pantsuoffinland.cn
 panttipankki.com
@@ -4408,6 +4418,7 @@ sauna-manufacturers-finland-783346085.today
 sauna-suppliers-finland-128528036.live
 saunachannelfinland.com
 saunanfromfinland.com
+saunaoffinland.com
 saunaoffinland.se
 saunas-finland-136215910.click
 saunas-finland-172191398.click
@@ -4886,6 +4897,7 @@ spinesurgeryinfinland.com
 spinlinefinland.com
 spinsuomi.com
 spinz-suomi.com
+spoonkkifinland.com
 sport-bet-finland.online
 sportbetssuomi.com
 sportfinland.online
@@ -4953,6 +4965,7 @@ studentfinland.com
 studiohelsinki.com
 studioksoumine.sn
 studiomasoumi.com
+studiopuistofinland.com
 studiopuistohelsinki.com
 studyinfinland.today
 stussy-suomi.com
@@ -5543,6 +5556,7 @@ suomin.jp
 suominature.com
 suomineapq.info
 suominedlw.tattoo
+suomineidotriisuu.com
 suomineipg.live
 suomineklb.com
 suomineqrn.click
@@ -5564,6 +5578,7 @@ suomionline.casino
 suomionline.sbs
 suomioriginals.com
 suomipalvelut-fi.com
+suomipan.club
 suomiparaspaikat.com
 suomiparturit.com
 suomipelikuuk.com
@@ -6551,6 +6566,7 @@ velvero-team.com
 vendingfinland.online
 venla-helsinki.com
 venum-finland.com
+venumfinland.com
 venumsuomifi.com
 verif-soumission.com
 verificer-mobilepay.com
@@ -6608,6 +6624,7 @@ vero-ca.net
 vero-ca.org
 vero-ca.xyz
 vero-capital.com
+vero-check.com
 vero-clothing.store
 vero-coach.com
 vero-coach.nu
@@ -7039,6 +7056,7 @@ wnpfinland.website
 wodka-finlandia.pl
 wolfhelsinki.com
 wolmarkfinland.com
+woodworkingfinland.com
 workerinfinland.com
 workinhelsinki.com
 workofsoumik.com
