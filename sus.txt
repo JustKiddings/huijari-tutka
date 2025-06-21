@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 20/06/2025 07:01 UTC
+# Last modified: 21/06/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -422,6 +422,9 @@ berlin-finland-coach-tour-package-de.sbs
 berlin-insoumise.org
 berry-helsinki.com
 berthold-elisa.com
+best-casino-finland-for-android.shop
+best-casino-finland-free-credit.shop
+best-casino-finland.shop
 best-geme-finland.com
 best10suomi.com
 besteonlinefinland.com
@@ -549,8 +552,11 @@ cartiersuomi.net
 casasuomi.com
 casavero-dubai.com
 casinhelsinki.com
+casino-finland-free-credit.shop
+casino-games-real-money-finland.shop
 casino-mobilepay-danske.com
 casino-suomi.net
+casino-welcome-bonus-finland.shop
 casino360finland.com
 casinohelsinki.online
 casinonorthfinland.com
@@ -1334,6 +1340,7 @@ gennova-suomi.com
 gennovasuomi.com
 genpotfinland.company
 gensoumise.com
+genting-casino-finland-register.shop
 germany-finland-train-holiday-deals.today
 gerryweberfinland.com
 gerrywebersuomi.com
@@ -1472,6 +1479,7 @@ helly-hansensuomi.com
 hellyhansen-suomi.com
 helmariterveys.com
 helmarterveys.com
+helmi-helsinki.com
 helmisuomi.com
 helpmefinland.com
 helpmefinland.store
@@ -2082,6 +2090,8 @@ hotspinsuomi.com
 houkuttelevasuomi.com
 houseofhelsinkiy.xyz
 howzitfinland.com
+hrfighterfinland.com
+hrmobiilisi.com
 hrpankkine.com
 hrsuomi.com
 hrsuomi.shop
@@ -2436,6 +2446,7 @@ kantapalveluonline.info
 kantapalvelury.com
 kantapalvelut-tunnistautnminen.com
 kantapalvelut-tunnistautuminen.com
+kantatunnistautuminen.digital
 karajafinland.com
 karikaturvakfi.org
 karlkanisuomi.com
@@ -2606,6 +2617,7 @@ kyafinland.shop
 kyberterveyskeskus.com
 kyberterveyskeskus.info
 kymmenensuomi.com
+kyytipalvelu.org
 la-monipalvelu.com
 laakaripalvelut.xyz
 laakehoidonturva.com
@@ -2740,6 +2752,7 @@ lodgingfinland.com
 logicshelsinki.com
 logistics-finland-kh-7434042.world
 loimaanasuntopalvelu.com
+loimihuolto.com
 lokifinland.com
 lomajaterveys.com
 lomallesisuomessa.com
@@ -2773,6 +2786,7 @@ lpglobalfinland.com
 lskdsuomi.com
 lsuomineqn.homes
 lsuominetl.skin
+ltc-finland.com
 ltp-siivouspalvelut.com
 lucas-suomela.com
 luckynordicfinland.com
@@ -3667,6 +3681,7 @@ omakantarypalv.com
 omakantasuomi.com
 omakantasuomi.shop
 omakantayr.info
+omakirjaudu.com
 omaposti-fi.com
 omaposti-fi.icu
 omaposti-fi.sbs
@@ -3675,6 +3690,7 @@ omaposti-suomi.icu
 omaposti-suomi.sbs
 omaposti-viesti.com
 omasp-pankkin.xyz
+omasuomi.shop
 omasuomivero.finance
 omaterveys.ai
 omaturva.org
@@ -4088,6 +4104,7 @@ proterveystalo.com
 provedotsuomi.com
 provoicefinland.com
 proweb-jssuomi.com
+proworkerfinland.com
 pruthviestates.com
 przeprowadzki-finlandia.com
 psgturva.com
@@ -4548,6 +4565,7 @@ skullring-suomi.shop
 skulpturen-suomi.shop
 sleeplessfinland.com
 slipperhelsinki.com
+slot-casino-finland.shop
 slot-free-finland.site
 slot-game-finland.online
 slotfinland.com
@@ -4667,6 +4685,7 @@ soumikbarber.com
 soumikbengaltourism.com
 soumikbiz.com
 soumikchakraborty.com
+soumikchatterjee.online
 soumikchaudhuri.tech
 soumikd4.tech
 soumikmanna.com
@@ -4951,6 +4970,7 @@ stockholm-helsinki.com
 stofixfinland.com
 stogasuomicsvamin.fun
 stonevegasfinland.com
+stopagfinland.com
 storifyfinland.com
 stradivariusfinland.com
 strafconsa.com
@@ -5939,6 +5959,8 @@ terapiajavalmennuspalveluhoxu.net
 terapiapalvelupaile.com
 terosuomela.art
 tervesypalveluryr.com
+tervetuloa-s-pankkiin.com
+tervetuloas-pankkiin.com
 terveyasarvios.com
 terveydenedistaminen.blog
 terveydenhoitopalvelut.com
