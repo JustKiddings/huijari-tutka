@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 22/06/2025 07:00 UTC
+# Last modified: 23/06/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -82,6 +82,7 @@ afriqueinsoumise.com
 aft-finland.com
 agifinland.com
 agriturvalle.com
+agriviestitaly.org
 aguidetofinland.com
 ahertajayrityspalvelu.com
 ahertajayrityspalvelu.online
@@ -837,6 +838,7 @@ djpalvelu.com
 dk-mobilepay.info
 dlr-huolto-ja-pesu.com
 dlshensuomen.com
+dmc-helsinki.com
 dnrhelsinki.com
 docmartenssuomi.com
 docmartensuomi.com
@@ -1199,6 +1201,7 @@ flightstofinland.com
 flirttisuomi.com
 flowhelsinki.com
 flowproductionsfinland.com
+fluxhelsinki.com
 flyhelsinki.com
 flyingdresshelsinki.com
 fmafinland.com
@@ -1916,6 +1919,7 @@ helsinkiha.com
 helsinkihackathon.com
 helsinkihairhub.com
 helsinkiharps.com
+helsinkiheatseekers.com
 helsinkihorizon.com
 helsinkihorizoncompany.com
 helsinkihotelchoice.com
@@ -2660,6 +2664,7 @@ landyhelsinki.com
 lanoire-suomi.com
 lanova-helsinki.com
 lanovahelsinki.com
+laoliaoyj.com
 lapinputkihuolto.com
 lapinputkihuolto.net
 lapinputkihuolto.org
@@ -3162,6 +3167,7 @@ mobilepaycasinot.com
 mobilepaycasinot.info
 mobilepaycasinot.net
 mobilepaycasinot.org
+mobilepaycenter.com
 mobilepaycheck.com
 mobilepayd.com
 mobilepaydanmark.info
@@ -3468,6 +3474,7 @@ nobullsuomi.com
 nodigfinland.com
 noe-palvelut.com
 nohatefinland.org
+noktakantar.xyz
 nomavero.co.uk
 nomavero.com
 nomavero.info
@@ -3675,6 +3682,7 @@ oma-und-opa-tag.org
 oma-unplugged.com
 oma-up.org
 oma-vergisst.at
+oma-verlag.online
 oma-vero.com
 oma-vero.sbs
 oma-veroo.sbs
@@ -4736,6 +4744,7 @@ soumine.ru
 souminecraft.com
 soumineirouai.com.br
 soumingdan.com
+soumingshi.com
 soumingzi.com
 souminhachefa.com
 souminhamaquiadora.com
@@ -4848,6 +4857,7 @@ soumissionstrois-rivieres.ca
 soumissionsystemedalarme.com
 soumissionthermopompe.net
 soumissiontravaux.com
+soumissmart.com
 soumist.com
 soumit.tech
 soumita.xyz
@@ -4933,6 +4943,7 @@ sperm-donation-finland-ok.today
 spicafinland.com
 spinando-finland.com
 spinandofinland.com
+spinandosuomi.com
 spinesurgeryfinland.com
 spinesurgeryinfinland.com
 spinlinefinland.com
@@ -5418,6 +5429,7 @@ suomiadventure.com
 suomiadventure.rest
 suomiadventure.sbs
 suomiadventure365.sbs
+suomiadventureapp.com
 suomiadventureapp.sbs
 suomiai.com
 suomialfa.com
@@ -6628,6 +6640,7 @@ verkkokontakti-suomi.site
 verkkokoulutunnistautuminen.com
 verkkopalvelu-fi.com
 verkkopalvelu-suomi.site
+verkkopalvelumysoumi.shop
 verkkopalvelut-fi.com
 verkkopankkiin-fi.com
 verkkopankkiin-fi.online
@@ -6976,6 +6989,7 @@ vippsmobilepay.org
 viralo-helsinki.com
 virelasuomi.com
 virikepalveluseija.pro
+virtanenssoumi.com
 virtanenssuomi.com
 virtuaalinen-terveys-0.online
 virtuaalinen-terveys-1.online
