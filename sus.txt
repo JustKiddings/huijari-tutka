@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 24/06/2025 07:00 UTC
+# Last modified: 25/06/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -1843,6 +1843,8 @@ helsinki.vodka
 helsinki.voyage
 helsinki10000.com
 helsinki2017.com
+helsinki2025.online
+helsinki2025.store
 helsinki24.com
 helsinki5000.com
 helsinkiaamu.org
@@ -3168,8 +3170,10 @@ mobilepay.llc
 mobilepay.lol
 mobilepay.nu
 mobilepay.pro
+mobilepay.services
 mobilepay.site
 mobilepay.space
+mobilepay.store
 mobilepay.top
 mobilepay.website
 mobilepay24.com
@@ -3756,6 +3760,8 @@ omavero-suomi.com
 omavero-veronpalautus.info
 omavero-viesti.icu
 omavero-viesti.sbs
+omavero-viestin.icu
+omavero-viestin.sbs
 omavero.cfd
 omavero.info
 omavero.top
@@ -4479,6 +4485,7 @@ sassoumiracles.com
 sataturva.online
 satisfyrunningsuomi.com
 saturvalawassociates.com
+satyopath24.info
 sauconysuomioutlet.com
 saudifinland.com
 sauna-finlandesa.cfd
@@ -4949,6 +4956,7 @@ spankki-suomi-kampanja-fi.com
 spankki-viestit.com
 spankki-viestit.net
 spankki-viestit.online
+spankki.site
 spankkielaakkeella.com
 spankkielakeella.com
 spankkielakella.com
@@ -5522,6 +5530,7 @@ suomidt.com
 suomie.website
 suomielectric.bond
 suomielectric.today
+suomienglanti.com
 suomiensin.com
 suomier.cn
 suomiescort.com
@@ -6516,6 +6525,7 @@ ulpukanhuolto.shop
 ultrafcootball.shop
 umnasserfinland.edu.bh
 uncoverfinland.com
+unelmakotipalvelu.com
 unfinland.shop
 uniek-finland.com
 uniqlo-finland.com
@@ -6659,6 +6669,7 @@ velkapalvelu.com
 velmi-helsinki.com
 velvero-style.com
 velvero-team.com
+vend-torin-turvallisuus.icu
 vendingfinland.online
 venla-helsinki.com
 venum-finland.com
