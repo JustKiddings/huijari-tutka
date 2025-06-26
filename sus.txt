@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 25/06/2025 07:00 UTC
+# Last modified: 26/06/2025 07:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -324,6 +324,7 @@ autolasipalvelu.com
 autolasipalvelu.net
 automavero.com
 automobiilio.com
+autoniturva.com
 autonosiasuomi.com
 autopalvelukotkaoy.com
 autopalveluvuottolahti.com
@@ -497,6 +498,7 @@ bookingtaxi-finland.com
 boomkarhufinland.com
 boostmobilepay.com
 borenpalvelu.com
+boshoryfinland.com
 bottegaveneta-finland.com
 bottegaveneta-suomi.com
 bottegavenetafinland.com
@@ -575,6 +577,7 @@ casinosuomi.click
 casinosuomi.net
 casinoswipersuomi.com
 casisuomi10.com
+caspero-finland.com
 castoresuomi.com
 catalanstylefinland.com
 catanrivero-ia.com
@@ -898,6 +901,7 @@ duolifypalvelut.com
 duschzubehor-suomi.shop
 duviestates.co.uk
 duviestates.com
+dviestates.com
 dwgfinland.com
 dxcfinland.info
 e-fortum.ru
@@ -1863,6 +1867,7 @@ helsinkiartservice.com
 helsinkibachatablast.com
 helsinkibiennale.com
 helsinkibiolabs.com
+helsinkibitcoin.com
 helsinkiblog.com
 helsinkiboattour.com
 helsinkiboattours.com
@@ -1992,6 +1997,7 @@ helsinkipulse247.click
 helsinkipumpproduction.com
 helsinkiquantum.com
 helsinkiquantum.solutions
+helsinkiqzvmt.com
 helsinkirep.com
 helsinkis.top
 helsinkisaunaboats.com
@@ -2025,6 +2031,7 @@ helsinkivalley.com
 helsinkivenue.com
 helsinkivenue.net
 helsinkivertiports.com
+helsinkiviajes.store
 helsinkivoyage.com
 helsinkiwealth.com
 helsinkiweather.info
@@ -2551,6 +2558,7 @@ kiplinglaukutsuomi.com
 kiplingsuomi-fi.com
 kirjanpitopalvelu.com
 kirjaudu-aktia.net
+kirjaudu-ilmarinen.com
 kirjaudu-oma.com
 kirjaudu-omakanta.com
 kirjaudu-online.com
@@ -3734,6 +3742,7 @@ omakantasuomi.com
 omakantasuomi.shop
 omakantayr.info
 omakirjaudu.com
+omakirjaudutunnis.com
 omaposti-fi.com
 omaposti-fi.icu
 omaposti-fi.sbs
@@ -3758,6 +3767,7 @@ omavero-online.com
 omavero-suomi-viesti.com
 omavero-suomi.com
 omavero-veronpalautus.info
+omavero-viesti.help
 omavero-viesti.icu
 omavero-viesti.sbs
 omavero-viestin.icu
@@ -4036,6 +4046,7 @@ pinkpalmpuffsuomi.com
 pinocchiohelsinki.com
 pintahuolto.com
 pintapalvelu.com
+pistolo-finland.com
 pit-vipersuomi.shop
 planfinland.info
 plangamesfinland.com
@@ -4200,6 +4211,7 @@ puutarhapalvelutaimi.com
 puutarhurin-tyopaikat.online
 puuturva.com
 pwofinland.homes
+py-asiakaspalvelu.com
 pyrenexsuomi.com
 pyretrinfinland.com
 pyro-helsinki.com
@@ -4254,6 +4266,7 @@ rakennuspalvelut-ismo-koponen.com
 rakennuspalvelutismokoponen.com
 rakennuspalveluvilcore.com
 rakennustietopankki.com
+rallyxkouvolafinland.com
 ralph-lauren-suomi.com
 ralphlaurensuomi.com
 ramakantaseva.org
@@ -4300,6 +4313,7 @@ revero-fruit.com
 revero-shop.de
 reviewsuomenhotelit.com
 reviewsuomi.com
+revire-suomi.com
 rexel-finland.com
 rexelfinland.com
 rhelsinki.com
@@ -4446,6 +4460,7 @@ safetyfinland.com
 sahkomieshelsinki.net
 sahkopalvelu-vuori.com
 sahkopalvelutsalmi.com
+sailingfinland.com
 sailwind-finland.com
 saimaatravelfinland.com
 saimmobiilier.com
@@ -4573,6 +4588,7 @@ shotbarfinland.com
 showposuomi.com
 showroomhelsinki.com
 shrivivekyogahelsinki.com
+sialviestate.com
 sialviestateandbuilders.com
 sidifinland.com
 sidisuomi.net
@@ -5007,6 +5023,7 @@ ssl-omavero.com
 ssmfinland.art
 ssuomiibrilliantballs.com
 stair-lift-finland.bond
+stancehelsinki.com
 standardfinland.com
 stanley-finland.com
 stanleycupfinland.com
@@ -6710,6 +6727,7 @@ vero-agency.com
 vero-agro.com
 vero-ai.org
 vero-aliquam.com
+vero-aliquid.com
 vero-amara.com
 vero-and-co-expertise.com
 vero-apparel.com
@@ -6910,6 +6928,7 @@ vero-vera.com
 vero-vero.art
 vero-veronpalautus.com
 vero-viesti.com
+vero-viesti.help
 vero-viesti.icu
 vero-viesti.sbs
 vero-vision.com
