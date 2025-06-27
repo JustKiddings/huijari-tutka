@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 26/06/2025 07:01 UTC
+# Last modified: 27/06/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -215,6 +215,7 @@ apteekissasuomi.life
 apteekki-finland.com
 apteekki-suomi.life
 apurapalvelut.com
+apuvapalvelut.com
 aquilasuomi.com
 aquilasuomi.online
 arakengatsuomi.com
@@ -562,6 +563,7 @@ carpediemvero-24.com
 cartiersuomi.net
 casasuomi.com
 casavero-dubai.com
+cashelsinki-fi.com
 casinhelsinki.com
 casino-finland-free-credit.shop
 casino-games-real-money-finland.shop
@@ -644,6 +646,7 @@ cloudsuomi.click
 clubhelsinkilive.com
 clubhousegrillfinland.com
 cmihelsinki.org
+coachliikuntapalvelut.click
 coachoutletsuomi.com
 coashopsuomis.com
 codewithsoumik.com
@@ -834,6 +837,7 @@ dickiessuomi.com
 dieselhuolto.com
 digiflavorsuomi.com
 digilancersoumik.in
+digimagneettipalvelut.com
 digisuomi.com
 digitalfactoryfinland.com
 digitaltagsfinland.com
@@ -897,6 +901,7 @@ dronepalvelut.com
 drsoumikghosh.com
 drsoumitraghosh.in
 dsafinland.com
+duckfeetfinland.com
 duolifypalvelut.com
 duschzubehor-suomi.shop
 duviestates.co.uk
@@ -913,6 +918,7 @@ e-viestit.site
 eakoulutuspalvelu.com
 earthbrotherfinland.com
 easpringfinland.com
+easthelsinki.com
 easy-credit-card-finland.today
 easy-loan-finland.today
 easymobilepay.today
@@ -927,6 +933,7 @@ eccooutlet-suomi.com
 eccooutletssuomi.com
 eccoshoesfinland.com
 eccoshopfinland.com
+eco-finland.com
 ecofinland.com
 ed-hardy-suomi.com
 edelstahlschmuck-suomi.shop
@@ -1074,6 +1081,7 @@ evero-concept.com
 evero-consulting.ch
 evero-consulting.com
 eviestate.online
+evturva.com
 evufinland.work
 excavation3soumissions.com
 excellenteventfinland.online
@@ -2010,6 +2018,7 @@ helsinkismuseum.com
 helsinkisolar.com
 helsinkispin.bet
 helsinkispirit-fi.com
+helsinkisports.com
 helsinkiswingbigband.com
 helsinkisymphonygrchestra.tech
 helsinkisymphonyorchestra.tech
@@ -2097,6 +2106,7 @@ hoka-suomi.com
 hokafinland.com
 hokaoneone-finland.com
 hokasuomi.org
+hokasuomioutlet.top
 honeybrowsfinland.com
 hood-richsuomi.com
 hoodrich-suomi.com
@@ -2186,6 +2196,7 @@ hzsoumi.xyz
 i-suomi.info
 iafinland.com
 iamgiasuomi.com
+icafinland.org
 icebugfinland.com
 icecubefinland.com
 icedrivingfinland.com
@@ -2387,6 +2398,7 @@ jetcasino-suomi.com
 jetcasinosuomi.com
 jeunesinsoumis.site
 jh-elainpalvelut.com
+jiesuomi.com
 jiofinland.quest
 jlhsuomine.org
 jllfinland.help
@@ -2527,6 +2539,7 @@ kelakyytipalvelut.net
 kellolaatikko-suomi.shop
 kengatsuomi.com
 kengityspalvelutervakoski.com
+keoksipalvelut.com
 keskooyj.com
 kfxfinland.autos
 kgzfinland.com
@@ -3142,6 +3155,7 @@ mobiilirakendus.ee
 mobiilis-pankki.com
 mobiilispankki.com
 mobiilisti.com
+mobiilisuomi.info
 mobiilitiedot.com
 mobiilitiedot.info
 mobiilitiedot.net
@@ -3528,7 +3542,9 @@ nordiko-helsinki.com
 nordyen-finland.com
 norivahelsinki.com
 norrahelsinki.com
+northfacefinland.com
 northfacesuomiale.com
+northhelsinki.com
 norway-sweden-finland-holiday-package.today
 noshit-nikotiinipussit.com
 nostojasiirtopalvelu.com
@@ -3597,6 +3613,7 @@ oivalakipalvelu.com
 olegsuomi.com
 olivero-ai-vinci.art
 olivero-construction-ubaye.fr
+oma-2025.com
 oma-academy.com
 oma-academy.site
 oma-adimu.online
@@ -4682,6 +4699,7 @@ smobilisisuomi.shop
 smobilispankkiii.com
 smobilispankkiii.shop
 smokvapesuomi.net
+smoobilikampanja-fisuomi.com
 sms-saastopanki.site
 sms-suomen.site
 sms-suomi.site
@@ -4775,6 +4793,7 @@ soumikpatra.com
 soumikpatra.xyz
 soumiksarker.com
 soumiktarafdar.com
+soumil.store
 soumilagarwal.com
 soumilheiro.com
 soumilhouse.com
@@ -5033,6 +5052,7 @@ stanleyssuomi.com
 stanleysuomi.com
 starburst-game-finland.site
 starcomfinland.com
+starsplaysuomi.com
 startupsuomi.org
 starzonefinland.net
 stayfinderfinland.com
@@ -5519,6 +5539,7 @@ suomicasino.org
 suomicasinoopas.com
 suomicasinos.online
 suomicasinosocial.com
+suomication.com
 suomicbd.com
 suomicelebrations.com
 suomichancehub.com
@@ -6167,6 +6188,7 @@ thesuomiexperience.online
 thesuomiexperience.pics
 theterveystalo.com
 thewhalehelsinki.com
+things-to-do-in-finland.com
 thrakpalvelut.com
 thursday-boots-suomi.com
 thursdayboot-suomi.com
