@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 30/06/2025 07:00 UTC
+# Last modified: 01/07/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -690,6 +690,7 @@ conversesuomi-fi.com
 conversesuomi.com
 cookinfinland.com
 coolcationinfinland.com
+copavi-helsinki.com
 copenhagen-helsinki-rail-vacation.today
 copenhagen-helsinki-train-tour-package-offers.today
 corossuomi.com
@@ -1733,6 +1734,11 @@ helsinki-prx-dnraaaj.info
 helsinki-prx-dnraaak.info
 helsinki-prx-dnraaal.info
 helsinki-prx-dnraaam.info
+helsinki-prx-dnraaan.info
+helsinki-prx-dnraaao.info
+helsinki-prx-dnraaap.info
+helsinki-prx-dnraaaq.info
+helsinki-prx-dnraaar.info
 helsinki-prx-ksaac.info
 helsinki-prx-ksaad.info
 helsinki-prx-ksaae.info
@@ -1912,6 +1918,7 @@ helsinkicards.com
 helsinkicarrental.com
 helsinkicas-fi.com
 helsinkicasifreespins.click
+helsinkicasinoclub.com
 helsinkicasinonodeposit.click
 helsinkicharter.com
 helsinkiclub.co.uk
@@ -1927,6 +1934,7 @@ helsinkicrypto.com
 helsinkicurrent.com
 helsinkidailynews.com
 helsinkidancestudio.com
+helsinkidesign.icu
 helsinkidesignschool.net
 helsinkidigitalhouse.com
 helsinkidiscovery.com
@@ -2726,12 +2734,14 @@ lainehelsinki.com
 lainturva.com
 laitehuolto.com
 laitteenturvallisuus.com
+lakiasiaintoimistot-helsinki.net
 lakiasiaintoimistot-helsinki.org
 lakiasiaintoimistothelsinki.net
 lakiasiaintoimistothelsinki.org
 lakimies-helsinki.com
 lakipalvelut-emendatus.com
 lakipalvelutjpconsulting.com
+lakitoimistothelsinki.com
 lalasagnahelsinki.com
 lameva-helsinki.com
 lampo-ja-vesipalvelut.com
@@ -2854,6 +2864,7 @@ lmntsuomi.com
 loakefinland.com
 loan-in-finland.today
 localfinland.net
+localhelsinkiguide.com
 lodgingfinland.com
 logicshelsinki.com
 logistics-finland-kh-7434042.world
@@ -3196,6 +3207,7 @@ mobiiliohjaus.com
 mobiilipankkionline.com
 mobiiliparcel.online
 mobiilipay.com
+mobiilipayfi.info
 mobiilipelit.com
 mobiiliportaali.com
 mobiilirakendus.ee
@@ -5321,6 +5333,7 @@ suomenmatkadiilit.com
 suomenmatkatarjoukset.com
 suomenmetalli.com
 suomenminimaailma.com
+suomenmoneta.com
 suomenmuuttojakuljetus.com
 suomenmyyntiapu.com
 suomennbaseura.com
@@ -6402,6 +6415,7 @@ trafcon.co
 trafconf.site
 trafconsults.com
 trafcoo.store
+trafcopalvelu.com
 trafcor.com
 trafcore.online
 traffic-finland.com
