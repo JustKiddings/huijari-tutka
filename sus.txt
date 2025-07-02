@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 01/07/2025 07:00 UTC
+# Last modified: 02/07/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -1739,6 +1739,8 @@ helsinki-prx-dnraaao.info
 helsinki-prx-dnraaap.info
 helsinki-prx-dnraaaq.info
 helsinki-prx-dnraaar.info
+helsinki-prx-dnraaas.info
+helsinki-prx-dnraaat.info
 helsinki-prx-ksaac.info
 helsinki-prx-ksaad.info
 helsinki-prx-ksaae.info
@@ -1929,6 +1931,7 @@ helsinkicomercial.com
 helsinkicommittee.org
 helsinkicompany.com
 helsinkiconference.com
+helsinkicreativesociety.com
 helsinkicricketcup.com
 helsinkicrypto.com
 helsinkicurrent.com
@@ -2280,6 +2283,7 @@ imupalvelu.com
 inaoyj.info
 inarinkylmahuolto.com
 india-holiday-package-deals-from-finland.today
+indianmoviestats.com
 infinityopals.shop
 infinland.me
 info-suomen.site
@@ -2435,6 +2439,7 @@ jeunesinsoumis.site
 jh-elainpalvelut.com
 jiesuomi.com
 jiofinland.quest
+jkafinland.com
 jlhsuomine.org
 jllfinland.help
 jlmonipalvelu.com
@@ -3207,6 +3212,7 @@ mobiiliohjaus.com
 mobiilipankkionline.com
 mobiiliparcel.online
 mobiilipay.com
+mobiilipayfi.com
 mobiilipayfi.info
 mobiilipelit.com
 mobiiliportaali.com
@@ -3393,6 +3399,7 @@ muji-suomi.com
 mujifinland.com
 mummopalvelu.com
 mummopalvelut.com
+mun-finland.com
 muntmentorsuomi.com
 muoti-helsinki.com
 museumsinfinland.com
@@ -3673,6 +3680,7 @@ oikeusturva.org
 oivalakipalvelu.com
 olegsuomi.com
 olivero-ai-vinci.art
+olivero-capital.com
 olivero-construction-ubaye.fr
 oma-2025.com
 oma-academy.com
@@ -3964,6 +3972,7 @@ ourfinland.online
 ourhelsinkiflat.com
 outdoorsfinland.com
 owala-suomi.com
+owalasuomi.com
 owalasuomifi.com
 owningfinland.com
 oy-trafcom.info
@@ -4026,6 +4035,7 @@ pandorajewelryfinland.com
 panki-fi.site
 pankki.nl
 pankkiasiakas.net
+pankkii.run
 pankkipalvelut-smobiilissa-fi.xyz
 pankkitalo.net
 pannkiifinland.com
@@ -4324,6 +4334,7 @@ quantumhelsinki.solutions
 queertrailfinland.com
 quero-vero-preco-do-pneu.today
 quick-loan-for-you-finland.today
+quiz-s-pankki.icu
 raabersoumimok.ru
 radianthelsinki.lol
 radiofreefinland.net
@@ -4495,6 +4506,7 @@ s-pankki.app
 s-pankki.cfd
 s-pankki.click
 s-pankki.club
+s-pankki.cyou
 s-pankki.digital
 s-pankki.email
 s-pankki.icu
@@ -4946,6 +4958,7 @@ soumissionhabitat.com
 soumissionhypothecaire.ca
 soumissionhypothequeenligne.com
 soumissionimprimerie.com
+soumissionlanaudiere.com
 soumissionmauricie.com
 soumissionnettoyage.com
 soumissionnettoyageqc.com
@@ -4972,6 +4985,7 @@ soumissionsceramique.ca
 soumissionscoffrage.com
 soumissionsconstructeurs.ca
 soumissionsebenisterie.ca
+soumissionsentrepreneurs.com
 soumissionsentretienmenager.ca
 soumissionsfitness.ca
 soumissionsgaragecabanon.ca
@@ -5055,6 +5069,7 @@ spankki-suomi-kampanja-fi.com
 spankki-viestit.com
 spankki-viestit.net
 spankki-viestit.online
+spankki.run
 spankki.site
 spankki.tech
 spankkielaakkeella.com
@@ -5489,6 +5504,8 @@ suomi-kasino.org
 suomi-kasinot.net
 suomi-kauppa.com
 suomi-kokemuksia.com
+suomi-linkki.life
+suomi-linkki.top
 suomi-lumoava.com
 suomi-myfi.info
 suomi-neito.com
@@ -5717,6 +5734,7 @@ suomikasinot.online
 suomikasinot2024.com
 suomikasinot365.com
 suomikasinothotels.com
+suomikazino.com
 suomike.com
 suomike.net
 suomikeskus.nu
@@ -6229,6 +6247,7 @@ terveystiedonabc.com
 terveysvaikutukset.com
 terveysvaikutukset.net
 terveysvaikutukset.org
+terveysverstas.com
 terveysviidakko.com
 terveysvirasto.com
 tesoumira.com
@@ -6464,6 +6483,7 @@ trapstarsuomifi.com
 trapstartracksuitsfinland.com
 trapstartracksuitsuomi.com
 traumanvaikutuksetaivoterveyteen.com
+travel-to-finland.com
 travelekstrafinland.com
 travelexpertgroupfinland.com
 travelfinland.net
@@ -7026,6 +7046,7 @@ vero-valore.com
 vero-valore.fr
 vero-valore.uk
 vero-value.com
+vero-velit.site
 vero-velo.com
 vero-vera.com
 vero-vero.art
@@ -7069,6 +7090,7 @@ vfbfinland.run
 viadore-finland.com
 viaggihelsinki.com
 vialore-helsinki.com
+vibe-kasino-finland.org
 vibramsuomi.com
 vibramsuomishop.com
 vibramsuomistore.com
@@ -7467,6 +7489,7 @@ ysuomic252.vip
 ysuominedl.online
 yukinosuomi.moe
 yuzhaoyj.com
+ywamhelsinki.org
 yxcfinland.guru
 zaramekotsuomi.com
 zarkovsoumisky.com
