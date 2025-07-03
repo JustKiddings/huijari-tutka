@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 02/07/2025 07:00 UTC
+# Last modified: 03/07/2025 07:03 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -3363,6 +3363,10 @@ montecsuomi.net
 moonsuomiboot.com
 mooseknucklesfinland.com
 mooseknucklesuomi.com
+moovy-oy.com
+moovyfi.com
+moovyoyj.com
+moovyshoes.com
 morenipalvelut.com
 mosaicfinland.com
 mosaviestate.com
@@ -3601,7 +3605,18 @@ noora-helsinki.com
 nopea-online-laina-ilman-pankkia.today
 nopeasuomipalvelu.online
 nopeatpelipalvelut.info
+nordea.dev
+nordea.space
+nordeac-online.com
+nordeactf.site
+nordeafund.com
+nordeafund.xyz
+nordeaga.xyz
+nordeaosake.com
+nordeas-online.com
+nordeasgaming.world
 nordeasuomi.com
+nordeat-online.com
 nordefinland.com
 nordic-helsinki.com
 nordicaoilsfinland.com
@@ -6797,6 +6812,7 @@ vaude-suomi.com
 vavada-finland-bonus.com
 vavada-finland-bonus.net
 veevago-suomi.com
+veganordeath.com
 veiikvapesuomi.com
 veja-suomi.com
 vejafinland.com
@@ -6806,6 +6822,8 @@ vejasuomi-fi.top
 velallisenpalvelut.com
 velarahelsinki.com
 velkapalvelu.com
+velkarekisteri.com
+velkomusrekisteri.com
 velmi-helsinki.com
 velvero-style.com
 velvero-team.com
@@ -7070,6 +7088,7 @@ vero-x.com
 vero-x.shop
 vero-xp.store
 vero-zone.store
+verohallinto.org
 veroo-suomi.com
 veropalvelu-fi.info
 veropalvelu-suomi.info
