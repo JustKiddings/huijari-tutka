@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 04/07/2025 07:00 UTC
+# Last modified: 05/07/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -259,6 +259,7 @@ asiakasdata.com
 asiakasino.net
 asiakasmagneetti.com
 asiakasmestarit.com
+asiakaspalvelu-dansk-fi.com
 asiakaspalvelu-suomi.site
 asiakaspalvelu-uo.net
 asiakaspalvelu.xyz
@@ -742,6 +743,7 @@ cvturvattua.xyz
 cwcfinland.com
 cwtfun247finland.site
 cyclinginfinland.com
+cysmobilepay.com
 czasoumilacze.pl
 czsoumi.com
 d-id-vahvista.info
@@ -1385,6 +1387,7 @@ gennovasuomi.com
 genpotfinland.company
 gensoumise.com
 genting-casino-finland-register.shop
+gepalvelu.com
 germany-finland-train-holiday-deals.today
 gerryweberfinland.com
 gerrywebersuomi.com
@@ -1958,6 +1961,7 @@ helsinkienglishmontessori.com
 helsinkiescort.com
 helsinkiesports.com
 helsinkiestates.com
+helsinkifam.online
 helsinkifestival.org
 helsinkiff.com
 helsinkifi.com
@@ -2055,6 +2059,7 @@ helsinkisaunalautta.com
 helsinkisecondhand.com
 helsinkisensualweekend.com
 helsinkislipper.com
+helsinkislo.online
 helsinkislotmuseum.com
 helsinkislots.com
 helsinkismuseum.com
@@ -2549,6 +2554,7 @@ karttapalvelut.com
 kartyakevero-gep-az-en.shop
 kartyakevero-gep.shop
 kasiakasauli.com
+kasinfinland.com
 kasino-helsinki.com
 kasinoilmanrekisteroitymistajalisenssia.com
 kasinopankkitunnuksilla.com
@@ -3252,6 +3258,7 @@ mobilepay-hjaelp.online
 mobilepay-info-dk.com
 mobilepay-kasinot.com
 mobilepay-kayttaja.com
+mobilepay-opdate.com
 mobilepay-opdater.info
 mobilepay-opdatering.com
 mobilepay-opdatering.info
@@ -3708,6 +3715,7 @@ oikeuspalvelut.com
 oikeusturva.info
 oikeusturva.org
 oivalakipalvelu.com
+oldcasinohelsinki.com
 olegsuomi.com
 olivero-ai-vinci.art
 olivero-capital.com
@@ -4096,8 +4104,10 @@ patagoniahelsinki.com
 patagoniasuomioutlet.com
 patriziapepefinland.com
 patternsfromfinland.com
+pay-asiakaspalvelu.com
 pay-finland.cfd
 pay-suomi.cfd
+payfinland.info
 paylevocasino-finland.top
 paysuomi.com
 pchuolto.com
@@ -4169,6 +4179,7 @@ pistolo-finland.com
 pit-vipersuomi.shop
 planfinland.info
 plangamesfinland.com
+playandstayfinland.com
 playboy-finland.com
 playboyfinland.eu
 playboyfinland.media
@@ -5483,6 +5494,7 @@ suomenwh.com
 suomenyksityisetsivat.com
 suomenyritysrahoitus.com
 suomenystavat.org
+suomerpalvulet.com
 suometa418-linkker0pen9617.site
 suometa792-linkker0pen79214.site
 suomettumis.xyz
@@ -6011,6 +6023,7 @@ suomitrends.com
 suomitripworld.com
 suomitunnista.com
 suomitunnista.info
+suomitunnistautuminen.com
 suomitunnistus.com
 suomitunnus.com
 suomituotteet.com
@@ -6382,6 +6395,7 @@ tommyfinland.com
 tomoffinland.co.uk
 tomorrowland-finland.com
 tomskengat-suomi.com
+tonybet-finland.com
 tonybet-suomi.com
 tonybiancosuomi.net
 toonzshopsuomi.com
@@ -6624,6 +6638,7 @@ turvallistajuhlaa.info
 turvallistapelaamista.com
 turvallistech.com
 turvallisus.com
+turvallisuteen.com
 turvallisuus-facebook.info
 turvallisuus-tiedo.com
 turvallisuusintrum.com
@@ -7033,6 +7048,7 @@ vero-potenco.co.uk
 vero-potenco.com
 vero-potenco.org
 vero-praesentium.com
+vero-production.com
 vero-publishing.com
 vero-quibusdam.com
 vero-quintanar.online
@@ -7351,6 +7367,7 @@ wineroutefinland.com
 winforfinland.com
 winfried-fortum.com
 winnerzsuomi.com
+winsharkbonusfinland.com
 winzonefinland.com
 wkgfinland.info
 wlnner-finland.com
@@ -7546,6 +7563,7 @@ zbshensuomen.cn
 zdfinland.shop
 zenola-helsinki.com
 zenora-helsinki.com
+zenturvalgroup.com
 zfwfinland.pro
 zgxoehardwpcaoyj.shop
 zhaosuoming.com
