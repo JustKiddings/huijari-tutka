@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 06/07/2025 07:00 UTC
+# Last modified: 07/07/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -580,6 +580,7 @@ casino360finland.com
 casinohelsinki.online
 casinohelsinki24.com
 casinonorthfinland.com
+casinos-suomi.com
 casinosfinderssuomi.com
 casinosinfinland.com
 casinosuomi.click
@@ -1934,6 +1935,8 @@ helsinkicasifreespins.click
 helsinkicasinoclub.com
 helsinkicasinonodeposit.click
 helsinkicharter.com
+helsinkicity.online
+helsinkicity.ru
 helsinkiclub.co.uk
 helsinkiclub.uk
 helsinkicoach.com
@@ -2605,6 +2608,7 @@ kengityspalvelutervakoski.com
 keoksipalvelut.com
 keskipalkkasuomessa.com
 keskooyj.com
+ketobase-finland.site
 kfxfinland.autos
 kgzfinland.com
 kiassnorthsuomiyear.com
@@ -2661,6 +2665,7 @@ kivipankki.com
 kkpapulaispalvelut.com
 kmk-turvallisuuskonsultti.com
 kmpanja-spankki.com
+koiranhoitohelsinki.com
 koirapalvelukoivunen.com
 koirapalvelupomeliina.com
 koirapalvelutotte.com
@@ -2993,6 +2998,7 @@ makantasis.gr
 makea-viesti.com
 malahosuomi.com
 mallunjuontojaohjelmapalvelut.com
+mangosuomi.net
 manoloblahniksuomi.com
 manufacturedinfinland.com
 many-helsinki-events-756119764.today
@@ -3078,6 +3084,7 @@ matsuomine.xyz
 mavero-re.com
 mavero-re.org
 mavero-solutions.de
+mavero-store.com
 mavero-vault.com
 maviestilofeminino.online
 maviestilofeminino.store
@@ -3229,6 +3236,7 @@ mobiilifi-spankki.com
 mobiilihaku.com
 mobiililava.net
 mobiililava.org
+mobiilimaksu.com
 mobiilimaksu.info
 mobiilinauhoitus.com
 mobiiliohjaus.com
@@ -3666,6 +3674,7 @@ notyopappyscookin.net
 notyopappyscookin.online
 notyopappyscookin.org
 notyopappyscookin.site
+nourix-suomi.store
 nourixfinland.com
 nourixsuomi.com
 nousuhelsinki.com
@@ -4491,6 +4500,7 @@ ropoturva.com
 ropoviesti.com
 rotaractfinland.com
 rothenrollmediafinland.com
+rothyssuomi.com
 rouvahelsinki.com
 rovero-airvent.com
 roxysuomi.com
@@ -4535,6 +4545,7 @@ s-pankki-elakeella.com
 s-pankki-elakkeela.com
 s-pankki-fi-asiakaspalvelu-paivita-iislil.com
 s-pankki-fi-kampanja.com
+s-pankki-fi-kmpanja.com
 s-pankki-fi-mobiili.com
 s-pankki-fi-mobiilillla-itliiiitilit.ru
 s-pankki-fi.com
@@ -5680,6 +5691,7 @@ suomica.ru
 suomicam.com
 suomicanta.com
 suomicare.com
+suomicasino.net
 suomicasino.org
 suomicasinoopas.com
 suomicasinos.online
@@ -6604,6 +6616,7 @@ tunnistautuminen-suomi.biz
 tunnistautuminen-suomi.com
 tunnistautuminen-suomi.mobi
 tunnistautuminenfikortti.com
+tunnistautuminensuomi.com
 tunnistautumllnenssauomifi.com
 tunnistautunlnen-suomi.com
 tunnistavat.xyz
@@ -6823,6 +6836,7 @@ vala-helsinki.com
 valdemarhelsinki.com
 valenclavero-portafolio.xyz
 valero-helsinki.com
+valestra-helsinki.com
 valestudiohelsinki.com
 valintaopasfinland.com
 valipalvelu.com
@@ -7353,6 +7367,7 @@ warmflaschen-suomi.shop
 warmhearthfinland.com
 wartaviesta.info
 waterfinland.com
+wazamba-finland.com
 wch-finland.org
 wclfinland.com
 weallfinland.org
@@ -7452,6 +7467,7 @@ xn--fortumvrme-w5a.nu
 xn--heikkil-helsinki-1nb.com
 xn--huoltoss-5zac.com
 xn--ilmalmppumppuhuolto-kwb49a.com
+xn--ilmanrekisterinti-6qb15a.com
 xn--immosenpyrhuolto-4nb63a.com
 xn--jalmarinliikkuvapyrhuolto-3ec89b.com
 xn--jyvskylautohuolto-sqbe.com
