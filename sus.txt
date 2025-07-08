@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 07/07/2025 07:00 UTC
+# Last modified: 08/07/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -699,6 +699,7 @@ corossuomi.com
 corteiz-suomi.com
 cosfinland.com
 cosmedica-suomi.com
+cossalesuomi.com
 cosstoresuomi.com
 cossuomi-fi.com
 cossuomi.com
@@ -3514,6 +3515,7 @@ naturvalet.com
 navero-cup.com
 nayteikkuna-verkkopeleihin-suomessa.buzz
 nazada-helsinki.com
+nb-palvelut.com
 nbc-finland.com
 nbcsymposiumfinland.com
 nblenkkaritsuomi.com
@@ -4325,6 +4327,7 @@ proweb-jssuomi.com
 proworkerfinland.com
 pruthviestates.com
 przeprowadzki-finlandia.com
+ps5suomessa.com
 psgturva.com
 psgturva.site
 psuhholoogilineturvalisus.com
@@ -4785,6 +4788,7 @@ sisleysuomi.com
 sisudraftfinland.com
 sitakantanayak.com
 sivado-helsinki.com
+sixthhousefinland.com
 sk-severo-zapad.ru
 skagensuomi.com
 skandifootsuomi.com
