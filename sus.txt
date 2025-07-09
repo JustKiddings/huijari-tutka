@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 08/07/2025 07:00 UTC
+# Last modified: 09/07/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -219,6 +219,7 @@ apteekki-finland.com
 apteekki-suomi.life
 apurapalvelut.com
 apuvapalvelut.com
+aquawin-finland.org
 aquilasuomi.com
 aquilasuomi.online
 arakengatsuomi.com
@@ -605,6 +606,7 @@ catskengatsuomi.com
 catsuomi.top
 caturva.org
 cavero-profesional.com
+cavero-shop.com
 cawfinland.info
 cbcafinland.com
 cbdcmobilepay.com
@@ -649,6 +651,7 @@ cjbfinland.top
 ckbfinland.digital
 clarityrpsuomi.com
 clarksshoesfinland.com
+clevero-industries.com
 clickhelsinki.com
 cloudsaastopanki.site
 cloudsuomi.click
@@ -935,6 +938,8 @@ easy-credit-card-finland.today
 easy-loan-finland.today
 easymobilepay.today
 easymobilepayments.com
+easymobilepayroll.app
+easymobilepayroll.com
 eberspaecher-finland.com
 ebikehuolto.com
 ebikesuomi.com
@@ -1090,6 +1095,7 @@ eurosongfinland.com
 eusoumichaelldouglas.com.br
 eusoumidia.pt
 eusoumidiahub.com.br
+eusoumilionario.online
 eusoumilionario.site
 eusoumilitar.club
 eusoumistica.com
@@ -1288,6 +1294,7 @@ fortumcorporation.com
 fortumebuilders.com
 fortumecoins.com
 fortumejack.com
+fortumenergia.online
 fortumfix.info
 fortumfln.com
 fortumholdings.ltd
@@ -1869,6 +1876,7 @@ helsinki-shleprx-aaal.info
 helsinki-shleprx-aaam.info
 helsinki-stockholm-cruise-package-fn.sbs
 helsinki-stockholm-rail-vacation.today
+helsinki-stockholm.info
 helsinki-swimming-725325571.click
 helsinki-swimming-907380973.click
 helsinki-swimming-pool-325513898.today
@@ -1901,6 +1909,7 @@ helsinki2017.com
 helsinki2025.online
 helsinki2025.store
 helsinki24.com
+helsinki381.xyz
 helsinki5000.com
 helsinkiaamu.org
 helsinkiadorn.com
@@ -2595,6 +2604,8 @@ kehonhuolto-jani-bergstrom.net
 kehonhuoltojopi.com
 kehystyspalvelunelilehti.com
 kekenhuolto.com
+kela-fi.icu
+kela-fi.sbs
 kela-fi.top
 kela-finn.com
 kela-fl.com
@@ -2955,6 +2966,7 @@ lumihelsinki.com
 lumivero-elc.app
 lumosfinland.com
 lunasandalssuomi.net
+luontaisterveys.info
 luontoterveysmerkki.com
 luottoasiakas.com
 luova-finland.com
@@ -2975,6 +2987,7 @@ lyvero-agency.com
 maalampohelsinki.com
 maalarihelsinki.com
 madeinfinland.cn
+madeinfinland.net
 madeinfinland.nu
 madeinfinland.shop
 madeinfinland.store
@@ -3419,6 +3432,7 @@ moviestash.click
 moviestash.net
 moviestat.site
 moviestates.com
+moviestation.city
 moviestation.click
 moviestation.net
 moviestato.xyz
@@ -3639,6 +3653,7 @@ noktakantar.xyz
 nomavero.co.uk
 nomavero.com
 nomavero.info
+non-traite-soumission-ue.ch
 noofinland.guru
 noora-helsinki.com
 nopea-online-laina-ilman-pankkia.today
@@ -3874,6 +3889,8 @@ omaakantaa-fi.net
 omaelisa.sbs
 omajo-kirjaudu.com
 omajo-oyj.com
+omakanta-fi.icu
+omakanta-fi.sbs
 omakanta-online.com
 omakanta-suomi.com
 omakanta.me
@@ -3884,6 +3901,8 @@ omakantarypalv.com
 omakantasuomi.com
 omakantasuomi.shop
 omakantayr.info
+omakela-fi.icu
+omakela-fi.sbs
 omakirjaudu.com
 omakirjaudutunnis.com
 omaposti-fi.com
@@ -4873,6 +4892,7 @@ sorafinland.com
 sorel-helsinki.com
 sorelsuomi.net
 sorvauspalvelu.com
+sosehelsinki.com
 sossoumissionchimique.com
 sossoumissionchimique.fr
 sossoumissionchimique.org
@@ -4904,6 +4924,7 @@ soumiashop.com
 soumiatique.com
 soumiavoyage.com
 soumiayahiaoui.com
+soumibox.uk
 soumic.com
 soumicosmetics.com
 soumidelrio.com
@@ -5557,6 +5578,7 @@ suomi-fi.one
 suomi-fi.sbs
 suomi-fi0.sbs
 suomi-fin.icu
+suomi-fin.online
 suomi-finland.icu
 suomi-fl.sbs
 suomi-id.one
@@ -6543,6 +6565,8 @@ traficorn.info
 traficorn.net
 traflcompalvelu.com
 traite-soumission-non.ch
+traite-soumission-ue-non.ch
+traite-soumission-ue.ch
 traite-soumission.ch
 traitesoumission.ch
 traitesoumissionnon.ch
@@ -6642,6 +6666,7 @@ turva.xyz
 turvaasiakasfi.com
 turvakaitse.ee
 turvakast.info
+turvakena.space
 turvakengat.com
 turvakengat.shop
 turvakomppania.com
@@ -7097,6 +7122,7 @@ vero-se.com
 vero-security.com
 vero-sicurezza.co.uk
 vero-sicurezza.com
+vero-skatt.online
 vero-skin.com
 vero-smith.com
 vero-sms.com
