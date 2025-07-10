@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 09/07/2025 07:00 UTC
+# Last modified: 10/07/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -35,6 +35,7 @@
 27ooyj.us
 27turvap.ink
 2esoumission.com
+3-csiivouspalvelut.com
 3soumissionmenage.com
 4tturva.com
 5-popankki-fi.com
@@ -651,6 +652,7 @@ cjbfinland.top
 ckbfinland.digital
 clarityrpsuomi.com
 clarksshoesfinland.com
+clarkssuomis.com
 clevero-industries.com
 clickhelsinki.com
 cloudsaastopanki.site
@@ -987,6 +989,7 @@ elakkeella-smobiilifi.com
 elakkeella-spanki.com
 elakkeella-spankki-fi-mobiilifi.com
 elakkeella-spankki-fi.com
+elakkeella-spankki-fimobiili.com
 elakkeella-spankki-mobiili.com
 elakkeella-spankki.com
 elakkeella-spankkifi-kampanja.com
@@ -1294,6 +1297,7 @@ fortumcorporation.com
 fortumebuilders.com
 fortumecoins.com
 fortumejack.com
+fortumenergia.com
 fortumenergia.online
 fortumfix.info
 fortumfln.com
@@ -1977,6 +1981,7 @@ helsinkiescort.com
 helsinkiesports.com
 helsinkiestates.com
 helsinkifam.online
+helsinkiferries.com
 helsinkifestival.org
 helsinkiff.com
 helsinkifi.com
@@ -2041,6 +2046,7 @@ helsinkimirror.com
 helsinkimushroomfestival.com
 helsinkimusical.com
 helsinkinews.buzz
+helsinkinews.click
 helsinkinews24.com
 helsinkinl.services
 helsinkinoir.net
@@ -2334,6 +2340,7 @@ innovatefinland.com
 insoumidating.com
 insoumis.app
 insoumis.news
+insoumis.online
 insoumisdecreteil.fr
 insoumises.net
 insoumislespharaons.com
@@ -2532,6 +2539,7 @@ kampanja-fi-spankki.com
 kampanja-fimobiili.com
 kampanja-fispankki.com
 kampanja-mobiilifi.com
+kampanja-pankki-fi.com
 kampanja-s-pankkimobiili.com
 kampanja-spankki-fi.com
 kampanja-spankki-mobiili.com
@@ -2620,6 +2628,7 @@ kengityspalvelutervakoski.com
 keoksipalvelut.com
 keskipalkkasuomessa.com
 keskooyj.com
+ketobase-finland.shop
 ketobase-finland.site
 kfxfinland.autos
 kgzfinland.com
@@ -3659,6 +3668,7 @@ noora-helsinki.com
 nopea-online-laina-ilman-pankkia.today
 nopeasuomipalvelu.online
 nopeatpelipalvelut.info
+nordea-net.xyz
 nordea.dev
 nordea.space
 nordeac-online.com
@@ -4161,6 +4171,7 @@ peliliikesuomi.com
 pelipaitasuomi.com
 pelisuomeseta.com
 pelitoimintaasuomessa.com
+pelitsuomi10.com
 peltipalvelu.com
 penfieldsuomi.com
 pensionfinland.buzz
@@ -4225,6 +4236,7 @@ playboyfinland.media
 playboyfinlandsuomi.com
 playboysuomi.com
 playfina-finland.com
+playpokerfinland.com
 playsaunafinland.com
 playspinsuomi.com
 playwinsuomen.com
@@ -4291,6 +4303,7 @@ posti-suomi.site
 postifinland.delivery
 postisuomen.site
 postisuomi.site
+postivahvistus.online
 posturva.store
 potterhelsinki.com
 poursoumise.com
@@ -4975,6 +4988,7 @@ soumilvoma.com
 soumima.com
 soumimode.com
 soumimos.online
+soumina.com
 souminas.com
 soumine.net
 soumine.ru
@@ -5188,6 +5202,7 @@ speedking-suomi.net
 sperm-donation-finland-ok.today
 spicafinland.com
 spinando-finland.com
+spinandocasinofinland.com
 spinandofinland.com
 spinandosuomi.com
 spinesurgeryfinland.com
@@ -5658,6 +5673,7 @@ suomi.media
 suomi.news
 suomi.nu
 suomi.onl
+suomi.ovh
 suomi.pro
 suomi.style
 suomi.team
@@ -5920,6 +5936,7 @@ suomipilvi.info
 suomipilvi.net
 suomipilvi.org
 suomipirtti.org
+suomipizza.com
 suomiply.com
 suomipnp.com
 suomipod.store
@@ -6356,6 +6373,7 @@ testivoittaja-terveys.com
 tetsuomi.com
 tetsuomizu.com
 teviestates.com
+texasholdemfinland.com
 tezenis-finland.com
 tgsfinland.com
 thassoumi.dev
@@ -6888,6 +6906,7 @@ valvonzandesk.com
 vanityopal.site
 vanlayhteys.com
 vanssuomi.com
+vapaaksisuomi.com
 vapesuomi.com
 vapetukkumyyntisuomi.com
 vapsolosuomi.com
@@ -7111,6 +7130,7 @@ vero-quis.site
 vero-reiki.com
 vero-repellendus.site
 vero-reprehenderit.com
+vero-reprehenderit.site
 vero-retouch.ru
 vero-ro.com
 vero-roma.com
@@ -7442,6 +7462,7 @@ workofsoumik.com
 worksfinland.com
 workshophelsinki.com
 wotofosuomi.com
+wovenoffinland.com
 wowmobiilization.org
 wpsfinland.top
 wptafinland.com
