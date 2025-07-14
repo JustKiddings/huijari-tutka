@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 13/07/2025 07:00 UTC
+# Last modified: 14/07/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -1332,6 +1332,7 @@ freedivingfinland.net
 freehelsinkitours.com
 freeplayfinland.com
 freeplayssuomi.com
+freeslotsfinland.com
 freesocialcasinofinland.com
 freetourporhelsinki.com
 freetourshelsinki.com
@@ -1769,6 +1770,10 @@ helsinki-prx-dnraaaq.info
 helsinki-prx-dnraaar.info
 helsinki-prx-dnraaas.info
 helsinki-prx-dnraaat.info
+helsinki-prx-dnraaau.info
+helsinki-prx-dnraaav.info
+helsinki-prx-dnraaaw.info
+helsinki-prx-dnraaax.info
 helsinki-prx-ksaac.info
 helsinki-prx-ksaad.info
 helsinki-prx-ksaae.info
@@ -4136,6 +4141,7 @@ palveluyhteydet-suomi.site
 panamajacksuomi.top
 pandorajewelryfinland.com
 panki-fi.site
+pankki-fi-kampanja.com
 pankki.nl
 pankkiasiakas.net
 pankkii.run
@@ -4245,6 +4251,7 @@ pintapalvelu.com
 pistolo-finland.com
 pit-vipersuomi.shop
 planfinland.info
+plangames-finland.com
 plangamesfinland.com
 playandstayfinland.com
 playboy-finland.com
@@ -4661,6 +4668,7 @@ saastopankki.online
 saastoppankki.sbs
 saaviestates.com
 saavuttamatonmielenterveyteni.com
+sade-hyvinvointipalvelut.com
 safe-mobilepay.ru
 safecasinosuomi.com
 safetyfinland.com
@@ -5158,6 +5166,7 @@ soumitravsathe.com
 soumitrawedspranjali.com
 soumitroy.com
 soumitukeaconnect.com
+soumiu3.icu
 soumivietnam.com
 soumiways.com
 soumiya.africa
@@ -6186,6 +6195,7 @@ synlawnhelsinki.com
 syomapuikot-suomi.shop
 syruphelsinki.com
 syvellssuomi.com
+t-mobilepay.forum
 tahtaimessaterveys.com
 taigatrekfinland.com
 taiwanmobilepay.diy
@@ -6543,6 +6553,7 @@ trafcolog.net
 trafcom-fi.info
 trafcom-fin.com
 trafcom-fin.info
+trafcom-maksut.com
 trafcom-oyj.info
 trafcom-oyx.info
 trafcom-palvelu.com
