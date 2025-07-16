@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 15/07/2025 07:00 UTC
+# Last modified: 16/07/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -342,6 +342,7 @@ avaa-pankkitili-netissa-2.online
 avaa-pankkitili-netissa-3.online
 avaa-pankkitili-netissa-4.online
 aveno-suomi.com
+avenoirhelsinki.com
 avero-bistro.ru
 avero-california.com
 avero-cms.ru
@@ -658,6 +659,7 @@ clarkssuomis.com
 clevero-industries.com
 clickhelsinki.com
 cloudsaastopanki.site
+cloudstepsuomi.com
 cloudsuomi.click
 clubhelsinkilive.com
 clubhousegrillfinland.com
@@ -1061,6 +1063,7 @@ ero-asiointipalvelu.com
 eroasuomesta.com
 eroasuomesta.net
 eroasuomesta.org
+erosenvuokrauspalvelucom.net
 eroticmoviestation.com
 escort-helsinki.vip
 escortservice-in-finland.xyz
@@ -1923,6 +1926,7 @@ helsinki2017.com
 helsinki2025.online
 helsinki2025.store
 helsinki24.com
+helsinki2upload.fun
 helsinki381.xyz
 helsinki5000.com
 helsinkiaamu.org
@@ -2226,6 +2230,7 @@ hs-suomi.ru
 hsrsuomine.pics
 hstaxihelsinki.com
 hsuominemh.art
+htfinland.com
 htifinland.com
 httpsoumission-couriters.com
 httpsoumissioncouriters.com
@@ -2634,6 +2639,7 @@ kelakyytipalvelu.net
 kelakyytipalvelut.com
 kelakyytipalvelut.net
 kellolaatikko-suomi.shop
+kemikaalirekisteri.org
 kengatsuomi.com
 kengityspalvelutervakoski.com
 keoksipalvelut.com
@@ -2684,6 +2690,7 @@ kirjaudu-smobiiliilaa.com
 kirjaudu-smobiilliinnffi.com
 kirjaudu-suomi.com
 kirjaudu.site
+kirjaudumobllepyfii.com
 kirjaudusisaan.com
 kirjaudusmobiliilaa.com
 kirjaudusmobilliinnffi.com
@@ -3696,6 +3703,8 @@ nordeaga.xyz
 nordeaosake.com
 nordeas-online.com
 nordeasgaming.world
+nordeasmycken.one
+nordeasmycken.se
 nordeasuomi.com
 nordeat-online.com
 nordefinland.com
@@ -4175,6 +4184,8 @@ patagoniahelsinki.com
 patagoniasuomioutlet.com
 patriziapepefinland.com
 patternsfromfinland.com
+pay--asiakaspalvelu.com
+pay-asiakas-palvelu.com
 pay-asiakaspalvelu.com
 pay-finland.cfd
 pay-suomi.cfd
@@ -4369,6 +4380,7 @@ prodjfinland.org
 productionservicefinland.com
 productionservicesfinland.com
 productionserviceshelsinki.com
+produkti-iz-finlandii-moskva.ru
 produkti-iz-finlandii-msk.ru
 produkti-iz-finlandii-v-moskve.ru
 profilefinland.com
@@ -4835,6 +4847,7 @@ siksilkfinland.com
 silberringe-suomi.shop
 silkiehelsinki.com
 silmu-helsinki.com
+silvero-construccion.com
 simonhinauspalvelu.com
 sinunturvapalvelu.com
 sipetakantahmorotai.com
@@ -5140,6 +5153,7 @@ soumissionstrois-rivieres.ca
 soumissionsystemedalarme.com
 soumissionthermopompe.net
 soumissiontravaux.com
+soumissionzootherapie.com
 soumissmart.com
 soumist.com
 soumit.tech
@@ -6418,6 +6432,7 @@ theautodennashville.com
 thefrankieshopsuomi.net
 thegaviestate.com
 thehappyhelsinki.pics
+thehelsinkistore.com
 themobiilitypeople.com
 thenorthface-suomi.com
 thenorthfacehelsinki.com
