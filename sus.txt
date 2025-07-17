@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 16/07/2025 07:00 UTC
+# Last modified: 17/07/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -358,6 +358,7 @@ aviestas.site
 aviestas.space
 aviestatic.com
 aviestatic.tech
+avustajapalvelu.com
 avuxipalvelut.com
 awfinland.shop
 axelarigato-helsinki.com
@@ -1507,6 +1508,7 @@ habfinland.one
 hairtodaysuomi.com
 haixsuomi.com
 hallintopalvelut-vayla.fit
+handmadefinland.com
 handykette-suomi.shop
 handyketten-suomi.shop
 hankintajuristitpalvelut.com
@@ -2227,6 +2229,7 @@ hrsuomifinland.shop
 hrxfinland.info
 hs-suomi.online
 hs-suomi.ru
+hseqs-palvelut.com
 hsrsuomine.pics
 hstaxihelsinki.com
 hsuominemh.art
@@ -2274,6 +2277,7 @@ hydroflasksuomi.net
 hydrogenfinland.com
 hyggehelsinki.com
 hyhfinland.info
+hyperdragetsuomi.com
 hyrfinland.world
 hyundaiclubfinland.com
 hyva-haukku-koirapalvelut.com
@@ -2390,6 +2394,7 @@ inuikiihelsinki.com
 invero-cashton.com
 invest-finland-metals-kh-9392815.fyi
 iotsuomi.net
+iptv-finland.com
 iptv-finland.pro
 iptv-finlandplus.com
 iptv-suomi-finland.site
@@ -3011,6 +3016,7 @@ luzia-helsinki.com
 lxhfinland.com
 lyhytvideotpalvelu.com
 lyvero-agency.com
+lyvero-candrix.com
 maalampohelsinki.com
 maalarihelsinki.com
 madeinfinland.cn
@@ -3445,6 +3451,7 @@ moovy-oy.com
 moovya.info
 moovyai.com
 moovyfi.com
+moovyo.tech
 moovyoyj.com
 moovyshoes.com
 morenipalvelut.com
@@ -3595,6 +3602,7 @@ neweralippisuomi.com
 newerasuomi.net
 newerasuomi.org
 newerasuomis.com
+neweresuomi.com
 newhelsinkibrassquintet.com
 newjcsfinland.sbs
 newlandpalvelut.info
@@ -3702,6 +3710,7 @@ nordeafund.xyz
 nordeaga.xyz
 nordeaosake.com
 nordeas-online.com
+nordeas.one
 nordeasgaming.world
 nordeasmycken.one
 nordeasmycken.se
@@ -4186,6 +4195,7 @@ patriziapepefinland.com
 patternsfromfinland.com
 pay--asiakaspalvelu.com
 pay-asiakas-palvelu.com
+pay-asiakas-palvelus.com
 pay-asiakaspalvelu.com
 pay-finland.cfd
 pay-suomi.cfd
@@ -4335,6 +4345,7 @@ posti-suomi.com
 posti-suomi.icu
 posti-suomi.sbs
 posti-suomi.site
+posti-vahvistus.cfd
 postifinland.delivery
 postisuomen.site
 postisuomi.site
@@ -4596,6 +4607,7 @@ s-kampanja-pankki.com
 s-kampanjamobiili.com
 s-mobiili-elakkeela.com
 s-mobiili-fi-kamlanja.com
+s-mobiili-fi-pankki-kampanja.com
 s-mobiili-fi-spankki.com
 s-mobiili-fi.com
 s-mobiili-fikampanja.com
@@ -4811,6 +4823,7 @@ shirtyopants.com
 shirtyopants.shop
 shirtyopants.store
 shopfinland.ru
+shoppinginfinland.com
 shopsuomi.com
 shopwheeloffortume.com
 shotbarfinland.com
@@ -4997,6 +5010,7 @@ soumiimajumdar.com
 soumiji.com
 soumik.blog
 soumikagura.site
+soumikautomotives.com
 soumikbag.com
 soumikbarber.com
 soumikbengaltourism.com
@@ -5181,6 +5195,7 @@ soumitrawedspranjali.com
 soumitroy.com
 soumitukeaconnect.com
 soumiu3.icu
+soumiv.com
 soumivietnam.com
 soumiways.com
 soumiya.africa
@@ -6180,6 +6195,7 @@ suomiwonderapp.click
 suomiwonderapp.xyz
 suomiworldstore.com
 suomiz.com
+suomizo.com
 suoratoistopalvelu.net
 super-finland.com
 superfinland.net
@@ -6488,6 +6504,7 @@ tistelgren-helsinki.com
 titaniturvapalvelut.com
 tkvfinland.com
 tkvfinland.org
+tm-rakennuspalvelu.com
 tmi-peppi-stiina-ahti-liikuntapalvelut.com
 tn-palvelu.com
 tnorthface-suomi.com
