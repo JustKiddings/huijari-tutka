@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 17/07/2025 07:00 UTC
+# Last modified: 18/07/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -183,6 +183,7 @@ amivero-verification.com
 amorehelsinki.com
 anadolukulturvakfi.net
 anaistentation.com
+anastasiakasatkina.com
 andersfinland.com
 andyfinland.info
 anfrapalvelut.com
@@ -748,6 +749,7 @@ culturvations.com
 culturvations.online
 culturvator.org
 cuprahuolto.online
+customer-success-helsinki.com
 customersupportfinland.com
 cutprofinland.com
 cutprofinland.store
@@ -1779,6 +1781,7 @@ helsinki-prx-dnraaau.info
 helsinki-prx-dnraaav.info
 helsinki-prx-dnraaaw.info
 helsinki-prx-dnraaax.info
+helsinki-prx-dnraaay.info
 helsinki-prx-ksaac.info
 helsinki-prx-ksaad.info
 helsinki-prx-ksaae.info
@@ -2497,6 +2500,7 @@ jetcasino-suomi.com
 jetcasinosuomi.com
 jeunesinsoumis.site
 jh-elainpalvelut.com
+jiaoyj.com
 jiesuomi.com
 jiofinland.quest
 jkafinland.com
@@ -2552,6 +2556,7 @@ kamagra-suomi.com
 kamagra-suomi.store
 kampaamotsuomi.online
 kampanja-elakkeella-spankki.com
+kampanja-fi-mobiili-fi.com
 kampanja-fi-mobiili.com
 kampanja-fi-mobiilifi.com
 kampanja-fi-s-pankki.com
@@ -2632,6 +2637,7 @@ keensuomi.net
 kehonhuolto-jani-bergstrom.net
 kehonhuoltojopi.com
 kehystyspalvelunelilehti.com
+keikkapalvelut.online
 kekenhuolto.com
 kela-fi.icu
 kela-fi.sbs
@@ -3409,6 +3415,7 @@ mobilepaymentsaustralia.com
 mobilepaymentsaustralia.net
 mobilepaymentsaustralia.online
 mobilepaymentsinsider.com
+mobilepaymentsjp.com
 mobilepaymentsolutions679508.icu
 mobilepaynow.com
 mobilepayoneer.com
@@ -3473,6 +3480,7 @@ moviestation.city
 moviestation.click
 moviestation.net
 moviestato.xyz
+moviestatues.com
 moviestitc.com
 moving-services-finland-246199794.zone
 moyfinland.info
@@ -3593,6 +3601,7 @@ nettisivupalvelu.online
 nettisuomenspin.com
 nettiviesti.com
 new-offer-finland.com
+new-soumisports.com
 newbalance-suomi.com
 newbalancesuomi.net
 neweracap.com
@@ -4720,6 +4729,7 @@ salonasuntopalvelu.com
 salsoumia.com
 sameda-kanta.com
 sammutinhuoltoketonen.com
+samnordean.shop
 san-vero-milis.my.id
 sandqvistsuomi.com
 sanni-helsinki.com
@@ -4884,6 +4894,7 @@ skisuomi.com
 skp-huolto.com
 skullring-suomi.shop
 skulpturen-suomi.shop
+skyworthfinland.com
 sleeplessfinland.com
 slipperhelsinki.com
 slot-casino-finland.shop
@@ -5167,6 +5178,7 @@ soumissionstrois-rivieres.ca
 soumissionsystemedalarme.com
 soumissionthermopompe.net
 soumissiontravaux.com
+soumissionzootherapie.ca
 soumissionzootherapie.com
 soumissmart.com
 soumist.com
@@ -5785,6 +5797,7 @@ suomibestexperience.com
 suomibestreviews.com
 suomibetmaster.com
 suomibetsfi.com
+suomibetswin.com
 suomibettimaster.com
 suomibigvibe.com
 suomibingo.com
@@ -6515,6 +6528,7 @@ todennussuomi.com
 tof-palvelu.com
 toimenpideohjepankki.store
 toimistopalvelu.online
+toinenporrasturvallisuuspalvelut.com
 toivapalvelut.online
 toivolapalvelut.net
 tokaifinland.com
@@ -7126,6 +7140,7 @@ vero-geothermal.energy
 vero-gomez.com
 vero-green.com
 vero-group.com
+vero-growth.com
 vero-guard.com
 vero-haus.store
 vero-holding.com
@@ -7312,6 +7327,7 @@ vidala-helsinki.com
 videoconferencefinland.today
 videohelsinki.com
 videohuoltosfdfs.xyz
+vieno-helsinki.com
 vienza-helsinki.com
 vierellasihyvinvointipalvelut.com
 viesta-spankii.site
