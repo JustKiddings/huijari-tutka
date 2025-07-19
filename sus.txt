@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 18/07/2025 07:00 UTC
+# Last modified: 19/07/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -640,6 +640,7 @@ chatfinland.com
 chatsuomi.com
 chaturvate.cam
 cheap-flights-helsinki.xyz
+chickenroadhelsinkiside.com
 chicntrafco.run
 chillstayfinland.com
 chillysfinland.com
@@ -660,6 +661,7 @@ clarksshoesfinland.com
 clarkssuomis.com
 clevero-industries.com
 clickhelsinki.com
+climatetechfinland.com
 cloudsaastopanki.site
 cloudstepsuomi.com
 cloudsuomi.click
@@ -1407,6 +1409,7 @@ gelfinland.store
 gelopalvelut.com
 gemfinland.com
 gemmasuomi.com
+genaifinland.com
 gennova-helsinki.com
 gennova-suomi.com
 gennovasuomi.com
@@ -2139,6 +2142,8 @@ helsinkiwhisper.com
 helsinkiww.net
 helsinkiyes.com
 heltti-palvelu.com
+heltti-terveys.com
+heltti-tyoterveys.com
 helttipalvelut.com
 helttiterveys.com
 helttiterveyspalvelut.com
@@ -2206,6 +2211,7 @@ hoodrichhupparifinland.com
 hoodrichsuomi-ale.com
 hoodrichsuomi-fi.com
 hoodrichsuomi.com
+hoodrichsuomi.net
 hosfinland.buzz
 hotel-helsinki.com
 hotelhelsinki.net
@@ -2414,6 +2420,7 @@ iptvfinland.info
 iptvfinland.online
 iptvfinland.site
 iptvfinland.tv
+iptvsuomessa.com
 iptvsuomi-fi.org
 iptvsuomi-fi.store
 iptvsuomi.click
@@ -2613,6 +2620,7 @@ kasinot-ilman-rekisteroitymista.online
 kasinot-ilman-suomen-lisenssia.net
 kasinot-ilman-suomen-lisenssiä.net
 kasinot-ilmanrekisteroitymista.com
+kasinot-suomi.org
 kasinotilmanrekisteroitymista.co
 kasinotilmanrekisteroitymistajalisenssia.com
 kasinotilmansuomenlisenssia.net
@@ -3282,6 +3290,7 @@ mobiili-kasinot.org
 mobiili-s.com
 mobiili-spankki-elakkeella.com
 mobiili-spankki-elakkeellaafi.com
+mobiili-spankkifi-kampanja.com
 mobiili-spankkikampanja.com
 mobiili.co.uk
 mobiilidanske.online
@@ -3332,6 +3341,7 @@ mobilepay-opdatering.info
 mobilepay-opdatering.online
 mobilepay-order.ru
 mobilepay-qr.dk
+mobilepay.africa
 mobilepay.biz
 mobilepay.cash
 mobilepay.casino
@@ -4321,6 +4331,7 @@ polenesuomi.com
 poliisi-palvelufi.com
 poliisi-suomi.com
 poliisi-suomi.info
+polkanertyopar.click
 polkcountyopa.org
 polpalvelufi.com
 ponyedgefinland.com
@@ -4603,6 +4614,7 @@ rtps27viesta.site
 rturva.biz.id
 ruedxhelsinki.com
 rumahmakantaliwangbersaudara.shop
+rumahmakantaring.com
 rumienmiestenliitto.com
 runvero-line.top
 ruoppaussuominen.com
@@ -4793,6 +4805,7 @@ secondhomefromfinland.com
 secondstylefinland.com
 sectorally-finland.com
 sedonamethodsuomi.com
+seehelsinki.com
 seek-mobilepaymonthlyau.info
 seek-mobilepaymonthlyca.info
 seek-mobilepaymonthlyfrca.info
@@ -4908,6 +4921,7 @@ slowtretyopa.com
 slowtretyopa.shop
 slowtvfinland.com
 slowtvfinland.online
+slushhelsinki.com
 smart-mobilepay.com
 smartdeals-finland.com
 smartdeals-suomi.com
@@ -5038,6 +5052,7 @@ soumikpatra.xyz
 soumiksarker.com
 soumiktarafdar.com
 soumil.store
+soumil07.com
 soumilagarwal.com
 soumilheiro.com
 soumilhouse.com
@@ -5590,6 +5605,7 @@ suomenshilajit.online
 suomensiemenpankki-fi.com
 suomensisu.org
 suomensotosperheet.com
+suomensurrealistit.net
 suomentalousuutiset.blog
 suomentanssitapahtumat.com
 suomentarjous.com
@@ -6444,6 +6460,7 @@ terveysvaikutukset.org
 terveysverstas.com
 terveysviidakko.com
 terveysvirasto.com
+tesoumi.com
 tesoumira.com
 testi-mobiilipunnitus.com
 testivoittaja-terveys.com
@@ -6771,6 +6788,7 @@ turvakena.space
 turvakengat.com
 turvakengat.shop
 turvakomppania.com
+turvakti.com
 turvala.com
 turvaldovino.com
 turvaldovino.info
@@ -7165,9 +7183,12 @@ vero-labs.net
 vero-lake-estates.com
 vero-lammert.com
 vero-laudantium.site
+vero-light.com
 vero-lighting.com
+vero-lights.com
 vero-line.store
 vero-linguista.com
+vero-linkki.life
 vero-live.com
 vero-living.com
 vero-living.store
@@ -7176,6 +7197,7 @@ vero-luma.com
 vero-luxe.com
 vero-luxe.net
 vero-magni.com
+vero-mall.com
 vero-manager.site
 vero-manager2.com
 vero-med.ru
@@ -7430,6 +7452,7 @@ visifinland.com
 visitahelsinki.online
 visitfinland.online
 visitlaplandfinland.com
+visma-kirjaudu.com
 vistasfinland.com
 visuomis.com
 vitamiinipankki.online
