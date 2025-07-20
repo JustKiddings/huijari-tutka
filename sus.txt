@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 19/07/2025 07:00 UTC
+# Last modified: 20/07/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -365,6 +365,7 @@ awfinland.shop
 axelarigato-helsinki.com
 ayshensuomen.com
 azurslot-finland.com
+azurslot-finland.net
 azurslotcasinofinland.com
 azurslotfinland.com
 b2bfinland.com
@@ -632,6 +633,7 @@ champion-fightclubfinland.com
 changeinfinland.com
 chantelsoumis.com
 chantelsoumis.net
+charismahelsinki.com
 charldaviestattoos.com
 charlesfinland.com
 charlestyrwhitt-suomi.com
@@ -1136,6 +1138,7 @@ fadimanfellnerfinland.art
 fairtexfinland.com
 falch-finland.com
 falkesuomi.com
+fambet-finland.net
 famefinland.com
 fanclubfinland.com
 fanclubsfinland.com
@@ -1785,6 +1788,7 @@ helsinki-prx-dnraaav.info
 helsinki-prx-dnraaaw.info
 helsinki-prx-dnraaax.info
 helsinki-prx-dnraaay.info
+helsinki-prx-dnraaaz.info
 helsinki-prx-ksaac.info
 helsinki-prx-ksaad.info
 helsinki-prx-ksaae.info
@@ -1967,6 +1971,7 @@ helsinkicab.com
 helsinkicards.com
 helsinkicarrental.com
 helsinkicas-fi.com
+helsinkicas.xyz
 helsinkicasifreespins.click
 helsinkicasinoclub.com
 helsinkicasinonodeposit.click
@@ -2139,6 +2144,7 @@ helsinkiwealth.com
 helsinkiweather.info
 helsinkiweekend-ui15.top
 helsinkiwhisper.com
+helsinkiworks.com
 helsinkiww.net
 helsinkiyes.com
 heltti-palvelu.com
@@ -2335,6 +2341,7 @@ ilman-rekisteroitymista-2024.com
 ilman-rekisteroitymista-fi.com
 ilman-rekisteroitymista-finland.com
 ilman-rekisteroitymista-suomi.com
+ilmanrekisterointia.com
 ilmanrekisteroitymista.com
 ilmanrekisteroitymista.pro
 ilmanrekisteroitymista.xyz
@@ -2620,6 +2627,7 @@ kasinot-ilman-rekisteroitymista.online
 kasinot-ilman-suomen-lisenssia.net
 kasinot-ilman-suomen-lisenssiä.net
 kasinot-ilmanrekisteroitymista.com
+kasinot-suomi.net
 kasinot-suomi.org
 kasinotilmanrekisteroitymista.co
 kasinotilmanrekisteroitymistajalisenssia.com
@@ -3381,6 +3389,7 @@ mobilepayd.com
 mobilepaydanmark.info
 mobilepaydanmark.online
 mobilepaydanmarks.info
+mobilepaydenmarks.online
 mobilepayding.com
 mobilepaydirect.com
 mobilepaydk.link
@@ -3467,6 +3476,11 @@ moovy-fln.com
 moovy-oy.com
 moovya.info
 moovyai.com
+moovybe.fr
+moovybe.info
+moovybe.online
+moovybe.store
+moovycam.com
 moovyfi.com
 moovyo.tech
 moovyoyj.com
@@ -5074,6 +5088,7 @@ soumina.com
 souminas.com
 soumine.net
 soumine.ru
+soumine.store
 souminecraft.com
 soumineirouai.com.br
 soumingdan.com
