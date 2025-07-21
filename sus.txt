@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 20/07/2025 07:00 UTC
+# Last modified: 21/07/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -525,6 +525,7 @@ brandonbarsoumian.com
 brandvero-dynmics.com
 breezevapesuomi.com
 breezevapesuomi.net
+brestinsoumise.fr
 briansuomela.win
 bridgestonesuomi.com
 brixtonsuomis.com
@@ -2034,6 +2035,7 @@ helsinkigamelab.online
 helsinkigames.online
 helsinkigiants.com
 helsinkigranfondo.com
+helsinkigudrun.com
 helsinkiha.com
 helsinkihackathon.com
 helsinkihairhub.com
@@ -2314,6 +2316,7 @@ icedrivingfinland.online
 icepeak-suomi.com
 icepeakfinland.com
 icepeaksuomi.com
+iconhelsinki.com
 ict-huolto.online
 id-elisa-fi.com
 id-elisa-fi.site
@@ -2423,6 +2426,7 @@ iptv-suomi.org
 iptv-suomi.pro
 iptv-suomi.store
 iptv-suomi.xyz
+iptv-suomii.com
 iptvfinland.info
 iptvfinland.online
 iptvfinland.site
@@ -2621,6 +2625,7 @@ kartyakevero-gep.shop
 kasiakasauli.com
 kasinfinland.com
 kasino-helsinki.com
+kasinohotelsfinland.com
 kasinoilmanrekisteroitymistajalisenssia.com
 kasinopankkitunnuksilla.com
 kasinot-ilman-rekisteroitymista.online
@@ -3292,6 +3297,7 @@ mobiili-kampanja-elakkeela.com
 mobiili-kampanja-finland.com
 mobiili-kampanja-fispankki.com
 mobiili-kampanja-pankki.com
+mobiili-kampanjafi-pankki.com
 mobiili-kampanjafi-spankkifi.com
 mobiili-kampanjas.com
 mobiili-kasinot.org
@@ -3458,6 +3464,7 @@ mobillispankki.online
 mobilllepayylasuomii.com
 modavero-bucuresti.com
 modavero-warszawa.com
+modemobilepay.com
 modevohelsinki.com
 mohsenmasoumi.nl
 mohsenmasoumi.online
@@ -3476,6 +3483,7 @@ moovy-fln.com
 moovy-oy.com
 moovya.info
 moovyai.com
+moovybe.com
 moovybe.fr
 moovybe.info
 moovybe.online
@@ -3505,6 +3513,7 @@ moviestation.click
 moviestation.net
 moviestato.xyz
 moviestatues.com
+moviestatus.xyz
 moviestitc.com
 moving-services-finland-246199794.zone
 moyfinland.info
@@ -3905,6 +3914,7 @@ oma-mori.net
 oma-mx.site
 oma-nappe.com
 oma-nuclear-power-plant-pointcloud.com
+oma-ogreen.com
 oma-online.ch
 oma-online.com
 oma-online.online
@@ -4227,6 +4237,8 @@ patagoniasuomioutlet.com
 patriziapepefinland.com
 patternsfromfinland.com
 pay--asiakaspalvelu.com
+pay--palvelu.com
+pay-asiakas-palvelu-dmn.com
 pay-asiakas-palvelu.com
 pay-asiakas-palvelus.com
 pay-asiakaspalvelu.com
@@ -4244,6 +4256,7 @@ pehelsinki.com
 peintureprostaticsoumission.com
 pelaaminensuomessa.com
 pelaasuomea.com
+pelatailmanrekisteri.com
 peliliikesuomi.com
 pelipaitasuomi.com
 pelisuomeseta.com
@@ -4585,6 +4598,7 @@ rexelfinland.com
 rhelsinki.com
 rhsfinland.com
 rhydon-helsinki.com
+richard-vero-commercials.co.uk
 richardvalvona.uk
 rickydaviestattoo.com
 ricovero-temporaneo.it
@@ -5677,6 +5691,7 @@ suomi-bonus.online
 suomi-casino.online
 suomi-choose.com
 suomi-delta.com
+suomi-ebox.com
 suomi-ed.com
 suomi-education.com
 suomi-education.online
@@ -5858,6 +5873,7 @@ suomicojp.com
 suomiconnect.site
 suomicorporation.com
 suomicosmetic.com
+suomicosstores.com
 suomicricketfi.com
 suomicritique.com
 suomicritiques.com
@@ -7262,6 +7278,7 @@ vero-santiago.com
 vero-schwarz.com
 vero-se.com
 vero-security.com
+vero-shigemaru.com
 vero-sicurezza.co.uk
 vero-sicurezza.com
 vero-skatt.online
