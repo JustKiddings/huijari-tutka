@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 21/07/2025 07:00 UTC
+# Last modified: 22/07/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -1506,6 +1506,7 @@ guohaoyj.fun
 guohaoyj.top
 guoyj.top
 gupiaoyj.cn
+gurumakanta.com
 gwearfinland.com
 gym-sharksuomi.com
 gymsfinland.click
@@ -1790,6 +1791,9 @@ helsinki-prx-dnraaaw.info
 helsinki-prx-dnraaax.info
 helsinki-prx-dnraaay.info
 helsinki-prx-dnraaaz.info
+helsinki-prx-dnraaba.info
+helsinki-prx-dnraabb.info
+helsinki-prx-dnraabc.info
 helsinki-prx-ksaac.info
 helsinki-prx-ksaad.info
 helsinki-prx-ksaae.info
@@ -2233,6 +2237,7 @@ hotellodgingsuomi.com
 hotelshelsinkifinland.net
 hotspinsuomi.com
 houkuttelevasuomi.com
+housefinland.one
 houseofhelsinkiy.info
 houseofhelsinkiy.xyz
 howzitfinland.com
@@ -3171,6 +3176,7 @@ mbtsuomi-fi.com
 mckeown-fortum.com
 me-suomi.site
 mebelfinland.ru
+mebelle-helsinki.com
 medassistanslascwlfinland.bond
 medassistaulfinland.bond
 medassistshaslfinland.bond
@@ -4665,6 +4671,7 @@ s-mobiili-kampanja-fi-spankkii.com
 s-mobiili.online
 s-mobiilielakkeella.com
 s-mobiilielakkeellaa.com
+s-mobiilifi-pankki-fi.com
 s-mobiilifikampamja.com
 s-mobiilikampanja.com
 s-mobiilikampanjaa.com
@@ -4705,6 +4712,7 @@ s-pankki.digital
 s-pankki.email
 s-pankki.icu
 s-pankki.live
+s-pankki.org
 s-pankki.run
 s-pankki.shop
 s-pankki.site
@@ -4944,6 +4952,7 @@ slot-game-finland.online
 slotfinland.com
 slotsgemfinland.com
 slotspalace-suomi.com
+slotsuomi.com
 slotterfinland.com
 slowtretyopa.com
 slowtretyopa.shop
@@ -5585,6 +5594,7 @@ suomenpah.org
 suomenparhaatkasinot.net
 suomenparhaatkohteet.com
 suomenparhaatlomat.com
+suomenparhaatslotpelit.com
 suomenparhaattapahtumat.site
 suomenparhaattarjoukset.online
 suomenparvekecenter.com
@@ -6288,6 +6298,7 @@ syvellssuomi.com
 t-mobilepay.forum
 tahtaimessaterveys.com
 taigatrekfinland.com
+taikapelitsuomessa.com
 taiwanmobilepay.diy
 takanta.online
 takemobilepayments.com
@@ -7260,6 +7271,7 @@ vero-potenco.co.uk
 vero-potenco.com
 vero-potenco.org
 vero-praesentium.com
+vero-prod.site
 vero-production.com
 vero-publishing.com
 vero-quibusdam.com
