@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 22/07/2025 07:00 UTC
+# Last modified: 23/07/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -112,6 +112,8 @@ airjordanfinland.net
 airjordans-suomi.com
 airjordansuomi.com
 airport-food-packaging-jobs-finland.today
+airporthelsinki.taxi
+airporthelsinkitaxi.online
 airsweepfinland.com
 airtaxihelsinki.com
 airupfinland.net
@@ -643,6 +645,7 @@ chatfinland.com
 chatsuomi.com
 chaturvate.cam
 cheap-flights-helsinki.xyz
+cheapfinland.com
 chickenroadhelsinkiside.com
 chicntrafco.run
 chillstayfinland.com
@@ -1952,6 +1955,7 @@ helsinkiaethetics.com
 helsinkiai.solutions
 helsinkiaihub.com
 helsinkiairport.rocks
+helsinkiairporttaxi.online
 helsinkiairporttaxitransfers.com
 helsinkiaitio.com
 helsinkialvar.online
@@ -2237,6 +2241,7 @@ hotellodgingsuomi.com
 hotelshelsinkifinland.net
 hotspinsuomi.com
 houkuttelevasuomi.com
+housefinland.com
 housefinland.one
 houseofhelsinkiy.info
 houseofhelsinkiy.xyz
@@ -2294,6 +2299,7 @@ hute-suomi.shop
 hwffinland.info
 hxvfinland.info
 hydro-flask-suomi.com
+hydroflask-suomi.com
 hydroflasksuomi.com
 hydroflasksuomi.net
 hydrogenfinland.com
@@ -3401,6 +3407,7 @@ mobilepayd.com
 mobilepaydanmark.info
 mobilepaydanmark.online
 mobilepaydanmarks.info
+mobilepaydanmarks.online
 mobilepaydenmarks.online
 mobilepayding.com
 mobilepaydirect.com
@@ -4702,6 +4709,7 @@ s-pankki-paivita-asiakaspalvelu-fi-acess.ru
 s-pankki-paivita-fi-ilii-tilit.ru
 s-pankki-paivita-omat-tietosi-fi-iilf.ru
 s-pankki-paivita-omat-tietosi-fi-illiiilliiiii.ru
+s-pankki-tarkistaminen.com
 s-pankki-uusikampanja.com
 s-pankki.app
 s-pankki.cfd
@@ -4729,6 +4737,7 @@ s-pankkifi.net
 s-pankkii.com
 s-pankkikampanja-fi.com
 s-pankkikampanjafi.com
+s-pankkimobiiili-fi.com
 s-pankkimobiili-fi-kampanja.com
 s-pankkimobiili-fi.com
 s-pankkimobiilifi.com
@@ -4828,6 +4837,7 @@ sbxfinland.store
 schibsted-suomi.cfd
 schibsted-suomi.icu
 schoolofaifinland.com
+scoutingfinland.com
 scufferssuomi.com
 sdartfinland.com
 sdsuomei.com
@@ -5242,6 +5252,7 @@ soumitabhattacharyasen.com
 soumitaddanki.com
 soumitaroy.com
 soumitasamanta.com
+soumitasteel.in
 soumitguha.com
 soumitiyu.com
 soumitr.com
@@ -7022,6 +7033,7 @@ vaihdehuolto.nu
 vainio-helsinki.com
 vakantie-zweden-finland-reisblog.nl
 vakilmasoumi.com
+vakuutuspalveluif.com
 vala-helsinki.com
 valdemarhelsinki.com
 valenclavero-portafolio.xyz
@@ -7057,6 +7069,7 @@ varastointipalvelu.com
 varastointipalvelu.net
 varastointipalvelut.com
 varastointipalvelut.net
+varastoturva.online
 varausuomi.online
 varela-helsinki.com
 varma-oyj.com
@@ -7271,6 +7284,7 @@ vero-potenco.co.uk
 vero-potenco.com
 vero-potenco.org
 vero-praesentium.com
+vero-prod.com
 vero-prod.site
 vero-production.com
 vero-publishing.com
