@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 24/07/2025 07:00 UTC
+# Last modified: 25/07/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -185,6 +185,7 @@ amivero-verification.com
 amorehelsinki.com
 anadolukulturvakfi.net
 anaistentation.com
+anapashturval.online
 anastasiakasatkina.com
 andersfinland.com
 andyfinland.info
@@ -227,6 +228,7 @@ apuvapalvelut.com
 aquawin-finland.org
 aquilasuomi.com
 aquilasuomi.online
+aqvafinland.se
 arakengatsuomi.com
 archiwumpanki.pl
 arcopedicosuomi.com
@@ -715,6 +717,8 @@ copavi-helsinki.com
 copenhagen-helsinki-rail-vacation.today
 copenhagen-helsinki-train-tour-package-offers.today
 corossuomi.com
+corsaza-finland.com
+corsazafinland.com
 corteiz-suomi.com
 cosfinland.com
 cosmedica-suomi.com
@@ -886,6 +890,7 @@ djagencyfinland.com
 djagencyhelsinki.com
 djpalvelu.com
 dk-mobilepay.info
+dk-online-mobilepay.com
 dlr-huolto-ja-pesu.com
 dlshensuomen.com
 dmc-helsinki.com
@@ -1676,8 +1681,11 @@ helsinki-fi.org
 helsinki-image.com
 helsinki-istanbul-train-tour-package.today
 helsinki-istanbul-train-tour-packages.today
+helsinki-juristi.org
 helsinki-kasino.com
+helsinki-lakiasiaintoimisto.org
 helsinki-lakimies.org
+helsinki-lakitoimisto.org
 helsinki-lemonify-aaa.info
 helsinki-lemonify-aac.org
 helsinki-lmn-eaa.info
@@ -2028,6 +2036,7 @@ helsinkifilmaffair.com
 helsinkifilmlab.com
 helsinkifilmlab.online
 helsinkifilmlab.pro
+helsinkifilmmakersclub.com
 helsinkifilmmarket.com
 helsinkifilmmarket.online
 helsinkifinds.com
@@ -2063,11 +2072,14 @@ helsinkiijing.lol
 helsinkiinnova.com
 helsinkijazzhub.com
 helsinkijs.com
+helsinkijuristi.org
 helsinkikasino.com
 helsinkiknifeshow.com
 helsinkikw.com
 helsinkikw.work
+helsinkilakiasiaintoimisto.org
 helsinkilakimies.eu
+helsinkilakitoimisto.org
 helsinkilegaltech.com
 helsinkilimo.info
 helsinkilimoservice.com
@@ -2568,6 +2580,8 @@ julianusturvalisus.com
 julkinenkaupanvahvistaja.com
 jumbofinland.com
 junkremovalvonore.com
+juristi-helsinki.org
+juristihelsinki.org
 jussisuominen.com
 justdancehelsinki.com
 juupfinland.com
@@ -2812,6 +2826,7 @@ kultapalvelu.com
 kulturvakt.nu
 kulturvakti.online
 kumppanipalvelu.com
+kunesuomi.com
 kunnonpalvelu.com
 kuntoturva.com
 kuntoutusjakehonhuolto.com
@@ -3394,6 +3409,7 @@ mobilepay24.com
 mobilepay24.net
 mobilepayandremit.com
 mobilepaybank.com
+mobilepaybd.com
 mobilepaybd.xyz
 mobilepaycasino-fi.top
 mobilepaycasino.com
@@ -3413,6 +3429,7 @@ mobilepaydanmark.info
 mobilepaydanmark.online
 mobilepaydanmarks.info
 mobilepaydanmarks.online
+mobilepaydanmerk.online
 mobilepaydenmarks.online
 mobilepayding.com
 mobilepaydirect.com
@@ -3607,6 +3624,7 @@ naistenurheiluasut.com
 naisyrittajatsuomi.com
 nakedwolfefinland.com
 naluhelsinki.com
+namvero-blintrix.com
 nanorebarsoumian.com
 napapijri-finland.com
 napapijrifinland.com
@@ -3821,6 +3839,7 @@ numobilepay.com
 nuohouspalvelu.com
 nuovafinland.com
 nuoyj.com
+nuppu-helsinki.com
 nutraficorporate.com
 nutrihealthfinland.com
 nutrilabfinland.com
@@ -3854,6 +3873,7 @@ ohpollysuomi.com
 oikeuspalvelut.com
 oikeusturva.info
 oikeusturva.org
+oisuomi.com
 oivalakipalvelu.com
 oldcasinohelsinki.com
 olegsuomi.com
@@ -3945,6 +3965,7 @@ oma-paketti.com
 oma-papa.com
 oma-paravent.com
 oma-partners.com
+oma-pc.online
 oma-penny.com
 oma-pinheiros.com
 oma-podcast.de
@@ -4080,6 +4101,7 @@ online-games-finland.com
 online-kirjaudu.sbs
 online-mobiili.com
 online-omakanta.com
+online-s-pankki-fi.com
 online-s-pankkil.online
 online-saatopanki.site
 online-suomi.com
@@ -4700,6 +4722,7 @@ s-pankki-elakeela.com
 s-pankki-elakeella.com
 s-pankki-elakkeela.com
 s-pankki-fi-asiakaspalvelu-paivita-iislil.com
+s-pankki-fi-kampanja-mobili.com
 s-pankki-fi-kampanja.com
 s-pankki-fi-kmpanja.com
 s-pankki-fi-mobiili.com
@@ -4720,7 +4743,10 @@ s-pankki-paivita-fi-ilii-tilit.ru
 s-pankki-paivita-omat-tietosi-fi-iilf.ru
 s-pankki-paivita-omat-tietosi-fi-illiiilliiiii.ru
 s-pankki-tarkistaminen.com
+s-pankki-tunnistautuminen.com
+s-pankki-tunnuslukutaulukolla.com
 s-pankki-uusikampanja.com
+s-pankki-verkkopalvelut.com
 s-pankki.app
 s-pankki.cfd
 s-pankki.click
@@ -6069,6 +6095,7 @@ suominuevo.com
 suominyt.net
 suomiof.com
 suomiolut.com
+suomiomi.top
 suomionline.casino
 suomionline.sbs
 suomioriginals.com
@@ -6587,10 +6614,12 @@ tilin-hallinta-asiakas.com
 tilipalvelu.net
 tilipalvelutalous360.com
 tilisuomi.com
+tim-nasional-sepak-bola-finlandia.com
 timberland-helsinki-outlet.com
 timberland-helsinki-outlet.pro
 timberland-suomi.net
 timberlandhelsinki.com
+timberlandsuomi.net
 timbuk2suomi.com
 tinamasoumi.com
 tinyworldfinland.com
@@ -6916,6 +6945,7 @@ tuuli-helsinki.com
 tuvera-suomi.com
 tv-soumitiyu.com
 twinklingtoadstoolhelsinki.com
+tyojaterveys.info
 tyomaaturvallisuus.com
 tyonohjauspalvelu-tyotuulia.com
 tyonohjauspalvelu.com
@@ -7835,6 +7865,7 @@ zgxoehardwpcaoyj.shop
 zhaosuoming.com
 zhhfinland.quest
 zhiviestate.ru
+zhongbaoyj.com
 zhusuomenchuang.com
 zigarrenschneider-suomi.shop
 zimplerkasinotsuomi.com
