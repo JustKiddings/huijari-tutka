@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 25/07/2025 07:00 UTC
+# Last modified: 26/07/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -948,6 +948,7 @@ duviestates.com
 dviestates.com
 dwgfinland.com
 dxcfinland.info
+dynastyhelsinki.com
 e-fortum.ru
 e-makantasis.com
 e-makantasis.gr
@@ -1448,6 +1449,7 @@ ggbet-finland.net
 ggbet-suomi.com
 ggbett-finland.com
 ghdsuomi.com
+gholamrezamasoumi.com
 giga-mobiili.com
 gigamobiili.app
 gigamobiili.com
@@ -3566,6 +3568,7 @@ muffinland.xyz
 mugitsuomi.com
 muji-suomi.com
 mujifinland.com
+mulmipalvelut.com
 mummopalvelu.com
 mummopalvelut.com
 mun-finland.com
@@ -3600,6 +3603,8 @@ naamiaispalvelu.com
 naifinland.cn
 naijagirlinfinland.com
 nailora-helsinki.com
+nailsfinland.com
+nailshelsinki.com
 naisten-bikinit.shop
 naisten-bodyt.shop
 naisten-hatut.shop
@@ -3822,6 +3827,7 @@ nousuhelsinki.com
 novahelsinki.shop
 noveler-helsinki.com
 novellohelsinki.com
+novero-automotive.com
 novero-lamp.ru
 novero-lamp.store
 nrityopachara.com
@@ -4439,6 +4445,7 @@ posti-vahvistus.cfd
 postifinland.delivery
 postisuomen.site
 postisuomi.site
+postivahvistus.info
 postivahvistus.online
 posturva.store
 potterhelsinki.com
@@ -4490,6 +4497,7 @@ profuomosuomi.com
 proiptvsuomi.com
 prokotipalvelut.com
 prontocasino-suomi.com
+prosoumissions.com
 proterveystalo.com
 provedotsuomi.com
 provoicefinland.com
@@ -5046,6 +5054,7 @@ smspalvelu-suomi.site
 smspalvelut-suomi.site
 smsviesti-fi.site
 sn-infosys-meet-helsinki.com
+snd-pay-palvelu.com
 snoopysuomi.com
 snxfinland.com
 socialcontenthelsinki.com
@@ -5164,6 +5173,7 @@ souminecraft.com
 soumineirouai.com.br
 soumingdan.com
 soumingshi.com
+soumingwang.com
 soumingzi.com
 souminhachefa.com
 souminhamaquiadora.com
@@ -5197,6 +5207,7 @@ soumission-assurances.com
 soumission-fenentres-1.online
 soumission-fenentres-2.online
 soumission-manuelle.com
+soumission-materiaux-paysagement.com
 soumission-non.ch
 soumission-particulier.com
 soumission-rapide.com
@@ -5263,6 +5274,7 @@ soumissionsfitness.ca
 soumissionsgaragecabanon.ca
 soumissionshypothecaires.com
 soumissionsinfiltrations.ca
+soumissionsinspections.com
 soumissionsmateriaux.ca
 soumissionsmenage.com
 soumissionspeinturegratuit.com
@@ -5363,6 +5375,7 @@ spankkikampanja-fi.com
 spankkimobiili-elakkeella.com
 spankkimobiili.online
 spankkimobiilifi.com
+spankkipalvelu-fi.com
 spankkiraportti.site
 spankkis.store
 spankkitech-info.com
@@ -6131,6 +6144,7 @@ suomipremiumhotelli.com
 suomipressu.com
 suomiprime.com
 suomiprizes.com
+suomiptv.shop
 suomipuolakajaani.net
 suomiquest.click
 suomiquest.sbs
@@ -6771,6 +6785,7 @@ traficomry.com
 traficomyrfl.info
 traficore.com
 traficoreal.com
+traficoresponsable.com
 traficorganique.fr
 traficorn-oy.info
 traficorn.info
@@ -7115,6 +7130,8 @@ varastointipalvelut.com
 varastointipalvelut.net
 varastoturva.com
 varastoturva.online
+varatuomari-helsinki.org
+varatuomarihelsinki.org
 varausuomi.online
 varela-helsinki.com
 varma-oyj.com
