@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 27/07/2025 07:00 UTC
+# Last modified: 28/07/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -54,6 +54,7 @@ a2zmobilepay.com
 aabhasoumitra.com
 aamunkoihelsinki.com
 aanekoskenhinauspalvelu.com
+aasiakas.com
 abogadoaccidentestraficomataro.com
 abogadosaccidentestraficomadrid.com
 abogadosaccidentestraficomalaga.com
@@ -148,6 +149,7 @@ al-monipalvelu.com
 alandskirjaudu.com
 alastonsuomi.pics
 alastonsuomi.shop
+aleksanterinkatu-helsinki.com
 aleksi-helsinki.com
 aleppo-finlandian.info
 alexandrafinland.com
@@ -193,6 +195,7 @@ anfrapalvelut.com
 angelaviesti.com
 angoulemeinsoumise.fr
 aniaautopalvelu.com
+animahelsinki.com
 animaltourismfinland.com
 aninebing-suomi.com
 anjasuomi.com
@@ -723,6 +726,7 @@ corteiz-suomi.com
 cosfinland.com
 cosmedica-suomi.com
 cossalesuomi.com
+cosstores-suomi.com
 cosstoresuomi.com
 cossuomi-fi.com
 cossuomi.com
@@ -786,6 +790,7 @@ dasarisoumith.xyz
 datakantar.com
 datapalvelut.net
 dattasoumitra.com
+davevohelsinki.com
 davi-helsinki.com
 davvero-echt.nl
 dc-shoes-finland.com
@@ -802,6 +807,7 @@ dds-masoumi.com
 deadlinehelsinki.com
 dealsinfinland.com
 debreaminhelsinki.com
+dechokerfinland.com
 decken-suomi.shop
 deelivero-ae.com
 deepseek-suomi.com
@@ -977,6 +983,7 @@ eccoshoesfinland.com
 eccoshopfinland.com
 eco-finland.com
 ecofinland.com
+econiapalvelut.com
 ed-hardy-suomi.com
 edelstahlschmuck-suomi.shop
 edhardyfinland.com
@@ -1088,6 +1095,7 @@ escortservice-in-finland.xyz
 escortshelsinki.com
 esfinland.com
 espankki.com
+esplanadi-helsinki.com
 espoofinland.com
 espoonsaneerauspalvelu.com
 esport-suomi.com
@@ -1107,6 +1115,7 @@ essuomi.tech
 esteetonsuomi.com
 estonia-helsinki-rail-vacation.today
 esuominebp.info
+etelasuomenasennus.com
 ethereumfinland.xyz
 etherviesta.ink
 etherviesta.pro
@@ -1138,6 +1147,7 @@ exclusive-finland-vacation-packages.today
 exolfinland.com
 experiencesuomi.com
 experiencesuomi247.com
+explore-helsinki.com
 exploringfinland.com
 extremefinland.online
 eyeonfinland.com
@@ -2009,6 +2019,7 @@ helsinkicompany.com
 helsinkiconference.com
 helsinkicreativesociety.com
 helsinkicricketcup.com
+helsinkicruising.com
 helsinkicrypto.com
 helsinkicurrent.com
 helsinkidailynews.com
@@ -2115,6 +2126,7 @@ helsinkiphilharmonicorchestra.berlin
 helsinkiphilharmonicorchestra.tech
 helsinkiphilharmonirchestra.tech
 helsinkipiercing.com
+helsinkipizza.com
 helsinkipizzakebab-antwerpen.be
 helsinkiplay.com
 helsinkiport.com
@@ -2128,6 +2140,7 @@ helsinkiquantum.com
 helsinkiquantum.solutions
 helsinkiqzvmt.com
 helsinkirep.com
+helsinkirockabillyweek.com
 helsinkis.top
 helsinkisaunaboats.com
 helsinkisaunalautta.com
@@ -2528,6 +2541,7 @@ jansportssuomi.com
 jansportsuomi-fi.com
 jaoyj.soy
 jarvinenhelsinki.com
+jasderutyopaset.click
 jathaviestates.com
 jatkokoulutuspalvelu.com
 jblfinland.com
@@ -2545,6 +2559,7 @@ jennynterapiapalvelu.com
 jessen-rengaspalvelu.com
 jetcasino-suomi.com
 jetcasinosuomi.com
+jeune-soumise.net
 jeunesinsoumis.site
 jh-elainpalvelut.com
 jiaoyj.com
@@ -2576,6 +2591,7 @@ jpkviesta.com
 jrafinland.com
 jsmokkihuolto.com
 jsuominewi.fit
+jtpalvelut.com
 juhasuomela.com
 juhla-palvelu.com
 julianusturvalisus.com
@@ -3104,6 +3120,7 @@ makantashelcom.com
 makantasis.gr
 makea-viesti.com
 malahosuomi.com
+maljahelsinki.com
 mallunjuontojaohjelmapalvelut.com
 mangosuomi.net
 manoloblahniksuomi.com
@@ -3511,6 +3528,7 @@ moniva-helsinki.com
 monivahelsinki.com
 monsinsoumise.com
 monsoonsuomi.com
+montalo-helsinki.com
 montecfinland.com
 montecsuomi.net
 moonsuomiboot.com
@@ -3530,6 +3548,7 @@ moovyfi.com
 moovyo.tech
 moovyoyj.com
 moovyshoes.com
+morali-helsinki.com
 morenipalvelut.com
 mosaicfinland.com
 mosaviestate.com
@@ -3555,6 +3574,7 @@ moviestatus.xyz
 moviestitc.com
 moving-services-finland-246199794.zone
 moyfinland.info
+mp-suomi.info
 mpaysuomi.com
 mpaysuomi.info
 mphuolto.com
@@ -3796,6 +3816,7 @@ nordeaosake.com
 nordeas-online.com
 nordeas.one
 nordeasgaming.world
+nordeasgg.live
 nordeasmycken.one
 nordeasmycken.se
 nordeasuomi.com
@@ -4117,6 +4138,7 @@ onlinecasinos-finland.com
 onlinedatingfinland.today
 onlinekontakti-suomi.site
 onlinepalvelu-suomi.site
+onlinesmobiili-fl.com
 onlinespankki.com
 onlinespankki.store
 onlinespankkifiwebsoft.com
@@ -4394,6 +4416,7 @@ pnpsuomi.com
 pod-finlandia.zgorzelec.pl
 podcastfinland.com
 podcastsuomi.com
+pohjanmaankoulutuspalvelu.com
 pohjois-suomenmessut.com
 pohjois-suomenmessut.net
 pointcloudfinland.com
@@ -5371,6 +5394,7 @@ spankkifi-mobiili-kmpanja.com
 spankkific.com
 spankkii.run
 spankkiifinlandfi.com
+spankkiifinlandfi.digital
 spankkikampanja-fi.com
 spankkimobiili-elakkeella.com
 spankkimobiili.online
@@ -5745,6 +5769,7 @@ suomenyksityisetsivat.com
 suomenyritysrahoitus.com
 suomenystavat.org
 suomerpalvulet.com
+suomershop.com
 suometa418-linkker0pen9617.site
 suometa792-linkker0pen79214.site
 suomettumis.xyz
@@ -5782,6 +5807,7 @@ suomi-fi.help
 suomi-fi.icu
 suomi-fi.one
 suomi-fi.sbs
+suomi-fi.shop
 suomi-fi0.sbs
 suomi-fin.icu
 suomi-fin.online
@@ -6365,6 +6391,7 @@ tahtaimessaterveys.com
 taigatrekfinland.com
 taikapelitsuomessa.com
 taiwanmobilepay.diy
+tajikfinland.org
 takanta.online
 takemobilepayments.com
 takeyasuomi.com
@@ -6586,6 +6613,7 @@ thefrankieshopsuomi.net
 thegaviestate.com
 thehappyhelsinki.pics
 thehelsinkistore.com
+thehouseoffinland.com
 themobiilitypeople.com
 thenorthface-suomi.com
 thenorthfacehelsinki.com
@@ -6681,6 +6709,7 @@ top10-suomi.com
 top10nettikasinotsuomi.com
 top10suomi.education
 top10suomi2k.com
+top20finland.com
 topcasino-helsinki.com
 topchurchfinland.org
 tophelsinki.online
@@ -7277,6 +7306,7 @@ vero-green.com
 vero-group.com
 vero-growth.com
 vero-guard.com
+vero-gusto.ch
 vero-haus.store
 vero-holding.com
 vero-homecare.com
@@ -7332,6 +7362,7 @@ vero-n-co.net
 vero-necessitatibus.site
 vero-nika-photo.art
 vero-noir.com
+vero-oakhome.com
 vero-occupational-therapy.com
 vero-odit.site
 vero-ornavero-fi.com
@@ -7580,6 +7611,7 @@ vitamiinipankki.online
 vittaro-helsinki.com
 vivahvishwakarma.com
 vivahvista.com
+vivahvisual.com
 vivaiafinland.com
 vivaiaisuomi.com
 vivaiasuomi-fi.com
