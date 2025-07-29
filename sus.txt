@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 28/07/2025 07:00 UTC
+# Last modified: 29/07/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -1819,6 +1819,7 @@ helsinki-prx-dnraaaz.info
 helsinki-prx-dnraaba.info
 helsinki-prx-dnraabb.info
 helsinki-prx-dnraabc.info
+helsinki-prx-dnraabd.info
 helsinki-prx-ksaac.info
 helsinki-prx-ksaad.info
 helsinki-prx-ksaae.info
@@ -2916,6 +2917,7 @@ lasmi-helsinki.com
 lastenhoitopalvelupikkupanda.com
 lastenvaunut-suomi.shop
 lastupdaatingspankki.com
+lasu-jasijaishuolto.net
 lasuoumifinland.com
 lasuoumifinland.shop
 latasseinsoumise.com
@@ -3594,6 +3596,7 @@ mummopalvelut.com
 mun-finland.com
 muntmentorsuomi.com
 muoti-helsinki.com
+musapalvelu.net
 museumsinfinland.com
 musiikkipalveludjwindhawk.com
 mxmobilepay.website
