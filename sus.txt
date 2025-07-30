@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 29/07/2025 07:00 UTC
+# Last modified: 30/07/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -925,6 +925,7 @@ draftsisusuomi.com
 dragonslotsfinland.com
 dram-suomi.com
 dramix-vero-ai.com
+dramix-vero-app.com
 dreamfinland.com
 drfinland.com
 drinkanddrawhelsinki.com
@@ -1094,6 +1095,7 @@ escort-helsinki.vip
 escortservice-in-finland.xyz
 escortshelsinki.com
 esfinland.com
+esoumi.com
 espankki.com
 esplanadi-helsinki.com
 espoofinland.com
@@ -1254,6 +1256,7 @@ finland.nu
 finland.org.tr
 finlandrehabs.com
 finlandwaterbottle.shop
+finnolo-helsinki.com
 finnov-helsinki.com
 finnporthelsinki.com
 finplaysuomi.com
@@ -2589,6 +2592,7 @@ journeytofinland.xyz
 joustokeulahuolto.com
 joustokeulahuolto.store
 jpkviesta.com
+jpprakennuspalvelut.com
 jrafinland.com
 jsmokkihuolto.com
 jsuominewi.fit
@@ -2917,6 +2921,7 @@ lasmi-helsinki.com
 lastenhoitopalvelupikkupanda.com
 lastenvaunut-suomi.shop
 lastupdaatingspankki.com
+lasu-jasijaishuolto.com
 lasu-jasijaishuolto.net
 lasuoumifinland.com
 lasuoumifinland.shop
@@ -3262,6 +3267,7 @@ metsapalvelu.net
 metsastyspalvelut.com
 mfooyj.info
 mia-koutsoumidis.com
+miaoyj.com
 micafinland.com
 michael-kors-suomi.com
 michael-korssuomi.com
@@ -3599,6 +3605,7 @@ muoti-helsinki.com
 musapalvelu.net
 museumsinfinland.com
 musiikkipalveludjwindhawk.com
+muuttohelsinki.com
 mxmobilepay.website
 mxofinland.watch
 my-s-pankki.info
@@ -4354,6 +4361,7 @@ pesupalvelupojat.com
 peterveyt.com
 petitervey.shop
 petroi-finland.com
+petsuomi.com
 petviesta.com
 pfxfinland.info
 pgnfinland.bar
@@ -5490,6 +5498,7 @@ strandkleid-suomi.shop
 stravero-group.com
 streetfoodfinland.com
 streetluxfinland.com
+streetphotocollectivefinland.com
 stsiivouspalvelut.com
 stu-ssyfinland.com
 studentfinland.com
