@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 30/07/2025 07:00 UTC
+# Last modified: 31/07/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -106,6 +106,7 @@ aihelsinkihub.com
 aihuakantan.com
 aihubfinland.com
 aihubhelsinki.com
+aikapankki.com
 aino-helsinki.com
 air-up-finland.com
 airistonterveys.com
@@ -167,6 +168,7 @@ allstarfinland.com
 alltravelfinland.com
 allvero-sa.com
 allyspinsuomi.com
+almarsoumi.com
 almutraficom.com
 aloeverasuomi.com
 alohahelsinki.com
@@ -338,6 +340,7 @@ autohuoltopalokka.com
 autojakonehuolto.com
 autolasipalvelu.com
 autolasipalvelu.net
+autolasipalvelu.org
 automavero.com
 automobiilio.com
 autoniturva.com
@@ -733,6 +736,7 @@ cossuomi.com
 costadelmarsuomi.com
 cottagefinland.com
 courtyardtamperecityfinland.com
+covero-gmbh.com
 cozyinfinland.club
 cozykeysstaysmartfinland.com
 crawlingthrufinland.com
@@ -740,6 +744,7 @@ crazyhelsinki.com
 createchfinland.com
 createchfinland.info
 createchfinland.org
+creationlabhelsinki.com
 credit-asiakas.com
 cremation-in-finland.today
 cremation-services-finland.bond
@@ -1502,6 +1507,7 @@ gomfinland.autos
 goodrsuomi.com
 goods-transport-finland-kh-en-4428410.world
 goodstufffinland.com
+googleegaoyj.icu
 gorewearsuomi.com
 goterveystalo.com
 gotourshelsinki.com
@@ -1990,6 +1996,7 @@ helsinkiapartments166494.icu
 helsinkiapartments833119.icu
 helsinkiartservice.com
 helsinkibachatablast.com
+helsinkiballet.com
 helsinkibiennaali.com
 helsinkibiennale.com
 helsinkibiolabs.com
@@ -2100,6 +2107,7 @@ helsinkilakitoimisto.org
 helsinkilegaltech.com
 helsinkilimo.info
 helsinkilimoservice.com
+helsinkiliving.com
 helsinkilm.lol
 helsinkilottery.com
 helsinkiluxury.com
@@ -2133,6 +2141,7 @@ helsinkipiercing.com
 helsinkipizza.com
 helsinkipizzakebab-antwerpen.be
 helsinkiplay.com
+helsinkiplumber.com
 helsinkiport.com
 helsinkipremierhotel.com
 helsinkiproductionservices.com
@@ -2656,6 +2665,7 @@ kansalaiset-omakanta.com
 kansallinenturvallisuus.com
 kansanpankki.com
 kanta-suomi.com
+kanta-viesti.info
 kantakanta.co.uk
 kantaoyj.info
 kantapalvelufi.info
@@ -2823,6 +2833,7 @@ kotienhuolto.com
 kotienhuoltopalvelu.com
 kotiinpalvelut.com
 kotipalvelu-ilo-ja-onni.com
+kotipalveluilojaonni.com
 kotipalvelunp.com
 kotipalvelunp.net
 koulutuspalvelut.com
@@ -3812,6 +3823,7 @@ non-traite-soumission-ue.ch
 noofinland.guru
 noora-helsinki.com
 nopea-online-laina-ilman-pankkia.today
+nopeapankki.com
 nopeasuomipalvelu.online
 nopeatpelipalvelut.info
 nordea-net.xyz
@@ -3831,6 +3843,7 @@ nordeasmycken.one
 nordeasmycken.se
 nordeasuomi.com
 nordeat-online.com
+nordeaux.ee
 nordefinland.com
 nordic-helsinki.com
 nordicaoilsfinland.com
@@ -3947,6 +3960,7 @@ oma-co.com
 oma-comunity.com
 oma-costruzioni.com
 oma-crm.com
+oma-deo.ru
 oma-electrical.com
 oma-ema.shop
 oma-email.site
@@ -3993,6 +4007,8 @@ oma-mx.site
 oma-nappe.com
 oma-nuclear-power-plant-pointcloud.com
 oma-ogreen.com
+oma-oikeus.com
+oma-oikeus.net
 oma-online.ch
 oma-online.com
 oma-online.online
@@ -4284,6 +4300,7 @@ panamajacksuomi.top
 pandorajewelryfinland.com
 panki-fi.site
 pankki-fi-kampanja.com
+pankki-s-pankki-kampanja.com
 pankki.nl
 pankkiasiakas.net
 pankkii.run
@@ -4878,6 +4895,7 @@ sanuk-finland.com
 sanukfinland.com
 sanuksuomi-fi.com
 sanuksuomi.com
+sanvero-store.com
 sanviestates.com
 saoyj.sbs
 saramasoumi.com
@@ -5661,6 +5679,7 @@ suomenkieliset-kasinot.com
 suomenkirjoja.com
 suomenkirkkoespanjassa.net
 suomenkoulupalvelu.com
+suomenkulta.com
 suomenkuntotarkastustalo.com
 suomenkurssi.com
 suomenkuvalehti.com
@@ -6088,6 +6107,8 @@ suomikiuas.com
 suomikivaa.com
 suomikooooh.xyz
 suomikoulu.de
+suomikulta.com
+suomikulta.online
 suomikuvva.com
 suomileaniksi.com
 suomileikki.info
@@ -6275,6 +6296,7 @@ suomisveitsisaatio.com
 suomiswarmedtalck.cfd
 suomitagassutasman.cloud
 suomitahti.com
+suomitalent.com
 suomitarjoaa.site
 suomitarjoukset.blog
 suomitarjoukset.buzz
@@ -7324,6 +7346,8 @@ vero-holding.com
 vero-homecare.com
 vero-homecare.net
 vero-homes.com
+vero-hr.click
+vero-hr.com
 vero-hurtadolozada.com
 vero-i-nika.ru
 vero-ia.com
@@ -7815,6 +7839,7 @@ xn--lhiterveys-q5a.com
 xn--mobiiliprssi-cjb.com
 xn--mobilepay-hjlp-cjb.online
 xn--modavero-bucureti-19f.com
+xn--musadevero-n5a.com
 xn--myyntipllikkpalvelu-mwba51b.com
 xn--nettikasinoilmansuomilisenssi-tqc.com
 xn--nettikasinotilmansuomilisenssi-ptc.com
