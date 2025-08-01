@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 31/07/2025 07:00 UTC
+# Last modified: 01/08/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -821,6 +821,7 @@ defencefinland.com
 defendfinland.com
 defiantiasta-finland.com
 defwk5sfiyiaoyj.top
+degero-kiinteistopalvelut.com
 deittisuomi.com
 delfavero-custers.net
 delfivisuomene.com
@@ -858,6 +859,7 @@ demoniafinland.com
 demoniasuomi-fi.com
 demoniasuomifi.com
 demoteamfinland.com
+denmark-mobilepay.com
 dental-implants-finland-586.bond
 descentesuomi.com
 designemuseumfinland.com
@@ -1702,10 +1704,13 @@ helsinki-fi.org
 helsinki-image.com
 helsinki-istanbul-train-tour-package.today
 helsinki-istanbul-train-tour-packages.today
+helsinki-juristi.com
 helsinki-juristi.org
 helsinki-kasino.com
+helsinki-lakiasiaintoimisto.com
 helsinki-lakiasiaintoimisto.org
 helsinki-lakimies.org
+helsinki-lakitoimisto.com
 helsinki-lakitoimisto.org
 helsinki-lemonify-aaa.info
 helsinki-lemonify-aac.org
@@ -1845,6 +1850,7 @@ helsinki-prx-ksaao.info
 helsinki-prxali-yakad.info
 helsinki-prxali-yakae.info
 helsinki-prxali-yakaf.info
+helsinki-rikosjuristi.com
 helsinki-risteily-tarjouksia.sbs
 helsinki-rome-train-tours-packages.today
 helsinki-rovaniemi-rail-vacations.today
@@ -1954,6 +1960,7 @@ helsinki-topcasino.com
 helsinki-tours.com
 helsinki-truck-517334517.click
 helsinki-ui9.xyz
+helsinki-varatuomari.com
 helsinki-yritysallas-100871787.click
 helsinki.asia
 helsinki.baby
@@ -2096,11 +2103,13 @@ helsinkiijing.lol
 helsinkiinnova.com
 helsinkijazzhub.com
 helsinkijs.com
+helsinkijuristi.com
 helsinkijuristi.org
 helsinkikasino.com
 helsinkiknifeshow.com
 helsinkikw.com
 helsinkikw.work
+helsinkilakiasiaintoimisto.com
 helsinkilakiasiaintoimisto.org
 helsinkilakimies.eu
 helsinkilakitoimisto.org
@@ -2187,6 +2196,7 @@ helsinkitrav.com
 helsinkiunited.com
 helsinkiuutiset.com
 helsinkivalley.com
+helsinkivaratuomari.com
 helsinkivenue.com
 helsinkivenue.net
 helsinkivertiports.com
@@ -2612,7 +2622,9 @@ julianusturvalisus.com
 julkinenkaupanvahvistaja.com
 jumbofinland.com
 junkremovalvonore.com
+juristi-helsinki.com
 juristi-helsinki.org
+juristihelsinki.com
 juristihelsinki.org
 jussisuominen.com
 justdancehelsinki.com
@@ -4708,6 +4720,10 @@ ricovero-temporaneo.it
 ridgidsuomi.com
 riekersuomi.com
 riippumatot-suomi.shop
+rikosjuristi-helsinki.com
+rikosjuristihelsinki.com
+rikoslakimies-helsinki.com
+rikoslakimieshelsinki.com
 rintaliivitfinland.com
 ripa-rakennuspalvelut.com
 ripndipsuomi-fi.com
@@ -4747,6 +4763,8 @@ ruedxhelsinki.com
 rumahmakantaliwangbersaudara.shop
 rumahmakantaring.com
 rumienmiestenliitto.com
+runoilijanmatkasuomeen.org
+runoilijanmatkasuomeen.space
 runvero-line.top
 ruoppaussuominen.com
 russellathleticsuomi.com
@@ -5855,6 +5873,7 @@ suomi-kanta.com
 suomi-kantafi.com
 suomi-kantaon.com
 suomi-kantas.com
+suomi-kantase.com
 suomi-kantat.com
 suomi-kasino.info
 suomi-kasino.org
@@ -7193,7 +7212,9 @@ varastointipalvelut.com
 varastointipalvelut.net
 varastoturva.com
 varastoturva.online
+varatuomari-helsinki.com
 varatuomari-helsinki.org
+varatuomarihelsinki.com
 varatuomarihelsinki.org
 varausuomi.online
 varela-helsinki.com
@@ -7841,6 +7862,7 @@ xn--mobilepay-hjlp-cjb.online
 xn--modavero-bucureti-19f.com
 xn--musadevero-n5a.com
 xn--myyntipllikkpalvelu-mwba51b.com
+xn--netti-kasino-ilman-rekisteritymist-84c45d.com
 xn--nettikasinoilmansuomilisenssi-tqc.com
 xn--nettikasinotilmansuomilisenssi-ptc.com
 xn--polnesuomi-16a.com
