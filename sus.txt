@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 01/08/2025 07:00 UTC
+# Last modified: 02/08/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -52,6 +52,7 @@
 91soumi.cn
 a2zmobilepay.com
 aabhasoumitra.com
+aalto-helsinki.com
 aamunkoihelsinki.com
 aanekoskenhinauspalvelu.com
 aasiakas.com
@@ -591,6 +592,7 @@ cashelsinki-fi.com
 casinhelsinki.com
 casino-finland-free-credit.shop
 casino-games-real-money-finland.shop
+casino-helsinki.xyz
 casino-mobilepay-danske.com
 casino-suomi.net
 casino-welcome-bonus-finland.shop
@@ -803,6 +805,7 @@ dc-shoessuomi.com
 dckengatsuomi.com
 dcpfinland.com
 dcshoes-suomi.com
+dcshoesssuomi.com
 dcshoessuomi-fi.com
 dcshoessuomi.me
 dcshoessuomifi.com
@@ -2189,6 +2192,7 @@ helsinkitimes.bet
 helsinkitimes.info
 helsinkitimes.net
 helsinkitimes.news
+helsinkitoday.com
 helsinkitodolist.com
 helsinkitogo.com
 helsinkitransport.com
@@ -2372,6 +2376,7 @@ hzsoumi.xyz
 i-suomi.info
 iafinland.com
 iamgiasuomi.com
+ibet-finland.com
 icafinland.org
 icebugfinland.com
 icecubefinland.com
@@ -2725,6 +2730,7 @@ katzenfutter-suomi.shop
 kaukoturva.info
 kaunissuomi.com
 kaupanvahvistajamikaloppi.com
+kavero-mall.com
 kedsfinland.com
 kedssuomi.shop
 keenfinland.com
@@ -2785,6 +2791,7 @@ kiplingsuomi-fi.com
 kirjanpitopalvelu.com
 kirjaudu-aktia.net
 kirjaudu-ilmarinen.com
+kirjaudu-mobilipyffii.com
 kirjaudu-oma.com
 kirjaudu-omakanta.com
 kirjaudu-online.com
@@ -3575,6 +3582,7 @@ moovybe.info
 moovybe.online
 moovybe.store
 moovycam.com
+moovydelivery.com
 moovyfi.com
 moovyo.tech
 moovyoyj.com
@@ -3853,6 +3861,7 @@ nordeasgaming.world
 nordeasgg.live
 nordeasmycken.one
 nordeasmycken.se
+nordeastcbd.com
 nordeasuomi.com
 nordeat-online.com
 nordeaux.ee
@@ -4546,6 +4555,7 @@ private-pool-helsinki-909412661.today
 privatlan-finland.bond
 pro-finland.top
 procurementlawyersfinland.com
+prodartsfinland.com
 prodjfinland.com
 prodjfinland.org
 productionservicefinland.com
@@ -5189,6 +5199,7 @@ soumidiaay.com
 soumidiaay.net
 soumidiaay.org
 soumidutt.design
+soumieinkaufen.com
 soumieru.com
 soumiesol.xyz
 soumiez.net
@@ -5227,6 +5238,7 @@ soumilionaria.online
 soumilionario.com
 soumilitar.club
 soumilitar.online
+soumille.net
 soumilll.com
 soumilm.xyz
 soumilsarkar.dev
@@ -5374,6 +5386,7 @@ soumitaroy.com
 soumitasamanta.com
 soumitasteel.in
 soumitguha.com
+soumithreddypodduturi.info
 soumitiyu.com
 soumitr.com
 soumitra.fun
@@ -6565,6 +6578,7 @@ teollisuuspalvelu918.com
 teollisuuspalvelut.com
 terapiajavalmennuspalveluhoxu.net
 terapiapalvelupaile.com
+terapiapankki.org
 terosuomela.art
 tervesypalveluryr.com
 tervetuloa-s-pankkiin.com
@@ -7288,6 +7302,7 @@ vero-aliquam.com
 vero-aliquid.com
 vero-amara.com
 vero-and-co-expertise.com
+vero-app.com
 vero-apparel.com
 vero-arch.com
 vero-asperiores.com
