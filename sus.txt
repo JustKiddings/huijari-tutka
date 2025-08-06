@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 05/08/2025 07:00 UTC
+# Last modified: 06/08/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -823,6 +823,7 @@ debreaminhelsinki.com
 dechokerfinland.com
 decken-suomi.shop
 deelivero-ae.com
+deelivero-fixdesertchocolate.shop
 deepseek-suomi.com
 deepseeksuomi.com
 defencefinland.com
@@ -1190,6 +1191,7 @@ fantasiaurheilusuomi.com
 farmaseuttinen-pakkaus-tyopaikat.xyz
 fashionclub-helsinki.com
 fastbetfinland.com
+favero-domen.xyz
 faxofferspankki.icu
 fcsmobilepay.com
 fearofgodessentialssuomi.com
@@ -4119,6 +4121,7 @@ oma-tipps.de
 oma-trading-zfn.xyz
 oma-tradingschool.com
 oma-trubel.de
+oma-turvaviesti.net
 oma-und-opa-tag.com
 oma-und-opa-tag.org
 oma-unplugged.com
@@ -5059,6 +5062,7 @@ severisuominen.dev
 severisuominen.net
 severo-sarduy-foundation.com
 severo-utah.com
+severo-zapad.su
 sh-suomei.com
 shadowpowerfinland.com
 sharviestate.com
@@ -5446,6 +5450,7 @@ soumitr.com
 soumitra.fun
 soumitra.link
 soumitrab.com
+soumitrabasu.com
 soumitrabhose.com
 soumitradey.com
 soumitrafurniture.com
@@ -5912,6 +5917,7 @@ suomi-casino.online
 suomi-choose.com
 suomi-delta.com
 suomi-ebox.com
+suomi-eboxe.com
 suomi-eboxs.com
 suomi-ed.com
 suomi-education.com
@@ -7167,6 +7173,7 @@ uncoverfinland.com
 unelmakotipalvelu.com
 unfinland.shop
 uniek-finland.com
+unioninnordea.org
 uniqlo-finland.com
 uniqlo-suomifi.com
 uniqloalesuomi.com
@@ -7374,6 +7381,7 @@ vero-and-co-expertise.com
 vero-app.com
 vero-apparel.com
 vero-arch.com
+vero-asionti.com
 vero-asperiores.com
 vero-assist.com
 vero-assist.digital
