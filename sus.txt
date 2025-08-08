@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 07/08/2025 07:00 UTC
+# Last modified: 08/08/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -1316,6 +1316,7 @@ flirttisuomi.com
 florarium-kanta.ru
 flowhelsinki.com
 flowproductionsfinland.com
+flowsuomi.com
 fluxhelsinki.com
 flyhelsinki.com
 flyingdresshelsinki.com
@@ -1360,6 +1361,7 @@ fortumcapital.com
 fortumcorporation.com
 fortumebuilders.com
 fortumecoins.com
+fortumedias.com
 fortumejack.com
 fortumenergia.com
 fortumenergia.online
@@ -1444,6 +1446,7 @@ galleria1981helsinki.com
 galleriakivipankki.com
 game-finland.com
 gameroomfinland.com
+gametimehelsinki.com
 gamezhelsinki.xyz
 gaminginfinland.com
 gantfinland.com
@@ -1722,6 +1725,7 @@ helsinki-fi.org
 helsinki-image.com
 helsinki-istanbul-train-tour-package.today
 helsinki-istanbul-train-tour-packages.today
+helsinki-jp.com
 helsinki-juristi.com
 helsinki-juristi.org
 helsinki-kasino.com
@@ -1865,6 +1869,11 @@ helsinki-prx-dnraabn.info
 helsinki-prx-dnraabo.info
 helsinki-prx-dnraabp.info
 helsinki-prx-dnraabq.info
+helsinki-prx-dnraabr.info
+helsinki-prx-dnraabs.info
+helsinki-prx-dnraabt.info
+helsinki-prx-dnraabu.info
+helsinki-prx-dnraabv.info
 helsinki-prx-ksaac.info
 helsinki-prx-ksaad.info
 helsinki-prx-ksaae.info
@@ -2079,6 +2088,7 @@ helsinkidigitalhouse.com
 helsinkidiscovery.com
 helsinkidogshome.com
 helsinkidrinkfestival.com
+helsinkidrip.com
 helsinkiduckstore.com
 helsinkieast.aero
 helsinkieats.com
@@ -2485,6 +2495,7 @@ insoumisoutremer.com
 insoumissansfrontieres.org
 insoumistoujours.ch
 insta-finland.website
+instant-bank-transfer-completed-finland.click
 instant-loan-for-you-finland.today
 instant-loan-for-youu-finland.today
 instant-loan-in-finland-today.today
@@ -2943,6 +2954,7 @@ lafranceinsoumise.xyz
 lafranceinsoumise17.org
 lahiterveys.com
 laina-suomi.com
+lainaa-laskuihin-finland.bond
 lainaturva.com
 laine-helsinki.com
 lainehelsinki.com
@@ -3173,6 +3185,7 @@ madeinsuomi.com
 madeinsuomi.info
 maella-helsinki.com
 mahdaviestate.com
+maisa-viesti.info
 majuriturvallinen.com
 makantadbir.com
 makantahu.com
@@ -3366,6 +3379,7 @@ miestenpiiri.eu
 miestenrannekorut.shop
 miestentakki.com
 miestenterveystabletit.info
+miestenvaatteita.com
 miestenvuoro.com
 miinna-helsinki.com
 miitithelsinki.com
@@ -3638,6 +3652,7 @@ moviesta.site
 moviestash.click
 moviestash.net
 moviestat.site
+moviestate.icu
 moviestates.com
 moviestation.city
 moviestation.click
@@ -3809,6 +3824,7 @@ niemi-helsinki.com
 niemihelsinki.com
 nieuwbouw-elisabeth.online
 nigeriafinland.com
+nigeriansinfinland.com
 nightshiftfinland.com
 nike-finland.com
 nike-helsinki.com
@@ -3954,6 +3970,7 @@ nutraficorporate.com
 nutrihealthfinland.com
 nutrilabfinland.com
 nuvero-bergen.com
+nuvero-capetown.com
 nuvora-helsinki.com
 nvgtnsuomifi.com
 nyrdonsuomi.com
@@ -4208,6 +4225,7 @@ omoihelsinki.com
 ompelimohelsinki.com
 onchainfinland.com
 one-mobilepayments.online
+onegamesfinland.com
 oneillsuomi.com
 oner-activefinland.com
 oneractivesuomi.net
@@ -4414,6 +4432,7 @@ pay-suomi.cfd
 payfinland.com
 payfinland.info
 paylevocasino-finland.top
+paynplay-casino-suomi.com
 paysuomi.com
 pchuolto.com
 peakperformance-suomi.net
@@ -4846,6 +4865,7 @@ s-mobiili-fi-pankki-kampanja.com
 s-mobiili-fi-spankki.com
 s-mobiili-fi.com
 s-mobiili-fikampanja.com
+s-mobiili-kampanja-fi-pankki.com
 s-mobiili-kampanja-fi-spankki.com
 s-mobiili-kampanja-fi-spankkii.com
 s-mobiili.online
@@ -4989,6 +5009,7 @@ sataturva.online
 satisfyrunningsuomi.com
 saturvalawassociates.com
 satyopath24.info
+sauconysuomi.com
 sauconysuomioutlet.com
 saudifinland.com
 sauna-finlandesa.cfd
@@ -5074,6 +5095,8 @@ shhautauspalvelut.online
 shirtyopants.com
 shirtyopants.shop
 shirtyopants.store
+shisuomic.com
+shmasoumi.com
 shopfinland.ru
 shoppinginfinland.com
 shopsuomi.com
