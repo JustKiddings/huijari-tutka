@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 08/08/2025 07:00 UTC
+# Last modified: 09/08/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -226,6 +226,8 @@ apinpalvelut.com
 app-s-pankki-mobiili.com
 appdeveloperssuomi.com
 approvedinfinland.com
+appsfhelsinki.online
+appshelsinki.online
 apsuominep.info
 apteekissasuomi.life
 apteekki-finland.com
@@ -1147,6 +1149,7 @@ etsisuomesta.com
 etsivapalvelu.com
 eucreafinland.org
 euranhuoltoasema.com
+euro-instant-bank-transfer-finland-completed.click
 europe-insoumise.org
 eurosongfinland.com
 eusoumichaelldouglas.com.br
@@ -1874,6 +1877,8 @@ helsinki-prx-dnraabs.info
 helsinki-prx-dnraabt.info
 helsinki-prx-dnraabu.info
 helsinki-prx-dnraabv.info
+helsinki-prx-dnraabw.info
+helsinki-prx-dnraabx.info
 helsinki-prx-ksaac.info
 helsinki-prx-ksaad.info
 helsinki-prx-ksaae.info
@@ -2041,6 +2046,7 @@ helsinkialvar.online
 helsinkiapartment.com
 helsinkiapartments166494.icu
 helsinkiapartments833119.icu
+helsinkiapps.online
 helsinkiartservice.com
 helsinkibachatablast.com
 helsinkiballet.com
@@ -2193,6 +2199,7 @@ helsinkipizzakebab-antwerpen.be
 helsinkiplay.com
 helsinkiplumber.com
 helsinkiport.com
+helsinkiporvootours.com
 helsinkipremierhotel.com
 helsinkiproductionservices.com
 helsinkiprofessionals.com
@@ -2675,6 +2682,7 @@ jussisuominen.com
 justdancehelsinki.com
 juupfinland.com
 jvaoyj.info
+jvkehonhuolto.com
 jyvaskylaautohuolto.com
 k-palvelusavo.com
 k-palvelusavo.net
@@ -2819,6 +2827,8 @@ kiinteistoturvallisuus.com
 kiirjaudumobiiliipylafi.com
 kiirjjaudumobiilipyla.com
 kikin-sisallontuotantopalvelut.com
+kikindigipalvelu.com
+kikindigipalvelut.com
 kilobet-finland.com
 kilpailutuspalvelu.com
 kinderautos-suomi.shop
@@ -4260,6 +4270,7 @@ onlyfanssuomi.com
 onlyinfinland.com
 onpointsiivouspalvelut.com
 onrunnersfinland.com
+oomimobiili.com
 oooyj.top
 ooyj.casa
 op-fi-asiakaspalvelu-paivita-omat-liil.com
@@ -5893,6 +5904,7 @@ suomentimanttipurku.com
 suomentimanttiurakointi.com
 suomentrade.com
 suomentravelbook.com
+suomentyoterveys.com
 suomenurheilu-uutiset.com
 suomenurheilu.com
 suomenuutiset.news
@@ -6269,6 +6281,7 @@ suomimuoti.store
 suomimystica.com
 suomin.jp
 suominature.com
+suominature.life
 suomineapq.info
 suominedlw.tattoo
 suomineidotriisuu.com
@@ -6513,6 +6526,7 @@ suomiwonder365.xyz
 suomiwonderapp.click
 suomiwonderapp.xyz
 suomiworldstore.com
+suomiyhteystiedot.com
 suomiz.com
 suomizo.com
 suoratoistopalvelu.net
@@ -6826,6 +6840,7 @@ timberland-suomi.net
 timberlandhelsinki.com
 timberlandsuomi.net
 timbuk2suomi.com
+timesoffinland.com
 tinamasoumi.com
 tinyworldfinland.com
 tischdecke-suomi.shop
@@ -7021,6 +7036,7 @@ triathlonshopfinland.com
 triinin-kotipalvelu.com
 trips2finland.com
 tripspellfinland.com
+trivago-hakemuspalvelut.online
 trjspalvelutoy.com
 trkfinland.org
 trpttgovturva.shop
@@ -7096,6 +7112,7 @@ turvakti.com
 turvala.com
 turvaldovino.com
 turvaldovino.info
+turvalenquoria.com
 turvalex.shop
 turvalio.pro
 turvaliq.digital
@@ -7303,6 +7320,7 @@ valopilkkuhelsinki.com
 valopilkkuhelsinki.net
 valuefortummy.com
 valuthelsinki.com
+valvon.site
 valvonacrolla-online.co.uk
 valvondan.com
 valvondan.store
@@ -7972,6 +7990,7 @@ xn--kitvero-suplementos-0vb.online
 xn--kylmlaitehuolto-3kb.com
 xn--kylmpalvelu-o8a.com
 xn--kylmpalvelut-jcb.online
+xn--lafranceinsoumiseduhautbarn-yoc.com
 xn--lastenhoitopalveluleikkis-9ec.com
 xn--lattialmmityshuolto-mwb.com
 xn--levinmkkihuolto-etb.com
