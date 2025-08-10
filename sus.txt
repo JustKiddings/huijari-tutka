@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 09/08/2025 07:00 UTC
+# Last modified: 10/08/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -340,6 +340,7 @@ autofixhelsinki.com
 autohuolto.org
 autohuoltokami.com
 autohuoltokami.net
+autohuoltomiksa.com
 autohuoltoon.com
 autohuoltopalokka.com
 autojakonehuolto.com
@@ -773,6 +774,7 @@ csuomeia.xyz
 ctheoxltdsuomensivuliike.com
 culturvalencia.com
 culturvalinteriors.shop
+culturvate.online
 culturvated.life
 culturvatedchef.com
 culturvations.com
@@ -871,6 +873,7 @@ demoniasuomi-fi.com
 demoniasuomifi.com
 demoteamfinland.com
 denmark-mobilepay.com
+denmark-online-mobilepay.com
 dental-implants-finland-586.bond
 descentesuomi.com
 designemuseumfinland.com
@@ -1879,6 +1882,8 @@ helsinki-prx-dnraabu.info
 helsinki-prx-dnraabv.info
 helsinki-prx-dnraabw.info
 helsinki-prx-dnraabx.info
+helsinki-prx-dnraaby.info
+helsinki-prx-dnraabz.info
 helsinki-prx-ksaac.info
 helsinki-prx-ksaad.info
 helsinki-prx-ksaae.info
@@ -2070,6 +2075,7 @@ helsinkicas.xyz
 helsinkicasifreespins.click
 helsinkicasinoclub.com
 helsinkicasinonodeposit.click
+helsinkicf.com
 helsinkicharter.com
 helsinkicity.online
 helsinkicity.ru
@@ -2244,6 +2250,7 @@ helsinkitransport.com
 helsinkitrav.com
 helsinkiunited.com
 helsinkiuutiset.com
+helsinkivaatteet.com
 helsinkivalley.com
 helsinkivaratuomari.com
 helsinkivenue.com
@@ -2503,6 +2510,7 @@ insoumissansfrontieres.org
 insoumistoujours.ch
 insta-finland.website
 instant-bank-transfer-completed-finland.click
+instant-bank-transfer-finland-pay.sbs
 instant-loan-for-you-finland.today
 instant-loan-for-youu-finland.today
 instant-loan-in-finland-today.today
@@ -2511,6 +2519,7 @@ insurancefinland.com
 insuranceluighghlfinland.bond
 insurancelujnuwlfinland.bond
 insurxlfinland.bond
+international-bank-transfer-finland-pay-eu.click
 internationalcallfinland.com
 internetcasinofinland.com
 internetmobilepay.com
@@ -3061,6 +3070,7 @@ lifewavex39finland.com
 lifthelsinki.com
 lifthelsinki.net
 lightkevytyrittajapalvelu.com
+lihashuoltohaaranen.com
 liidipalvelu.com
 liidisuomi.com
 liikeideapankki.com
@@ -3391,6 +3401,7 @@ miestentakki.com
 miestenterveystabletit.info
 miestenvaatteita.com
 miestenvuoro.com
+mightyopara.com
 miinna-helsinki.com
 miitithelsinki.com
 mikanhuolto.com
@@ -3790,6 +3801,7 @@ netticasinosuomi.website
 nettihuolto.net
 nettikasino-finland.com
 nettikasinosuomi.xyz
+nettikasinot-suomessa.com
 nettikasinotilmanrekisteroitymista.bet
 nettikasinotilmanrekisteroitymista.org
 nettikasinotilmansuomenlisenssia.net
@@ -3879,6 +3891,7 @@ nikotiinitori.com
 nikotiinituotteet.com
 nikotiinivahvuuksiin.xyz
 nimipalvelu.mobi
+ninaistenic.com
 ninjacasino-finland.online
 ninjasuomi.com
 ninkifinland.com
@@ -4138,6 +4151,7 @@ oma-shou.shop
 oma-slot.site
 oma-smash.ch
 oma-smash.com
+oma-studio.com
 oma-sucht-sex.com
 oma-suomi.icu
 oma-suomi.sbs
@@ -4207,6 +4221,7 @@ omavero-finn.com
 omavero-online.com
 omavero-suomi-viesti.com
 omavero-suomi.com
+omavero-veroilmoitus.xyz
 omavero-veronpalautus.info
 omavero-viesti.help
 omavero-viesti.icu
@@ -6150,6 +6165,7 @@ suomidelivery.com
 suomidiilit.click
 suomidopesnowe.com
 suomidt.com
+suomiduoblechance.com
 suomie.website
 suomielectric.bond
 suomielectric.today
@@ -6342,8 +6358,10 @@ suomiprime.com
 suomiprizes.com
 suomiptv.shop
 suomipuolakajaani.net
+suomiquadruplechance.com
 suomiquest.click
 suomiquest.sbs
+suomiquintuplechance.com
 suomir3p.net
 suomirahafi.com
 suomirahafin.com
@@ -6382,7 +6400,9 @@ suomiseikkailut.cyou
 suomiseikkailut.fun
 suomiselect.com
 suomisensations.com
+suomiseptuplechance.com
 suomiservice.info
+suomisextuplechance.com
 suomisiivous.com
 suomisilver.com
 suomisinkut.com
@@ -7121,6 +7141,7 @@ turvallinen.chat
 turvallinenlaite.com
 turvallinenmatkapuhelin.com
 turvallinenmatkapuhelin.top
+turvallinennettikasino.news
 turvallinennoormarkku.org
 turvallinensuomi.com
 turvallis.com
@@ -7185,6 +7206,7 @@ tyoturvallisuuskortti.com
 tyoturvallisuuskortti.online
 typocraftshelsinki.com
 tyyli-helsinki.com
+tyylihelsinki.com
 tyylikkaat-naisten-vaatteet.shop
 uae-dellivero-fix.com
 uaemobilepay.pro
@@ -7490,6 +7512,7 @@ vero-finanx.com
 vero-fitness.com
 vero-fratello.com
 vero-fs.com
+vero-furniture.com
 vero-gamers.com
 vero-gaming.com
 vero-geothermal.energy
@@ -8004,6 +8027,7 @@ xn--myyntipllikkpalvelu-mwba51b.com
 xn--netti-kasino-ilman-rekisteritymist-84c45d.com
 xn--nettikasinoilmansuomilisenssi-tqc.com
 xn--nettikasinotilmansuomilisenssi-ptc.com
+xn--pelitilmanrekisteritymist-9ec29b.com
 xn--polnesuomi-16a.com
 xn--premios-vero-dcb.online
 xn--promoo-vero-d8af3c.site
@@ -8018,6 +8042,7 @@ xn--suomenshkautohuolto-mwb49a.com
 xn--suomenshkautokorjaamo-c2b03b.com
 xn--suomentekolypalvelut-kzb.com
 xn--suomenyksityisetsivtoisto-3ec.com
+xn--suomitnn-5zaba.com
 xn--tulkkaus-jaknnspalveluhatemelsayed-m4ca28d.com
 xn--turvakengt-y5a.com
 xn--tykonehuolto-5ib.com
