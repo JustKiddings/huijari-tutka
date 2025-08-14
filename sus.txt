@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 13/08/2025 07:00 UTC
+# Last modified: 14/08/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -2166,6 +2166,7 @@ helsinkihotelsguide.com
 helsinkihotelsonline.com
 helsinkihouse.cl
 helsinkihunt.xyz
+helsinkii.shop
 helsinkiijing.lol
 helsinkiinnova.com
 helsinkijazzhub.com
@@ -2820,6 +2821,9 @@ kehonhuoltojopi.com
 kehystyspalvelunelilehti.com
 keikkapalvelut.online
 kekenhuolto.com
+kela-fi.click
+kela-fi.com
+kela-fi.digital
 kela-fi.icu
 kela-fi.sbs
 kela-fi.top
@@ -4513,6 +4517,7 @@ peltipalvelu.com
 penfieldsuomi.com
 pensionfinland.buzz
 peppermayosuomi.com
+percetakantabah.com
 percetakantafaza.store
 perdavvero-lab.it
 perhepalvelutruori.com
@@ -4962,6 +4967,7 @@ s-pankki-kampanjafi.com
 s-pankki-laina-ilman-luottotietoja.bond
 s-pankki-mobiili-fi.com
 s-pankki-mobiili-fikampanja-fi.com
+s-pankki-mobiili-kampanja.com
 s-pankki-mobiili-pankki.com
 s-pankki-mobiilifi.com
 s-pankki-paivita-asiakaspalvelu-fi-acess.ru
@@ -5068,6 +5074,7 @@ sanvero-store.com
 sanviestates.com
 saoyj.sbs
 saramasoumi.com
+sarang188helsinki.site
 saspalvelut.com
 sassoumiracles.com
 sataturva.online
@@ -5297,6 +5304,7 @@ solovairsuomi.com
 solovapesuomi.com
 solutionssoumissionsentrepreneurs.com
 somervillefinland.com
+soniasoumise.online
 soodapuhalluspalvelu.online
 sorafinland.com
 sorel-helsinki.com
@@ -6494,6 +6502,7 @@ suomistrategia.com
 suomistream.live
 suomisubit.org
 suomisuositus.com
+suomisupp.com
 suomisuretyswivel.shop
 suomisuwarrotahoe.shop
 suomisveitsisaatio.com
@@ -7782,7 +7791,10 @@ viesteja-suomi.com
 viesti-fi-sms.site
 viesti-fi.site
 viesti-info.site
+viesti-kanta.click
 viesti-kanta.com
+viesti-kanta.digital
+viesti-kela.com
 viesti-omaposti-fi.com
 viesti-omavero.icu
 viesti-omavero.sbs
