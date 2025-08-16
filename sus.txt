@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/aptPatcher/huijari-tutka
-# Last modified: 15/08/2025 07:00 UTC
+# Last modified: 16/08/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
