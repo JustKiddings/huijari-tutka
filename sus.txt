@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 02/09/2025 10:22 UTC
+# Last modified: 03/09/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -651,6 +651,7 @@ casinosuomi.net
 casinoswipersuomi.com
 casisuomi10.com
 caspero-finland.com
+casretyopalko.click
 castoresuomi.com
 cat-finland.com
 catalanstylefinland.com
@@ -1173,6 +1174,7 @@ enzoa-helsinki.com
 enzoa-suomi.com
 eo-palvelut.com
 eogaeafernandfinland.shop
+epicenterhelsinki.org
 epicfinland.com
 epicsuomi.com
 eqjfinland.info
@@ -2371,6 +2373,7 @@ helsinkipumpproduction.com
 helsinkiquantum.com
 helsinkiquantum.solutions
 helsinkiqzvmt.com
+helsinkirealm.xyz
 helsinkirep.com
 helsinkirobotics.com
 helsinkirockabillyweek.com
@@ -4216,6 +4219,7 @@ nordic-helsinki.com
 nordicaoilsfinland.com
 nordicwalkinghelsinki.pro
 nordiko-helsinki.com
+nordlyshelsinki.com
 nordyen-finland.com
 norivahelsinki.com
 norrahelsinki.com
@@ -5069,6 +5073,7 @@ rafinland.com
 raflahuolto.com
 ragwearfinland.com
 ragweartakkisuomi.com
+raidfinland.com
 rajoittamatonsuomi.com
 rakennusjahuoltopalvelukakela.com
 rakennuspalvelu-m-ahonen-tmi.com
@@ -5130,6 +5135,7 @@ revero-shop.de
 reviewsuomenhotelit.com
 reviewsuomi.com
 revire-suomi.com
+revontulethelsinki.com
 rexel-finland.com
 rexelfinland.com
 rhelsinki.com
@@ -6282,6 +6288,7 @@ suomenrakennusklinikka.com
 suomenreserviakut.com
 suomensahkoautohuolto.com
 suomensahkoautokorjaamo.com
+suomensalibandy.com
 suomenseikkailut.com
 suomenshellyasennus.com
 suomenshilajit.online
@@ -6438,6 +6445,7 @@ suomi-veropalvelu.info
 suomi-viesteja.com
 suomi-viesti.com
 suomi-viesti.icu
+suomi-viesti.org
 suomi-viesti.sbs
 suomi-viesti.site
 suomi-viesti.website
@@ -7347,6 +7355,7 @@ touchffinland.shop
 touchoffinland.shop
 touhulafinland.com
 tourhelsinki.com
+touristfinland.com
 tpaitafinland.com
 tpmssuomi.com
 tpmswholesalesuomi.com
