@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 03/09/2025 07:00 UTC
+# Last modified: 04/09/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -865,6 +865,7 @@ datavero-insight.info
 dattasoumitra.com
 davevohelsinki.com
 davi-helsinki.com
+davidevalvona.link
 davvero-echt.nl
 dc-shoes-finland.com
 dc-shoessuomi.com
@@ -1070,6 +1071,7 @@ eccoshopfinland.com
 eco-finland.com
 ecofinland.com
 econiapalvelut.com
+economynewssuomi24.today
 ecopetfinland.com
 ecosuomi.win
 ed-hardy-suomi.com
@@ -1719,6 +1721,7 @@ heifromfinland.com
 heikkinen-helsinki.com
 heikkinenhelsinki.com
 heischoolsfinland.com
+helena-helsinki.com
 hellemmesinsoumise.fr
 hellstar-suomi.com
 helly-hansen-suomi.com
@@ -1739,6 +1742,7 @@ helsinki-blkaft-aaae.info
 helsinki-blkaft-aaaf.info
 helsinki-blkaft-aaag.info
 helsinki-blkaft-aaah.info
+helsinki-blkaft-aaai.info
 helsinki-card.com
 helsinki-copenhagen-cruise-package-fi.sbs
 helsinki-dire-xaaa.info
@@ -2184,6 +2188,7 @@ helsinkiaamu.org
 helsinkiadorn.com
 helsinkiaethetics.com
 helsinkiai.solutions
+helsinkiai.xyz
 helsinkiaihub.com
 helsinkiairport.rocks
 helsinkiairporttaxi.online
@@ -2244,6 +2249,7 @@ helsinkidailynews.com
 helsinkidancestudio.com
 helsinkidentist.com
 helsinkidesign.icu
+helsinkidesignroom.com
 helsinkidesignschool.net
 helsinkidigitalhouse.com
 helsinkidiscovery.com
@@ -2718,6 +2724,7 @@ iotsuomi.net
 ipfinland.net
 iptv-finland.com
 iptv-finland.pro
+iptv-finland.shop
 iptv-finlandplus.com
 iptv-suomi-finland.site
 iptv-suomi.info
@@ -2727,6 +2734,7 @@ iptv-suomi.one
 iptv-suomi.online
 iptv-suomi.org
 iptv-suomi.pro
+iptv-suomi.shop
 iptv-suomi.store
 iptv-suomi.xyz
 iptv-suomii.com
@@ -2853,6 +2861,7 @@ joinfinland.com
 jomasportsuomi.com
 jordan1suomi.com
 jordanfinland.com
+jordaninsuomi.shop
 josefseibel-suomi.com
 journeytodayfinland.com
 journeytofinland.xyz
@@ -3227,6 +3236,7 @@ lasu-jasijaishuolto.net
 lasuoumifinland.com
 lasuoumifinland.shop
 lasuturvaviesti.info
+lasvalvontayksikko.com
 latasseinsoumise.com
 laterveystalo.com
 lattiapalveluroyal.com
@@ -3734,6 +3744,7 @@ mobiilitiedot.net
 mobiilitiedot.org
 mobiilitiy-scooters.today
 mobiiliturvallisuus.net
+mobile-dk-mobilepay.bio
 mobilepay-casino-danske.com
 mobilepay-danmark.info
 mobilepay-danmark.link
@@ -3921,6 +3932,7 @@ movetofinland.org
 movetofinland.org.uk
 moviesta.net
 moviesta.site
+moviesta.tv
 moviestash.click
 moviestash.net
 moviestat.site
@@ -4023,6 +4035,7 @@ napapijri-finland.com
 napapijrifinland.com
 nappubgmobilepay.com
 narcotraficomx.com
+nasilemakantarabangsa.my
 nassaustreetfinland.info
 nassoumi.com
 nationalparksinfinland.com
@@ -4164,6 +4177,7 @@ nk-finland.com
 nlfinland.shop
 nlm-finland.com
 nmdfinland.rest
+nmfinland.shop
 nnormalsuomi.com
 nnxfinland.ink
 nnyfinland.bar
@@ -5099,6 +5113,7 @@ ravintoterveys.net
 rawlingssuomi.com
 ray-bansuomi.com
 raycon-suomi.com
+raysuomi.com
 rbmfinland.com
 rbmfinland.net
 rcepthelsinkisw.shop
@@ -5199,6 +5214,7 @@ rumahmakantaring.com
 rumienmiestenliitto.com
 runoilijanmatkasuomeen.org
 runoilijanmatkasuomeen.space
+runordeath.pl
 runvero-line.top
 ruoppaussuominen.com
 russellathleticsuomi.com
@@ -5651,6 +5667,7 @@ soumiao.net
 soumiasfit.com
 soumiashop.com
 soumiatique.com
+soumiauto.com
 soumiavoyage.com
 soumiayahiaoui.com
 soumibox.uk
@@ -5693,6 +5710,7 @@ soumikchaudhuri.tech
 soumikd4.tech
 soumike.com
 soumikmanna.com
+soumikmanna2441139.shop
 soumikmanna2441139.xyz
 soumikpatra.com
 soumikpatra.xyz
@@ -6058,6 +6076,7 @@ stylekisuomi.com
 styleksuomi.com
 styopa.xyz
 styopam.photography
+styopamakes.com
 subfinland.org
 sudansuomiszilard.sbs
 sugardaddyssuomessa.com
@@ -6079,6 +6098,7 @@ suomei.art
 suomei.top
 suomeiao.com
 suomeida.com
+suomeite.cn
 suomeitu.com
 suomeiyuan.com
 suomeksi.net
@@ -6464,6 +6484,7 @@ suomi.gold
 suomi.group
 suomi.in.ua
 suomi.locker
+suomi.lol
 suomi.love
 suomi.media
 suomi.news
@@ -6585,6 +6606,7 @@ suomifeedback.com
 suomifest.com
 suomifi-palvelut.com
 suomifi-palvelut.shop
+suomifi-tarkista-tiedot.cfd
 suomifi.com
 suomifi.info
 suomifi.life
@@ -6735,6 +6757,7 @@ suomiomi.top
 suomionline.casino
 suomionline.sbs
 suomioo.top
+suomiopas.org
 suomioriginals.com
 suomipalvelut-fi.com
 suomipalvelutfi.com
@@ -7028,6 +7051,7 @@ tansuomi.com
 tantrasecretshelsinki.com
 tanzschuhe-suomi.shop
 taofinland.com
+taoyj.cn
 taoyj.com
 tapahtumasuomi.net
 tapmobilepay.com
@@ -8005,6 +8029,7 @@ vero-iq.com
 vero-it.ru
 vero-jewelryshop.com
 vero-k12.com
+vero-kaa.de
 vero-kart.shop
 vero-kebab.it
 vero-ksa.com
@@ -8014,6 +8039,7 @@ vero-labs.net
 vero-lake-estates.com
 vero-lammert.com
 vero-laudantium.site
+vero-life.com
 vero-light.com
 vero-lighting.com
 vero-lights.com
@@ -8308,6 +8334,7 @@ vitamiinipankki.online
 vittaro-helsinki.com
 vivahvishwakarma.com
 vivahvista.com
+vivahvistaar.com
 vivahvisual.com
 vivaiafinland.com
 vivaiaisuomi.com
@@ -8609,6 +8636,7 @@ your-instant-loan-for-you-finland.xyz
 yourtraveltofinland.com
 yoyaku-kantan.com
 yrisuomine.bond
+yrittajaturva.com
 yrityksen-allasvuokraus-helsinki-316889966.today
 yrityksenpalvelut.com
 yrityksessuomessa.org
