@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 06/09/2025 07:00 UTC
+# Last modified: 07/09/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -1065,6 +1065,7 @@ ebikehuolto.com
 ebikesuomi.com
 ecco-finland.com
 eccofinland.com
+eccofinland.shop
 eccogolffinland.com
 eccooutlet-suomi.com
 eccooutletssuomi.com
@@ -2584,6 +2585,7 @@ huoltopistealhonen.com
 huoltotarra.com
 huoltoyhdistys.net
 huoltoyhtio.com
+hushelsinkidiabetescenter.online
 husqvarna-soumi.com
 hute-suomi.shop
 hwffinland.info
@@ -2608,6 +2610,7 @@ hzpirkulturvakfi.xyz
 hzsoumi.xyz
 i-suomi.info
 iafinland.com
+iamfinland.info
 iamgiasuomi.com
 ibet-finland.com
 icafinland.org
@@ -2670,6 +2673,7 @@ india-holiday-package-deals-from-finland.today
 indianmoviestats.com
 infinityopals.shop
 infinland.me
+info-finlandia.ru
 info-suomen.site
 info-suomioyj.com
 infomobiilimaksu.com
@@ -2981,6 +2985,7 @@ kasinot-ilman-suomen-lisenssiä.net
 kasinot-ilmanrekisteroitymista.com
 kasinot-suomi.net
 kasinot-suomi.org
+kasinotilmanrekisterointia.com
 kasinotilmanrekisteroitymista.co
 kasinotilmanrekisteroitymistajalisenssia.com
 kasinotilmansuomenlisenssia.net
@@ -4290,6 +4295,7 @@ nuvero-bergen.com
 nuvero-capetown.com
 nuvora-helsinki.com
 nvgtnsuomifi.com
+nwsuomielisanet.fr
 nwsuominet.fr
 nyrdonsuomi.com
 nyt-vahvista.store
@@ -4340,6 +4346,7 @@ oma-architecture.com
 oma-arpa.com
 oma-arpa.net
 oma-arquitectura.com
+oma-automation.com
 oma-baker.xyz
 oma-beaurepaire.com
 oma-binz.de
@@ -4932,6 +4939,7 @@ poppanki.site
 poppanki.website
 poppankki-fi.com
 poppankki-viestini.com
+poppankki.cfd
 porinalituspalvelu.com
 pornaistentietokonehuolto.com
 poro10finland.com
@@ -4981,6 +4989,7 @@ primedrinksuomi.com
 primehouseviestit.com
 princesspollyfinland.com
 pripanki.com
+prismafinland.ru
 prismasuomi.com
 pritchett-fortum.com
 private-pool-helsinki-106266285.today
@@ -5138,6 +5147,7 @@ redsoumies.com
 redumbrellatourshelsinki.com
 redvalentinosuomi.com
 redwingshoessuomi.net
+reelsuomi.com
 reflexions-echanges-insoumis.org
 regattaoutdoorssuomi.com
 rekisterointi-nyt.com
@@ -5284,6 +5294,7 @@ s-pankki-paivita-asiakaspalvelu-fi-acess.ru
 s-pankki-paivita-fi-ilii-tilit.ru
 s-pankki-paivita-omat-tietosi-fi-iilf.ru
 s-pankki-paivita-omat-tietosi-fi-illiiilliiiii.ru
+s-pankki-service-update.com
 s-pankki-tarkistaminen.com
 s-pankki-tunnistautuminen.com
 s-pankki-tunnuslukutaulukolla.com
@@ -5388,6 +5399,7 @@ sanuk-finland.com
 sanukfinland.com
 sanuksuomi-fi.com
 sanuksuomi.com
+sanvero-medica.com
 sanvero-store.com
 sanviestates.com
 saoyj.sbs
@@ -6627,6 +6639,7 @@ suomifi1.site
 suomifin.eu
 suomifinds.com
 suomifinest.com
+suomifinlande.com
 suomifionline.site
 suomifitunnistus.com
 suomiflowergarden.com
@@ -6676,6 +6689,7 @@ suomijackpot365.com
 suomijordan.com
 suomijy.com
 suomikanta.com
+suomikantanet.fr
 suomikasi.cfd
 suomikasi.com
 suomikasi.sbs
@@ -7290,6 +7304,7 @@ thursday-boots-suomi.com
 thursdayboot-suomi.com
 thursdaybootsfinland.com
 thursdayfinland.com
+ticinonsuomikoulu.ch
 tiedonvalvonta.info
 tiedotsuomi.info
 tienda-avero-shop.store
@@ -7303,6 +7318,7 @@ tiina-suomela.ch
 tiktakantalya.com
 tiktakantalya.pro
 tiktiksuomi.store
+til-nordea.com
 tilahuolto.com
 tilataksihelsinki.com
 tilataksipalvelu.com
@@ -8073,6 +8089,7 @@ vero-magni.com
 vero-mall.com
 vero-manager.site
 vero-manager2.com
+vero-matunga.info
 vero-med.ru
 vero-media.net
 vero-mgmt.com
@@ -8451,6 +8468,7 @@ whynetfinland.site
 widdowson-fortum.com
 wildberriesfinland.com
 wildforestfinland.com
+wildsuomiplay.com
 wildz-finland.com
 windowviesta.com
 wineroutefinland.com
