@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 07/09/2025 07:00 UTC
+# Last modified: 08/09/2025 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -865,6 +865,7 @@ datakantar.com
 datapalvelut.net
 datavero-insight.info
 dattasoumitra.com
+davero-capital.com
 davevohelsinki.com
 davi-helsinki.com
 davidevalvona.link
@@ -1182,6 +1183,7 @@ eogaeafernandfinland.shop
 epicenterhelsinki.org
 epicfinland.com
 epicsuomi.com
+epoxysoumission.com
 eqjfinland.info
 era-ja-kalastuspalvelut-suomi-oy.com
 erc-severo-zapad.ru
@@ -1420,6 +1422,7 @@ fmafinland.com
 fmoviesti.top
 fmsuomi.com
 folkfinland.com
+follierfinland.com
 fondion-asiakas.com
 foodandfunfinland.com
 foodandfunhelsinki.com
@@ -2241,6 +2244,7 @@ helsinkiclub.co.uk
 helsinkiclub.uk
 helsinkicoach.com
 helsinkicoffeeweeks.com
+helsinkicomedyclub.com
 helsinkicomercial.com
 helsinkicommission.com
 helsinkicommittee.org
@@ -2421,6 +2425,7 @@ helsinkitodolist.com
 helsinkitogo.com
 helsinkitransport.com
 helsinkitrav.com
+helsinkitypefoundry.com
 helsinkiunited.com
 helsinkiuutiset.com
 helsinkivaatteet.com
@@ -2610,7 +2615,9 @@ hzpirkulturvakfi.xyz
 hzsoumi.xyz
 i-suomi.info
 iafinland.com
+iamfinland.com
 iamfinland.info
+iamfinland.link
 iamgiasuomi.com
 ibet-finland.com
 icafinland.org
@@ -2667,6 +2674,7 @@ ilsuomer.xyz
 iltaviesti.com
 immosenpyorahuolto.com
 imupalvelu.com
+ina-finland.com
 inaoyj.info
 inarinkylmahuolto.com
 india-holiday-package-deals-from-finland.today
@@ -3024,6 +3032,7 @@ kela-finn.com
 kela-fl.com
 kela-suomi.com
 kela-vahvistaa.com
+kela-viesti.click
 kelakyytipalvelu.com
 kelakyytipalvelu.net
 kelakyytipalvelut.com
@@ -3942,6 +3951,7 @@ movetofinland.co.uk
 movetofinland.com
 movetofinland.org
 movetofinland.org.uk
+moviesta.club
 moviesta.net
 moviesta.site
 moviesta.tv
@@ -4220,6 +4230,7 @@ nordea-net.xyz
 nordea.com.br
 nordea.dev
 nordea.space
+nordeabnkabp.com
 nordeac-online.com
 nordeactf.site
 nordeacustomer.online
@@ -5716,6 +5727,7 @@ soumiesol.xyz
 soumiez.net
 soumifang.com
 soumifi.info
+soumigemsandjewellery.store
 soumigroup.net
 soumihijab.com
 soumiimajumdar.com
@@ -7937,6 +7949,7 @@ verkkopankkiin-fi.com
 verkkopankkiin-fi.online
 verkkopankkiin-fi.site
 verkkopankkiin.site
+verkkopankkikasinot.com
 verkkosaastopanki.site
 verkkoturva.com
 verkkoyhteydet-suomi.site
@@ -8060,6 +8073,7 @@ vero-io.com
 vero-iq.com
 vero-it.ru
 vero-jewelryshop.com
+vero-k12.app
 vero-k12.com
 vero-kaa.de
 vero-kart.shop
