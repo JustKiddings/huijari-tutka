@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 16/09/2025 07:01 UTC
+# Last modified: 17/09/2025 07:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -581,6 +581,7 @@ bovedaoyj.shop
 bovviestate.org
 boxhero-suomi.com
 boxingfinland.com
+braheankiinteistopalvelut.com
 brand-helsinki.com
 brandonbarsoumian.com
 brandvero-dynmics.com
@@ -1106,6 +1107,7 @@ education-finland.com
 edufinland.cn
 edunafinland.com
 edunvalvontavaltakirja.com
+edunvalvontavaltakirja.net
 edunvalvontavaltakirja.org
 edunvalvontavaltuutus.net
 edunvalvontavaltuutus.org
@@ -1899,6 +1901,7 @@ helsinki-juristi.org
 helsinki-kasino.com
 helsinki-lakiasiaintoimisto.com
 helsinki-lakiasiaintoimisto.org
+helsinki-lakiasiaintoimistot.com
 helsinki-lakiasiaintoimistot.org
 helsinki-lakimies.org
 helsinki-lakitoimisto.com
@@ -2809,6 +2812,7 @@ iptv-suomii.com
 iptvfinland.info
 iptvfinland.live
 iptvfinland.online
+iptvfinland.pro
 iptvfinland.site
 iptvfinland.store
 iptvfinland.tv
@@ -3164,6 +3168,7 @@ kivipankki.com
 kizuna-helsinki.com
 kizunahelsinki.com
 kkpapulaispalvelut.com
+klendrixomavero.org
 klovo-helsinki.com
 kmk-turvallisuuskonsultti.com
 kmpanja-spankki.com
@@ -3951,6 +3956,7 @@ mobilepaymentsaustralia.online
 mobilepaymentsinsider.com
 mobilepaymentsjp.com
 mobilepaymentsolutions679508.icu
+mobilepaynetworks.com
 mobilepaynow.com
 mobilepayoneer.com
 mobilepayoutland.com
@@ -4315,6 +4321,7 @@ nordeac-online.com
 nordeactf.site
 nordeacustomer.online
 nordeaenergy.com
+nordeaenergy.dk
 nordeafiinance-id.digital
 nordeafund.com
 nordeafund.xyz
@@ -6979,6 +6986,7 @@ suomis777.com
 suomisafaris.com
 suomisauna.com
 suomisaunas.co
+suomisaundi.org
 suomisaundi.space
 suomisaundi.store
 suomisaundi.studio
@@ -7337,6 +7345,7 @@ terveysavios.com
 terveysboosti.com
 terveysbuusti.com
 terveyselama.com
+terveysilta.com
 terveysjaloma.com
 terveyskaupat.net
 terveyskauppa.com
@@ -8268,6 +8277,8 @@ vero-ornavero-fi.com
 vero-os.com
 vero-p2p.com
 vero-pack.com
+vero-paint.com
+vero-paintapp.com
 vero-paintings-prints.com
 vero-partners.com
 vero-pkl.xyz
@@ -8685,6 +8696,7 @@ www-viesti.com
 www-viesti.website
 www-viestit.site
 www-viestit.website
+wwwsoumilm.tech
 wyao-caoyj.top
 wyqfinland.tattoo
 wzsuoming.com
