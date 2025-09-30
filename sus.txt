@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 29/09/2025 07:01 UTC
+# Last modified: 30/09/2025 07:02 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -1605,6 +1605,7 @@ finlandmultisig.xyz
 finlandnext.xyz
 finlandnode.xyz
 finlandpi.com
+finlandpothpiyasa.com
 finlandpublic.xyz
 finlandquantum.xyz
 finlandquick.xyz
@@ -2029,6 +2030,7 @@ helmisuomi.com
 helmiyrityspalvelut.net
 helpmefinland.com
 helpmefinland.store
+helsinki-accountants.com
 helsinki-berlin-train-tour-package.today
 helsinki-berlin-train-tours-packages.today
 helsinki-blkaft-aaac.info
@@ -3421,6 +3423,7 @@ k-palvelusavo.net
 kaavahelsinki.com
 kabu-kantan.com
 kachincommunityfinland.org
+kaikalpalvelut.com
 kaikkikasinotilmanrekisteroitymista.fi
 kaikkiterveyteni.com
 kaikkityopaikat.com
@@ -4510,6 +4513,7 @@ mohsenmasoumi.online
 monarchfinland.com
 moncler-suomi.com
 moneyhelsinki.xyz
+monitoraudiosuomi.com
 moniva-helsinki.com
 monivahelsinki.com
 monsinsoumise.com
@@ -5688,6 +5692,7 @@ premiersuomi.com
 premiersuomideals.com
 premiumfinland.com
 premiumfinland.xyz
+premiumhelsinki.xyz
 prestigehelsinki.com
 previestatementau.info
 prh-suomi.com
@@ -5707,6 +5712,7 @@ private-pool-helsinki-111609307.today
 private-pool-helsinki-611389190.today
 private-pool-helsinki-827094178.today
 private-pool-helsinki-909412661.today
+privatefinland.xyz
 privatehelsinki.xyz
 privatlan-finland.bond
 pro-finland.top
@@ -5722,6 +5728,7 @@ produkti-iz-finlandii-msk.ru
 produkti-iz-finlandii-v-moskve.ru
 profilefinland.com
 profinland.shop
+profinland.xyz
 profuomosuomi.com
 prohelsinki.xyz
 proiptvsuomi.com
@@ -5749,6 +5756,7 @@ psychedelicshopfinland.com
 psykoterapiajatyonohjauspalvelutmailiskarlsson.com
 ptr-autohuolto.com
 ptvfinland.com
+publicfinland.xyz
 publichelsinki.xyz
 puffinland.net
 puhdasterveys.com
@@ -5820,6 +5828,7 @@ quick-loan-for-you-finland.today
 quickfinland.xyz
 quickhelsinki.xyz
 quickmobilepay.com
+quiz-s-pankki.cyou
 quiz-s-pankki.icu
 quotatripfinland.com
 raabersoumimok.ru
@@ -6468,6 +6477,7 @@ soumiacademy.com
 soumiacollection.com
 soumiaeducation.com
 soumiafakhar.com
+soumiaglow.online
 soumiahotels.com
 soumiai.com
 soumiaimmobilier.com
@@ -8047,6 +8057,7 @@ tdpfinland.autos
 team-finland.com
 team-kantals.xyz
 teamfinland.info
+techfinland.xyz
 techhelsinki.xyz
 technordiafinland.com
 ted-baker-suomi.com
@@ -8283,8 +8294,10 @@ tonybet-finland.com
 tonybet-suomi.com
 tonybetsuomi.com
 tonybiancosuomi.net
+toolfinland.xyz
 toolhelsinki.xyz
 toolsfinland.xyz
+toolshelsinki.xyz
 toonzshopsuomi.com
 top-10suomi.com
 top-list-finland.com
@@ -8298,7 +8311,9 @@ top20finland.com
 topcasino-helsinki.com
 topcasinosuomi.com
 topchurchfinland.org
+topfinland.xyz
 tophelsinki.online
+tophelsinki.xyz
 topkasinotsuomi.com
 topratedsuomi.com
 topsuomi.com
@@ -8330,6 +8345,8 @@ tradeconsultingfinland.com
 tradefinland.com
 tradefinland.info
 traderfinland.xyz
+traderhelsinki.xyz
+tradingfinland.xyz
 tradinghelsinki.xyz
 traen2suomi.com
 trafco.agency
@@ -8453,6 +8470,7 @@ travelfinland.net
 travelfinland.shop
 travelinfinland.net
 travero-pm.com
+treasuryfinland.xyz
 treasuryhelsinki.xyz
 treffitsuomi.com
 treffitsuomi24.net
@@ -8665,6 +8683,7 @@ ulpukanhuolto.shop
 ultrafco.com
 ultrafco.org
 ultrafcootball.shop
+ultrafinland.xyz
 ultrahelsinki.xyz
 umasanghviestates.com
 umnasserfinland.edu.bh
@@ -8794,7 +8813,9 @@ valopilkkuhelsinki.com
 valopilkkuhelsinki.net
 valor-helsinki.com
 valtti-finland.com
+valuefinland.xyz
 valuefortummy.com
+valuehelsinki.xyz
 valuthelsinki.com
 valvon.site
 valvonacrolla-online.co.uk
@@ -8952,6 +8973,7 @@ vero-commodi.site
 vero-comtacrea.com
 vero-con.com
 vero-contract.com
+vero-corp.com
 vero-cosmetics.ch
 vero-couture73.com
 vero-csn.com
@@ -9328,6 +9350,7 @@ virtuaalinen-terveys.online
 virtuaaliset-terveyspalvelut.online
 virtuaalisuomi.com
 virtuaaliterveys.online
+virtualfinland.xyz
 virtualhelsinki.xyz
 visifinland.com
 visitahelsinki.online
@@ -9409,6 +9432,7 @@ vyrehelsinki.com
 wajtoday365finland.com
 walkertapecofinland.com
 walkertapefinland.com
+walletfinland.xyz
 wallethelsinki.xyz
 walletohelsinki.com
 wamofinland.com
@@ -9430,7 +9454,9 @@ wclfinland.com
 weallfinland.org
 wealofinland.works
 wealosuomi.works
+web3finland.xyz
 web3helsinki.xyz
+webfinland.xyz
 webhelsinki.xyz
 webkirjaudu.site
 webmobilepay.com
