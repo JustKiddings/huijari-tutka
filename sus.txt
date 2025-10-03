@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 02/10/2025 07:01 UTC
+# Last modified: 03/10/2025 07:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -217,11 +217,13 @@ alosuomi.com
 alphaletesuomi.com
 alpine-finland.com
 alpineearplugssuomi.com
+als-suomi.net
 altcoinhelsinki.xyz
 alurahelsinkishop.com
 alure-helsinki.com
 alvero-cz.eu
 alvero-store.com
+alvero-toronto.com
 alykotipalvelu.fi
 alymobiili.com
 amami-helsinki.com
@@ -315,6 +317,7 @@ artificialintelligencemoviestation.com
 artigraficheviesti.com
 artisaniasoumia.space
 artiviesta.com
+artroflexsuomi.com
 artsanfinland.com
 artsanfinland.net
 artwalkhelsinki.com
@@ -1145,6 +1148,7 @@ dopefinland.com
 dopesnowssuomi.com
 dorinehamparsoumian.shop
 doromediapalvelu.com
+dotnext-helsinki.com
 doucesoumission.com
 doucesoumission.pro
 draftsisusuomi.com
@@ -1733,6 +1737,7 @@ fortumarket.com
 fortumars.com
 fortumate.com
 fortumatic.com
+fortumax.online
 fortumbei.com
 fortumcapital.com
 fortumcollective.com
@@ -1975,6 +1980,7 @@ gymsharkfinlandstore.com
 gymsharksuomi.net
 gymsharksuomiwebshop.com
 h2finland.org
+h2suomi.com
 h2suomi.org
 haakuvaaja-helsinki.com
 habfinland.one
@@ -2475,6 +2481,7 @@ helsinki-varatuomari.com
 helsinki-yritysallas-100871787.click
 helsinki.asia
 helsinki.baby
+helsinki.beer
 helsinki.bio
 helsinki.cab
 helsinki.chat
@@ -3069,6 +3076,7 @@ huoleton-koirapalvelut.com
 huoletonkoirapalvelut.com
 huolto.app
 huolto.plus
+huoltoapu.com
 huoltoasennushellsten.com
 huoltoexpress.com
 huoltohelp.fi
@@ -3900,6 +3908,7 @@ limen-pc-huolto.net
 limoservicefinland.com
 limoservicehelsinki.com
 liningsuomi.com
+linjapalvelu.fi
 linkmobilepay.com
 linnea-butiikki-helsinki.com
 linsoumis-clothing.com
@@ -5777,6 +5786,7 @@ ptr-autohuolto.com
 ptvfinland.com
 publicfinland.xyz
 publichelsinki.xyz
+puccisuomi.com
 puffinland.net
 puhdasterveys.com
 puhdistuspalvelulilly.com
@@ -6299,6 +6309,7 @@ severo-zapad-yurholding.ru
 severo-zapad.su
 sh-suomei.com
 shadowpowerfinland.com
+shamisenfinland.com
 sharviestate.com
 shensuomen.net
 shensuomen123.com
@@ -6705,6 +6716,7 @@ soumissionsgaragecabanon.ca
 soumissionshypothecaires.com
 soumissionsinfiltrations.ca
 soumissionsinspections.com
+soumissionsmart.ca
 soumissionsmateriaux.ca
 soumissionsmenage.com
 soumissionspeinturegratuit.com
@@ -6864,6 +6876,7 @@ spybet-finland.com
 spyfilmfinland.com
 sqgfinland.info
 srmfinland.digital
+srvsuppornordea-omanet.store
 ssbdfinland.com
 ssl-omavero.com
 ssmfinland.art
@@ -8903,6 +8916,7 @@ veja-suomi.com
 vejafinland.com
 vejarunnerssuomi.info
 vejasrunningsuomi.com
+vejastoresuomi.com
 vejasuomi-fi.shop
 vejasuomi-fi.top
 velakotrinasuomiere.com
@@ -9163,6 +9177,7 @@ vero-schwarz.com
 vero-se.com
 vero-security.com
 vero-shigemaru.com
+vero-shnur.com
 vero-sicurezza.co.uk
 vero-sicurezza.com
 vero-skatt.online
@@ -9792,5 +9807,6 @@ zrtfinland.org
 zsuominehx.coupons
 zuoyj.com
 zuoyj.top
+zuxe-helsinki.com
 zvero-polis.ru
 zxvfinland.bar
