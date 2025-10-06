@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 05/10/2025 07:01 UTC
+# Last modified: 06/10/2025 07:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -1908,6 +1908,7 @@ gennovasuomi.com
 genpotfinland.company
 gensoumise.com
 genting-casino-finland-register.shop
+genzfinland.com
 gepalvelu.com
 germany-finland-train-holiday-deals.today
 gerryweberfinland.com
@@ -2088,6 +2089,7 @@ helpmefinland.store
 helppo-huolto.com
 helppohuolto.com
 helsinki-accountants.com
+helsinki-ai.com
 helsinki-berlin-train-tour-package.today
 helsinki-berlin-train-tours-packages.today
 helsinki-blkaft-aaac.info
@@ -3224,6 +3226,7 @@ ilmanrekisterointia.com
 ilmanrekisteroitymista.com
 ilmanrekisteroitymista.pro
 ilmanrekisteroitymista.xyz
+ilmanrekisteroitymistasuomessa.com
 ilona-helsinki.com
 ilovefinland.net
 ilovefinland.org
@@ -3453,6 +3456,7 @@ jobinfinland.com
 jobs-in-finland.com
 jobs-in-finland.fyi
 joensuunnostopalvelu.fi
+johngriffinlandscapearchitect.com
 joinaiesecinfinland.com
 joinfinland.com
 jomasalesuomi.com
@@ -3826,6 +3830,7 @@ lafranceinsoumise.info
 lafranceinsoumise.vote
 lafranceinsoumise.xyz
 lafranceinsoumise17.org
+lahita-piola-asiakas.fi
 lahitapiolaoyj.com
 lahiterveys.com
 laillisetkasinotsuomessa.com
@@ -5164,6 +5169,7 @@ oma-l.com
 oma-l.online
 oma-l.store
 oma-lab.com
+oma-lab.ru
 oma-labrigade.fr
 oma-labs.com
 oma-lampe.com
@@ -5807,6 +5813,7 @@ private-pool-helsinki-611389190.today
 private-pool-helsinki-827094178.today
 private-pool-helsinki-909412661.today
 privatefinland.xyz
+privatefinlandtours.com
 privatehelsinki.xyz
 privatlan-finland.bond
 pro-finland.top
@@ -5949,6 +5956,7 @@ rakennuspalveluoap.com
 rakennuspalvelut-ismo-koponen.com
 rakennuspalvelutismokoponen.com
 rakennuspalveluvilcore.com
+rakennusterveys.net
 rakennustietopankki.com
 rallyxkouvolafinland.com
 ralph-lauren-suomi.com
@@ -6107,6 +6115,7 @@ s-mobiili-kampanja-fi-pankki.com
 s-mobiili-kampanja-fi-spankki.com
 s-mobiili-kampanja-fi-spankkii.com
 s-mobiili.online
+s-mobiili.sbs
 s-mobiilielakkeella.com
 s-mobiilielakkeellaa.com
 s-mobiilifi-pankki-fi.com
@@ -6146,6 +6155,7 @@ s-pankki-mobiili-kampanja.com
 s-pankki-mobiili-pankki.com
 s-pankki-mobiilifi.com
 s-pankki-mobil.com
+s-pankki-online.com
 s-pankki-paivita-asiakaspalvelu-fi-acess.ru
 s-pankki-paivita-fi-ilii-tilit.ru
 s-pankki-paivita-omat-tietosi-fi-iilf.ru
@@ -6366,6 +6376,7 @@ serenityopals.com
 servicehelsinki.com
 sesuomined.mom
 setarehmasoumi.com
+sethelsinki.com
 setupfinland.com
 sevahvsta-spankki.xyz
 sevenco-helsinki.com
@@ -6508,6 +6519,9 @@ smobiilispankki.com
 smobiilisuomifi.com
 smobilepay.com
 smobilii-asiakasviestit.biz
+smobilii-asiakasviestit.com
+smobilii-asiakasviestit.online
+smobilii-asiakasviestit.site
 smobiliilaafikirjaudu.com
 smobilisifinland.shop
 smobilisisuomi.com
@@ -6611,6 +6625,7 @@ soumich.tech
 soumichukakochan.com
 soumicosmetics.com
 soumicosmetics.shop
+soumics.com
 soumidelrio.com
 soumidiaay.com
 soumidiaay.net
@@ -6832,6 +6847,7 @@ soumitrabasu.com
 soumitrabhose.com
 soumitradey.com
 soumitradutta.name
+soumitradutta.org
 soumitrafurniture.com
 soumitrakanungo.com
 soumitrasaha.com
@@ -7054,6 +7070,7 @@ sunburysuomiswings.sbs
 sundayredsuomi.com
 sungapalvelut.com
 sunketsuomictackier.blog
+suojattu-yhteys-s-pankki-fi.com
 suome.cn
 suomeabonus.com
 suomeca.cn
@@ -7591,6 +7608,7 @@ suomidopesnowe.com
 suomidt.com
 suomiduoblechance.com
 suomie.website
+suomieessentialhomecarellc.com
 suomielakkeellakampanjafi.com
 suomielectric.bond
 suomielectric.today
@@ -8417,6 +8435,7 @@ tomisuomi.shop
 tommy-hilfiger-suomi.com
 tommyfinland.com
 tomoffinland.co.uk
+tomoffinland.hamburg
 tomoffinlandstorebuypop.shop
 tomoffinlandstoremypop.shop
 tomoffinlandstoresalepop.shop
@@ -8712,6 +8731,7 @@ turvaldovino.info
 turvaleno.space
 turvalenquoria.com
 turvalex.shop
+turvalinekonto.info
 turvalineravim.com
 turvalio.pro
 turvaliq.digital
@@ -9764,6 +9784,7 @@ xn--nettikasinoilmansuomilisenssi-tqc.com
 xn--nettikasinotilmansuomilisenssi-ptc.com
 xn--pelitilmanrekisteritymist-9ec29b.com
 xn--polnesuomi-16a.com
+xn--porvookiinteisthuolto-vec.com
 xn--premios-vero-dcb.online
 xn--promoo-vero-d8af3c.site
 xn--pshholoogilineturvalisus-wsc.com
