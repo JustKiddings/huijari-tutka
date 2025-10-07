@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 06/10/2025 07:01 UTC
+# Last modified: 07/10/2025 07:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -565,6 +565,7 @@ besteonlinefinland.com
 bestestarcrownfinland.com
 bestfajafortummytuck.com
 bestfinland.com
+bestfinland.xyz
 bestguestfinland.fi
 besthelsinki.com
 besthelsinkihotels.com
@@ -609,7 +610,9 @@ birkenstock-suomi-fi.com
 birkenstocksuomifi.com
 bitcoinfinland.xyz
 bitcoinhelsinki.xyz
+bitfinland.xyz
 bithelsinki.xyz
+bizfinland.xyz
 bizhelsinki.xyz
 bjornborgsuomi.com
 blackdiamondsuomi.com
@@ -717,6 +720,7 @@ canadagoosesuomi.top
 canadagoosesuomiale.com
 cannabisfortumors.com
 cansuomiland.com
+cantostcusuomerusta.com
 caparolfinland.com
 capitalhelsinki.xyz
 caravanfinland.com
@@ -730,6 +734,7 @@ cartiersuomi.net
 casasuomi.com
 casavero-dubai.com
 cashelsinki-fi.com
+cashfinland.xyz
 cashhelsinki.xyz
 casinhelsinki.com
 casino-finland-free-credit.shop
@@ -1013,6 +1018,7 @@ davevohelsinki.com
 davi-helsinki.com
 davidevalvona.link
 davvero-echt.nl
+dayspahelsinki.com
 dc-shoes-finland.com
 dc-shoessuomi.com
 dckengatsuomi.com
@@ -1775,6 +1781,7 @@ fortumatic.com
 fortumax.online
 fortumbei.com
 fortumcapital.com
+fortumchina.com
 fortumcollective.com
 fortumcorporation.com
 fortumebuilders.com
@@ -2668,6 +2675,7 @@ helsinkidancestudio.com
 helsinkidapp.xyz
 helsinkidapps.xyz
 helsinkidata.xyz
+helsinkidayspa.com
 helsinkideep.xyz
 helsinkideeplearning.xyz
 helsinkidefi.xyz
@@ -5448,6 +5456,7 @@ osuuspankki2.com
 osuusyrpankki.com
 ottokasinosuomi.com
 oukitel-finland.eu
+oulujarvenmetsapalvelu.com
 oulunpintapalvelu.com
 ourfinland.com
 ourfinland.online
@@ -5851,6 +5860,7 @@ przeprowadzki-finlandia.com
 ps5suomessa.com
 psgturva.com
 psgturva.site
+psoumin.com
 psuhholoogilineturvalisus.com
 psuominenm.guru
 psychedelicshopfinland.com
@@ -6520,6 +6530,7 @@ smobiilisuomifi.com
 smobilepay.com
 smobilii-asiakasviestit.biz
 smobilii-asiakasviestit.com
+smobilii-asiakasviestit.nl
 smobilii-asiakasviestit.online
 smobilii-asiakasviestit.site
 smobiliilaafikirjaudu.com
@@ -6878,6 +6889,7 @@ sp-spankki.com
 sp-suomifi.com
 spaceaifinland.com
 spadospaviestately.shop
+spahelsinki.com
 spalveluhatemelsayed.com
 spancofinland.com
 spanki-client.com
@@ -8071,6 +8083,7 @@ suurisuomi.net
 suutarilanautohuolto.fi
 suvereenisuomi.com
 suvinsiivouspalvelu.com
+suvinsiivouspalvelu.fi
 suvinsiivouspalvelu.info
 svekkahelsinki.com
 svm-henkilostopalvelut.com
@@ -8709,6 +8722,7 @@ tunnlstautuninen-kirjaudu.com
 tupperwaresuomi.com
 turunkattohuolto.com
 turunmuuttopalvelu.com
+turva.me
 turva.net
 turva.org
 turva.pro
@@ -9873,6 +9887,7 @@ youngla-finland.com
 younglasuomi.net
 your-instant-loan-for-you-finland.xyz
 yourtraveltofinland.com
+yovalo-suomi.com
 yoyaku-kantan.com
 yrisuomine.bond
 yrittajaturva.com
