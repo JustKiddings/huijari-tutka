@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 07/10/2025 07:01 UTC
+# Last modified: 08/10/2025 07:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -66,6 +66,7 @@
 7edgefinland.com
 7edgefinland.vip
 7kcasino-oyj.top
+7kslot-oyj.top
 7luckfinland.com
 888finland.xyz
 888helsinki.xyz
@@ -417,6 +418,7 @@ auth-tunnistautuminen-suomi.help
 authhelsinki.xyz
 authorokothowityopap.com
 auths-pankki.com
+autofinland.xyz
 autofixhelsinki.com
 autohuolto-hameenkyro.fi
 autohuolto.org
@@ -1183,6 +1185,7 @@ dragonslotsfinland.com
 dram-suomi.com
 dramix-vero-ai.com
 dramix-vero-app.com
+dramix-vero-app.net
 dreamfinland.com
 drfinland.com
 driadasuomi.com
@@ -1417,6 +1420,7 @@ essuomi.org
 essuomi.site
 essuomi.store
 essuomi.tech
+estafetaoyj.top
 esteetonsuomi.com
 estonia-helsinki-rail-vacation.today
 esuominebp.info
@@ -1746,6 +1750,7 @@ foodstopfinland.com
 footurf-finland.com
 forestexperiencefinland.com
 forexpankki.xxx
+forgedinfinland.com
 formulasoumilionaria.site
 fortum-energia.online
 fortum-fi.com
@@ -4151,6 +4156,7 @@ mallunjuontojaohjelmapalvelut.com
 mamvero-wecmedia.com
 mamvero-wecmedia.info
 mangosuomi.net
+manishvivahvistaar.com
 manoloblahniksuomi.com
 manordeal.sbs
 manufacturedinfinland.com
@@ -6133,6 +6139,7 @@ s-mobiilifikampamja.com
 s-mobiilikampanja.com
 s-mobiilikampanjaa.com
 s-mobiilikampanjafi.com
+s-mobiililla-tunnistautuminen-spankkl.com
 s-mobiiliparcel.online
 s-mobiilispankki.com
 s-mobiilispankki.online
@@ -6165,6 +6172,7 @@ s-pankki-mobiili-kampanja.com
 s-pankki-mobiili-pankki.com
 s-pankki-mobiilifi.com
 s-pankki-mobil.com
+s-pankki-online-fi.com
 s-pankki-online.com
 s-pankki-paivita-asiakaspalvelu-fi-acess.ru
 s-pankki-paivita-fi-ilii-tilit.ru
@@ -6434,6 +6442,7 @@ siggsuomis.top
 signaturefinland.com
 siirtopalvelu.com
 siivoojan-tyopaika-fi.bond
+siivous-palvelut.com
 siivousalan-tyopaikat.online
 siivouspalvelu24hr.com
 siivouspalvelukiille.com
@@ -8060,6 +8069,7 @@ suomiwonder365.xyz
 suomiwonderapp.click
 suomiwonderapp.xyz
 suomiworldstore.com
+suomix.xyz
 suomiyhteystiedot.com
 suomiz.com
 suomizo.com
@@ -8094,6 +8104,7 @@ swapfinland.xyz
 swaphelsinki.xyz
 swarovski-suomi.com
 swatchsuomi.com
+swedenoffinland.com
 swellsuomi.com
 swinginhelsinki.com
 sxviestit.com
@@ -8752,6 +8763,7 @@ turvaliq.digital
 turvallinen-nettikasinot.com
 turvallinen-nettikasinot.info
 turvallinen.chat
+turvallinenkoti.net
 turvallinenlaite.com
 turvallinenmatkapuhelin.com
 turvallinenmatkapuhelin.top
@@ -9909,6 +9921,7 @@ yslfinland.com
 ysuomic252.vip
 ysuominedl.online
 yukinosuomi.moe
+yummyhelsinki.com
 yuxiaoyj.com
 yuzhaoyj.com
 ywamhelsinki.org
