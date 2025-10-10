@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 09/10/2025 07:01 UTC
+# Last modified: 10/10/2025 07:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -1468,6 +1468,7 @@ exolfinland.com
 experiencesuomi.com
 experiencesuomi247.com
 explore-helsinki.com
+explorefinland.org
 exploringfinland.com
 extremefinland.online
 eyeonfinland.com
@@ -1945,6 +1946,7 @@ ggbet-suomi.com
 ggbett-finland.com
 ghanikehonhuolto.com
 ghdsuomi.com
+gherbisoumia.com
 gholamrezamasoumi.com
 ghostfinland.com
 giga-mobiili.com
@@ -2053,6 +2055,7 @@ hannasuominen.shop
 haoyj.ca
 haoyj.com.cn
 haoyj.net
+happinessfromfinland.com
 happyhelsinki.click
 happypalvelut.com
 happyworkplaces-finland.com
@@ -3815,6 +3818,7 @@ kumppanipalvelu.com
 kundservice-mobilepay-dkk.com
 kunesuomi.com
 kunnonpalvelu.com
+kunnonpalvelua.com
 kuntoturva.com
 kuntoutusjakehonhuolto.com
 kuomafinland.com
@@ -4110,6 +4114,7 @@ luottoasiakas.com
 luova-finland.com
 luovayhteys.com
 luovithinkingsuomi.com
+luoyj.top
 lupsoumigh.net
 luulajansuomiseura.se
 luvero-london.com
@@ -4179,6 +4184,7 @@ marinehelsinki.com
 marivero-ruz.com
 marka-helsinki.com
 markethelsinki.xyz
+marketingdigi2026soumia.blog
 marketingdigisoumia.blog
 marketinghelsinki.com
 markiisipalvelu.com
@@ -4469,6 +4475,7 @@ mobiilitiedot.net
 mobiilitiedot.org
 mobiilitiy-scooters.today
 mobiiliturvallisuus.net
+mobiiliveikkaus.com
 mobile-dk-mobilepay.bio
 mobilefinland.xyz
 mobilehelsinki.xyz
@@ -4709,6 +4716,7 @@ mpnostintyopalvelut.com
 mretsoumise.cam
 mretsoumise.com
 mtbpalvelut.com
+mtbsuomi.xyz
 muckbootssuomi.com
 muen-handmade-finland.net
 muffinland.xyz
@@ -4949,6 +4957,7 @@ nitro-finland.com
 nivakpankki.com
 nivalvonen.com
 nk-finland.com
+nkpsuomi.xyz
 nlfinland.shop
 nlm-finland.com
 nmdfinland.rest
@@ -4984,6 +4993,7 @@ nordea-fin.com
 nordea-id.com
 nordea-info.com
 nordea-net.xyz
+nordea-sikker.com
 nordea.com.br
 nordea.dev
 nordea.site
@@ -5400,6 +5410,7 @@ onlyfanssuomi.com
 onlyinfinland.com
 onpointsiivouspalvelut.com
 onrunnersfinland.com
+onrunningsalesuomi.com
 oomi-mobiili.com
 oomimobiili.com
 oooyj.top
@@ -5564,6 +5575,7 @@ pankki-app.com
 pankki-fi-kampanja.com
 pankki-s-pankki-kampanja.com
 pankki.nl
+pankki.services
 pankkiasiakas.net
 pankkii.run
 pankkipalvelut-smobiilissa-fi.xyz
@@ -5700,6 +5712,7 @@ pinkpalmpuffsuomi.com
 pinocchiohelsinki.com
 pintahuolto.com
 pintapalvelu.com
+pionipearlsfinland.store
 pirkanmaanpuupalvelu.com
 pirkanmaaturva.com
 pistolo-finland.com
@@ -5948,6 +5961,7 @@ qmobiilityza.life
 qmobiilitzya.life
 qmobiiliztya.life
 qowfinland.mom
+qrmobilepay.com
 qsfinland.com
 qtrfinland.net
 quantumfinland.solutions
@@ -5976,6 +5990,8 @@ raflahuolto.com
 ragwearfinland.com
 ragweartakkisuomi.com
 raidfinland.com
+railstockfinland.com
+railstockfinland.net
 rajoittamatonsuomi.com
 rakennusjahuoltopalvelukakela.com
 rakennuspalvelu-m-ahonen-tmi.com
@@ -6099,6 +6115,7 @@ rockysuomi.com
 rollupfinland.xyz
 rolluphelsinki.xyz
 roobet-finland.com
+roomhelsinki.com
 ropofinland.com
 ropopalvelut.com
 roposuomi.com
@@ -6258,6 +6275,7 @@ saastoppankki.sbs
 saaviestates.com
 saavuttamatonmielenterveyteni.com
 sade-hyvinvointipalvelut.com
+saeedmasoumi.nom.za
 safe-mobilepay.ru
 safecasinosuomi.com
 safetyfinland.com
@@ -6297,6 +6315,7 @@ saltyopalco.com
 sameda-kanta.com
 sammutinhuoltoketonen.com
 samnordean.shop
+samsonitesuomi.com
 san-vero-milis.my.id
 sandqvistsuomi.com
 sanni-helsinki.com
@@ -6885,6 +6904,7 @@ soumitrabhose.com
 soumitradey.com
 soumitradutta.name
 soumitradutta.org
+soumitraduttany.com
 soumitrafurniture.com
 soumitrakanungo.com
 soumitrasaha.com
@@ -6918,6 +6938,7 @@ spadospaviestately.shop
 spahelsinki.com
 spalveluhatemelsayed.com
 spancofinland.com
+spank-asiakaspalvelu.com
 spanki-client.com
 spankii-fi.site
 spankiii-viesti.site
@@ -7012,6 +7033,7 @@ srvsuppornordea-omanet.store
 ssbdfinland.com
 ssl-omavero.com
 ssmfinland.art
+ssr-palvelut.fi
 ssuomiibrilliantballs.com
 stablecoinhelsinki.xyz
 staifinbmwhuolto.fi
@@ -7735,6 +7757,7 @@ suomiiptv.net
 suomiiptv.store
 suomijackpot360.com
 suomijackpot365.com
+suomijackpot365.games
 suomijordan.com
 suomijuoru.com
 suomijy.com
@@ -8309,6 +8332,7 @@ terveyskaupat.net
 terveyskauppa.com
 terveysklinikkalonglife.fi
 terveyskoulukoti.org
+terveysmatkatliettua.com
 terveyspalvelry.com
 terveyspiste.com
 terveysrahasto.fi
@@ -8409,6 +8433,7 @@ theterveystalo.com
 thewhalehelsinki.com
 things-to-do-in-finland.com
 thrakpalvelut.com
+thriftedhelsinki.com
 thrill-suomi.com
 thursday-boots-suomi.com
 thursdayboot-suomi.com
