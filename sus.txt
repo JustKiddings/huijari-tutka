@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 10/10/2025 07:01 UTC
+# Last modified: 11/10/2025 07:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -73,6 +73,7 @@
 88helsinki.xyz
 8helsinki.xyz
 91soumi.cn
+9cyooyj.shop
 a2zmobilepay.com
 aabhasoumitra.com
 aalto-helsinki.com
@@ -638,6 +639,7 @@ boardgamingfinland.com
 bobrfinland.com
 bochaoyj.com
 bognersuomi.com
+boisfrancosoumission.com
 boltmobilepayments.com
 boltmobilepayments.net
 bomyhelsinki.com
@@ -647,6 +649,7 @@ boocasino-suomi.com
 book-cruise-from-finland.today
 book-cruises-from-helsinki.today
 bookingtaxi-finland.com
+bookinkfinland.com
 boomkarhufinland.com
 boostmobilepay.com
 boostmobilepayment.com
@@ -801,6 +804,7 @@ cfxfinland.today
 chainhelsinki.xyz
 chakdefinland.com
 chakdehelsinki.com
+chaletlefinlandais.com
 challengefinland.com
 champion-fightclubfinland.com
 chancenonuplesuomi.com
@@ -1586,6 +1590,7 @@ finland-deal.com
 finland-expat.com
 finland-home.ru
 finland-iptv.com
+finland-scewc2025.com
 finland-suomi.ru
 finland-tour.cn
 finland-viesti.site
@@ -1839,6 +1844,7 @@ freeslotsfinland.com
 freesocialcasinofinland.com
 freespinssuomi.com
 freespinssuomi.store
+freetourhelsinki.com
 freetourporhelsinki.com
 freetourshelsinki.com
 freight-forwarders-finland-595217652.today
@@ -3335,6 +3341,7 @@ ipfinland.net
 iptv-finland.com
 iptv-finland.pro
 iptv-finland.shop
+iptv-finland.store
 iptv-finlandplus.com
 iptv-suomi-finland.site
 iptv-suomi.info
@@ -3373,6 +3380,7 @@ iptvsuomi.site
 iptvsuomi.store
 iptvsuomi.xyz
 iptvsuomi4k.shop
+iptvsuomi8k.com
 iptvsuomilive.com
 iptvsuomis.com
 iptvsuomitv.com
@@ -3591,6 +3599,7 @@ kartyakevero-gep-az-en.shop
 kartyakevero-gep.shop
 kasiakasauli.com
 kasinfinland.com
+kasinfinland1.com
 kasino-helsinki.com
 kasinohotelsfinland.com
 kasinoilmanpankkitunnuksia.com
@@ -4805,6 +4814,7 @@ narcotraficomx.com
 nasilemakantarabangsa.my
 nassaustreetfinland.info
 nassoumi.com
+nassoumiestudio.com
 nationalparksinfinland.com
 nattihelsinki.com
 nattihelsinki.store
@@ -4993,6 +5003,7 @@ nordea-fin.com
 nordea-id.com
 nordea-info.com
 nordea-net.xyz
+nordea-nets.net
 nordea-sikker.com
 nordea.com.br
 nordea.dev
@@ -6192,6 +6203,7 @@ s-pankki-fi.com
 s-pankki-fi.online
 s-pankki-fi.org
 s-pankki-fikampanja-mobili.com
+s-pankki-kampanja-elakkeella.com
 s-pankki-kampanja-fi.com
 s-pankki-kampanja-mobiili.com
 s-pankki-kampanja.com
@@ -6544,6 +6556,7 @@ slotsgemfinland.com
 slotspalace-suomi.com
 slotspalacesuomi.com
 slotsuomi.com
+slotsvaderbonusfinland.com
 slotterfinland.com
 slowtretyopa.com
 slowtretyopa.shop
@@ -6856,6 +6869,7 @@ soumissionsdemenagement.ca
 soumissionsebenisterie.ca
 soumissionsentrepreneurs.com
 soumissionsentretienmenager.ca
+soumissionservice.com
 soumissionsfitness.ca
 soumissionsgaragecabanon.ca
 soumissionshypothecaires.com
@@ -7672,6 +7686,7 @@ suomidopesnowe.com
 suomidt.com
 suomiduoblechance.com
 suomie.website
+suomiea.shop
 suomieessentialhomecarellc.com
 suomielakkeellakampanjafi.com
 suomielectric.bond
@@ -9577,6 +9592,7 @@ vippsmobilepay.org
 viralo-helsinki.com
 virelasuomi.com
 virikepalveluseija.pro
+virtanen-helsinki.com
 virtanenssoumi.com
 virtanenssuomi.com
 virtuaalinen-terveys-0.online
@@ -9606,6 +9622,7 @@ visitfinland.online
 visitfinland.xyz
 visitlaplandfinland.com
 visitnaantalifinland.com
+visitsuomi.net
 visma-kirjaudu.com
 vistasfinland.com
 visuomis.com
