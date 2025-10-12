@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 11/10/2025 07:01 UTC
+# Last modified: 12/10/2025 07:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -182,6 +182,7 @@ ajovarma-kirjaudu.com
 ajovarma-suomi.com
 ajovarmaoyj.com
 ajovarnaoyj.com
+akahuolto.fi
 akamaomakanta.com
 akashviestate.com
 akashviestates.com
@@ -695,6 +696,7 @@ buildabearsuomi.com
 buildfinland.com
 bularo-helsinki.com
 buoyj.com
+burgonandballsuomi.com
 burroughs-fortum.com
 business-consults-suomi.com
 businessinfinland.eu
@@ -1559,6 +1561,7 @@ fi-veropalvelu.info
 fi-viestit.info
 fi-viestit.site
 fi-viestits.site
+fiasiakaspalvelu.com
 fiddledfylfotsfinland.sbs
 fifinpalvelu.xyz
 fiksusuomi.com
@@ -1657,6 +1660,7 @@ finlandisverige.com
 finlandisverige.org
 finlandisverige.se
 finlandlab.xyz
+finlandlighting.com
 finlandlrt.xyz
 finlandmask.xyz
 finlandmeta.xyz
@@ -1665,6 +1669,7 @@ finlandminnesotafilm.com
 finlandmnus.com
 finlandmpc.xyz
 finlandmultisig.xyz
+finlandnewstv.com
 finlandnext.xyz
 finlandnode.xyz
 finlandpi.com
@@ -1697,6 +1702,7 @@ finlandtee.xyz
 finlandtoday.com
 finlandtoday.org
 finlandultra.xyz
+finlandvr.com
 finlandwaterbottle.shop
 finlandwrapped.xyz
 finlandyield.xyz
@@ -1858,6 +1864,7 @@ frostsuomi.xyz
 frostyopalglow.store
 fruit-packaging-jobs-finland.today
 fruityfinland.com
+fsoumille.com
 fsqfinland.boutique
 fssuomei.com
 fuelwoodfinland.com
@@ -3268,6 +3275,7 @@ immosenpyorahuolto.com
 imupalvelu.com
 ina-finland.com
 inaoyj.info
+inapalvelut.fi
 inarinkylmahuolto.com
 india-holiday-package-deals-from-finland.today
 indianmoviestats.com
@@ -4370,6 +4378,9 @@ miestenhajuvedet.com
 miestenhajuvedet.net
 miestenhajuvedet.org
 miestenhajuvedet.store
+miestenka.com
+miestenka.online
+miestenka.sk
 miestenmuoti.net
 miestenpiiri.eu
 miestenrannekorut.shop
@@ -4829,6 +4840,7 @@ nayteikkuna-verkkopeleihin-suomessa.buzz
 nazada-helsinki.com
 nb-palvelut.com
 nbc-finland.com
+nbcfinland2025.com
 nbcsymposiumfinland.com
 nblenkkaritsuomi.com
 nbsuomi.shop
@@ -4960,6 +4972,7 @@ ninjacasino-finland.com
 ninjacasino-finland.online
 ninjacasinofinland.com
 ninjacasinosuomi.com
+ninjafinland.com
 ninjasuomi.com
 ninkifinland.com
 nisantasiegitimkulturvakfi.online
@@ -5172,6 +5185,7 @@ oma-comunity.com
 oma-costruzioni.com
 oma-crm.com
 oma-deo.ru
+oma-design-group.com
 oma-doris.com
 oma-doris.de
 oma-electrical.com
@@ -5551,6 +5565,7 @@ palveluilmoitus-smobilii.biz
 palveluilmoitus-smobilii.com
 palveluilmoitus-smobilii.site
 palvelukanta.com
+palvelukassi.com
 palvelukeskusvaahtera.com
 palvelukseensatalli.xyz
 palveluliikenne.com
@@ -5630,6 +5645,7 @@ pay-asiakas-palvelus.com
 pay-asiakaspalvelu.com
 pay-finland.cfd
 pay-suomi.cfd
+pay-vahvista.com
 payfinland.com
 payfinland.info
 payfinland.xyz
@@ -5645,6 +5661,7 @@ pecaviestate.com
 pedrohelsinki.com
 pehelsinki.com
 peintureprostaticsoumission.com
+pelaaminensoumi.com
 pelaaminensuomessa.com
 pelaasuomea.com
 pelatailmanrekisteri.com
@@ -5729,6 +5746,7 @@ pirkanmaaturva.com
 pistolo-finland.com
 pit-vipersuomi.shop
 pk-asennuspalvelu.com
+plakranooyj.online
 planchernewlooksoumission.com
 planfinland.info
 plangames-finland.com
@@ -6332,6 +6350,7 @@ san-vero-milis.my.id
 sandqvistsuomi.com
 sanni-helsinki.com
 sanriokauppasuomi.com
+sanriosuomi.com
 sansevero-c7.com
 santanahelsinki.com
 santasuomi.com
@@ -6465,6 +6484,7 @@ shhautauspalvelut.online
 shirtyopants.com
 shirtyopants.shop
 shirtyopants.store
+shiseidosuomi.com
 shisuomic.com
 shmasoumi.com
 shopfinland.ru
@@ -8450,6 +8470,7 @@ things-to-do-in-finland.com
 thrakpalvelut.com
 thriftedhelsinki.com
 thrill-suomi.com
+tht-palvelu.com
 thursday-boots-suomi.com
 thursdayboot-suomi.com
 thursdaybootsfinland.com
@@ -8878,6 +8899,7 @@ turvataxi.net
 turvatehno.net
 turvatekniikka.com
 turvatie.info
+turvatimpurit.com
 turvatools.com
 turvatorjunta.com
 turvaturizm.com
@@ -9113,6 +9135,7 @@ varmaoyj.com
 varmennussuomi.com
 varmistasuomi.com
 varnaoyj.com
+varsinais-suomen-metsatyo-a-heinonen.com
 vartiointipalvelumikkola.com
 vaskionautohuolto.com
 vaude-suomi.com
@@ -9723,6 +9746,7 @@ wealofinland.works
 wealosuomi.works
 web3finland.xyz
 web3helsinki.xyz
+webappspankkiad.space
 webfinland.xyz
 webhelsinki.xyz
 webkirjaudu.site
