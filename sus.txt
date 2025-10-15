@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 14/10/2025 07:01 UTC
+# Last modified: 15/10/2025 07:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -55,6 +55,7 @@
 3soumissionmenage.com
 4tturva.com
 5-popankki-fi.com
+52taoyj.com
 5em-reccuring0-mobilepaytrac-digitalaccept1proccessinginstant.com
 5em-reccuring0-mobilepaytrac-digitalaccept1proccessinginstant.info
 5soumissionsdemenagement.ca
@@ -226,6 +227,7 @@ almutraficom.com
 aloeverasuomi.com
 alohahelsinki.com
 alosuomi.com
+aloyoga-suomi.net
 alphaindustriessuomi.com
 alphaletesuomi.com
 alpine-finland.com
@@ -281,6 +283,7 @@ anypankki.icu
 aomaeyokqgsuomii.xyz
 aosuomeng.net
 aoyj.cn
+aoyj.xyz
 ap-yhtiopalvelut.com
 apalvelut.com
 apefinland.xyz
@@ -746,6 +749,7 @@ carcapsulefinland.com
 carharttfinland.com
 carpediemvero-24.com
 cartiersuomi.net
+cartmobilepaymentcrm.xyz
 casasuomi.com
 casavero-dubai.com
 cashelsinki-fi.com
@@ -1052,6 +1056,7 @@ dcshoesuomi.com
 ddpfinland.bond
 dds-masoumi.com
 deadlinehelsinki.com
+deaifinland.xyz
 dealsinfinland.com
 dearladiesfinland.com
 debreaminhelsinki.com
@@ -1445,6 +1450,7 @@ estonia-helsinki-rail-vacation.today
 esuominebp.info
 eta-uk-finland.com
 etavalvonta.fi
+etchfinland.xyz
 etelasavonnuohouspalvelu.com
 etelasuomenasennus.com
 ethereumfinland.xyz
@@ -1669,6 +1675,7 @@ finlandeconomy.com
 finlandedu.com
 finlandepic.xyz
 finlandesalfin.com
+finlandetch.xyz
 finlandeth.xyz
 finlandev.xyz
 finlandezu.uk
@@ -1677,6 +1684,8 @@ finlandfhe.xyz
 finlandfi.xyz
 finlandfinancialinc.com
 finlandflower.com
+finlandfractional.xyz
+finlandfractionalize.xyz
 finlandfutures.com
 finlandfx.xyz
 finlandgamblingtips.com
@@ -1711,6 +1720,7 @@ finlandlens.xyz
 finlandlife.xyz
 finlandlighting.com
 finlandlink.xyz
+finlandliquid.xyz
 finlandloan.xyz
 finlandlrt.xyz
 finlandmap.xyz
@@ -1744,11 +1754,15 @@ finlandquantum.xyz
 finlandquick.xyz
 finlandrehabs.com
 finlandrestake.xyz
+finlandrestaking.xyz
 finlandreview.com
 finlandrollup.xyz
 finlandrouter.xyz
 finlandroyal.xyz
+finlandrune.xyz
 finlandrunes.xyz
+finlandrwa.xyz
+finlandrwas.xyz
 finlands.cn
 finlandscan.xyz
 finlandsequencer.xyz
@@ -1775,6 +1789,8 @@ finlandtechnordia.com
 finlandtee.xyz
 finlandtoday.com
 finlandtoday.org
+finlandtokenization.xyz
+finlandtokenize.xyz
 finlandtool.xyz
 finlandultra.xyz
 finlandview.xyz
@@ -1921,6 +1937,8 @@ fourleafclovergamesfinland.com
 fovero-agency.com
 fovero-group.com
 foxoffinland.com
+fractionalfinland.xyz
+fractionalizefinland.xyz
 france-insoumise.com
 france-insoumise.fr
 free-loan-for-youu-finland.today
@@ -2115,6 +2133,7 @@ greenhelsinki.com
 greeninvestfinland.com
 greenlinefinland.com
 greenworkssuomi.com
+griffinlandllc.com
 griffinlandscaping25.com
 groominghelsinki.com
 grouperenault-kantar.com
@@ -3269,6 +3288,7 @@ huoltomaalaus.net
 huoltomies.online
 huoltomiesovelle.com
 huoltoneuvonta.com
+huoltoneuvonta.fi
 huoltoon.com
 huoltopalvelutvepe.com
 huoltopark.fi
@@ -3465,6 +3485,7 @@ iptvfinland.pro
 iptvfinland.site
 iptvfinland.store
 iptvfinland.tv
+iptvfinland4k.com
 iptvsuomessa.com
 iptvsuomi-fi.org
 iptvsuomi-fi.store
@@ -4117,6 +4138,7 @@ linsoumis.com
 linux-suomi.net
 lionheartmoviestitlecontest.com
 liorahelsinki.com
+liquidfinland.xyz
 liquidityhelsinki.xyz
 lisensoidutkasinotsuomessa.com
 lisenssikasinotsuomessa.com
@@ -4193,6 +4215,7 @@ lovilux-helsinki.com
 lovordo-helsinki.com
 lowellsuomi.net
 lpglobalfinland.com
+lrtfinland.xyz
 lsgrillsfinland.com
 lskdsuomi.com
 lsuomineqn.homes
@@ -5260,6 +5283,7 @@ oma-2025.com
 oma-academy.com
 oma-academy.site
 oma-adimu.online
+oma-admin.com
 oma-adriatic.com
 oma-agentaccelerator.com
 oma-ai.com
@@ -5326,6 +5350,7 @@ oma-home.ru
 oma-hub.com
 oma-insurance.com
 oma-kanta.help
+oma-kanta.icu
 oma-kantapalvelut.com
 oma-kantpalvelut.com
 oma-kase.com
@@ -6195,6 +6220,8 @@ rentohelsinki.com
 repettosuomi.com
 reppufinland.com
 residenssipalvelu.com
+restakefinland.xyz
+restakingfinland.xyz
 reterveystalo.com
 returvaluta.com
 returvaluta.nu
@@ -6279,6 +6306,7 @@ ruedxhelsinki.com
 rumahmakantaliwangbersaudara.shop
 rumahmakantaring.com
 rumienmiestenliitto.com
+runefinland.xyz
 runoilijanmatkasuomeen.org
 runoilijanmatkasuomeen.space
 runordeath.pl
@@ -6286,12 +6314,14 @@ runvero-line.top
 ruoppaussuominen.com
 russellathleticsuomi.com
 rustsuomi.com
+rwafinland.xyz
 rxjfinland.org
 ryosuuspankkifi.com
 ryufinland.buzz
 s-kampanja-mobiili.com
 s-kampanja-pankki.com
 s-kampanjamobiili.com
+s-mobiili-elaketuki.com
 s-mobiili-elakkeela.com
 s-mobiili-fi-kamlanja.com
 s-mobiili-fi-pankki-kampanja.com
@@ -8598,6 +8628,7 @@ tiedotsuomi.info
 tiedotuspalvelu.fi
 tienda-avero-shop.store
 tiepalvelumiehet.fi
+tietohuolto.com
 tietokonehuolto.org
 tietopankki.com
 tietoturvapankki.com
@@ -8686,6 +8717,7 @@ top-slot-finlandia.com
 top10-ilman-rekisteroitymista.com
 top10-suomi.com
 top10nettikasinotsuomi.com
+top10suomi.com
 top10suomi.education
 top10suomi2k.com
 top20finland.com
