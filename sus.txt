@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 15/10/2025 07:01 UTC
+# Last modified: 16/10/2025 07:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -93,6 +93,7 @@ abritinhelsinki.com
 abuja-finlandian.info
 accessfinland.com
 accidentestraficomalaga.com
+accountantfinland.com
 accountfinland.com
 accountingfinland.com
 accra-finlandian.info
@@ -426,6 +427,7 @@ aussiesuomi.net
 australian-cobberdog-finland.com
 auth-s-pankkii-fi.com
 auth-tunnistautuminen-suomi.help
+authfinland.xyz
 authhelsinki.xyz
 authorokothowityopap.com
 auths-pankki.com
@@ -769,6 +771,7 @@ casinofinlandtop.com
 casinohelsinki.online
 casinohelsinki24.com
 casinonorthfinland.com
+casinoprankfinland.com
 casinos-suomi.com
 casinosfinderssuomi.com
 casinosinfinland.com
@@ -1533,6 +1536,7 @@ fellowmindfinland.cloud
 femalefounderssuomi.com
 femmesoumisex.com
 fenixhelsinki.com
+fennanehelsinki.com
 fennia-kirjaudu.com
 fenniaasiakaspalvelu.com
 fennoturvapalvelut.com
@@ -1753,6 +1757,7 @@ finlandpublic.xyz
 finlandquantum.xyz
 finlandquick.xyz
 finlandrehabs.com
+finlandreport24.today
 finlandrestake.xyz
 finlandrestaking.xyz
 finlandreview.com
@@ -2108,6 +2113,7 @@ golfworldfinland.net
 golfworldfinland.org
 gollandsky-shturval.ru
 gomfinland.autos
+gonzoslot-oyj.top
 goodrsuomi.com
 goods-transport-finland-kh-en-4428410.world
 goodstufffinland.com
@@ -2860,6 +2866,7 @@ helsinkifilmmakersclub.com
 helsinkifilmmarket.com
 helsinkifilmmarket.online
 helsinkifinance.xyz
+helsinkifinancenews.today
 helsinkifinancial.com
 helsinkifinds.com
 helsinkifinland.buzz
@@ -3199,6 +3206,7 @@ hokoutletsuomi.vip
 hokuou-suomi.com
 holdhelsinki.xyz
 holidayresortfinland.com
+homeopatiapalvelut.com
 honeybrowsfinland.com
 hongatarhelsinki.fi
 honordeai.xyz
@@ -3879,6 +3887,7 @@ kmk-turvallisuuskonsultti.com
 kmpanja-spankki.com
 kodinturva.com
 koiranhoitohelsinki.com
+koirapalveluarmas.com
 koirapalvelukoivunen.com
 koirapalvelupomeliina.com
 koirapalvelutotte.com
@@ -3922,6 +3931,7 @@ kotipalvelu-ilo-ja-onni.com
 kotipalveluilojaonni.com
 kotipalvelunp.com
 kotipalvelunp.net
+kotipalvelusarastus.fi
 kotisiivouspalvelut.fi
 koulutuspalvelut.com
 kpalvelusavo.com
@@ -4195,6 +4205,7 @@ longchampsuomifi.com
 lonkerokasinosuomi.com
 look-finland.com
 loopearplugs-suomi.com
+loopearplugsfinland.com
 loopearplugssuomi.com
 loopearplugsuomi.com
 lopenjuhlapalvelu.com
@@ -4305,6 +4316,7 @@ makea-viesti.com
 makeinfinland.com
 makerfinland.xyz
 makerhelsinki.xyz
+makinen-helsinki.com
 malahosuomi.com
 maljahelsinki.com
 mallunjuontojaohjelmapalvelut.com
@@ -4897,6 +4909,7 @@ mydataturvatarkastus.com
 myfinland.fi
 myhelsinki.life
 myhelsinkivps.top
+mymobiili.com
 myomakantaa.com
 mypersonalsuomi.com
 mysoumi.com
@@ -4962,6 +4975,7 @@ naturval.fr
 naturval.net
 naturvalet.com
 navero-cup.com
+navero-official.com
 nayteikkuna-verkkopeleihin-suomessa.buzz
 nazada-helsinki.com
 nb-palvelut.com
@@ -4987,6 +5001,7 @@ netticasino-suomi.com
 netticasinosuomi.eu
 netticasinosuomi.shop
 netticasinosuomi.website
+netticasinotsuomi.online
 nettihuolto.net
 nettikasino-finland.com
 nettikasinosuomi.xyz
@@ -6332,6 +6347,7 @@ s-mobiili-kampanja-fi-pankki.com
 s-mobiili-kampanja-fi-spankki.com
 s-mobiili-kampanja-fi-spankkii.com
 s-mobiili-kampanja-pankki-fi.com
+s-mobiili-wep.com
 s-mobiili.online
 s-mobiili.sbs
 s-mobiilielakkeella.com
@@ -6701,6 +6717,7 @@ skandisteppers-suomi.com
 skatingfinland.com
 skcfinland.info
 skechersoutletssuomi.com
+skilsuomi.com
 skisuomi.com
 skopalvelut.online
 skp-huolto.com
@@ -6983,6 +7000,7 @@ soumissionassuranceviequebec.com
 soumissionassuranceviesansexamenmedical.com
 soumissionassuredirect.com
 soumissioncarrelage.com
+soumissionclimat.com
 soumissionclimatisation.com
 soumissioncomptable.com
 soumissionconfort.com
@@ -8688,6 +8706,7 @@ toivolapalvelut.net
 tokaifinland.com
 tokaifinland.online
 tokenhelsinki.xyz
+tokenizefinland.xyz
 tokmannifinland.com
 tokomelisa.online
 tomfinland.ru
