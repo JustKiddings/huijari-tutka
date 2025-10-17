@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 16/10/2025 07:01 UTC
+# Last modified: 17/10/2025 07:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -465,6 +465,7 @@ avero-california.com
 avero-cms.ru
 avero-group.com
 avero-health.com
+avero-living.com
 avero-marketing.com
 avero-marketing.online
 avero-marketing.store
@@ -651,6 +652,7 @@ boardgameclubfinland.com
 boardgamingfinland.com
 bobrfinland.com
 bochaoyj.com
+bodenclothingsuomi.com
 bognersuomi.com
 boisfrancosoumission.com
 boltmobilepayments.com
@@ -961,6 +963,7 @@ covero-baufinanzierung.de
 covero-gmbh.com
 cozyinfinland.club
 cozykeysstaysmartfinland.com
+cpphelsinki.com
 cqxiaoyj.cn
 cranetekfinland.fi
 crawlingthrufinland.com
@@ -1127,6 +1130,7 @@ designfortumbler.com
 designhelsinki.xyz
 desigual-finland.com
 despinayiasoumi.com
+desport-world-finland.com
 destinationweddinginfinland.com
 detvitafinland.com
 deuter-suomi.com
@@ -1576,6 +1580,7 @@ fi-suomi.icu
 fi-suomi.sbs
 fi-suomi.website
 fi-trafcom.info
+fi-traficom.icu
 fi-tunnistus.homes
 fi-vahvistus.info
 fi-veropalvelu.info
@@ -4820,6 +4825,7 @@ moovycam.com
 moovydelivery.com
 moovyfi.com
 moovymed.com
+moovyo.com
 moovyo.tech
 moovyou.com
 moovyoyj.com
@@ -5195,6 +5201,7 @@ nordeastcbd.com
 nordeaststeel.com
 nordeasuomi.com
 nordeat-online.com
+nordeatelier.store
 nordeaux.ee
 nordeaux.se
 nordefinland.com
@@ -5315,6 +5322,7 @@ oma-baker.xyz
 oma-beaurepaire.com
 oma-binz.de
 oma-bloc.com
+oma-bw.org
 oma-by-mouna-yaya.com
 oma-camsex.com
 oma-capital.com
@@ -5460,6 +5468,7 @@ oma-vpn.online
 oma-vpn.ru
 oma-welt.com
 oma-ye.com
+oma-zoekt-sex.be
 omaaelisa.site
 omaakantaa-fi.net
 omaelisa.sbs
@@ -5750,6 +5759,7 @@ pankki.nl
 pankki.services
 pankkiasiakas.net
 pankkii.run
+pankkijarjestelma.icu
 pankkipalvelut-smobiilissa-fi.xyz
 pankkipantti.com
 pankkitalo.net
@@ -6037,6 +6047,7 @@ privatefinlandtours.com
 privatehelsinki.xyz
 privatlan-finland.bond
 pro-finland.top
+procedosfinland.com
 procurementlawyersfinland.com
 prodartsfinland.com
 prodjfinland.com
@@ -7130,6 +7141,7 @@ sozialfond-elisabethenpark.ch
 sp-spankki.com
 sp-suomifi.com
 spaceaifinland.com
+spacetimehelsinki.com
 spadospaviestately.shop
 spahelsinki.com
 spalveluhatemelsayed.com
@@ -7299,6 +7311,7 @@ studiopuistofinland.com
 studiopuistohelsinki.com
 study-in--finland.com
 studyinfinland.today
+stussy-finland.com
 stussy-suomi.com
 stussyfi-suomi.com
 stussyfinland.com
@@ -9201,6 +9214,7 @@ uwellsuomi.com
 uwinvapesuomi.com
 uxzfinland.skin
 uzmanklinikpsikologatakantaskiran.com
+vagabond-helsinki.com
 vagabondhavenfinland.com
 vagabondhelsinki.com
 vagabondsuomi.com
