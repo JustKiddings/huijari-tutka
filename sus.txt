@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 18/10/2025 07:01 UTC
+# Last modified: 19/10/2025 07:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -285,6 +285,7 @@ any-pankki.icu
 anyasoumi.com
 anypankki.digital
 anypankki.icu
+aofinland.com
 aomaeyokqgsuomii.xyz
 aosuomeng.net
 aoyj.cn
@@ -535,6 +536,7 @@ bapehuppari-suomi.com
 bapesuomi.com
 baranmasoumian.com
 bargainhubfinland.com
+barkstopsuomi.com
 barrysfinland.com
 barryshelsinki.com
 barsoumiandesign.com
@@ -622,6 +624,7 @@ bgifinland.info
 bhcfinland.info
 bhelsinki.com
 bidsoumissionauction.com
+bigbassbonanza1000-finland.org
 bigchancesuomi.com
 bigluckysuomi.com
 bikbokfinland.com
@@ -967,6 +970,7 @@ corsaza-finland.com
 corsazafinland.com
 corteiz-suomi.com
 corteizsuomi.com
+corvero-group.com
 cosfinland.com
 cosmedica-suomi.com
 cossalesuomi.com
@@ -1078,6 +1082,7 @@ dcshoes-suomi.com
 dcshoesssuomi.com
 dcshoessuomi-fi.com
 dcshoessuomi.me
+dcshoessuomi.org
 dcshoessuomifi.com
 dcshoesuomi.com
 ddpfinland.bond
@@ -1695,6 +1700,7 @@ finlandcoin.xyz
 finlandcolocation.com
 finlandcomebacksocial.com
 finlandcompute.xyz
+finlandcot.com
 finlandcyber.xyz
 finlandcypher.xyz
 finlanddairy.com
@@ -1769,6 +1775,7 @@ finlandmask.xyz
 finlandmeta.xyz
 finlandmev.xyz
 finlandminnesotafilm.com
+finlandminnesotamovie.com
 finlandmint.xyz
 finlandmnus.com
 finlandmoon.xyz
@@ -1848,6 +1855,7 @@ finlandx.xyz
 finlandxr.xyz
 finlandxxx.xyz
 finlandyield.xyz
+finlandyrl.com
 finlandzero.xyz
 finlandzk.xyz
 finlandzkml.xyz
@@ -2066,6 +2074,7 @@ gantfinland.com
 gantoutletsuomi.com
 gantsuomi.net
 gardenglow-suomi.com
+gargantoonz-finland.org
 gasfinland.xyz
 gashelsinki.xyz
 gatewayfinland.xyz
@@ -2736,6 +2745,7 @@ helsinki.lat
 helsinki.love
 helsinki.luxury
 helsinki.media
+helsinki.moi
 helsinki.rent
 helsinki.rocks
 helsinki.tattoo
@@ -3808,6 +3818,7 @@ kasinoilmanpankkitunnuksia.com
 kasinoilmanrekisteroitymista.io
 kasinoilmanrekisteroitymistajalisenssia.com
 kasinoilmansuomenlisenssia.com
+kasinoilmansuomenlisenssia.net
 kasinopankkitunnuksilla.com
 kasinopelitsuomi.com
 kasinosuomessa.com
@@ -4174,6 +4185,7 @@ lemmikkipalvelukeskus.com
 lemmikkipalveluoiva.com
 lemmikkipalvelut.com
 lempisiivouspalvelu.com
+lems-suomi.com
 lemsfinland.com
 lemsfootwearfinland.com
 lemsshoessuomi.net
@@ -4544,6 +4556,7 @@ memehelsinki.xyz
 meredithoffinland.com
 mereellshelsinki.com
 mereellsuomiale.com
+merimerisuomi.com
 merkurpankki.net
 merrell-suomi.org
 merrellfinland-fi.com
@@ -4567,6 +4580,7 @@ metsapalvelut.fi
 metsastyspalvelut.com
 mfooyj.info
 mia-koutsoumidis.com
+miakardiasoumila.com
 miaoyj.com
 miare-helsinki.com
 micafinland.com
@@ -4574,6 +4588,7 @@ michael-kors-suomi.com
 michael-korssuomi.com
 michaelkorsoutletsuomi.net
 michaelkorssuomi.com
+michaelkorssuomi.org
 micheladiviesti.com
 michelinsuomi.com
 miesten-aamutakit.shop
@@ -5250,6 +5265,7 @@ nordea-info.com
 nordea-net.xyz
 nordea-nets.net
 nordea-sikker.com
+nordea-tuki.com
 nordea.com.br
 nordea.dev
 nordea.site
@@ -6316,6 +6332,7 @@ rcsfinland.com
 rcsfinland.net
 rdsiivouspalvelut.com
 rdstrsuomi.com
+reactoonz-finland.org
 realglowsautohuoltokorjaamo.com
 realisointipalvelut.com
 rebuautohuolto.com
@@ -7250,6 +7267,7 @@ sozialfond-elisabethenpark.ch
 sp-spankki.com
 sp-suomifi.com
 spaceaifinland.com
+spacefinland.us
 spacetimehelsinki.com
 spadospaviestately.shop
 spahelsinki.com
@@ -7701,6 +7719,8 @@ suomenshilajit.online
 suomensiemenpankki-fi.com
 suomensisu.org
 suomensotosperheet.com
+suomenstartup.com
+suomenstartupi.com
 suomensurrealistit.net
 suomensuurinlastenfestivaali.com
 suomentalousuutiset.blog
@@ -9164,6 +9184,7 @@ turvalinekonto.info
 turvalineravim.com
 turvalio.pro
 turvaliq.digital
+turvallinen-nettikasino.net
 turvallinen-nettikasinot.com
 turvallinen-nettikasinot.info
 turvallinen.chat
@@ -9429,6 +9450,7 @@ valvonzandesk.com
 vanityopal.site
 vanlaackoutletsuomi.info
 vanlayhteys.com
+vanssuomi.biz
 vanssuomi.com
 vantaanivhuolto.fi
 vapaaksisuomi.com
@@ -9491,6 +9513,7 @@ vendingfinland.online
 venla-helsinki.com
 venum-finland.com
 venumfinland.com
+venumsuomi-fi.com
 venumsuomifi.com
 verif-soumission.com
 verificer-mobilepay.com
