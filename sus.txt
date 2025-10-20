@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 19/10/2025 07:01 UTC
+# Last modified: 20/10/2025 07:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -38,6 +38,7 @@
 24casinosuomi.com
 24casinosuomi.net
 24finland.xyz
+24suomervicea.com
 24suomi.com
 24suomi.net
 24suomi.org
@@ -624,6 +625,8 @@ bgifinland.info
 bhcfinland.info
 bhelsinki.com
 bidsoumissionauction.com
+bigbassbonanza1000-finland.com
+bigbassbonanza1000-finland.net
 bigbassbonanza1000-finland.org
 bigchancesuomi.com
 bigluckysuomi.com
@@ -682,6 +685,7 @@ bookinkfinland.com
 boomkarhufinland.com
 boostmobilepay.com
 boostmobilepayment.com
+booyj.com
 borenpalvelu.com
 boshoryfinland.com
 botfinland.xyz
@@ -971,6 +975,7 @@ corsazafinland.com
 corteiz-suomi.com
 corteizsuomi.com
 corvero-group.com
+cos-suomi.com
 cosfinland.com
 cosmedica-suomi.com
 cossalesuomi.com
@@ -1056,6 +1061,7 @@ danske-mobilepaycasino.com
 daofinland.xyz
 daohelsinki.xyz
 daoyj.icu
+dappfinland.xyz
 dapphelsinki.xyz
 dappsfinland.xyz
 dappshelsinki.xyz
@@ -1063,6 +1069,7 @@ dapsypalvelut.com
 darimakantakova.art
 dartsoffinland.com
 dasarisoumith.xyz
+datafinland.xyz
 datahelsinki.xyz
 datakantar.com
 datapalvelut.net
@@ -1097,6 +1104,7 @@ decken-suomi.shop
 decor-severo-zapad.ru
 deelivero-ae.com
 deelivero-fixdesertchocolate.shop
+deepfinland.xyz
 deephelsinki.xyz
 deeplearninghelsinki.xyz
 deepseek-suomi.com
@@ -1104,6 +1112,7 @@ deepseeksuomi.com
 defencefinland.com
 defendfinland.com
 defiantiasta-finland.com
+defifinland.xyz
 defihelsinki.xyz
 defwk5sfiyiaoyj.top
 degero-kiinteistopalvelut.com
@@ -1166,6 +1175,7 @@ dev-soumitra.com
 devero-dienstleistungen.com
 devicely-suomi.com
 dewamakantakoyaki.app
+dexfinland.xyz
 dexhelsinki.xyz
 dfyne-finland.com
 dfyne-suomi.com
@@ -1195,6 +1205,7 @@ digitoimistopalvelu.online
 digiturva.fi
 digivero-energy.de
 digiviestit.com
+dimitra-kanta.com
 dininghelsinki.info
 discoverdiscoveringfinland.com
 discoverhelsinki.online
@@ -1628,6 +1639,7 @@ filakengathelsinki.com
 filasuomi-fi.com
 filcomfinland.com
 filipinocoopfinland.com
+fillingpiecessuomi.com
 filmschoolfinland.com
 filuckysuomi.com
 fimobiili-kampanja.com
@@ -1689,6 +1701,7 @@ finlandblogi.org
 finlandbot.xyz
 finlandbots.xyz
 finlandbundler.xyz
+finlandbuy.com
 finlandcasino1.com
 finlandcasinolist.com
 finlandcasinoreview.com
@@ -1743,6 +1756,7 @@ finlandhodl.xyz
 finlandhub.xyz
 finlandhyper.xyz
 finlandia-moldova.com
+finlandia-sutaz.sk
 finlandia.co
 finlandia.fr
 finlandia.org.es
@@ -1751,6 +1765,7 @@ finlandiaonline.ru
 finlandiaplay24.com
 finlandiasofa.com
 finlandiaspinzone.com
+finlandiasutaz.sk
 finlandiatravel.co.uk
 finlandiavillage.com
 finlandid.xyz
@@ -2015,6 +2030,7 @@ freshcasinosuomi.com
 friendsoffinland.com
 fromfinlandtofranceforhautecouture.com
 frontierfinland.com
+frostbitesuomi.com
 frostroyalhelsinki.com
 frostsuomi.xyz
 frostyopalglow.store
@@ -2074,6 +2090,8 @@ gantfinland.com
 gantoutletsuomi.com
 gantsuomi.net
 gardenglow-suomi.com
+gargantoonz-finland.com
+gargantoonz-finland.net
 gargantoonz-finland.org
 gasfinland.xyz
 gashelsinki.xyz
@@ -2166,6 +2184,7 @@ gonzoslot-oyj.top
 goodrsuomi.com
 goods-transport-finland-kh-en-4428410.world
 goodstufffinland.com
+goodyearsuomi.com
 googleegaoyj.icu
 gorewearsuomi.com
 goterveystalo.com
@@ -2316,6 +2335,7 @@ helsinki-blkaft-aaax.info
 helsinki-blkaft-aaay.info
 helsinki-blkaft-aaaz.info
 helsinki-blkaft-aaba.info
+helsinki-blkaft-aabb.info
 helsinki-card.com
 helsinki-copenhagen-cruise-package-fi.sbs
 helsinki-dire-xaaa.info
@@ -2741,6 +2761,7 @@ helsinki.games
 helsinki.group
 helsinki.homes
 helsinki.in
+helsinki.ink
 helsinki.lat
 helsinki.love
 helsinki.luxury
@@ -3154,6 +3175,7 @@ helsinkitech.xyz
 helsinkitechnology.com
 helsinkitechshow.com
 helsinkitherapy.com
+helsinkitiktok.ru
 helsinkitimes.bet
 helsinkitimes.info
 helsinkitimes.net
@@ -3598,6 +3620,7 @@ irsehelsinki2026.info
 isabellemassoumi.com
 isabelmarantsuomi.net
 isabelmassoumi.com
+isannointihelsinki.com
 isfinland.com
 isma2026helsinki.org
 isolationsoumission.com
@@ -3902,6 +3925,8 @@ ketopowerxfinland.com
 keturvalakiubendruomene.lt
 kfxfinland.autos
 kgzfinland.com
+khosraviestate.com
+khosraviestates.com
 khvkiinteistopalvelu.fi
 kiassnorthsuomiyear.com
 kickscrewsuomi.com
@@ -5073,6 +5098,7 @@ nassoumiestudio.com
 nationalparksinfinland.com
 nattihelsinki.com
 nattihelsinki.store
+naturalizersuomi.com
 naturewellbeingfinland.com
 naturovero-cuisine.fr
 naturva.co
@@ -6332,6 +6358,8 @@ rcsfinland.com
 rcsfinland.net
 rdsiivouspalvelut.com
 rdstrsuomi.com
+reactoonz-finland.com
+reactoonz-finland.net
 reactoonz-finland.org
 realglowsautohuoltokorjaamo.com
 realisointipalvelut.com
@@ -6398,6 +6426,7 @@ rippa-finland.com
 ristosisko-helsinki.com
 ritan-kauneuspalvelut.com
 riverislandsuomi.net
+rivero-abogados.com
 rivero-automotive.se
 rivero-ayerza.com
 rivero-mebel.ru
@@ -7317,6 +7346,7 @@ spankkii.run
 spankkiifinlandfi.com
 spankkiifinlandfi.digital
 spankkikampanja-fi.com
+spankkikampanjamobiilii.com
 spankkimobiili-elakkeella.com
 spankkimobiili.online
 spankkimobiilifi.com
@@ -8055,6 +8085,7 @@ suomifinest.com
 suomifinlande.com
 suomifionline.site
 suomifitunnistus.com
+suomiflirtxxx.com
 suomiflowergarden.com
 suomifoot.com
 suomifornia.com
@@ -8225,6 +8256,7 @@ suomionlyfans.com
 suomioo.top
 suomiopas.org
 suomioriginals.com
+suomipaidat.com
 suomipalvelut-fi.com
 suomipalvelutfi.com
 suomipan.club
@@ -9077,6 +9109,7 @@ treffitsuomi24.net
 triangelic-finland.com
 triathlonshopfinland.com
 triinin-kotipalvelu.com
+trimmauspalvelukoiruuksia.com
 tripfinland.com
 trips2finland.com
 tripspellfinland.com
@@ -9177,6 +9210,7 @@ turvakti.com
 turvala.com
 turvaldovino.com
 turvaldovino.info
+turvalen.bond
 turvaleno.space
 turvalenquoria.com
 turvalex.shop
@@ -9715,6 +9749,7 @@ vero-modaeinkaufen.com
 vero-modaverkauf.com
 vero-motion.com
 vero-n-co.net
+vero-na.ru
 vero-necessitatibus.site
 vero-nika-photo.art
 vero-nique.com
