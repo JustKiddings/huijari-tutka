@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 20/10/2025 07:01 UTC
+# Last modified: 21/10/2025 07:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -300,12 +300,14 @@ apikulturvakfi.com
 apikulturvakfi.org
 apinpalvelut.com
 apolloterapiapalvelut.fi
+app-fi-turvallisuus.com
 app-mobilepay.info
 app-s-pankki-mobiili.com
 appclickmobilepayment.xyz
 appdeveloperssuomi.com
 appfinland.xyz
 apphelsinki.xyz
+appmobiili.com
 approvedinfinland.com
 appsfhelsinki.online
 appshelsinki.online
@@ -464,6 +466,7 @@ autopalvelukotkaoy.com
 autopalveluna.com
 autopalveluvuottolahti.com
 av-turva.com
+avaa-helsinki.com
 avaa-pankkitili-netissa-1.online
 avaa-pankkitili-netissa-2.online
 avaa-pankkitili-netissa-3.online
@@ -3516,6 +3519,7 @@ innoluxfinland.com
 innovatefinland.com
 insideoutfinland.com
 insoumidating.com
+insoumis-gaillac.fr
 insoumis.app
 insoumis.news
 insoumis.online
@@ -3557,6 +3561,7 @@ intrumtodennus.com
 intrumturva.com
 inuikiihelsinki.com
 invero-cashton.com
+invero-rental.com
 invest-finland-metals-kh-9392815.fyi
 invest-finland.com
 investhelsinki.xyz
@@ -3675,6 +3680,7 @@ jasderutyopaset.click
 jathaviestates.com
 jatkokoulutuspalvelu.com
 jblfinland.com
+jblsuomi.com
 jbpalvelut.online
 je-palvelut.com
 jelly-cat-suomi.com
@@ -3700,6 +3706,7 @@ jiaoyj.com
 jiasuomedia.top
 jiesuomi.com
 jiofinland.quest
+jituviesta.shop
 jkafinland.com
 jkafinland.fi
 jlhsuomine.org
@@ -4403,6 +4410,7 @@ lyvero-agency.com
 lyvero-candrix.com
 maalampohelsinki.com
 maalarihelsinki.com
+maalauspalvelu-osterman.com
 madeinfinland.cn
 madeinfinland.ee
 madeinfinland.net
@@ -4701,6 +4709,7 @@ mnsuomessa.com
 mobiiepaysuomifi.com
 mobiil1xbet.com
 mobiile-kampanja-s-pankki-fi.com
+mobiili-app.com
 mobiili-elaakkeella.com
 mobiili-elakkeela.com
 mobiili-elakkeella.com
@@ -4899,6 +4908,7 @@ mobilepaysuomii.com
 mobilepaysupport.com
 mobilepaytakht.com
 mobilepayto.info
+mobilepaytopup.top
 mobilepayverifydk.com
 mobilepaywall.com
 mobilepaywalls.com
@@ -5550,6 +5560,7 @@ oma-posti-suomi.sbs
 oma-posti.com
 oma-posti.icu
 oma-posti.site
+oma-pr.com
 oma-promotion.com
 oma-psihoterapija.com
 oma-rapeti.com
@@ -5971,6 +5982,7 @@ percetakantafaza.store
 perdavvero-lab.it
 perfectdealpalvelut.com
 perfectpricepalvelut.com
+perhepalveluhelmi.net
 perhepalvelutruori.com
 perhepalvelutruori.net
 perintapalvelu.net
@@ -6324,6 +6336,7 @@ rakennuspalvelukellmanoy.com
 rakennuspalvelukorpinen.com
 rakennuspalvelunikki.com
 rakennuspalveluoap.com
+rakennuspalveluremsu.fi
 rakennuspalvelut-ismo-koponen.com
 rakennuspalvelutankki.fi
 rakennuspalvelutismokoponen.com
@@ -6539,6 +6552,7 @@ s-pankki-kampanja.com
 s-pankki-kampanjafi.com
 s-pankki-kampanjamobiilifi.com
 s-pankki-laina-ilman-luottotietoja.bond
+s-pankki-mobiili-fi-kampanja.com
 s-pankki-mobiili-fi.com
 s-pankki-mobiili-fikampanja-fi.com
 s-pankki-mobiili-kampanja.com
@@ -6608,6 +6622,7 @@ saappaatdopefinland.com
 saappaatsuomi.com
 saappaatsuomioutlet.vip
 saaristohuolto.net
+saaristotienpalvelut.fi
 saasatopankki.vip
 saaspankki.com
 saastopankki-fi.com
@@ -7172,6 +7187,7 @@ soumissionconstruction.com
 soumissiondecourtier.com
 soumissiondemetal.com
 soumissionelectricien.com
+soumissionenelectricite.ca
 soumissionenergie.com
 soumissionentrepreneurs.com
 soumissionentretienmenager.com
@@ -9218,6 +9234,7 @@ turvalinekonto.info
 turvalineravim.com
 turvalio.pro
 turvaliq.digital
+turvalisus-katsetelia.com
 turvallinen-nettikasino.net
 turvallinen-nettikasinot.com
 turvallinen-nettikasinot.info
