@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 22/10/2025 07:01 UTC
+# Last modified: 23/10/2025 07:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -113,6 +113,7 @@ aecfinland.com
 aekfinland.today
 aemfinland.info
 aestheticafinland.com
+aetherbiofinland.com
 aeydesuomi.com
 af-buymakantan.com
 afinland.top
@@ -529,6 +530,7 @@ balmainhairsuomi.com
 baloro-helsinki.com
 bamako-finlandian.info
 bandirekisteri.fi
+banditrekisteri.com
 bangboxsuomi.com
 bangkok-finlandian.info
 bangvapesuomi.com
@@ -679,6 +681,7 @@ boltmobilepayments.com
 boltmobilepayments.net
 bomyhelsinki.com
 bonuscrabcasino-finland.com
+bonussuomi.com
 boocasino-finland.com
 boocasino-suomi.com
 book-cruise-from-finland.today
@@ -1022,6 +1025,8 @@ cs2suomi.com
 cscfinland.com
 cscmobilepay.com
 csfinland.com
+csgorollfinland.com
+csgorollsuomi.com
 csuomeia.xyz
 ctheoxltdsuomensivuliike.com
 culturva.com
@@ -1421,6 +1426,7 @@ elviestate.com
 elviestate.ru
 elysatorsuomi.com
 elysatorsuomi.store
+emailfunnelmobilepayment.xyz
 emaldosuomi.com
 emcfinland.com
 emiciahelsinki.com
@@ -1772,6 +1778,7 @@ finlandiasutaz.sk
 finlandiatravel.co.uk
 finlandiavillage.com
 finlandid.xyz
+finlandil.baby
 finlandil.website
 finlandinfo.xyz
 finlandinvestors.shop
@@ -1790,6 +1797,7 @@ finlandloan.xyz
 finlandlrt.xyz
 finlandmap.xyz
 finlandmask.xyz
+finlandmasters.com
 finlandmeta.xyz
 finlandmev.xyz
 finlandminnesotafilm.com
@@ -1830,6 +1838,7 @@ finlandrune.xyz
 finlandrunes.xyz
 finlandrwa.xyz
 finlandrwas.xyz
+finlands.best
 finlands.cn
 finlandscan.xyz
 finlandsequencer.xyz
@@ -1937,6 +1946,7 @@ forexpankki.xxx
 forgedinfinland.com
 forhelsinkilovers.com
 formulasoumilionaria.site
+fortum-capital.com
 fortum-energia.online
 fortum-fi.com
 fortum-harcourt.com
@@ -3253,6 +3263,7 @@ hi-elisa.com
 hi-helsinkicity.com
 hibachihelsinki.com
 hiddenhelsinki.fi
+hierontapalvelu.com
 hierontapalveluaaltonen.com
 hierontapalvelutdreams.fi
 hierontapalveluthuoponen.com
@@ -3454,6 +3465,7 @@ ideafinland.com
 ideafinland.store
 identify-tunnistus.top
 idmobilepay.com
+iffinland.info
 igamingfinland.com
 igloohotelfinland.com
 igmobilepaylater.com
@@ -3656,6 +3668,7 @@ jack-wolfskin-suomi.com
 jackelyn-suomi.com
 jackpot-finlands.cfd
 jackpot-finlands.cyou
+jackpotssuomi.com
 jackpotsuomi360.com
 jackwolfskinsuomi.com
 jackwolfskinsuomi.shop
@@ -3756,6 +3769,7 @@ juristihelsinki.com
 juristihelsinki.org
 jussisuominen.com
 justdancehelsinki.com
+justforfinland.com
 juupfinland.com
 jvaoyj.info
 jvkehonhuolto.com
@@ -3859,6 +3873,7 @@ kasinot-ilmanrekisteroitymista.com
 kasinot-suomi.net
 kasinot-suomi.org
 kasinotilman-rekisteroitymista.com
+kasinotilmanpankkitunnuksia.com
 kasinotilmanrekisterointia.com
 kasinotilmanrekisterointia.net
 kasinotilmanrekisteroitymista.co
@@ -3938,6 +3953,7 @@ khvkiinteistopalvelu.fi
 kiassnorthsuomiyear.com
 kickscrewsuomi.com
 kicksuomi.com
+kiddiosuomi.com
 kiehuvaturva.com
 kielipalvelukauno.com
 kiertokapulayrityspalvelut.com
@@ -4411,6 +4427,7 @@ lyvero-candrix.com
 maalampohelsinki.com
 maalarihelsinki.com
 maalauspalvelu-osterman.com
+maalauspalvelu-österman.com
 madeinfinland.cn
 madeinfinland.ee
 madeinfinland.net
@@ -4453,6 +4470,7 @@ mangosuomi.net
 manishvivahvistaar.com
 manoloblahniksuomi.com
 manordeal.sbs
+mansikkaterveys.com
 manufacturedinfinland.com
 many-helsinki-events-756119764.today
 marela-helsinki.com
@@ -5341,6 +5359,7 @@ nordeat-online.com
 nordeatelier.store
 nordeaux.ee
 nordeaux.se
+nordeayapi.xyz
 nordefinland.com
 nordic-helsinki.com
 nordicaoilsfinland.com
@@ -5470,6 +5489,7 @@ oma-circles.com
 oma-closet.com
 oma-cn.com
 oma-co.com
+oma-cocas.com
 oma-comunity.com
 oma-costruzioni.com
 oma-crm.com
@@ -5909,6 +5929,7 @@ pankkipantti.com
 pankkitalo.net
 pannkiifinland.com
 pannkiifinland.shop
+panofinland.com
 panokavereita-helsinki.online
 panslotsuomi.club
 panterahelsinki.com
@@ -6050,6 +6071,7 @@ pirkanmaaturva.com
 pistolo-finland.com
 pit-vipersuomi.shop
 pk-asennuspalvelu.com
+pk-teollisuushuolto.com
 plakranooyj.online
 planchernewlooksoumission.com
 planfinland.info
@@ -6497,6 +6519,7 @@ russellathleticsuomi.com
 rustsuomi.com
 rwafinland.xyz
 rxjfinland.org
+ryhteystiedot.com
 ryosuuspankkifi.com
 ryufinland.buzz
 s-kampanja-mobiili.com
@@ -6612,6 +6635,7 @@ s-pankkimobile.online
 s-pankkioffer.icu
 s-pankkista.com
 s-pankkitax.icu
+s-pankkiverification.online
 s-pankkl-asiakaspallvelu-app.com
 s-ryhmasuomi.com
 s-siivouspalvelut.com
@@ -6940,6 +6964,7 @@ smobiilifikampanja.com
 smobiilikammpanja.com
 smobiilispankki.com
 smobiilisuomifi.com
+smobiiliverification.online
 smobilepay.com
 smobilii-asiakasviestit.biz
 smobilii-asiakasviestit.com
@@ -7245,6 +7270,7 @@ soumissionspro.com
 soumissionsqc.com
 soumissionsrefinancement.ca
 soumissionsrenoplus.com
+soumissionsrenovation.com
 soumissionsrevetementinterieur.ca
 soumissionssaguenay.ca
 soumissionssherbrooke.ca
@@ -7563,6 +7589,7 @@ suomenautotukku.com
 suomenbonuskoodit.com
 suomencapoeiraliitto.com
 suomencotonit.com
+suomendcoy.com
 suomendiilit.com
 suomenedulliset.com
 suomenekonomiliitto.fi
@@ -9547,6 +9574,7 @@ vejasrunningsuomi.com
 vejastoresuomi.com
 vejasuomi-fi.shop
 vejasuomi-fi.top
+vejasuomi.net
 velakotrinasuomiere.com
 velallisenpalvelut.com
 velarahelsinki.com
@@ -9598,6 +9626,7 @@ vero-1.sbs
 vero-24.com
 vero-95.ru
 vero-ab.site
+vero-adm-mrb3mfp4zvmrgh7hak.com
 vero-aesthetics.com
 vero-ag.com
 vero-agency.com
@@ -9826,6 +9855,10 @@ vero-soto.com
 vero-space.com
 vero-sport.com
 vero-sports.com
+vero-ss.com
+vero-ss.net
+vero-ss.shop
+vero-ss.store
 vero-stile.com
 vero-store.com
 vero-store.store
@@ -10012,8 +10045,12 @@ vipkasinotsuomi.com
 vippsmobilepay.info
 vippsmobilepay.net
 vippsmobilepay.nu
+vippsmobilepay.online
 vippsmobilepay.org
+vippsmobilepay.site
+vippsmobilepay.work
 vipsmobilepay.com
+vipsmobilepay.work
 viralo-helsinki.com
 virelasuomi.com
 virikepalveluseija.pro
@@ -10302,6 +10339,7 @@ xn--lhipyorhuolto-bfbg.com
 xn--lhiterveys-q5a.com
 xn--lymobiili-u2a.com
 xn--maalaus-jakiinteisthuoltonyholm-pdd.fi
+xn--maalauspalvelu-sterman-8hc.com
 xn--mobiiliprssi-cjb.com
 xn--mobilepay-hjlp-cjb.online
 xn--modavero-bucureti-19f.com
