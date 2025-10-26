@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 25/10/2025 07:02 UTC
+# Last modified: 26/10/2025 08:02 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
