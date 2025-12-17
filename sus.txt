@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 16/12/2025 08:54 UTC
+# Last modified: 17/12/2025 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -722,6 +722,7 @@ bonuscrabcasino-finland.com
 bonussuomi.com
 boocasino-finland.com
 boocasino-suomi.com
+boocasinosuomi.com
 book-cruise-from-finland.today
 book-cruises-from-helsinki.today
 bookingtaxi-finland.com
@@ -2186,6 +2187,7 @@ fysiolinefinland.com
 gaborfinland.com
 gaborsuomi.com
 gaiascultsuomi.com
+galacticwinssuomi.com
 galleria1981helsinki.com
 galleriakivipankki.com
 galleryfinland.art
@@ -5161,6 +5163,7 @@ mooseknucklesfinland.com
 mooseknucklesuomi.com
 moovy-fln.com
 moovy-oy.com
+moovy.cards
 moovy.click
 moovy.education
 moovy.eu
@@ -5270,6 +5273,7 @@ my-suomi.info
 my-suomifi.site
 my-viestit.site
 mydataturvatarkastus.com
+myempiresuomi.com
 myfinland.fi
 myfinland.ir
 myhelsinki.life
@@ -5432,6 +5436,7 @@ nichehelsinki.com
 niemi-helsinki.com
 niemihelsinki.com
 nieuwbouw-elisabeth.online
+nifollenisoumise.com
 nigeriafinland.com
 nigeriansinfinland.com
 nightshiftfinland.com
@@ -6023,6 +6028,7 @@ opmobiiliserv.com
 opmobiiliserve.com
 oppankii.com
 oppilaitosturvallisuus.org
+opsuomimpod.com
 opturva.com
 opyrityspankkioyj.com
 oralbsuomi.com
@@ -8458,6 +8464,7 @@ suomifest.com
 suomifi-palvelut.com
 suomifi-palvelut.shop
 suomifi-tarkista-tiedot.cfd
+suomifi.cc
 suomifi.com
 suomifi.info
 suomifi.life
@@ -8592,6 +8599,7 @@ suomilocal.com
 suomilodges.com
 suomiloma.click
 suomiloma.com
+suomilop.com
 suomilounge.co.uk
 suomiluck.com
 suomiluck777.com
@@ -8618,7 +8626,9 @@ suomimm.top
 suomimobilesaunas.com
 suomimobilisa.com
 suomimobilissi.com
+suomimoe.com
 suomimonky.com
+suomimpod.com
 suomimuoti.store
 suomimystica.com
 suomin.jp
@@ -8652,6 +8662,7 @@ suomiomi.top
 suomionline.casino
 suomionline.sbs
 suomionlyfans.com
+suomionlyfans.net
 suomionni.info
 suomioo.top
 suomiopas.org
@@ -8878,6 +8889,7 @@ suomiturva.info
 suomiturvallisuus.com
 suomitv.com
 suomitv.net
+suomiuio.com
 suomiurbanretreat.com
 suomiuseful.org
 suomiuu.top
@@ -9957,6 +9969,7 @@ vauhdikas-finland.com
 vavada-finland-bonus.com
 vavada-finland-bonus.net
 vavada-suomi.com
+vedonlyontisuomi.com
 veevago-suomi.com
 veganordeath.com
 vegganfoodfinland.rest
