@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 19/12/2025 08:01 UTC
+# Last modified: 20/12/2025 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -1768,6 +1768,7 @@ finland-iptv.com
 finland-scewc2025.com
 finland-star.ru
 finland-suomi.ru
+finland-teste.shop
 finland-tour.cn
 finland-viesti.site
 finland.cl
@@ -1817,6 +1818,7 @@ finlandcasinoretro.com
 finlandcasinoreview.com
 finlandcentral.xyz
 finlandchat.xyz
+finlandchinaeconomicandinvestmentassociationry.org
 finlandcode.xyz
 finlandcoe.fr
 finlandcoin.xyz
@@ -6397,6 +6399,7 @@ platformfinland.xyz
 platformhelsinki.xyz
 play-suomi.com
 play-suomi.info
+play-suomi.net
 playandstayfinland.com
 playbazecasinofinland.com
 playbazefinland.com
@@ -7191,6 +7194,7 @@ severo-utah.com
 severo-zapad-yurholding.online
 severo-zapad-yurholding.ru
 severo-zapad.su
+sgsalmakantagciwqwjfkfl.run
 sh-suomei.com
 shadowpowerfinland.com
 shamisenfinland.com
@@ -8640,6 +8644,8 @@ suomikasino.icu
 suomikasino1.bond
 suomikasino2.bond
 suomikasino3.bond
+suomikasino4.bond
+suomikasino5.bond
 suomikasinoinfo.com
 suomikasinolista.com
 suomikasinonodeposit.click
@@ -9245,6 +9251,7 @@ terveysklinikkalonglife.fi
 terveyskoulukoti.org
 terveysmatkatliettua.com
 terveysopas.com
+terveysopas.shop
 terveyspalvelry.com
 terveyspiste.com
 terveyspuu.fi
