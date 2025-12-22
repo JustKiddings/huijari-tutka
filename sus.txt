@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 21/12/2025 08:00 UTC
+# Last modified: 22/12/2025 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -616,6 +616,8 @@ beautyopal.blog
 beautyopal.com
 beautyopathy.com
 beautysalonsaharmasoumi.com
+beebox-finland.com
+beeboxfinland.com
 beerfromfinland.com
 befreshsuomi.com
 behnoodmassoumi.fr
@@ -1231,6 +1233,7 @@ deljvvero-ae.com
 dellivero-fix.com
 dellvero-ae.com
 dellvero-uae.com
+delonghisuomi.com
 delseysuomi.com
 deltafinland.com
 deltastateassociationfinland.com
@@ -1368,6 +1371,7 @@ dronehuolto.com
 dronepalvelu.com
 dronepalvelut.com
 drophelsinki.xyz
+drsoumiabenaammouch.com
 drsoumikghosh.com
 drsoumitraghosh.in
 dsafinland.com
@@ -1506,6 +1510,7 @@ elkkellaspankkikampanjafii.com
 elmiestenlodgeensear.fun
 elnaturalistafinland.com
 elnortefinland.com
+eloise-psykoterapiapalvelut.com
 elora-helsinki.com
 elotecfinland.com
 elotecfinland.info
@@ -1898,6 +1903,7 @@ finlandiavillage.com
 finlandid.xyz
 finlandil.baby
 finlandil.website
+finlandinamerica.com
 finlandinfo.xyz
 finlandinvestors.shop
 finlandisverige.com
@@ -1997,6 +2003,7 @@ finlandtokenization.xyz
 finlandtokenize.xyz
 finlandtool.xyz
 finlandtrade.cn
+finlandtravel.store
 finlandultra.xyz
 finlanduniversity.fi
 finlandvacancies.com
@@ -2052,6 +2059,7 @@ fix-delivero-ae.com
 fix-delivero-kw.com
 fixerhelsinki.com
 fl-trafcom.info
+flame-finland.com
 flealux-finland.com
 flexpalvelut.com
 flightclubfinland.com
@@ -3021,6 +3029,7 @@ helsinkibtc.xyz
 helsinkibtr.com
 helsinkibuses.com
 helsinkibusiness.xyz
+helsinkibyboat.com
 helsinkibyheart.com
 helsinkicab.com
 helsinkicards.com
@@ -3149,6 +3158,7 @@ helsinkiglobal.xyz
 helsinkigoals.com
 helsinkigpt.xyz
 helsinkigranfondo.com
+helsinkigroup.sk
 helsinkigudrun.com
 helsinkiha.com
 helsinkihackathon.com
@@ -3717,6 +3727,7 @@ injfinland.mom
 inleifinland.ink
 inleifinland.pro
 inneralchemyfinland.com
+innerpeacefinland.fi
 innofinland.fi
 innoluxfinland.com
 innovatefinland.com
@@ -3961,6 +3972,7 @@ julianusturvalisus.com
 julkinenkaupanvahvistaja.com
 jumbofinland.com
 junkremovalvonore.com
+jurasuomi.com
 juristi-helsinki.com
 juristi-helsinki.org
 juristihelsinki.com
@@ -4248,6 +4260,7 @@ kokonaisturvallisuudenosaamiskeskus.com
 kokosuomi.net
 kokoushelsinki.fi
 kombattaekwondofinland.com
+komfortum.shop
 komonofinland.com
 komviesta.xyz
 konehuoltoheinonen.com
@@ -4324,6 +4337,7 @@ kuntoturva.com
 kuntoutusjakehonhuolto.com
 kuomafinland.com
 kuopion-lvi-asennus-huolto.com
+kuopiopalvelut.fi
 kuriiripalvelu.net
 kutyavalvonaton.hu
 kuulutusrekisteri.com
@@ -4666,6 +4680,7 @@ maalampohelsinki.com
 maalarihelsinki.com
 maalauspalvelu-osterman.com
 maalauspalvelu-österman.com
+maanrakennuspalveluthorkko.fi
 madeinfinland.cn
 madeinfinland.ee
 madeinfinland.net
@@ -4704,6 +4719,7 @@ makinen-helsinki.com
 malahosuomi.com
 maljahelsinki.com
 mallunjuontojaohjelmapalvelut.com
+mammotionsuomi.fi
 mamvero-wecmedia.com
 mamvero-wecmedia.info
 mangosuomi.net
@@ -5293,6 +5309,7 @@ moviestation.xyz
 moviestato.xyz
 moviestats.online
 moviestatues.com
+moviestatus.info
 moviestatus.xyz
 moviestitc.com
 moving-services-finland-246199794.zone
@@ -6392,6 +6409,7 @@ pilviturva.lol
 pinballfinland.com
 pinerockfinland.com
 pinjasuomela.com
+pink-palm-puff-suomi.com
 pinklemonfinland.com
 pinkosuomisale.com
 pinkpalmpuff-finland.com
@@ -7250,6 +7268,7 @@ showposuomi.com
 showroomhelsinki.com
 shrivivekyogahelsinki.com
 shsuomi.com
+shturval25.ru
 shturvalplus.ru
 sialviestate.com
 sialviestateandbuilders.com
@@ -8143,6 +8162,7 @@ suomenkoulupalvelu.com
 suomenkourumestarit.fi
 suomenkulta.com
 suomenkulta.info
+suomenkultakiekko.info
 suomenkuntotarkastustalo.com
 suomenkurssi.com
 suomenkuulotuki.fi
@@ -9019,6 +9039,7 @@ suomiuu.top
 suomiuutiset.com
 suomiuutiset.org
 suomivahvista.com
+suomivalleyviewcasino.com
 suomivalo.fi
 suomivarallisuus.com
 suomivarastofi.bond
@@ -9369,6 +9390,7 @@ thehappyhelsinki.pics
 thehelsinkistore.com
 thehouseoffinland.com
 themobiilitypeople.com
+themobilepay.com
 thenorthface-suomi.com
 thenorthfacehelsinki.com
 thenorthfacessuomi.com
@@ -9386,6 +9408,7 @@ theterveystalo.com
 thevsouminstra.info
 thewhalehelsinki.com
 things-to-do-in-finland.com
+thisisfinlandinamerica.com
 thrakpalvelut.com
 thriftedhelsinki.com
 thrill-suomi.com
@@ -10240,11 +10263,14 @@ vero-dev.com
 vero-diseno.com
 vero-doloribus.site
 vero-doors.com
+vero-drive.ch
+vero-drive.com
 vero-dublin.com
 vero-dz.com
 vero-edge.com
 vero-eg.com
 vero-electronics.com
+vero-elements.com
 vero-engineering.com
 vero-enim.site
 vero-eric.com
@@ -10356,6 +10382,7 @@ vero-noir.com
 vero-oakhome.com
 vero-occupational-therapy.com
 vero-odit.site
+vero-on.com
 vero-org.com
 vero-ornavero-fi.com
 vero-os.com
