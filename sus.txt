@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 22/12/2025 08:00 UTC
+# Last modified: 23/12/2025 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -946,6 +946,7 @@ chfinland.fi
 chi-finland.com
 chickenroadhelsinkiside.com
 chicntrafco.run
+chiksuomi.win
 chillstayfinland.com
 chillysfinland.com
 chillyssuomi.com
@@ -1278,6 +1279,7 @@ diamantefinland.com
 diandongshensuomen.cn
 diandongshensuomen.com
 diandongshensuomen.com.cn
+diasiantuntijapalvelut.fi
 dibsuomine.com
 dickies-suomi.com
 dickiesstorehelsinki.com
@@ -1797,6 +1799,7 @@ finlanda.eu
 finlandagentic.xyz
 finlandagi.xyz
 finlandai.xyz
+finlandapartment.com
 finlandapi.xyz
 finlandapp.xyz
 finlandapps.xyz
@@ -2107,6 +2110,7 @@ fortum.shop
 fortum.site
 fortum.store
 fortum.uk
+fortum.vip
 fortum.world
 fortuma-apk.com
 fortuma.agency
@@ -2198,6 +2202,7 @@ fsoumille.com
 fsqfinland.boutique
 fssuomei.com
 fudusuomi.com
+fudusuomi.fi
 fuelwoodfinland.com
 fufu4dhelsinki.xyz
 fullthrottlefinland.com
@@ -4070,6 +4075,7 @@ kasinfinland1.com
 kasino-helsinki.com
 kasino-ilman-rekisterointia.fi
 kasino-ilman-rekisteroitymista.fi
+kasino-suomi.net
 kasinohotelsfinland.com
 kasinoilmanpankkitunnuksia.com
 kasinoilmanrekisteroitymista.io
@@ -5847,6 +5853,7 @@ oma-foods.com
 oma-france.bio
 oma-free.online
 oma-free.ru
+oma-gaming.com
 oma-germana.at
 oma-gisis-german-bakery.com
 oma-global.com
@@ -7558,6 +7565,7 @@ soumilionario.com
 soumilitar.club
 soumilitar.com.br
 soumilitar.online
+soumiljain.com
 soumille.com
 soumille.net
 soumilll.com
@@ -8162,6 +8170,7 @@ suomenkoulupalvelu.com
 suomenkourumestarit.fi
 suomenkulta.com
 suomenkulta.info
+suomenkultak1ekko.info
 suomenkultakiekko.info
 suomenkuntotarkastustalo.com
 suomenkurssi.com
@@ -8267,8 +8276,10 @@ suomenstartup.com
 suomenstartupi.com
 suomensurrealistit.net
 suomensuurinlastenfestivaali.com
+suomentalousosaamisenkeskusliitto.fi
 suomentalousuutiset.blog
 suomentanssitapahtumat.com
+suomentarjo.us
 suomentarjous.com
 suomentarjouspalvelu.com
 suomentarjoussite.com
@@ -8666,6 +8677,7 @@ suomii.sbs
 suomii.site
 suomii.xyz
 suomiibrilliantballs.com
+suomiicefish.win
 suomiifi.site
 suomiinencorp.com
 suomiinline.com
@@ -10439,6 +10451,7 @@ vero-ss.com
 vero-ss.net
 vero-ss.shop
 vero-ss.store
+vero-step.com
 vero-stile.com
 vero-store.com
 vero-store.store
@@ -10495,6 +10508,7 @@ vero-vital.com
 vero-vital.net
 vero-vivida-herbals.com
 vero-voluptatum.site
+vero-walk.com
 vero-wantia.de
 vero-wealth.com
 vero-well.com
@@ -10680,6 +10694,7 @@ visitsuomi.fi
 visitsuomi.net
 visma-kirjaudu.com
 vistasfinland.com
+visuometer.com
 visuomis.com
 vitamiinipankki.online
 vittaro-helsinki.com
@@ -10930,6 +10945,7 @@ xn--kasino-ilman-suomen-lisenssi-xnc.com
 xn--kasino-ilman-suomi-lisenssi-1kc.com
 xn--kasinoilmanrekisterinti-i8b95b.com
 xn--kasinoilmanrekisteritymist-5hc01c.com
+xn--kasinoilmanrekisteritymist10e-qqc46c.com
 xn--kasinot-ilman-rekisteritymist-tqc46c.org
 xn--kasinot-ilman-suomen-lisenssi-tqc.com
 xn--kasinot-ilman-suomen-lisenssi-tqc.net
