@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 23/12/2025 08:00 UTC
+# Last modified: 24/12/2025 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -796,6 +796,7 @@ buildabearsuomi.com
 buildfinland.com
 bularo-helsinki.com
 buoyj.com
+burancasino-finland.com
 burgonandballsuomi.com
 burroughs-fortum.com
 business-consults-suomi.com
@@ -2341,6 +2342,7 @@ goingtofinland.com
 golasuomi.com
 gold-finland-89.today
 goldfinland.com
+goldgallerymasoumi.com
 goldstarmobilepay.xyz
 golfworldfinland.net
 golfworldfinland.org
@@ -4349,6 +4351,7 @@ kutyavalvonaton.hu
 kuulutusrekisteri.com
 kuulutusrekisteri.net
 kuumahelsinki.com
+kuusamontalonmiespalvelu.com
 kuvapalvelu.com
 kuvauspalvelurintala.com
 kuwaitmobilepay.com
@@ -4460,6 +4463,7 @@ le-creusot-insoumis.fr
 leadsifyasiakas.com
 leadsifysuomi.com
 lecfinland.art
+lechatsoumis.com
 ledger-suomi.com
 leena-helsinki.com
 lefootballinsoumis.com
@@ -4965,6 +4969,7 @@ minilovefinland.com
 miningfinland.xyz
 mininghelsinki.xyz
 minna-helsinki.com
+minordeals.com
 minorityhelsinki.com
 minthelsinki.xyz
 mintoo-helsinki.com
@@ -5142,6 +5147,7 @@ mobilepaydanmerk.online
 mobilepaydenmarks.online
 mobilepayding.com
 mobilepaydirect.com
+mobilepaydk.app
 mobilepaydk.link
 mobilepaydk.net
 mobilepaye.com
@@ -6249,6 +6255,7 @@ palvelupirtti.com
 palvelupisara.com
 palvelupro.com
 palvelurakennetrauma.com
+palvelus.com
 palvelusaatopanki.site
 palvelut.fi
 palvelut.online
@@ -7137,6 +7144,7 @@ sasiakash.online
 saspalvelut.com
 sassoumiracles.com
 sastamalanpalvelukiinteistot.fi
+sastamalantaksipalvelu.fi
 sataturva.online
 satisfyrunningsuomi.com
 satorifinland.fi
@@ -7231,6 +7239,7 @@ sequencerfinland.xyz
 sequencerhelsinki.xyz
 serenityopal.com
 serenityopals.com
+serverfinlandia19.net
 servicehelsinki.com
 sesuomined.mom
 setarehmasoumi.com
@@ -8147,6 +8156,7 @@ suomenkaihdincenter.com
 suomenkaihdinkeskus.com
 suomenkaista.online
 suomenkansaensin.fi
+suomenkansalaisuuskoe.com
 suomenkansanterveysyhdistys.fi
 suomenkartanot.com
 suomenkasinoarvostelut.com
@@ -8358,8 +8368,10 @@ suomi-bonus.online
 suomi-casino.online
 suomi-chic.com
 suomi-choose.com
+suomi-connect.com
 suomi-delta.com
 suomi-design-works.com
+suomi-digital.com
 suomi-ebox.com
 suomi-eboxe.com
 suomi-eboxs.com
@@ -8416,6 +8428,7 @@ suomi-kokemuksia.com
 suomi-linkki.life
 suomi-linkki.top
 suomi-lumoava.com
+suomi-market.com
 suomi-myfi.info
 suomi-neito.com
 suomi-nettikasinot.com
@@ -8423,6 +8436,7 @@ suomi-oma.com
 suomi-omkanta.com
 suomi-online.com
 suomi-online.icu
+suomi-onlineok.com
 suomi-palveluja.com
 suomi-palvelun.site
 suomi-palvelut-fi.com
@@ -8439,6 +8453,7 @@ suomi-ratings.com
 suomi-ratings.store
 suomi-rekisterointi.info
 suomi-select.com
+suomi-services.com
 suomi-shop.ru
 suomi-sports.com
 suomi-suomen.site
