@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 24/12/2025 08:00 UTC
+# Last modified: 25/12/2025 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -864,6 +864,7 @@ casinofinland.games
 casinofinland.site
 casinofinlandtop.com
 casinohelsinki.club
+casinohelsinki.icu
 casinohelsinki.online
 casinohelsinki24.com
 casinohelsinkihotel.com
@@ -1895,6 +1896,7 @@ finlandia.co
 finlandia.fr
 finlandia.org.br
 finlandia.org.es
+finlandiacasino.icu
 finlandiacasino.net
 finlandiacircular.com
 finlandiaonline.ru
@@ -3865,6 +3867,7 @@ itamerensuomi.net
 itasuomifrontend.xyz
 itjobfinderfinland.digital
 itnfinland.info
+itohelsinki.org
 itpalvelutjuntunen.com
 iuoyj.icu
 ivanahelsinki.fi
@@ -9715,6 +9718,7 @@ travelandtastefinland.com
 travelekstrafinland.com
 travelexpertgroupfinland.com
 travelfinland.net
+travelfinland.ru
 travelfinland.shop
 travelinfinland.net
 travero-pm.com
