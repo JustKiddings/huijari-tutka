@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 25/12/2025 08:00 UTC
+# Last modified: 26/12/2025 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -687,6 +687,9 @@ bidsoumissionauction.com
 bigbassbonanza1000-finland.com
 bigbassbonanza1000-finland.net
 bigbassbonanza1000-finland.org
+bigboost-suomi.com
+bigboostfinland.com
+bigboostsuomi.com
 bigchancesuomi.com
 bigluckysuomi.com
 bikbokfinland.com
@@ -915,6 +918,7 @@ centralfinland.org
 centralhelsinki.xyz
 centrovero-suites.gr
 cerule-finland.com
+cervero-therapeutics.com
 cevan-helsinki.com
 cfmotofinland.eu
 cfxfinland.today
@@ -1070,6 +1074,7 @@ cossuomi.com
 costadelmarsuomi.com
 cotopaxisuomi.com
 cottagefinland.com
+couponordealz.com
 courtyardtamperecityfinland.com
 covero-baufinanzierung.de
 covero-gmbh.com
@@ -1557,6 +1562,7 @@ eogaeafernandfinland.shop
 epicenterhelsinki.org
 epicfinland.com
 epicsuomi.com
+epinjam-kantahbinjai.com
 epoxysoumission.com
 eqjfinland.info
 era-ja-kalastuspalvelut-suomi-oy.com
@@ -3413,6 +3419,7 @@ helsinkiweather.info
 helsinkiweb.xyz
 helsinkiweb3.xyz
 helsinkiweekend-ui15.top
+helsinkiweekly.com
 helsinkiwhale.xyz
 helsinkiwhisper.com
 helsinkiworks.com
@@ -4248,6 +4255,7 @@ kivipankki.com
 kizuna-helsinki.com
 kizunahelsinki.com
 kkpapulaispalvelut.com
+kleinordeangedir.top
 klendrixomavero.org
 klovo-helsinki.com
 klvpalvelu.fi
@@ -5005,6 +5013,7 @@ mnaoyj.info
 mngfinland.online
 mnsuomessa.com
 mobiiepaysuomifi.com
+mobiiili-s-pankki-fi.com
 mobiil1xbet.com
 mobiile-kampanja-s-pankki-fi.com
 mobiili-app.com
@@ -5426,6 +5435,7 @@ naistenterveys.com
 naistenurheiluasut.com
 naistenvalmiusliitto.com
 naisyrittajatsuomi.com
+nakedsportsinnovationsfinland.com
 nakedwolfefinland.com
 naluhelsinki.com
 namhelsinki.fi
@@ -5876,6 +5886,7 @@ oma-holdings.com
 oma-home.ru
 oma-hub.com
 oma-insurance.com
+oma-irma.com
 oma-kanta.help
 oma-kanta.icu
 oma-kantapalvelut.com
@@ -6180,6 +6191,7 @@ osuuspankki-fi.com
 osuuspankki-fi1.com
 osuuspankki2.com
 osuusyrpankki.com
+otsecfinland.com
 ottokasinosuomi.com
 oukitel-finland.eu
 oulujarvenmetsapalvelu.com
@@ -6430,6 +6442,7 @@ pink-palm-puff-suomi.com
 pinklemonfinland.com
 pinkosuomisale.com
 pinkpalmpuff-finland.com
+pinkpalmpuff-suomi.com
 pinkpalmpufffinland.com
 pinkpalmpuffssuomi.com
 pinkpalmpuffsuomi.com
@@ -7460,6 +7473,7 @@ solovapesuomi.com
 solutionssoumissionsentrepreneurs.com
 somervillefinland.com
 soniasoumise.online
+sonnyangelsuomi.com
 soodapuhalluspalvelu.online
 sorafinland.com
 sorel-helsinki.com
@@ -7734,6 +7748,7 @@ soumissionsrevetementinterieur.ca
 soumissionssaguenay.ca
 soumissionssherbrooke.ca
 soumissionssuccession.ca
+soumissionstravauxquebec.com
 soumissionstrois-rivieres.ca
 soumissionsystemedalarme.com
 soumissiontattoo.com
@@ -7932,6 +7947,7 @@ stanleyssuomi.com
 stanleysuomi.com
 starburst-game-finland.site
 starcomfinland.com
+starjokersuomi.com
 starsplaysuomi.com
 startupsuomi.org
 starzonefinland.net
@@ -8672,6 +8688,7 @@ suomifymedia.com
 suomigambit.com
 suomigambleportal.com
 suomigame.com
+suomigamepotgrid.games
 suomigameswin.com
 suomigaming.com
 suomigaminggroup.com
@@ -8867,6 +8884,7 @@ suomipirtti.org
 suomipizza.com
 suomiplanetefi.com
 suomiplay.live
+suomiplaymap20.games
 suomiplaymate.com
 suomiplays.com
 suomiply.com
@@ -8905,6 +8923,7 @@ suomiresortcasino.com
 suomiretketapp.click
 suomiretunfi.com
 suomireview.com
+suomirollindex.games
 suomis-mass.com
 suomis.com
 suomis777.com
@@ -8964,6 +8983,7 @@ suomispinhub.com
 suomispinit.com
 suomispinnas.com
 suomispinners.com
+suomispinrank25.games
 suomispins.net
 suomisportshop.com
 suomisportsshop.com
@@ -9094,6 +9114,7 @@ suomiweb.site
 suomiwin.com
 suomiwin24.com
 suomiwinfi.com
+suomiwinmeter40.games
 suomiwinner.com
 suomiwinzone.com
 suomiwonder.xyz
@@ -9392,6 +9413,7 @@ terveystalox.info
 terveystarkastus-korso.net
 terveystase.com
 terveystiedonabc.com
+terveystuote.com
 terveysvaikutukset.com
 terveysvaikutukset.net
 terveysvaikutukset.org
@@ -11163,6 +11185,7 @@ zorada-helsinki.com
 zorello-suomi.com
 zrtfinland.org
 zsuominehx.coupons
+zuborapapa-kantanikuji.com
 zuoyj.com
 zuoyj.top
 zuxe-helsinki.com
