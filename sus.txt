@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 26/12/2025 08:00 UTC
+# Last modified: 27/12/2025 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -941,6 +941,7 @@ charterservicehelsinki.com
 chat-gpt-suomi.com
 chatfinland.com
 chatfinland.xyz
+chathelsinki.com
 chatsuomi.com
 chatturvate.com
 chaturvate.cam
@@ -3149,6 +3150,7 @@ helsinkifinancenews.today
 helsinkifinancial.com
 helsinkifinds.com
 helsinkifinland.buzz
+helsinkifinlandguide.com
 helsinkifl.online
 helsinkiflow.com
 helsinkifoodguide.com
@@ -4055,6 +4057,7 @@ kamppihelsinkii.com
 kamranmassoumi.com
 kansalaiset-omakanta.com
 kansallinenturvallisuus.com
+kansan-pankki.com
 kansanpankki.com
 kanta-suomi.com
 kanta-viesti.info
@@ -4094,6 +4097,7 @@ kasinoilmanrekisteroitymista.io
 kasinoilmanrekisteroitymistajalisenssia.com
 kasinoilmansuomenlisenssia.com
 kasinoilmansuomenlisenssia.net
+kasinomobiili.net
 kasinopankkitunnuksilla.com
 kasinopelitsuomi.com
 kasinosuomessa.com
@@ -4216,6 +4220,7 @@ kinderautos-suomi.shop
 kinderuhren-suomi.shop
 kingdomoffinland.com
 kingoffinland.com
+kingstonsuomi.com
 kipling-suomi-fi.com
 kiplingbagssuomi.com
 kiplinglaukutsuomi.com
@@ -4600,6 +4605,7 @@ london-finland-train-tour-deals.sbs
 london-helsinki-train-holiday-deals.today
 long-champ-suomi.com
 long-champsuomi.com
+longchampfinland-fi.com
 longchampfinland.top
 longchamplaukkusuomi.com
 longchampsuomi.com
@@ -5840,6 +5846,7 @@ oma-costruzioni.com
 oma-crm.com
 oma-deo.ru
 oma-design-group.com
+oma-designs.com
 oma-dm.cn
 oma-doris.com
 oma-doris.de
@@ -6102,6 +6109,7 @@ onlinedatingfinland.today
 onlinegamefinland.com
 onlinehelsinki.xyz
 onlinekontakti-suomi.site
+onlinemobilepaydirectnow.com
 onlinepalvelu-suomi.site
 onlinesmobiili-fl.com
 onlinespankki.com
@@ -6296,6 +6304,7 @@ pankki-fi-kampanja.com
 pankki-s-pankki-kampanja.com
 pankki.nl
 pankki.services
+pankkiapptuki-fi.net
 pankkiasiakas.net
 pankkietu-fi-kampanja.com
 pankkii.run
@@ -6829,6 +6838,7 @@ reebokfinland.com
 reelsuomi.com
 reflexions-echanges-insoumis.org
 regattaoutdoorssuomi.com
+regenhelsinki.com
 reipas-finland.com
 rekisterointi-nyt.com
 rekisteroitymisbonus.com
@@ -9108,6 +9118,7 @@ suomiview.com
 suomiviihde.com
 suomivoitotfi.com
 suomivoitotfin.com
+suomivoitto.info
 suomivoyages.com
 suomiweb.online
 suomiweb.site
@@ -9916,6 +9927,7 @@ turvat.com
 turvataksi.com
 turvataksi.net
 turvatarvike.com
+turvatassu.fi
 turvataxi.com
 turvataxi.net
 turvatehno.net
@@ -10668,6 +10680,7 @@ viestit-suomifi.info
 viestit-suomifi.site
 viestit.info
 viestitse-suomi.site
+vifonsuomi.com
 viguzo-helsinki.com
 viihdesuomi.com
 viikinautohuolto.com
@@ -10908,6 +10921,7 @@ wptafinland.com
 wpufinland.cyou
 wrappedfinland.xyz
 wrappedhelsinki.xyz
+wrsuomi.com
 wulawulaoyj.com
 wwnordea.com
 www-elisa-fi.site
