@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 27/12/2025 08:00 UTC
+# Last modified: 28/12/2025 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -824,6 +824,7 @@ cacisuomi.com
 cafeberryhelsinki.com
 caffearomavero.com
 cafinland.fi
+calorieactive-suomi.com
 calzedoniafinland.com
 calzedoniafinland.top
 camelactivesuomi.com
@@ -1135,6 +1136,7 @@ cvturvattua.xyz
 cwcfinland.com
 cwtfun247finland.site
 cyberhelsinki.xyz
+cybersuomi.com
 cyclinginfinland.com
 cypherhelsinki.xyz
 cysmobilepay.com
@@ -1406,6 +1408,7 @@ e-suomifi.site
 e-viestit.site
 eakoulutuspalvelu.com
 eaoyj.cn
+earebelsuomi.com
 earthbrotherfinland.com
 easpringfinland.com
 eastern-finland.com
@@ -1884,6 +1887,7 @@ finlandflower.com
 finlandfoward.com
 finlandfractional.xyz
 finlandfractionalize.xyz
+finlandfreeslots.com
 finlandfutures.com
 finlandfx.xyz
 finlandgamblingtips.com
@@ -1934,6 +1938,7 @@ finlandlink.xyz
 finlandliquid.xyz
 finlandloan.xyz
 finlandlrt.xyz
+finlandmanepali.fi
 finlandmap.xyz
 finlandmask.xyz
 finlandmasters.com
@@ -1960,6 +1965,7 @@ finlandopen.xyz
 finlandpass.com
 finlandpay.xyz
 finlandpi.com
+finlandplaces.online
 finlandpool.xyz
 finlandporn.xyz
 finlandpothpiyasa.com
@@ -2309,6 +2315,7 @@ gewfinland.com
 ggbet-finland.com
 ggbet-finland.net
 ggbet-suomi.com
+ggbetfinland.com
 ggbett-finland.com
 ghanikehonhuolto.com
 ghdsuomi.com
@@ -3846,6 +3853,7 @@ iptvsuomi.site
 iptvsuomi.store
 iptvsuomi.vip
 iptvsuomi.xyz
+iptvsuomi4k.com
 iptvsuomi4k.shop
 iptvsuomi8k.com
 iptvsuomilive.com
@@ -4018,6 +4026,7 @@ kaitesifinland.com
 kaivinkonepalvelut.com
 kajfinland.info
 kalajoenkotipalvelu.fi
+kalevanautopalveluhelsinki.com
 kamagra-finland247.com
 kamagra-finland247.store
 kamagra-suomi.com
@@ -4372,6 +4381,7 @@ kuvapalvelu.com
 kuvauspalvelurintala.com
 kuwaitmobilepay.com
 kyafinland.shop
+kybersuomi.com
 kyberterveyskeskus.com
 kyberterveyskeskus.info
 kymmenensuomi.com
@@ -5026,6 +5036,7 @@ mobiili-app.com
 mobiili-elaakkeella.com
 mobiili-elakkeela.com
 mobiili-elakkeella.com
+mobiili-elakkella-fi.com
 mobiili-fi-kampanja.com
 mobiili-fi-spankki.com
 mobiili-kammpanja-fi.com
@@ -5739,6 +5750,7 @@ novellohelsinki.com
 novero-automotive.com
 novero-lamp.ru
 novero-lamp.store
+novibetfinland.com
 nrityopachara.com
 nshotelornfinland.com
 nsrfinland.coupons
@@ -5959,6 +5971,7 @@ oma-s-house.blog
 oma-sabaslots.site
 oma-sage-landes.com
 oma-sambal.com
+oma-sarl.com
 oma-scp.com
 oma-server.site
 oma-seuranta.net
@@ -6085,6 +6098,7 @@ oneillsuomi.com
 oner-activefinland.com
 oneractivesuomi.net
 onilne-s-pankki-fi.com
+onitsukatigersuomi.com
 onitsukatigersuomi.net
 onjfinland.makeup
 online-bank-accounts-for-finland.today
@@ -6121,6 +6135,7 @@ onlineyhteys-suomi.site
 onlyfanssuomi.com
 onlyinfinland.com
 onlysmilesuomi.com
+onlysuomifans.fi
 onpointsiivouspalvelut.com
 onrunnersfinland.com
 onrunningsalesuomi.com
@@ -6401,6 +6416,7 @@ personal-loans-finland.today
 personal-loans-prfinland.bond
 perusterveydenhuolto.fi
 pesapalvelut.com
+pessacinsoumise.fr
 pesupalvelupojat.com
 peswinturva.com
 petermillarsuomi.com
@@ -7231,6 +7247,7 @@ searchfinland.xyz
 searchhelsinki.xyz
 seathuolto.online
 secludedpaternityopal.shop
+secondhand-vintage-suomi-kartta.com
 secondhomefromfinland.com
 secondstylefinland.com
 secto-rallyfinland.com
@@ -7393,6 +7410,7 @@ skulpturen-suomi.shop
 skyworthfinland.com
 sleeplessfinland.com
 slhuolto.fi
+slimanol-suomi.com
 slipperhelsinki.com
 slot-casino-finland.shop
 slot-free-finland.site
@@ -7490,11 +7508,13 @@ sorel-helsinki.com
 sorelsuomi.net
 sorvauspalvelu.com
 sosehelsinki.com
+sosiaalipalvelut.com
 sosiaalisetpelitsuomi.games
 sossoumissionchimique.com
 sossoumissionchimique.fr
 sossoumissionchimique.org
 sosterpalvelut.fi
+sottyopath.xyz
 soumi-fi2.sbs
 soumi-linkki.life
 soumi-online.sbs
@@ -7530,6 +7550,7 @@ soumiao.net
 soumiasfit.com
 soumiashop.com
 soumiashop.shop
+soumiatedj.com
 soumiatique.com
 soumiauto.com
 soumiavoyage.com
@@ -7817,6 +7838,7 @@ soumiyajalal.art
 soumizhibo-hd-qq.com
 soumizhibo-qq.com
 soundcorefinland.com
+soundcoressuomi.com
 soundcoresuomi.com
 sousoumi.gr
 sousuomi.com
@@ -9684,6 +9706,7 @@ trafconsults.com
 trafcoo.store
 trafcopalvelu.com
 trafcor.com
+trafcore.cc
 trafcore.io
 trafcore.online
 trafcoser.biz
@@ -10383,6 +10406,7 @@ vero-hr.top
 vero-hurtadolozada.com
 vero-i-nika.ru
 vero-ia.com
+vero-industrie.com
 vero-interactive.com
 vero-interiors.com
 vero-io.com
@@ -10753,6 +10777,7 @@ visuomis.com
 vitamiinipankki.online
 vittaro-helsinki.com
 vivahvishwakarma.com
+vivahvisions.com
 vivahvista.com
 vivahvistaar.com
 vivahvisual.com
