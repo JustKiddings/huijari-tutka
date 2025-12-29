@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 28/12/2025 08:00 UTC
+# Last modified: 29/12/2025 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -13,6 +13,7 @@
 10xfinland.fi
 123finland.xyz
 12tapaapilatahelsinki.net
+1finlanddna.top
 1go-casino-suomi1.ru
 1go-casino-suomi2.ru
 1go-casino-suomi3.ru
@@ -121,6 +122,7 @@ af-buymakantan.com
 afinland.top
 afriqueinsoumise.com
 aft-finland.com
+agavero-mx.com
 agenthelsinki.xyz
 agentichelsinki.xyz
 agentsfinland.xyz
@@ -593,6 +595,7 @@ barsoumiandesign.com
 base64finland.org
 basedfinland.com
 baskerit-suomi.shop
+bassbetsuomi.com
 bassoumi.com
 bastu-suomi.com
 bastviestate.com
@@ -753,6 +756,7 @@ book-cruises-from-helsinki.today
 bookingtaxi-finland.com
 bookinkfinland.com
 boomkarhufinland.com
+boostcasinosuomi.com
 boostmobilepay.com
 boostmobilepayment.com
 booyj.com
@@ -877,6 +881,7 @@ casinoprankfinland.com
 casinos-suomi.com
 casinosfinderssuomi.com
 casinosinfinland.com
+casinoslotssuomi.com
 casinosuomi.click
 casinosuomi.net
 casinosuomionline.com
@@ -1076,6 +1081,7 @@ cossuomi.com
 costadelmarsuomi.com
 cotopaxisuomi.com
 cottagefinland.com
+cottageinfinland.com
 couponordealz.com
 courtyardtamperecityfinland.com
 covero-baufinanzierung.de
@@ -1379,6 +1385,8 @@ drmasoumipetclinic.ir
 drmehdimasoumi.com
 drmirmasoumi.com
 drmohsenmasoumi.com
+drnsfinland.com
+drnsfinland.org
 dronehuolto.com
 dronepalvelu.com
 dronepalvelut.com
@@ -1675,6 +1683,7 @@ fadimanfellnerfinland.art
 fairtexfinland.com
 falch-finland.com
 falkesuomi.com
+fambet-finland.com
 fambet-finland.net
 famefinland.com
 fanclubfinland.com
@@ -2421,6 +2430,7 @@ h2suomi.com
 h2suomi.org
 haakuvaaja-helsinki.com
 habfinland.one
+hadrisoumia.com
 haefinland.org
 haimoonmoottorihuolto.com
 hairtodaysuomi.com
@@ -3480,6 +3490,7 @@ hihelsinki.com
 hiihtokoulusuomi.com
 hiisi-lodges-yllas-finland.com
 hillasuomi.com
+hillocasinosuomi.com
 hiltmann-fortum.com
 hinauspalvelu-moilanen.com
 hinauspalvelu.website
@@ -3691,6 +3702,7 @@ igamingfinland.com
 igloohotelfinland.com
 igmobilepaylater.com
 igni-finland.casino
+ignicasino-suomi.com
 ihnfinland.info
 ihor-finland.net
 ihzfinland.icu
@@ -4678,6 +4690,7 @@ lululemonsuomishop.com
 lulusuomi.net
 lumi-helsinki.com
 lumicasino-finland.com
+lumicasino-suomi.com
 lumihelsinki.com
 luminaarahelsinki.com
 lumivero-elc.app
@@ -4906,6 +4919,7 @@ memehelsinki.xyz
 meredithoffinland.com
 mereellshelsinki.com
 mereellsuomiale.com
+merenneidontie26e02320espoofinland.com
 merimerisuomi.com
 merkurpankki.net
 merrell-suomi.org
@@ -5035,6 +5049,7 @@ mobiile-kampanja-s-pankki-fi.com
 mobiili-app.com
 mobiili-elaakkeella.com
 mobiili-elakkeela.com
+mobiili-elakkeella-kampanja-fi.com
 mobiili-elakkeella.com
 mobiili-elakkella-fi.com
 mobiili-fi-kampanja.com
@@ -5626,6 +5641,7 @@ ninjasuomi.com
 ninkifinland.com
 nisantasiegitimkulturvakfi.online
 nitro-finland.com
+nitrocasinosuomi.com
 nivakpankki.com
 nivalvonen.com
 nk-finland.com
@@ -5661,6 +5677,7 @@ nopeapankki.com
 nopeasuomipalvelu.online
 nopeatpelipalvelut.info
 nordea-apartments.com
+nordea-fi.com
 nordea-fii.com
 nordea-fin.com
 nordea-id.com
@@ -5862,6 +5879,8 @@ oma-designs.com
 oma-dm.cn
 oma-doris.com
 oma-doris.de
+oma-ela-kocht.cloud
+oma-ela-kocht.online
 oma-electrical.com
 oma-ema.shop
 oma-email.site
@@ -6093,6 +6112,7 @@ on-cloud-finland.com
 onchainfinland.com
 onchainfinland.xyz
 one-mobilepayments.online
+onecasino-suomi.com
 onegamesfinland.com
 oneillsuomi.com
 oner-activefinland.com
@@ -6244,6 +6264,7 @@ padelhousefinland.com
 padelsuomi.com
 pafcasino-finland.com
 pafcasino-suomi.com
+pafcasinofinland.com
 paijanteenelamyspalvelut.com
 painonpudotussuomi.com
 paintinghelsinki.com
@@ -6590,6 +6611,7 @@ portfoliosoumik.shop
 porvoonmuuttopalvelu.com
 porvoonpalvelutalo.store
 posidosuomi.com
+possucasino-suomi.com
 possucasinosuomi.com
 posti-fi.com
 posti-fi.life
@@ -6925,6 +6947,7 @@ rivero-rp.online
 rivero-rp.ru
 rivero-rp.space
 rivero-studios.com
+rizkcasino-suomi.com
 rmvfinland.lol
 roadtofinland.com
 roamfinland.com
@@ -7420,6 +7443,7 @@ slothunter-suomi.com
 slotsgemfinland.com
 slotspalace-suomi.com
 slotspalacesuomi.com
+slotssuomi.com
 slotsuomi.com
 slotsvaderbonusfinland.com
 slotterfinland.com
@@ -7816,6 +7840,7 @@ soumitradutta.org
 soumitraduttany.com
 soumitrafurniture.com
 soumitrakanungo.com
+soumitrakonar.me
 soumitralab.com
 soumitrasaha.com
 soumitrasarkar.com
@@ -9366,6 +9391,7 @@ terveydenhoitopalvelut.com
 terveys-apteekki.com
 terveys.cc
 terveys.eu
+terveys.my.id
 terveys.shop
 terveysakatemia.blog
 terveysapteekki.com
@@ -9460,6 +9486,7 @@ testi-mobiilipunnitus.com
 testivoittaja-terveys.com
 tetsuomi.com
 tetsuomizu.com
+teveo-suomi.com
 teviestates.com
 texasholdemfinland.com
 tezenis-finland.com
