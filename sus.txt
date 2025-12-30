@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 29/12/2025 08:00 UTC
+# Last modified: 30/12/2025 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -484,6 +484,7 @@ authfinland.xyz
 authhelsinki.xyz
 authorokothowityopap.com
 auths-pankki.com
+autoasennuspalvelu.com
 autofinland.xyz
 autofixhelsinki.com
 autohuolto-hameenkyro.fi
@@ -847,6 +848,7 @@ carawayfinland.info
 carawayfinland.mobi
 carawayfinland.org
 carcapsulefinland.com
+careercornerfinland.com
 carharttfinland.com
 carpediemvero-24.com
 cartiersuomi.net
@@ -2542,6 +2544,7 @@ helsinki-blkaft-aabb.info
 helsinki-card.com
 helsinki-casin0.website
 helsinki-copenhagen-cruise-package-fi.sbs
+helsinki-dating.site
 helsinki-dire-xaaa.info
 helsinki-dire-xaab.info
 helsinki-dire-xaac.info
@@ -3939,6 +3942,7 @@ jarvipalvelut.fi
 jasderutyopaset.click
 jathaviestates.com
 jatkokoulutuspalvelu.com
+javero-servicos.cfd
 jblfinland.com
 jblsuomi.com
 jbpalvelut.online
@@ -5226,6 +5230,7 @@ mobilepaymentaustralia.online
 mobilepaymentcanonical.xyz
 mobilepaymentcart.xyz
 mobilepaymentcasino-uk.top
+mobilepaymentcasino.com
 mobilepaymentexchange.com
 mobilepaymentfunneldesign.xyz
 mobilepaymentfunnelfast.xyz
@@ -6213,9 +6218,11 @@ ornavero-ry.com
 ororowearsuomi.com
 orozo-helsinki.com
 ortodentus.se
+ortomed-finland.com
 ortotalofinland.com
 orvero-product.xyz
 oscarbluesuomi.com
+osku-lahipalvelut.fi
 oslo-helsinki-coach-tour-package-no.sbs
 oslo-helsinki-train-tour-package-offers.today
 oslo-helsinki-train-tour-packages-no.sbs
@@ -6962,6 +6969,7 @@ rockrothsuomi.com
 rockysuomi.com
 rollupfinland.xyz
 rolluphelsinki.xyz
+rolmako-finland.com
 roobet-finland.com
 roomhelsinki.com
 ropofinland.com
@@ -8095,6 +8103,7 @@ suojattu-yhteys-s-pankki-fi.com
 suome.cn
 suomeabonus.com
 suomeca.cn
+suomedia.net
 suomee.com
 suomeenmatkustaminen.com
 suomeh.com
@@ -10297,6 +10306,7 @@ verkkopankkiin-fi.site
 verkkopankkiin.site
 verkkopankkikasinot.com
 verkkosaastopanki.site
+verkkosivupalvelut.fi
 verkkoturva.com
 verkkoyhteydet-suomi.site
 verkkoyhteys-suomi.site
@@ -10892,6 +10902,7 @@ warehousepackingagenciesinhelsinki375882.icu
 warehousesystemspackaginghelsinki109267.icu
 warmflaschen-suomi.shop
 warmhearthfinland.com
+wartaviesta.id
 wartaviesta.info
 wasborninhelsinkifinlandondecemberhesonofjournalist.cfd
 waterfinland.com
@@ -11087,6 +11098,7 @@ xn--nettikasinotilmanrekisteritymist-hzc81d.ninja
 xn--nettikasinotilmansuomilisenssi-ptc.com
 xn--pelitilmanrekisteritymist-9ec29b.com
 xn--polnesuomi-16a.com
+xn--portalnoticias-vero-dwb.com
 xn--porvookiinteisthuolto-vec.com
 xn--premios-vero-dcb.online
 xn--promoo-vero-d8af3c.site
