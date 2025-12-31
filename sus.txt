@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 30/12/2025 08:00 UTC
+# Last modified: 31/12/2025 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -498,6 +498,7 @@ autohuoltopasila.fi
 autohuoltoss.fi
 autohuoltow.fi
 autojakonehuolto.com
+autokorjaamohelsinki.com
 autolasipalvelu.com
 autolasipalvelu.net
 autolasipalvelu.org
@@ -1982,6 +1983,7 @@ finlandporn.xyz
 finlandpothpiyasa.com
 finlandpro.xyz
 finlandpublic.xyz
+finlandquality.uk
 finlandquantum.xyz
 finlandquick.xyz
 finlandrehabs.com
@@ -2128,6 +2130,7 @@ fortum-impact.com
 fortum-main.com
 fortum-no.com
 fortum-stainton.com
+fortum-vip.shop
 fortum.agency
 fortum.live
 fortum.lu
@@ -3319,6 +3322,7 @@ helsinkipersonaltrainer.com
 helsinkiphilharmonicorchestra.berlin
 helsinkiphilharmonicorchestra.tech
 helsinkiphilharmonirchestra.tech
+helsinkiphotography.com
 helsinkiphotos.com
 helsinkipiercing.com
 helsinkipizza.com
@@ -3850,6 +3854,7 @@ iptvfinland.site
 iptvfinland.store
 iptvfinland.tv
 iptvfinland4k.com
+iptvfinlande.com
 iptvsuomessa.com
 iptvsuomi-fi.org
 iptvsuomi-fi.store
@@ -4054,6 +4059,7 @@ kampanja-fi-mobiili.com
 kampanja-fi-mobiilifi.com
 kampanja-fi-s-pankki.com
 kampanja-fi-s-pankkifi.com
+kampanja-fi-smobiili.com
 kampanja-fi-spankki.com
 kampanja-fimobiili.com
 kampanja-fispankki.com
@@ -6463,6 +6469,7 @@ phautohuolto.com
 phfinland.com
 philipppleinsuomi.com
 pholmahelsinki.com
+phosaigonhelsinki.com
 photofinland.com
 pi-medical-finland.com
 pia-palvelut.com
@@ -7877,6 +7884,7 @@ sousoumi.gr
 sousuomi.com
 southern-finland.com
 southern-finlands-156097653.click
+southernfinland.institute
 southfinland.com
 soviestates.com
 sozialfond-elisabethenpark.ch
@@ -10195,6 +10203,7 @@ valuefinland.xyz
 valuefortummy.com
 valuehelsinki.xyz
 valuthelsinki.com
+valvero-app.com
 valvon.site
 valvonacrolla-online.co.uk
 valvondan.com
@@ -10388,6 +10397,7 @@ vero-dev.com
 vero-diseno.com
 vero-doloribus.site
 vero-doors.com
+vero-drink.com
 vero-drive.ch
 vero-drive.com
 vero-dublin.com
@@ -10956,6 +10966,7 @@ winsharkbonusfinland.com
 wintersuomi.games
 winzonefinland.com
 wishwin-finland.com
+witold-elisa.com
 wivaro-helsinki.com
 wkgfinland.info
 wlnner-finland.com
