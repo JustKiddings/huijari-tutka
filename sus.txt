@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 31/12/2025 08:00 UTC
+# Last modified: 01/01/2026 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -200,6 +200,7 @@ ajosuomi.com
 ajoterveystarkastus.com
 ajovarma-kirjaudu.com
 ajovarma-suomi.com
+ajovarma-tunnistautuminen.com
 ajovarmaoyj.com
 ajovarnaoyj.com
 akahuolto.fi
@@ -763,6 +764,7 @@ boostmobilepay.com
 boostmobilepayment.com
 booyj.com
 borenpalvelu.com
+bose-suomi.com
 boshoryfinland.com
 botfinland.xyz
 bothelsinki.xyz
@@ -870,6 +872,7 @@ casino-mobilepay-danske.com
 casino-suomi.net
 casino-welcome-bonus-finland.shop
 casino360finland.com
+casinobonusfinland.com
 casinodayssuomi.com
 casinofinland.games
 casinofinland.site
@@ -960,6 +963,7 @@ cherche-femme-soumise.com
 chetvero-protiv-banka.ru
 chfinland.fi
 chi-finland.com
+chickenfinland.life
 chickenroadhelsinkiside.com
 chicntrafco.run
 chiksuomi.win
@@ -987,6 +991,7 @@ ckmfinland.fi
 clarityrpsuomi.com
 clarkseusuomi.com
 clarksshoesfinland.com
+clarkssuomifi.com
 clarkssuomis.com
 clavero-consulting.com
 cleanhelpfinland.com
@@ -1531,6 +1536,7 @@ elkkeella-spankki.com
 elkkeellas-pankki.com
 elkkella-spankkikampanja-fi.com
 elkkellaspankkikampanjafii.com
+ellahelsinki.fi
 elmiestenlodgeensear.fun
 elnaturalistafinland.com
 elnortefinland.com
@@ -1795,6 +1801,7 @@ finestsuomi.com
 finewinefinland.com
 finishitfinland.com
 finland-account.ru
+finland-casino.online
 finland-deal.com
 finland-expat.com
 finland-fuel.com
@@ -1820,6 +1827,7 @@ finland.org.tr
 finland0x.xyz
 finland77.xyz
 finlanda.eu
+finlandadventures.net
 finlandagentic.xyz
 finlandagi.xyz
 finlandai.xyz
@@ -1934,6 +1942,7 @@ finlandil.baby
 finlandil.website
 finlandinamerica.com
 finlandinfo.xyz
+finlandinfra.com
 finlandinvestors.shop
 finlandisverige.com
 finlandisverige.org
@@ -1954,6 +1963,7 @@ finlandmanepali.fi
 finlandmap.xyz
 finlandmask.xyz
 finlandmasters.com
+finlandmemoriesandmiracles.com
 finlandmeta.xyz
 finlandmev.xyz
 finlandminnesotafilm.com
@@ -6867,6 +6877,8 @@ razer-suomi.com
 razersuomi.com
 rbmfinland.com
 rbmfinland.net
+rbsuomi.online
+rbsuomi.org
 rcepthelsinkisw.shop
 rcnmobilepay.com
 rcsfinland.com
@@ -6979,6 +6991,7 @@ rolluphelsinki.xyz
 rolmako-finland.com
 roobet-finland.com
 roomhelsinki.com
+rootedinfinland.com
 ropofinland.com
 ropopalvelut.com
 roposuomi.com
@@ -8079,6 +8092,7 @@ stussy-suomi.com
 stussyfi-suomi.com
 stussyfinland.com
 stussyhoodiefinland.com
+stussyhupparisuomi.com
 stussys-finland.com
 stussystoresuomi.com
 stussysuomi.eu
@@ -8763,6 +8777,7 @@ suomigambit.com
 suomigambleportal.com
 suomigame.com
 suomigamepotgrid.games
+suomigamestop10.com
 suomigameswin.com
 suomigaming.com
 suomigaminggroup.com
@@ -8942,6 +8957,7 @@ suomipelinopeus.com
 suomipeliopas.com
 suomipelithotelli.com
 suomipelitop.com
+suomipelittop20.com
 suomipelivarmuus.com
 suomipelyt.com
 suomipharma.com
@@ -9129,6 +9145,7 @@ suomitodennus.info
 suomitop20.com
 suomitopfinn.com
 suomitopp.com
+suomitoppelit.com
 suomitoppfun.com
 suomitoppicks.com
 suomitori.com
@@ -10955,6 +10972,7 @@ widdowson-fortum.com
 wildberriesfinland.com
 wildforestfinland.com
 wildsuomiplay.com
+wildtourshelsinki.com
 wildz-finland.com
 windowviesta.com
 wineroutefinland.com
