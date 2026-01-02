@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 01/01/2026 08:00 UTC
+# Last modified: 02/01/2026 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -1587,6 +1587,7 @@ epinjam-kantahbinjai.com
 epoxysoumission.com
 eqjfinland.info
 era-ja-kalastuspalvelut-suomi-oy.com
+erapalvelukontiometso.fi
 erasmuscoursesinfinland.com
 erc-severo-zapad.ru
 erfinland.shop
@@ -2050,6 +2051,7 @@ finlandultra.xyz
 finlanduniversity.fi
 finlandvacancies.com
 finlandvacancy.com
+finlandverify.com
 finlandview.xyz
 finlandvpn.xyz
 finlandvr.com
@@ -3836,6 +3838,7 @@ invero-rental.com
 invest-finland-metals-kh-9392815.fyi
 invest-finland.com
 investhelsinki.xyz
+investingsuomi.fi
 investmenthelsinki.xyz
 iotsuomi.net
 ipfinland.net
@@ -3893,6 +3896,7 @@ iptvsuomivip.fi
 iranfinland.com
 ireland-finland-train-holiday-deals-777.today
 ireland-finland-train-holiday-deals.today
+irest-finland.fi
 irmasfinlandhouses.shop
 irmfinland.boutique
 irsehelsinki2026.info
@@ -4187,6 +4191,7 @@ keenfinland.com
 keensuomi.net
 kehonhuolto-jani-bergstrom.net
 kehonhuoltojopi.com
+kehonhuoltokaarina.fi
 kehonhuoltokipronen.fi
 kehystyspalvelunelilehti.com
 keijohelsinki.com
@@ -4961,6 +4966,7 @@ metaversehelsinki.xyz
 metsa-ja-luontopalvelut-tmi-tuire-holli.com
 metsanhoitopalvelut.fi
 metsapalvelu.net
+metsapalveluhalla.fi
 metsapalvelut.fi
 metsastyspalvelut.com
 mfooyj.info
@@ -5318,6 +5324,7 @@ monsoonsuomi.com
 montalo-helsinki.com
 montecfinland.com
 montecsuomi.net
+moonbootfinland.com
 moonhelsinki.xyz
 moonsuomiboot.com
 mooseknucklesfinland.com
@@ -5698,6 +5705,7 @@ nopeapankki.com
 nopeasuomipalvelu.online
 nopeatpelipalvelut.info
 nordea-apartments.com
+nordea-dk-zpvkx.icu
 nordea-fi.com
 nordea-fii.com
 nordea-fin.com
@@ -6524,6 +6532,7 @@ pirkanmaanpuupalvelu.com
 pirkanmaaturva.com
 pistolo-finland.com
 pit-vipersuomi.shop
+pjautohuolto.com
 pk-asennuspalvelu.com
 pk-teollisuushuolto.com
 plakranooyj.online
@@ -6562,6 +6571,7 @@ playsuomi.org
 playsuomi.tech
 playwinsuomen.com
 playwinsuomi.com
+plazasuomi.com
 pleaserfinland.com
 plentyopaws.com
 plinko-finland.com
@@ -6626,6 +6636,7 @@ poppankki-fi.com
 poppankki-viestini.com
 poppankki.cfd
 porinalituspalvelu.com
+porinsuomalainenpalvelukotiyhdistys.fi
 pornaistentietokonehuolto.com
 poro10finland.com
 portaldevitaminasnaturva.info
@@ -6833,6 +6844,7 @@ rafinland.com
 raflahuolto.com
 ragwearfinland.com
 ragweartakkisuomi.com
+rahasuomi.fi
 raidfinland.com
 railstockfinland.com
 railstockfinland.net
@@ -6877,6 +6889,7 @@ razer-suomi.com
 razersuomi.com
 rbmfinland.com
 rbmfinland.net
+rbsuomi.fi
 rbsuomi.online
 rbsuomi.org
 rcepthelsinkisw.shop
@@ -7652,6 +7665,7 @@ soumikchaudhuri.tech
 soumikd4.tech
 soumike.com
 soumikejidxf.cn
+soumikfactify.site
 soumikmanna.com
 soumikmanna.in
 soumikmanna2441139.shop
@@ -9014,6 +9028,7 @@ suomiretketapp.click
 suomiretunfi.com
 suomireview.com
 suomirollindex.games
+suomiroyalwaveplay.com
 suomis-mass.com
 suomis.com
 suomis777.com
@@ -9143,6 +9158,7 @@ suomitoday.com
 suomitodennus.com
 suomitodennus.info
 suomitop20.com
+suomitopaurora.com
 suomitopfinn.com
 suomitopp.com
 suomitoppelit.com
@@ -9926,6 +9942,7 @@ tunnistusfi.info
 tunnistussuomi.com
 tunnistussuomi.info
 tunnlstautuninen-kirjaudu.com
+tunturintyoterveys.fi
 tuoyj.net
 tupperwaresuomi.com
 turunkattohuolto.com
@@ -10116,6 +10133,8 @@ unnukanmetsajahirsipalvelu.com
 unstonyvacaturvalutas.cfd
 untoldfinland.com
 unvero-ai.com
+unwindhelsinki.com
+unwindinghelsinki.com
 unwomensuomiyk-n.website
 uo-asiakas.com
 uomi-fipalvelut.com
