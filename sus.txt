@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 02/01/2026 08:00 UTC
+# Last modified: 03/01/2026 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -1038,6 +1038,7 @@ comfortum-events.com
 comfortum.jp
 comfortumzuege.de
 comfyhelsinki.com
+comingtofinland.fi
 comityopay.com
 comityopayment.com
 comly-helsinki.com
@@ -1354,6 +1355,7 @@ dokumentointipalvelu.net
 domainfinland.com
 domainfinland.net
 domainpalvelut.com
+domanihelsinki.com
 domhelsinkitopwork.icu
 dominantesetsoumis.com
 donepalvelut.online
@@ -4635,6 +4637,7 @@ lodgingfinland.com
 logicshelsinki.com
 logistics-finland-kh-7434042.world
 logitech-suomi.com
+logitechfinland.fi
 loihdeturva.com
 loimaanasuntopalvelu.com
 loimihuolto.com
@@ -4743,6 +4746,7 @@ luxorfinland.fi
 luxury-finland-holiday-package-deals.xyz
 luxury777-helsinki.lat
 luzia-helsinki.com
+lwsuomi.info
 lxhfinland.com
 lyhytvideotpalvelu.com
 lymphorasuomi.com
@@ -5376,6 +5380,7 @@ movetofinland.com
 movetofinland.net
 movetofinland.org
 movetofinland.org.uk
+moviesta-sub.com
 moviesta.club
 moviesta.net
 moviesta.site
@@ -6299,6 +6304,7 @@ pafcasinofinland.com
 paijanteenelamyspalvelut.com
 painonpudotussuomi.com
 paintinghelsinki.com
+paivanterveysuutiset.fi
 pajanpalvelut.com
 pajar-finland.com
 pajarsfinland.com
@@ -7654,6 +7660,7 @@ soumiji.com
 soumik.blog
 soumik.me
 soumikagura.site
+soumikahammedp.com
 soumikautomotives.com
 soumikbag.com
 soumikbarber.com
@@ -7780,6 +7787,7 @@ soumissionconfort.com
 soumissionconstruction.com
 soumissiondecourtier.com
 soumissiondemetal.com
+soumissiondirecte.ca
 soumissionelectricien.com
 soumissionenelectricite.ca
 soumissionenergie.com
@@ -8206,6 +8214,7 @@ suomengfm.com
 suomenghb.com
 suomengolddesign.com
 suomengolfkentat.fi
+suomengroup.org
 suomengrup.org
 suomengrupe.org
 suomengummitehdas.com
@@ -8932,6 +8941,7 @@ suominedlw.tattoo
 suomineidotriisuu.com
 suomineipg.live
 suomineklb.com
+suominen.cc
 suomineqrn.click
 suominerocenomert.com
 suominettikasino.org
@@ -9686,6 +9696,7 @@ top10nettikasinotsuomi.com
 top10suomi.com
 top10suomi.education
 top10suomi2k.com
+top20-suomi.com
 top20finland.com
 topcasino-helsinki.com
 topcasinosuomi.com
@@ -10564,6 +10575,7 @@ vero-paint.com
 vero-paintapp.com
 vero-paintings-prints.com
 vero-partners.com
+vero-performance.com
 vero-pizza.com
 vero-pkl.xyz
 vero-plank.shop
@@ -10802,6 +10814,7 @@ vingaoffinland.fi
 vinkkipankki.com
 vinkkipankki.net
 vinku-ja-hinku-atk-palvelut.com
+vintageinfinland.com
 vintagetapahtumatsuomessa.com
 vintagevaatteetsuomi.com
 vintedmaksunvahvistus.click
