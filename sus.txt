@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 03/01/2026 08:00 UTC
+# Last modified: 04/01/2026 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -3662,6 +3662,7 @@ huoltotarra.com
 huoltovarmuuspeli.fi
 huoltoyhdistys.net
 huoltoyhtio.com
+huomapalvelu.com
 hushelsinkidiabetescenter.online
 husqvarna-soumi.com
 hute-suomi.shop
@@ -3796,6 +3797,7 @@ insoumis.app
 insoumis.news
 insoumis.online
 insoumisdecreteil.fr
+insoumise.fr
 insoumises.net
 insoumislespharaons.com
 insoumisoutremer.com
@@ -3922,11 +3924,13 @@ itjobfinderfinland.digital
 itnfinland.info
 itohelsinki.org
 itpalvelutjuntunen.com
+itravelhelsinki.com
 iuoyj.icu
 ivanahelsinki.fi
 ivcfinland.world
 ivero-moda.cz
 ivhuoltoht.com
+iwe-palvelut.fi
 iwebprofinland.info
 iworkinfinland.com
 ixjfinland.rocks
@@ -4971,6 +4975,7 @@ metsa-ja-luontopalvelut-tmi-tuire-holli.com
 metsanhoitopalvelut.fi
 metsapalvelu.net
 metsapalveluhalla.fi
+metsapalvelukallio.fi
 metsapalvelut.fi
 metsastyspalvelut.com
 mfooyj.info
@@ -6649,6 +6654,7 @@ portaldevitaminasnaturva.info
 portalfinland.xyz
 portalhelsinki.xyz
 portfoliosoumik.shop
+porttihuolto.com
 porvoonmuuttopalvelu.com
 porvoonpalvelutalo.store
 posidosuomi.com
@@ -7679,6 +7685,7 @@ soumikmanna2441139.shop
 soumikmanna2441139.xyz
 soumikpatra.com
 soumikpatra.xyz
+soumiks.com
 soumiksarker.com
 soumiktarafdar.com
 soumil.gay
@@ -7910,6 +7917,7 @@ soumiya.africa
 soumiyahinako.com
 soumiyahospital.com
 soumiyajalal.art
+soumiyun.com
 soumizhibo-hd-qq.com
 soumizhibo-qq.com
 soundcorefinland.com
@@ -8076,6 +8084,7 @@ stevemaddeninsuomi.com
 stevemadenssuomi.com
 stevesmadensuomi.com
 stewaitsoumirg.com
+stgautohuolto.fi
 stiddapalvelut.com
 stillkissen-suomi.shop
 stitchtoyhelsinki.com
@@ -9313,6 +9322,7 @@ talopalvelut.com
 talouspalvelu.com
 talousviesti.com
 talvero-co.com
+tammipalvelut.fi
 tampereenhautauspalvelu.com
 tampereenkuvauspalvelu.com
 tampereentietokonepalvelu.com
@@ -9544,6 +9554,7 @@ tesoumi.com
 tesoumira.com
 testi-mobiilipunnitus.com
 testivoittaja-terveys.com
+testolinksuomi.com
 tetsuomi.com
 tetsuomizu.com
 teveo-suomi.com
@@ -10651,6 +10662,7 @@ vero-trade.com
 vero-transcription.com
 vero-transport.com
 vero-tw.cam
+vero-tw.motorcycles
 vero-umzug.ch
 vero-unique.com
 vero-universal.com
