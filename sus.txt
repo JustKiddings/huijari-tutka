@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 08/01/2026 08:00 UTC
+# Last modified: 09/01/2026 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -101,6 +101,7 @@ accidentestraficomalaga.com
 accountantfinland.com
 accountfinland.com
 accountingfinland.com
+accountsuomionline.com
 accra-finlandian.info
 acfinland.com
 acmfinland.info
@@ -384,6 +385,7 @@ arvokoruhelsinki.com
 arvostettuasiakaskokemus.fi
 asailfinland.com
 asennuspalvelujoku.com
+asennuspalvelumarjoniemi.fi
 ashkanmasoumian.com
 ashritakantamneni.com
 asiakas-lowell.net
@@ -2185,6 +2187,7 @@ fortuma.org
 fortuma.pl
 fortuma.xyz
 fortumadncc.com
+fortumadvisors.com
 fortuman.com
 fortumaritime.com
 fortumarket.com
@@ -2207,6 +2210,7 @@ fortumenergia.com
 fortumenergia.online
 fortumfix.info
 fortumfln.com
+fortumgroup.com
 fortumholdings.ltd
 fortumi.com
 fortumin.com
@@ -3100,6 +3104,7 @@ helsinkibots.xyz
 helsinkiboutiquehotel.com
 helsinkibrainandmind.fi
 helsinkibranding.com
+helsinkibreakfastclub.com
 helsinkibridge.xyz
 helsinkibtc.xyz
 helsinkibtr.com
@@ -3524,6 +3529,7 @@ heyfinland.com
 heyhelsinki.com
 hfinland.online
 hhaoyj.sbs
+hhperhepalvelut.fi
 hhwfinland.monster
 hi-elisa.com
 hi-helsinkicity.com
@@ -4684,6 +4690,7 @@ logicshelsinki.com
 logistics-finland-kh-7434042.world
 logitech-suomi.com
 logitechfinland.fi
+lohjantalonmiespalvelut.fi
 loihdeturva.com
 loimaanasuntopalvelu.com
 loimihuolto.com
@@ -5164,6 +5171,7 @@ mobiilielakkeella-fi.com
 mobiilifi-spankki.com
 mobiilifysioterapia.fi
 mobiilihaku.com
+mobiilihuto.fi
 mobiilikampanja-fi-s-mobiili.com
 mobiilikasino.fi
 mobiililava.net
@@ -5206,6 +5214,7 @@ mobilepay-danmark.info
 mobilepay-danmark.link
 mobilepay-danmark.site
 mobilepay-dk-bruger-opdatering.online
+mobilepay-dk-opdatering.info
 mobilepay-dk.app
 mobilepay-dk.bio
 mobilepay-dk.info
@@ -5415,6 +5424,7 @@ moovymed.com
 moovyo.com
 moovyo.tech
 moovyou.com
+moovyourmind.com
 moovyoyj.com
 moovyrunblog.com
 moovyshoes.com
@@ -5951,6 +5961,7 @@ oma-ai.top
 oma-aisolutions.com
 oma-ajo.com
 oma-and-opa.com
+oma-app.com
 oma-architecture.com
 oma-arpa.com
 oma-arpa.net
@@ -6854,6 +6865,7 @@ pumasalesuomi.com
 pumastorefinland.com
 pumasuomi.com
 pumasuomiofficial.com
+punkkipankki.fi
 puppiesyogahelsinki.com
 purchaseautomobilepaylater.today
 purebeautyfinland.com
@@ -7586,6 +7598,7 @@ slushhelsinki.com
 smart-mobilepay.com
 smartdeals-finland.com
 smartdeals-suomi.com
+smartlifefinland.com
 smegsuomi.com
 smobiili-avaa.com
 smobiili-elakkeella.com
@@ -7728,6 +7741,7 @@ soumidelrio.com
 soumidiaay.com
 soumidiaay.net
 soumidiaay.org
+soumidiaaye.com
 soumidutt.design
 soumieinkaufen.com
 soumieru.com
@@ -8426,6 +8440,7 @@ suomenmahtavin.com
 suomenmatkadiilit.com
 suomenmatkatarjoukset.com
 suomenmediapalvelu.fi
+suomenmegawatti.com
 suomenmeniereliitto.fi
 suomenmetalli.com
 suomenminimaailma.com
@@ -8633,6 +8648,7 @@ suomi-ilman-rekisteroitymista.com
 suomi-infi.site
 suomi-info.icu
 suomi-info.sbs
+suomi-iptv-testi.com
 suomi-iptv.com
 suomi-iptv.net
 suomi-iptv.shop
@@ -9502,10 +9518,12 @@ tarjousketsuomessa.today
 tarjousketsuomessa.website
 tarjousketsuomessa.world
 tarjousketsuomessa.xyz
+tarkistus-omavero.com
 taschefinland.com
 tastefinland.com
 tastesoffinland.com
 tattoohelsinki.com
+tavero-partners.pl
 tawabilmaghniasoumicha.shop
 taxihelsinki.com
 taxofferspankki.icu
@@ -10153,6 +10171,7 @@ turvataxi.com
 turvataxi.net
 turvatehno.net
 turvatekniikka.com
+turvatiainen.fi
 turvatie.info
 turvatimpurit.com
 turvatoimi.fi
@@ -10401,6 +10420,7 @@ varatuomarihelsinki.org
 varausuomi.online
 varela-helsinki.com
 varma-oyj.com
+varmamuuttopalvelu.fi
 varmaoyj.com
 varmennussuomi.com
 varmistasuomi.com
@@ -10494,6 +10514,7 @@ vero-aliquid.com
 vero-allaite.com
 vero-amara.com
 vero-and-co-expertise.com
+vero-apartments.com
 vero-api.com
 vero-app.com
 vero-apparel.com
@@ -11227,6 +11248,7 @@ xn--etsivpalvelut-ffb.com
 xn--evecavero-revlut-09d.com
 xn--fortumvrme-w5a.nu
 xn--heikkil-helsinki-1nb.com
+xn--helsinkitnn-t8aba.fi
 xn--henkilstpalvelu-etbc.fi
 xn--huoltoss-5zac.com
 xn--i9qz8uoyj.top
@@ -11270,6 +11292,7 @@ xn--maalauspalvelu-sterman-8hc.com
 xn--mobiiliprssi-cjb.com
 xn--mobilepay-hjlp-cjb.online
 xn--modavero-bucureti-19f.com
+xn--monjarovero-i8a.com
 xn--musadevero-n5a.com
 xn--myyntipllikkpalvelu-mwba51b.com
 xn--netti-kasino-ilman-rekisteritymist-84c45d.com
@@ -11298,6 +11321,8 @@ xn--suomenshkautokorjaamo-c2b03b.com
 xn--suomentekninenisnninti-g5b84b.fi
 xn--suomentekolypalvelut-kzb.com
 xn--suomenyksityisetsivtoisto-3ec.com
+xn--suomini-9waa.fi
+xn--suomithti-02a.com
 xn--suomithti-02a.fi
 xn--suomitnn-5zaba.com
 xn--sydnterveys-n8a.shop
