@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 11/01/2026 08:00 UTC
+# Last modified: 12/01/2026 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -277,6 +277,7 @@ amivero-asap.com
 amivero-labs.com
 amivero-solutions.com
 amivero-verification.com
+amliikuntapalvelut.fi
 ammafinland.org
 amorehelsinki.com
 amplixityopalconnector.digital
@@ -368,6 +369,7 @@ ariat-finland.com
 ariatsuomioutlet.com
 arisefinland.com
 arisefinland.org
+arjeksipalvelut.fi
 arlivo-helsinki.com
 arminterveys.com
 armobilepay.com
@@ -1985,6 +1987,7 @@ finlandisverige.org
 finlandisverige.se
 finlandiya6.shop
 finlandiyahaber.com
+finlandiyaucun.com
 finlandlab.xyz
 finlandlabs.xyz
 finlandlaw.xyz
@@ -2024,6 +2027,7 @@ finlandpass.com
 finlandpay.xyz
 finlandpi.com
 finlandplaces.online
+finlandplays.com
 finlandpool.xyz
 finlandporn.xyz
 finlandpothpiyasa.com
@@ -2054,6 +2058,7 @@ finlandshop.xyz
 finlandslot.xyz
 finlandsmart.xyz
 finlandsnationaltasting.com
+finlandsnow.com
 finlandsocalfres.com
 finlandsocialgames.com
 finlandsolutions.com
@@ -2704,6 +2709,7 @@ helsinki-drec-abad.info
 helsinki-fi.com
 helsinki-fi.org
 helsinki-fi.xyz
+helsinki-game-pro-fi.online
 helsinki-group.com
 helsinki-hiking.com
 helsinki-hotels.net
@@ -3517,6 +3523,7 @@ helsinkiweekend-ui15.top
 helsinkiweekly.com
 helsinkiwhale.xyz
 helsinkiwhisper.com
+helsinkiwithrobbie.com
 helsinkiworks.com
 helsinkiwrapped.xyz
 helsinkiww.net
@@ -3711,6 +3718,7 @@ huoltoneuvonta.com
 huoltoneuvonta.fi
 huoltoon.com
 huoltoon.fi
+huoltopalvelu-monitoimi.com
 huoltopalvelutvepe.com
 huoltopalveluvahis.fi
 huoltopark.fi
@@ -3829,6 +3837,7 @@ inarintaksipalvelu.fi
 indareautohuolto.com
 india-holiday-package-deals-from-finland.today
 indianmoviestats.com
+inegolkulturvakfiyardim.org
 infinityopals.shop
 infinland.me
 info-finlandia.ru
@@ -6007,6 +6016,7 @@ oma-authenticator.com
 oma-automation.com
 oma-baker.xyz
 oma-beaurepaire.com
+oma-bienetre.fr
 oma-binz.de
 oma-bloc.com
 oma-bw.org
@@ -6188,6 +6198,7 @@ oma-ye.com
 oma-zoekt-sex.be
 omaaelisa.site
 omaakantaa-fi.net
+omaarkistopalvelu.com
 omaelisa.sbs
 omajo-kirjaudu.com
 omajo-oyj.com
@@ -6371,6 +6382,7 @@ orozo-helsinki.com
 ortodentus.se
 ortomed-finland.com
 ortotalofinland.com
+ortotalosuomi.com
 orvero-product.xyz
 oscarbluesuomi.com
 osku-lahipalvelut.fi
@@ -6668,6 +6680,7 @@ pistolo-finland.com
 pit-vipersuomi.shop
 pjautohuolto.com
 pk-asennuspalvelu.com
+pk-asennuspalvelut.fi
 pk-teollisuushuolto.com
 pkmkpalvelut.fi
 plakranooyj.online
@@ -7763,6 +7776,7 @@ soumiamekkaoui.com
 soumiamichelcesizencda.online
 soumiao.net
 soumiapp.com
+soumiapponline.com
 soumiasfit.com
 soumiashop.com
 soumiashop.shop
@@ -8147,6 +8161,7 @@ spankkiturvallisuustuki.com
 spankkiupdate.tech
 spankkiweb.site
 spanx-suomi.com
+spashoplifestylefinland.online
 spatialhelsinki.xyz
 spectrmmobilepayment.com
 speedking-suomi.com
@@ -10403,6 +10418,7 @@ vahvistaa-id.info
 vahvistaa.info
 vahvistaakaa.info
 vahvistaheti.com
+vahvistajatuotteet.com
 vahvistasuomi.com
 vahvistathan.info
 vahvistavacoach.com
@@ -10666,6 +10682,7 @@ vero-est.site
 vero-esthetics.com
 vero-esthetique.com
 vero-et.com
+vero-etreenmouvement.com
 vero-eu.shop
 vero-fashion.com
 vero-fasion.com
@@ -10833,6 +10850,7 @@ vero-store.com
 vero-store.store
 vero-street-food.it
 vero-strength.com
+vero-studio.fun
 vero-studio.ru
 vero-studios.com
 vero-suomi.com
@@ -11350,6 +11368,7 @@ xn--kasinotilmanrekisterinti-ecc77b.fi
 xn--kasinotilmanrekisteritymist-1kc82c.info
 xn--kasinotilmanrekisteritymist-1kc82c.ninja
 xn--kasinotilmanrekisteritymist-1kc82c.org
+xn--kasinotilmanrekisteritymistfin-mtc28c.com
 xn--kiinteistpalvelut-7zb.net
 xn--kitvero-suplementos-0vb.online
 xn--kylmlaitehuolto-3kb.com
@@ -11373,9 +11392,12 @@ xn--myyntipllikkpalvelu-mwba51b.com
 xn--netti-kasino-ilman-rekisteritymist-84c45d.com
 xn--nettikasinoilmansuomilisenssi-tqc.com
 xn--nettikasinot-ilman-rekisteritymist-84c45d.org
+xn--nettikasinotilmanrekisterintifin-ezc12d.com
 xn--nettikasinotilmanrekisteritymist-hzc81d.ninja
+xn--nettikasinotilmanrekisteritymistfin-17c27d.com
 xn--nettikasinotilmansuomilisenssi-ptc.com
 xn--pelitilmanrekisteritymist-9ec29b.com
+xn--pikakasinotilmanrekisteritymistfin-54c45d.com
 xn--polnesuomi-16a.com
 xn--portalnoticias-vero-dwb.com
 xn--porvookiinteisthuolto-vec.com
