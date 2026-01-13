@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 12/01/2026 08:00 UTC
+# Last modified: 13/01/2026 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -373,6 +373,7 @@ arjeksipalvelut.fi
 arlivo-helsinki.com
 arminterveys.com
 armobilepay.com
+armonialapalvelutoy.com
 artbooksfinland.com
 artfairsuomi.fi
 artgalleryfinland.com
@@ -763,6 +764,7 @@ boisfrancosoumission.com
 boltmobilepayments.com
 boltmobilepayments.net
 bomyhelsinki.com
+bondit-finland.com
 bonsejourfinland.com
 bonuscrabcasino-finland.com
 bonussuomi.com
@@ -1053,6 +1055,7 @@ coluombiafinland.com
 com-suomi-neworder.icu
 com-suomi.shop
 comealivefinland.com
+cometofinland.com
 comfortum-events.com
 comfortum.jp
 comfortumzuege.de
@@ -1062,6 +1065,7 @@ comityopay.com
 comityopayment.com
 comly-helsinki.com
 comme-des-garconssuomi.com
+comparefinland.com
 comvero-group.ru
 concresoumiixconcret.shop
 conference-hotel-helsinki-456239310.today
@@ -2022,6 +2026,7 @@ finlandnext.xyz
 finlandnft.xyz
 finlandnode.xyz
 finlandodds.xyz
+finlandoffers.com
 finlandopen.xyz
 finlandpass.com
 finlandpay.xyz
@@ -2037,6 +2042,7 @@ finlandquality.uk
 finlandquantum.xyz
 finlandquick.xyz
 finlandrehabs.com
+finlandremigrants.fi
 finlandreport24.today
 finlandrestake.xyz
 finlandrestaking.xyz
@@ -2755,6 +2761,7 @@ helsinki-masc.rest
 helsinki-masd.rest
 helsinki-mase.rest
 helsinki-masf.help
+helsinki-media.com
 helsinki-mfira.rest
 helsinki-mfirf.rest
 helsinki-mfirh.pics
@@ -3144,6 +3151,7 @@ helsinkicas.xyz
 helsinkicash.xyz
 helsinkicasifreespins.click
 helsinkicasino.bar
+helsinkicasino.online
 helsinkicasinoclub.com
 helsinkicasinohotel.com
 helsinkicasinonodeposit.click
@@ -5162,6 +5170,7 @@ mizunosuomishop.com
 mizunosuomistores.com
 mjmusoumini.com
 mjufinland.info
+mkpuhdistuspalvelu.fi
 mlhuolto.com
 mlsuominec.info
 mmktpalvelut.com
@@ -5182,6 +5191,7 @@ mobiili-fi-kampanja.com
 mobiili-fi-spankki.com
 mobiili-kammpanja-fi.com
 mobiili-kampanja-elakkeela.com
+mobiili-kampanja-fi-suomi.com
 mobiili-kampanja-finland.com
 mobiili-kampanja-fispankki.com
 mobiili-kampanja-pankki.com
@@ -5624,6 +5634,7 @@ naluhelsinki.com
 namhelsinki.fi
 namvero-blintrix.com
 nanorebarsoumian.com
+nanterreinsoumise.fr
 naotsuomi.net
 napapijri-finland.com
 napapijrifinland.com
@@ -5970,6 +5981,7 @@ odfinland.shop
 oeofinland.watch
 of-suomi.com
 offer-finland.com
+offersfinland.com
 offerspankkitax.icu
 office-cleaner-finland.bond
 official-casino-finland.biz
@@ -7593,6 +7605,7 @@ silvercityopal.com
 silvero-construccion.com
 simonhinauspalvelu.com
 sinaistengel.com
+sinullefinlandia.com.br
 sinullepalvelu.fi
 sinunturvapalvelu.com
 sipelius-kotipalvelu.fi
@@ -7984,6 +7997,7 @@ soumissionresidentielle.ca
 soumissionresidentielle.xyz
 soumissionrsa.ca
 soumissions-assurances.ca
+soumissions-auto.ca
 soumissions-travaux-quebec.com
 soumissions.ai
 soumissionsalamaison.com
@@ -8161,6 +8175,7 @@ spankkiturvallisuustuki.com
 spankkiupdate.tech
 spankkiweb.site
 spanx-suomi.com
+spashoplifestylefinland.fi
 spashoplifestylefinland.online
 spatialhelsinki.xyz
 spectrmmobilepayment.com
@@ -8497,6 +8512,7 @@ suomenkuulotuki.fi
 suomenkuvalehti.com
 suomenkuvaszklubi.online
 suomenkuvauskoulu.com
+suomenladut.fi
 suomenlampopuu.com
 suomenlapset.com
 suomenlentopallo.com
@@ -8601,6 +8617,7 @@ suomentalousosaamisenkeskusliitto.fi
 suomentalousuutiset.blog
 suomentanssitapahtumat.com
 suomentarjo.us
+suomentarjoukset.com
 suomentarjous.com
 suomentarjouspalvelu.com
 suomentarjoussite.com
@@ -9022,6 +9039,7 @@ suomiinternational.co.ke
 suomiiptv.forum
 suomiiptv.net
 suomiiptv.store
+suomijackpot.info
 suomijackpot360.com
 suomijackpot365.com
 suomijackpot365.games
@@ -9413,6 +9431,7 @@ suomivarmista.info
 suomivedot.com
 suomiverify.com
 suomiverse.lol
+suomivertailu.com
 suomivibes.com
 suomivibes.space
 suomivibesapp.space
@@ -9422,6 +9441,7 @@ suomiviesta.info
 suomiviesti-ilmoitukset.com
 suomiview.com
 suomiviihde.com
+suomivitsit.lol
 suomivoitotfi.com
 suomivoitotfin.com
 suomivoitto.info
@@ -9532,6 +9552,7 @@ tapmobilepay.com
 tappmobilepay.com
 targussuomi.com
 tarimatec-finland.com
+tarjouksenasuomi.com
 tarjouksetpalvelu.vip
 tarjouksetsuomi.blog
 tarjouksetsuomi.buzz
@@ -10419,6 +10440,7 @@ vahvistaa.info
 vahvistaakaa.info
 vahvistaheti.com
 vahvistajatuotteet.com
+vahvistajatuotteet.fi
 vahvistasuomi.com
 vahvistathan.info
 vahvistavacoach.com
@@ -10438,6 +10460,7 @@ vahvistustori25.online
 vahvistustorifi.store
 vahvistustransaktio.shop
 vaihdehuolto.nu
+vaihtoehdotsuomessa.com
 vainio-helsinki.com
 vakantie-zweden-finland-reisblog.nl
 vakilmasoumi.com
@@ -11028,6 +11051,7 @@ viestit.info
 viestit.one
 viestitse-suomi.site
 vifonsuomi.com
+vigneuxinsoumise.fr
 viguzo-helsinki.com
 viihdesuomi.com
 viikinautohuolto.com
