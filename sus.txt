@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 16/01/2026 08:00 UTC
+# Last modified: 17/01/2026 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -211,12 +211,14 @@ akamaomakanta.com
 akashviestate.com
 akashviestates.com
 akkupankki.com
+akkuvarastopalvelu.fi
 akokaivopalvelut-1.online
 akshatakantak.com
 akt-suomi.click
 aktia-asiakasalue.store
 aktiapankki.xxx
 akunpalvelut.com
+akwacrossfinland.org
 al-monipalvelu.com
 alandskirjaudu.com
 alastonsuomi.pics
@@ -427,6 +429,8 @@ asiakassivut.online
 asiakastarina.fi
 asiakastarinat.fi
 asiakastarjous.com
+asiakastietojenpaivitys.digital
+asiakastietojenpaivitys.live
 asiakastuki.icu
 asiakastuki.site
 asiakasvastaaja.com
@@ -949,6 +953,7 @@ cawfinland.info
 cbcafinland.com
 cbd-grossisten-suomi.shop
 cbdcmobilepay.com
+cbgfinland.com
 ccfinland.com
 cdtaoyj.com
 celestsuomi.com
@@ -1388,6 +1393,7 @@ docmartenssuomi.com
 docmartensuomi.com
 doctormartens-finland.com
 doctormartens-suomi.com
+doctormartenssuomi.com
 dogfriendlyfinland.com
 dokumentointipalvelu.com
 dokumentointipalvelu.net
@@ -1635,6 +1641,7 @@ erapalvelukontiometso.fi
 erasmuscoursesinfinland.com
 erc-severo-zapad.ru
 erfinland.shop
+ericanordean.com
 erikoismiestentaisip.xyz
 erikoispalvelut.online
 erikoissiivouspalvelut.fi
@@ -1841,6 +1848,7 @@ fin-virtuaalinen-terveys-9.online
 fin-virtuaalinen-terveys.online
 financehelsinki.xyz
 finansivalvonta.com
+finanssivalvontasuomi.com
 findajobinfinland.com
 findfinland.academy
 findfinland.community
@@ -2207,6 +2215,7 @@ fortum-impact.com
 fortum-main.com
 fortum-no.com
 fortum-stainton.com
+fortum-tuki.com
 fortum-vip.shop
 fortum.agency
 fortum.live
@@ -2228,7 +2237,13 @@ fortuma.pl
 fortuma.xyz
 fortumadncc.com
 fortumadvisors.com
+fortuman.biz
 fortuman.com
+fortuman.info
+fortuman.org
+fortuman.shop
+fortuman.store
+fortuman.xyz
 fortumaritime.com
 fortumarket.com
 fortumars.com
@@ -2399,6 +2414,7 @@ germany-finland-train-holiday-deals.today
 gerryweberfinland.com
 gerrywebersuomi.com
 gertyopalkosa.click
+gestionsoumission.ca
 get-personal-loan-in-finland.bond
 getworkfinland.com
 getworkfinland.online
@@ -4421,6 +4437,7 @@ kivipankki.com
 kizuna-helsinki.com
 kizunahelsinki.com
 kkpapulaispalvelut.com
+klauskhelsinki.online
 kleinordeangedir.top
 klendrixomavero.org
 klovo-helsinki.com
@@ -5503,6 +5520,7 @@ moovydelivery.com
 moovyexperience.com
 moovyfi.com
 moovyglobal.com
+moovyi.com
 moovymed.com
 moovyo.com
 moovyo.tech
@@ -5864,6 +5882,7 @@ nodehelsinki.xyz
 nodigfinland.com
 noe-palvelut.com
 nohatefinland.org
+nokiansiivouspalvelut.fi
 noktakantar.xyz
 nomavero.co.uk
 nomavero.com
@@ -6455,6 +6474,7 @@ ottokasinosuomi.com
 oukitel-finland.eu
 oulujarvenmetsapalvelu.com
 oulunpintapalvelu.com
+ourasuomi.com
 ourfinland.com
 ourfinland.online
 ourhelsinki.com
@@ -7699,6 +7719,7 @@ slotssuomi.com
 slotssuomifi.com
 slotsuomi.com
 slotsvaderbonusfinland.com
+slotsvaderfinland.com
 slotterfinland.com
 slowtretyopa.com
 slowtretyopa.shop
@@ -9052,6 +9073,7 @@ suomifymedia.com
 suomigambit.com
 suomigambleportal.com
 suomigame.com
+suomigame.online
 suomigamepotgrid.games
 suomigamestop10.com
 suomigameswin.com
@@ -9383,6 +9405,7 @@ suomistore.fi
 suomistory.com
 suomistrategia.com
 suomistream.live
+suomistrikelush.games
 suomisubit.org
 suomisuositus.com
 suomisupp.com
@@ -9439,9 +9462,11 @@ suomitopaurora.com
 suomitopchance.games
 suomitopfinn.com
 suomitopgames.games
+suomitoploot.com
 suomitopp.com
 suomitoppelit.com
 suomitoppfun.com
+suomitoppick.games
 suomitoppicks.com
 suomitopplus.games
 suomitori.com
@@ -9487,6 +9512,7 @@ suomivedot.com
 suomiverify.com
 suomiverse.lol
 suomivertailu.com
+suomiveto.net
 suomivibes.com
 suomivibes.space
 suomivibesapp.space
@@ -10152,6 +10178,7 @@ travelfinland.ru
 travelfinland.shop
 travelinfinland.net
 travero-pm.com
+traviesta.in
 treasuryfinland.xyz
 treasuryhelsinki.xyz
 treffitsuomi.com
@@ -11114,6 +11141,7 @@ viestit.info
 viestit.one
 viestitse-suomi.site
 vifonsuomi.com
+vignettefinland.com
 vigneuxinsoumise.fr
 viguzo-helsinki.com
 viihdesuomi.com
@@ -11299,6 +11327,7 @@ web3helsinki.xyz
 webappspankkiad.space
 webfinland.xyz
 webhelsinki.xyz
+webhotellipalvelu.info
 webkirjaudu.site
 webmobilepay.com
 webpankkin.com
