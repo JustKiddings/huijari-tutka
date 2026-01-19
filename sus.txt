@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 18/01/2026 08:00 UTC
+# Last modified: 19/01/2026 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -257,6 +257,7 @@ alosuomi.com
 aloyoga-suomi.net
 alphaindustriessuomi.com
 alphaletesuomi.com
+alphamode-finland.com
 alpine-finland.com
 alpine-finland.fi
 alpineearplugssuomi.com
@@ -435,6 +436,7 @@ asiakastietojenpaivitys.digital
 asiakastietojenpaivitys.live
 asiakastuki.icu
 asiakastuki.site
+asiakastukisuomi.com
 asiakasvastaaja.com
 asiakasvelvollisuuslakien-fi.site
 asiakasvelvollisuuslakien-suomen.site
@@ -471,6 +473,7 @@ atakantaga.art
 atakantaga.com
 atakantaktikal.com
 ataraxterveyspalvelu.shop
+ateafinlandoy.online
 atelier-vero-creation.fr
 atelieriohaapalahelsinki.com
 ateljeehelsinki.com
@@ -890,6 +893,7 @@ cartmobilepaymentcrm.xyz
 casallsuomi.com
 casasuomi.com
 casavero-dubai.com
+casavero-home.com
 cashelsinki-fi.com
 cashfinland.xyz
 cashhelsinki.xyz
@@ -1663,6 +1667,8 @@ escortservice-in-finland.xyz
 escortshelsinki.com
 esfinland.com
 eshelsinki.org
+esnhelsinki.com
+esnhelsinki.org
 esoumi.com
 espankki.com
 esplanadi-helsinki.com
@@ -4068,7 +4074,9 @@ jaahdytyspalvelu.com
 jaakaappihuoltoturku.fi
 jaakarhunrakennuspalveluoy.fi
 jabrasuomi.com
+jacheteenfinlande.com
 jacheteenfinlande.fr
+jacheteonfinlande.com
 jacheteonfinlande.fr
 jack-wolfskin-suomi.com
 jackelyn-suomi.com
@@ -5284,6 +5292,7 @@ mobiilifi-spankki.com
 mobiilifysioterapia.fi
 mobiilihaku.com
 mobiilihuto.fi
+mobiilii-kapmanjafi-suomi.com
 mobiilikampanja-fi-s-mobiili.com
 mobiilikasino.fi
 mobiililava.net
@@ -5518,6 +5527,7 @@ moonhelsinki.xyz
 moonsuomiboot.com
 mooseknucklesfinland.com
 mooseknucklesuomi.com
+moovy-app.com
 moovy-fln.com
 moovy-oy.com
 moovy.cards
@@ -6455,6 +6465,7 @@ org-oyj.world
 organduofinland.com
 oriflamesuomi.com
 orijensuomi.com
+orion-asiakaskirjautuminen.net
 orkesterikonsertitsuomessa.fi
 ornavero-fi.com
 ornavero-fi.info
@@ -6596,6 +6607,7 @@ panki-fi.site
 pankki-app.com
 pankki-fi-kampanja.com
 pankki-s-pankki-kampanja.com
+pankki-tuki-apu.com
 pankki.nl
 pankki.services
 pankkiapptuki-fi.net
@@ -7472,6 +7484,7 @@ samsonitesuomi.com
 san-vero-milis.my.id
 sandqvistsuomi.com
 sanni-helsinki.com
+sanrio-suomi.com
 sanriokauppasuomi.com
 sanriosuomi.com
 sansevero-c7.com
@@ -8043,6 +8056,7 @@ soumissionassuranceauto.com
 soumissionassurancecancer.com
 soumissionassurancecollective.com
 soumissionassurancequebec.com
+soumissionassuranceviehypothecaire.com
 soumissionassuranceviequebec.com
 soumissionassuranceviesansexamenmedical.com
 soumissionassuredirect.com
@@ -8052,6 +8066,7 @@ soumissionclimatisation.com
 soumissioncomptable.com
 soumissionconfort.com
 soumissionconstruction.com
+soumissioncourtier.com
 soumissiondecourtier.com
 soumissiondemetal.com
 soumissiondirecte.ca
@@ -9733,6 +9748,7 @@ tarjousketsuomessa.xyz
 tarkistus-omavero.com
 tasapainotasuomi.com
 taschefinland.com
+tassupalvelu.com
 tastefinland.com
 tastesoffinland.com
 tattoohelsinki.com
@@ -11295,6 +11311,7 @@ voiteluhuolto.com
 voittopalvelu.info
 volgaclubfinland.com
 volthelsinki.com
+vondutch-suomi.com
 vondutchfinland.com
 vondutchsuomi.com
 vonio-helsinki.com
