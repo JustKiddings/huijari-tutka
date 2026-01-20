@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 19/01/2026 08:00 UTC
+# Last modified: 20/01/2026 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -410,6 +410,7 @@ asiakasalue.org
 asiakasarvokokemus.com
 asiakasbi.com
 asiakasdata.com
+asiakashaku.fi
 asiakashankintaoy.com
 asiakasino.net
 asiakasmagneetti.com
@@ -713,6 +714,7 @@ betviesta.com
 betyopaxv.xyz
 beyondfinland.site
 bfgoodrichsuomi.com
+bfinland.cn
 bfinland.top
 bgifinland.info
 bhcfinland.info
@@ -1894,6 +1896,7 @@ finland.me.uk
 finland.nu
 finland.or.id
 finland.org.au
+finland.org.il
 finland.org.tr
 finland0x.xyz
 finland77.xyz
@@ -2233,6 +2236,7 @@ fortum-stainton.com
 fortum-tuki.com
 fortum-vip.shop
 fortum.agency
+fortum.com.pl
 fortum.live
 fortum.lu
 fortum.nu
@@ -3897,6 +3901,7 @@ india-holiday-package-deals-from-finland.today
 indianmoviestats.com
 inegolkulturvakfiyardim.org
 infinityopals.shop
+infinland.cn
 infinland.me
 info-finlandia.ru
 info-suomen.site
@@ -4324,6 +4329,7 @@ katisuominen.com
 katon-korjaus-palvelut.online
 katsuomi.co.uk
 kattilahuolto.com
+kattohuoltokaipainen.fi
 kattohuoltosi.com
 kattoremonttihelsinki.fi
 katzenfutter-suomi.shop
@@ -4355,6 +4361,7 @@ keittioremontithelsinki.fi
 kekenhuolto.com
 kela-fi-2025.digital
 kela-fi-2025.sbs
+kela-fi-2026.icu
 kela-fi.click
 kela-fi.com
 kela-fi.digital
@@ -6179,6 +6186,7 @@ oma-hk.com
 oma-holdings.com
 oma-home.ru
 oma-hub.com
+oma-ilse.de
 oma-insurance.com
 oma-irma.com
 oma-kanta.help
@@ -6465,6 +6473,7 @@ org-oyj.world
 organduofinland.com
 oriflamesuomi.com
 orijensuomi.com
+orimattilanliikuntapalvelut.fi
 orion-asiakaskirjautuminen.net
 orkesterikonsertitsuomessa.fi
 ornavero-fi.com
@@ -7281,6 +7290,7 @@ royaldeviesta.com
 royalfinland.xyz
 royalhelsinki.xyz
 rp-huolto.com
+rrpalvelut.fi
 rtbetsuomi.com
 rtps27viesta.site
 rturva.biz.id
@@ -7483,6 +7493,7 @@ samnordean.shop
 samsonitesuomi.com
 san-vero-milis.my.id
 sandqvistsuomi.com
+saneerauspalvelu.fi
 sanni-helsinki.com
 sanrio-suomi.com
 sanriokauppasuomi.com
@@ -8617,6 +8628,7 @@ suomenkuvaszklubi.online
 suomenkuvauskoulu.com
 suomenladut.fi
 suomenlampopuu.com
+suomenlapinkoira-welpen.de
 suomenlapset.com
 suomenlentopallo.com
 suomenlevytyo.com
@@ -8738,6 +8750,7 @@ suomentimanttiurakointi.com
 suomentoplista.com
 suomentrade.com
 suomentravelbook.com
+suomenturvetuottajat.fi
 suomentyoterveys.com
 suomenuintikoulu-fi.com
 suomenurheilijat.fi
@@ -8961,6 +8974,7 @@ suomi2u.com
 suomi333.work
 suomi360.biz
 suomi360.com
+suomi9000.fi
 suomiaaki.com
 suomiactive.sbs
 suomiadmin.com
@@ -8999,6 +9013,7 @@ suomibingo.com
 suomibitcoin.com
 suomibox.com
 suomibrilliantballs.com
+suomibroileri.fi
 suomibuzz.com
 suomica.ru
 suomicam.com
@@ -10004,6 +10019,7 @@ tkvfinland.org
 tm-rakennuspalvelu.com
 tmi-peppi-stiina-ahti-liikuntapalvelut.com
 tn-palvelu.com
+tnfinland.fi
 tnorthface-suomi.com
 today365cfsfinland.boats
 todennusintrum.com
@@ -10297,6 +10313,7 @@ tunnistautuminen-suomi.biz
 tunnistautuminen-suomi.com
 tunnistautuminen-suomi.mobi
 tunnistautuminen.com
+tunnistautuminen.eu
 tunnistautuminen.online
 tunnistautuminen.org
 tunnistautuminenfikortti.com
@@ -11519,6 +11536,7 @@ xn--fortumvrme-w5a.nu
 xn--heikkil-helsinki-1nb.com
 xn--helsinkitnn-t8aba.fi
 xn--henkilstpalvelu-etbc.fi
+xn--hierontapalveluhyrin-uzb.fi
 xn--huoltoss-5zac.com
 xn--i9qz8uoyj.top
 xn--ilmalmppumppuhelsinki-91b03b.fi
@@ -11558,6 +11576,7 @@ xn--levinmkkihuolto-etb.com
 xn--lhipyorhuolto-bfbg.com
 xn--lhiterveys-q5a.com
 xn--lymobiili-u2a.com
+xn--lyttavarapalvelu-mwbc.fi
 xn--maalaus-jakiinteisthuoltonyholm-pdd.fi
 xn--maalauspalvelu-sterman-8hc.com
 xn--mobiiliprssi-cjb.com
