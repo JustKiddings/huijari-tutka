@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 20/01/2026 08:00 UTC
+# Last modified: 21/01/2026 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -564,6 +564,7 @@ avero-rest.ru
 avero-review.com
 avero-shop.com
 avero-technik.ch
+avero-watches.com
 aviesta.com.mx
 aviestas.com
 aviestas.site
@@ -5484,6 +5485,7 @@ mobilepaymenttoolinstant.xyz
 mobilepaynetworks.com
 mobilepaynow.com
 mobilepayoneer.com
+mobilepayopdatering.com
 mobilepayoutland.com
 mobilepayoutrace.com
 mobilepaypros.com
@@ -6133,6 +6135,7 @@ oma-co.com
 oma-cocas.com
 oma-comunity.com
 oma-con.com
+oma-consulting.com
 oma-costruzioni.com
 oma-crm.com
 oma-deo.ru
@@ -7163,6 +7166,7 @@ rdstrsuomi.com
 reactoonz-finland.com
 reactoonz-finland.net
 reactoonz-finland.org
+ready-finland.com
 realglowsautohuoltokorjaamo.com
 realisointipalvelut.com
 rebelhelsinki.fi
@@ -9221,6 +9225,7 @@ suomikuva.net
 suomikuvva.com
 suomilandcan.com
 suomilandcanada.com
+suomilauta.org
 suomileaniksi.com
 suomilehti.com
 suomileikki.info
@@ -9684,6 +9689,7 @@ tamsecfinland.com
 tansuomedia.com.tw
 tansuomi.com
 tansuomifeng.com
+tansuomijing.com
 tantrasecretshelsinki.com
 tanzschuhe-suomi.shop
 taofinland.com
@@ -9912,6 +9918,7 @@ terveysvalmennus.com
 terveysverstas.com
 terveysviidakko.com
 terveysvirasto.com
+terveyttaluonnosta.fi
 tesoumi.com
 tesoumira.com
 testi-mobiilipunnitus.com
@@ -10033,6 +10040,7 @@ toimintaterapiahelsinki.fi
 toimistopalvelu.fi
 toimistopalvelu.online
 toimistopalvelupakarinen.fi
+toimiturva.com
 toinenporrasturvallisuuspalvelut.com
 toivapalvelut.online
 toivolapalvelut.net
@@ -11089,6 +11097,7 @@ vero-voluptatum.site
 vero-walk.com
 vero-wantia.de
 vero-wealth.com
+vero-wear.com
 vero-well.com
 vero-wellness.com
 vero-wm.com
