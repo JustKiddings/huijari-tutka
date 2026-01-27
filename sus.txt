@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 26/01/2026 08:00 UTC
+# Last modified: 27/01/2026 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -317,6 +317,7 @@ ankara-finlandian.info
 anker-suomi.com
 ankerfinland.com
 ankersuomi.com
+ankkalinnanpankki.rocks
 annaella-helsinki.com
 annankotipalvelu.com
 anne-mikko-helsinki.com
@@ -651,6 +652,7 @@ bazargani-massoumi.com
 bccfinland.com
 bccsuomi.org
 bcgame-finland.com
+bcpalvelut.fi
 bcsfinland.com
 be-vero-louange.com
 beapfinland.com
@@ -1423,6 +1425,7 @@ dk-mobilepay.app
 dk-mobilepay.com
 dk-mobilepay.info
 dk-online-mobilepay.com
+dkkfinland.fi
 dlr-huolto-ja-pesu.com
 dlshensuomen.com
 dmc-helsinki.com
@@ -1946,6 +1949,7 @@ finlandadventures.net
 finlandagentic.xyz
 finlandagi.xyz
 finlandai.xyz
+finlandais.site
 finlandapartment.com
 finlandapi.xyz
 finlandapp.xyz
@@ -2002,6 +2006,7 @@ finlanddeep.xyz
 finlanddefi.xyz
 finlanddex.xyz
 finlanddhl.com
+finlanddima.ru
 finlanddiscovery.com
 finlanddrop.xyz
 finlandearlyyears.com
@@ -2178,6 +2183,7 @@ finlandultra.xyz
 finlanduniversity.fi
 finlandvacancies.com
 finlandvacancy.com
+finlandvacay.com
 finlandverify.com
 finlandview.xyz
 finlandvpn.xyz
@@ -2577,6 +2583,7 @@ griffinlandscaping25.com
 groominghelsinki.com
 grouperenault-kantar.com
 grupoagrooyj.com
+gskiinteistohuolto.fi
 guessoutletfinland.com
 guesssuomi.com
 guidesuomi.com
@@ -3403,6 +3410,7 @@ helsinkihotelroom.com
 helsinkihotelsguide.com
 helsinkihotelsonline.com
 helsinkihouse.cl
+helsinkihq.com
 helsinkihub.fi
 helsinkihub.xyz
 helsinkihunt.xyz
@@ -4220,6 +4228,7 @@ jobinfinland.com
 jobs-in-finland.com
 jobs-in-finland.fyi
 joensuunnostopalvelu.fi
+johannanpalvelut.fi
 johngriffinlandscapearchitect.com
 johtajuuspalvelu.fi
 joinaiesecinfinland.com
@@ -4321,6 +4330,7 @@ kansalaiset-omakanta.com
 kansallinenturvallisuus.com
 kansan-pankki.com
 kansanpankki.com
+kanta-kansalainen-tunnistus.info
 kanta-suomi.com
 kanta-viesti.info
 kantakanta.co.uk
@@ -4378,6 +4388,7 @@ kasinotilmanrekisterointia.net
 kasinotilmanrekisteroitymista.co
 kasinotilmanrekisteroitymistajalisenssia.com
 kasinotilmansuomenlisenssia.net
+kasinotsuomenlisenssilla.fi
 kasinotsuomi.co
 kasinovalvonta.xyz
 kasinoviesti.com
@@ -4756,6 +4767,7 @@ laya-helsinki.com
 layerhelsinki.xyz
 lazura-helsinki.com
 le-creusot-insoumis.fr
+leadrobustfinland.com
 leadsifyasiakas.com
 leadsifysuomi.com
 lecfinland.art
@@ -5551,6 +5563,7 @@ mobilepaymentslatam.com
 mobilepaymentsmart.xyz
 mobilepaymentsolutions679508.icu
 mobilepaymentsservice.com
+mobilepaymentterminal.com
 mobilepaymenttoolinstant.xyz
 mobilepaynetworks.com
 mobilepaynow.com
@@ -7367,6 +7380,7 @@ robothelsinki.fi
 robothelsinki.xyz
 robotitsuomi.com
 robotsfinland.com
+robustfinland.com
 rocketcasinosuomi.com
 rockport-suomi.com
 rockrothsuomi.com
@@ -10510,6 +10524,7 @@ turvalen.bond
 turvaleno.space
 turvalenquoria.com
 turvalex.shop
+turvalinealgus.ee
 turvalinekonto.info
 turvalineravim.com
 turvalio.pro
@@ -10881,6 +10896,7 @@ velvero-style.com
 velvero-team.com
 vend-torin-turvallisuus.icu
 vendingfinland.online
+venirenfinlande.com
 venla-helsinki.com
 venum-finland.com
 venumfinland.com
@@ -11084,6 +11100,7 @@ vero-lights.com
 vero-line.store
 vero-lingua.com
 vero-linguista.com
+vero-link.com
 vero-linkki.life
 vero-live.com
 vero-living.com
@@ -11111,6 +11128,7 @@ vero-modaeinkaufen.com
 vero-modano.com
 vero-modaverkauf.com
 vero-monvexia.com
+vero-motion.co.uk
 vero-motion.com
 vero-n-co.net
 vero-na.ru
@@ -11569,6 +11587,7 @@ wecoya-finland.com
 wedkarskafinlandia.com.pl
 wedkarskafinlandia.pl
 weedinfinland.com
+wefifinland.com
 welcometofinland.net
 wellasiakashmir.com
 wellensteynfinland.com
