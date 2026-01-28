@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 27/01/2026 08:00 UTC
+# Last modified: 28/01/2026 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -844,6 +844,7 @@ brestinsoumise.fr
 briansuomela.win
 bridgehelsinki.xyz
 bridgestonesuomi.com
+britankotipalveluky.com
 brixtonsuomis.com
 bromo77leviesta.site
 brookssuomioutlet.com
@@ -2614,6 +2615,7 @@ haimoonmoottorihuolto.com
 hairtodaysuomi.com
 haittarekisteri.com
 haixsuomi.com
+hakkuupalvelu-sjoberg.com
 hakupalvelu.fi
 halla-helsinki.com
 hallintopalvelut-vayla.fit
@@ -3223,6 +3225,7 @@ helsinkiassistant.xyz
 helsinkiauth.xyz
 helsinkiautomation.xyz
 helsinkiautonomous.xyz
+helsinkiavustaja.com
 helsinkibachatablast.com
 helsinkibags.com
 helsinkiballet.com
@@ -3924,6 +3927,7 @@ ignicasino-suomi.com
 ihnfinland.info
 ihor-finland.net
 ihzfinland.icu
+iiptvfinland.com
 iisiviisisuomi.com
 ikeasuomi.com
 ikkunahelsinki.com
@@ -4694,6 +4698,7 @@ lahtapiolaoyj.com
 laillisetkasinotsuomessa.com
 laina-suomi.com
 lainaa-laskuihin-finland.bond
+lainapalvelu.com
 lainaturva.com
 laine-helsinki.com
 lainehelsinki.com
@@ -6493,6 +6498,7 @@ online-bank-accounts-for-finland.today
 online-finland-casino.com
 online-finlandcasino.com
 online-games-finland.com
+online-helsinki.website
 online-kirjaudu.sbs
 online-mobiili.com
 online-omakanta.com
@@ -7134,6 +7140,7 @@ puhdistuspalvelulilly.com
 puhdistuspalveluloiste.fi
 puheterapiapalvelutiiris.fi
 puhutaansuomea.com
+pukkilan-traktorihuolto-oy.com
 puma-finland.com
 puma-suomi.com
 pumafi-suomi.com
@@ -7191,6 +7198,7 @@ qmobiilitzya.life
 qmobiiliy.cc
 qmobiiliztya.life
 qowfinland.mom
+qqpalvelut.fi
 qrmobilepay.com
 qsfinland.com
 qtrfinland.net
@@ -7313,6 +7321,7 @@ reppufinland.com
 residenssipalvelu.com
 restakefinland.xyz
 restakingfinland.xyz
+restockssuomi.com
 reterveystalo.com
 retrohelsinki.fi
 returvaluta.com
@@ -7645,6 +7654,7 @@ sastamalanpalvelukiinteistot.fi
 sastamalantaksipalvelu.fi
 satakunnanautohuolto.fi
 sataturva.online
+saterihoivapalvelut.com
 satisfyrunningsuomi.com
 satorifinland.fi
 satorikoulutuspalvelut.fi
@@ -7658,6 +7668,7 @@ saucony-suomi.com
 sauconysuomi.com
 sauconysuomioutlet.com
 saudifinland.com
+saukonsiivouspalvelut.fi
 sauna-finlandesa.cfd
 sauna-finlandesa.com
 sauna-manufacturers-finland-146688915.today
@@ -8231,6 +8242,7 @@ soumissionqc.com
 soumissionreno.com
 soumissionrenoplus.ca
 soumissionrenoplus.com
+soumissionrenovaction.ca
 soumissionresidentielle.ca
 soumissionresidentielle.xyz
 soumissionrsa.ca
@@ -9284,6 +9296,7 @@ suomiguide.com
 suomihauskapeli.site
 suomiherald.com
 suomihillsflowerfarm.com
+suomihotellikasino.xyz
 suomihotellit.com
 suomihotelsfinder.com
 suomihub.com
@@ -10742,6 +10755,7 @@ uwattshelsinki.com
 uwellsuomi.com
 uwinvapesuomi.com
 uxzfinland.skin
+uygurkulturvakfi.org
 uzmanklinikpsikologatakantaskiran.com
 vaasa-autopalvelut.com
 vaasanaluetyoterveys.fi
@@ -10997,6 +11011,7 @@ vero-commodi.site
 vero-comtacrea.com
 vero-con.com
 vero-contract.com
+vero-core.com
 vero-corp.com
 vero-cosmetics.ch
 vero-couture73.com
