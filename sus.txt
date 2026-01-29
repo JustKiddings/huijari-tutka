@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 28/01/2026 08:00 UTC
+# Last modified: 29/01/2026 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -854,6 +854,7 @@ btcfinland.xyz
 btchelsinki.com
 btchelsinki.xyz
 btkfinland.store
+btksuomi.fi
 btksuomi.online
 btnsmobilepayment.com
 btrfinland.com
@@ -1625,6 +1626,7 @@ elina-butiikki-helsinki.com
 elina-helsinki.com
 elinabutiikkihelsinki.com
 elinahelsinki.com
+elisaoyj.shop
 elisaviesta.com
 elisaviesta.org
 elise-helsinki.com
@@ -1711,6 +1713,7 @@ escortservice-in-finland.xyz
 escortshelsinki.com
 esfinland.com
 eshelsinki.org
+esifinland.com
 esnhelsinki.com
 esnhelsinki.org
 esoumi.com
@@ -2037,6 +2040,7 @@ finlandfx.xyz
 finlandgamblingtips.com
 finlandgame.com
 finlandgame.xyz
+finlandgames.com
 finlandgas.xyz
 finlandgo.com
 finlandgpt.xyz
@@ -2069,6 +2073,7 @@ finlandil.website
 finlandinamerica.com
 finlandinfo.xyz
 finlandinfra.com
+finlandinvest.com
 finlandinvestors.shop
 finlandisverige.com
 finlandisverige.org
@@ -2460,6 +2465,7 @@ gargantoonz-finland.org
 garviestate.com
 gasfinland.xyz
 gashelsinki.xyz
+gaspsuomi.com
 gatewayfinland.xyz
 gatewayhelsinki.xyz
 gatorade-suomi.com
@@ -2657,6 +2663,7 @@ hausschuhe-suomi.shop
 haustierbedarf-suomi.shop
 hautauspalvelujarvenpaa.fi
 hautauspalvelut.online
+hautauspalveluttampere.com
 havenhelsinki.com
 hbfsuomine.info
 hbsuomei.com
@@ -3847,6 +3854,7 @@ huoltoneuvonta.com
 huoltoneuvonta.fi
 huoltoon.com
 huoltoon.fi
+huoltopalvelu-avettainen.com
 huoltopalvelu-monitoimi.com
 huoltopalvelutvepe.com
 huoltopalveluvahis.fi
@@ -3902,6 +3910,7 @@ icebugfinland.com
 icecubefinland.com
 icedrivingfinland.com
 icedrivingfinland.online
+icefishing-app-finland.com
 icepeak-suomi.com
 icepeakfinland.com
 icepeaksuomi.com
@@ -4930,7 +4939,17 @@ lostmarysuomi.com
 lot-helsinki-sauna-870970932.world
 lotteryfinlandia.com
 lounas-helsinki.com
+louneapalvelut.com
+louneapalvelut.org
 loungehelsinki.fi
+lounia-palvelu.com
+lounia-palvelu.org
+lounia-palvelut.com
+lounia-palvelut.org
+louniapalvelu.com
+louniapalvelu.org
+louniapalvelut.com
+louniapalvelut.org
 lovana-helsinki.com
 lovehelsinki.com
 lovelyhelsinki.com
@@ -5647,6 +5666,7 @@ moovyfi.com
 moovyglobal.com
 moovyi.com
 moovymed.com
+moovynstore.com
 moovyo.com
 moovyo.tech
 moovyou.com
@@ -5733,6 +5753,7 @@ musiikkipalveluikaheimo.fi
 muutotsuomeen.fi
 muuttohelsinki.com
 muuttopalvelutampere.fi
+mvppalvelut.fi
 mxgpfinland.fi
 mxmobilepay.website
 mxofinland.watch
@@ -5790,6 +5811,7 @@ naisten-leggingsit-maailma.shop
 naisten-puvut.shop
 naisten-sadetakki.shop
 naisten-vaatteet.shop
+naistenadal.ee
 naistenasustenuutinen.com
 naistenhuivit-design.shop
 naistenkauppa.fi
@@ -6176,6 +6198,7 @@ offerspankkitax.icu
 office-cleaner-finland.bond
 official-casino-finland.biz
 official-casino-finland.lat
+offinland.fi
 offlinefinland.com
 oh-pollysuomi.com
 ohefinland.bar
@@ -6688,6 +6711,7 @@ palveluilmoitus-smobilii.com
 palveluilmoitus-smobilii.site
 palvelukanta.com
 palvelukassi.com
+palvelukauppa.fi
 palvelukeskusvaahtera.com
 palvelukseensatalli.xyz
 palveluliikenne.com
@@ -7061,6 +7085,7 @@ premiumfinland.xyz
 premiumhelsinki.xyz
 prestigehelsinki.com
 previestatementau.info
+prh-asiakaspalvelu.fi
 prh-suomi.com
 prhsuomi.com
 price-saunas-finland-733676498.zone
@@ -7237,6 +7262,7 @@ rajoittamatonsuomi.com
 rakennusjahuoltopalvelukakela.com
 rakennuspalvelu-m-ahonen-tmi.com
 rakennuspalvelu-p-vahatalo.com
+rakennuspalvelujussikangasniemi.fi
 rakennuspalvelukallioharju.com
 rakennuspalvelukellmanoy.com
 rakennuspalvelukorpinen.com
@@ -7314,6 +7340,7 @@ relocatefinland.com
 remonttimiespalvelut.online
 remulankiinteistojakotipalvelut.com
 renkaanvaihtohelsinki.fi
+renosoumissions.com
 rentedinfinland.com
 rentohelsinki.com
 repettosuomi.com
@@ -8196,6 +8223,7 @@ soumission-thermopompe.com
 soumission.ai
 soumission.construction
 soumission.pro
+soumission360.com
 soumissionalamaison.com
 soumissionario.com.br
 soumissionassurance.online
@@ -8251,6 +8279,7 @@ soumissions-auto.ca
 soumissions-courtier.com
 soumissions-travaux-quebec.com
 soumissions.ai
+soumissions360.com
 soumissionsalamaison.com
 soumissionsarchitecte.ca
 soumissionsarmoiresdecuisine.ca
@@ -8279,6 +8308,7 @@ soumissionspoutrelleschevrons.ca
 soumissionspro.com
 soumissionsqc.com
 soumissionsrefinancement.ca
+soumissionsreno.com
 soumissionsrenoplus.com
 soumissionsrenovation.com
 soumissionsrevetementinterieur.ca
@@ -9853,6 +9883,7 @@ taoyj.com
 tapahtumasuomi.net
 tapmobilepay.com
 tappmobilepay.com
+taproad-app-finland.com
 targussuomi.com
 tarimatec-finland.com
 tarjouksenasuomi.com
@@ -10965,6 +10996,7 @@ vero-aliquam.com
 vero-aliquid.com
 vero-allaite.com
 vero-amara.com
+vero-analytics.com
 vero-and-co-expertise.com
 vero-apartments.com
 vero-api.com
@@ -11399,6 +11431,8 @@ viestit-suomifi.site
 viestit.info
 viestit.one
 viestitse-suomi.site
+viewgroupfinland.com
+viewgroupsuomi.com
 vifonsuomi.com
 vignettefinland.com
 vigneuxinsoumise.fr
@@ -11657,6 +11691,7 @@ workofsoumik.com
 worksfinland.com
 workshophelsinki.com
 worldfinland.xyz
+worldoftomoffinland.com
 worxsuomi.com
 wotofosuomi.com
 wovenoffinland.com
