@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 29/01/2026 08:00 UTC
+# Last modified: 30/01/2026 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -1065,6 +1065,7 @@ citytours-finland.net
 cjbfinland.top
 ckbfinland.digital
 ckmfinland.fi
+clarionhelsinki.tech
 clarityrpsuomi.com
 clarkseusuomi.com
 clarksshoesfinland.com
@@ -1513,6 +1514,7 @@ dviestates.com
 dwgfinland.com
 dxcfinland.info
 dynastyhelsinki.com
+e-finland.website
 e-fortum.ru
 e-makantasis.com
 e-makantasis.gr
@@ -4940,15 +4942,20 @@ lot-helsinki-sauna-870970932.world
 lotteryfinlandia.com
 lounas-helsinki.com
 louneapalvelut.com
+louneapalvelut.net
 louneapalvelut.org
 loungehelsinki.fi
 lounia-palvelu.com
+lounia-palvelu.net
 lounia-palvelu.org
 lounia-palvelut.com
+lounia-palvelut.net
 lounia-palvelut.org
 louniapalvelu.com
+louniapalvelu.net
 louniapalvelu.org
 louniapalvelut.com
+louniapalvelut.net
 louniapalvelut.org
 lovana-helsinki.com
 lovehelsinki.com
@@ -5179,6 +5186,7 @@ matkahuolto-paketti-93740814.top
 matkahuolto-paketti-99153292.top
 matkahuolto-paketti.top
 matkahuolto.click
+matkahuolto.cloud
 matkahuolto.email
 matkahuolto.sbs
 matkahuolto.top
@@ -5328,6 +5336,7 @@ minaistent.se
 minilovefinland.com
 miningfinland.xyz
 mininghelsinki.xyz
+mininglawfinland.com
 minna-helsinki.com
 minordeals.com
 minorityhelsinki.com
@@ -5373,6 +5382,7 @@ mobiili-elakkeela.com
 mobiili-elakkeella-kampanja-fi.com
 mobiili-elakkeella.com
 mobiili-elakkella-fi.com
+mobiili-fi-kampanja-elakkeellacom.com
 mobiili-fi-kampanja.com
 mobiili-fi-spankki.com
 mobiili-kammpanja-fi.com
@@ -6131,6 +6141,8 @@ northhelsinki.com
 norway-sweden-finland-holiday-package.today
 noshit-nikotiinipussit.com
 nostojasiirtopalvelu.com
+nostopalvelu.com
+nostopalvelu.link
 notimobilepay.com
 notyopappyscookin.com
 notyopappyscookin.net
@@ -8059,6 +8071,7 @@ soumiaimmobilier.com
 soumiam.com
 soumiamaachi.info
 soumiamekkaoui.com
+soumiamezari.com
 soumiamichelcesizencda.online
 soumiao.net
 soumiapp.com
@@ -8209,6 +8222,7 @@ soumission-asdm.com
 soumission-assurance-moto.net
 soumission-assurance.com
 soumission-assurances.com
+soumission-electricien.com
 soumission-fenentres-1.online
 soumission-fenentres-2.online
 soumission-inspecteur.com
@@ -8639,6 +8653,7 @@ suomeitai.com
 suomeite.cn
 suomeitu.com
 suomeiyuan.com
+suomeksi.app
 suomeksi.fi
 suomeksi.net
 suomeksilightingroul.online
@@ -9792,6 +9807,7 @@ suomiwonderapp.xyz
 suomiworldstore.com
 suomix.xyz
 suomiyhteystiedot.com
+suomiyrl.com
 suomiz.com
 suomizo.com
 suoratoistopalvelu.net
@@ -10646,6 +10662,7 @@ turvavalvonta.com
 turvaviesti-asiakas.fi
 tutkisuomea.com
 tutti-sensuomi.com
+tuttovero-systems.ru
 tuulenvirepalvelut.com
 tuuli-helsinki.com
 tuuliajarvisuomi.fi
@@ -11161,6 +11178,8 @@ vero-mall.com
 vero-manager.site
 vero-manager2.com
 vero-matunga.info
+vero-matungaeast.com
+vero-matungasales.com
 vero-med.ru
 vero-media.net
 vero-mgmt.com
@@ -11272,6 +11291,7 @@ vero-tietosi.com
 vero-todentaminen.xyz
 vero-token.com
 vero-token.site
+vero-tour.com
 vero-trade.com
 vero-transcription.com
 vero-transport.com
