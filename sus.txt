@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 01/02/2026 08:00 UTC
+# Last modified: 02/02/2026 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -569,6 +569,7 @@ avero-living.com
 avero-marketing.com
 avero-marketing.online
 avero-marketing.store
+avero-media.ru
 avero-melbourne.com
 avero-mio.ru
 avero-mode.co.uk
@@ -1068,6 +1069,7 @@ cityofhelsinki.com
 cityopal.com
 citytours-finland.com
 citytours-finland.net
+citytripfinland.com
 cjbfinland.top
 ckbfinland.digital
 ckmfinland.fi
@@ -2296,6 +2298,7 @@ footurf-finland.com
 forestexperiencefinland.com
 forexpankki.xxx
 forgedinfinland.com
+forgetmenot-finland.com
 forhelsinkilovers.com
 formulasoumilionaria.site
 fortum-capital.com
@@ -3863,6 +3866,7 @@ huolto.plus
 huoltoa.com
 huoltoapu.com
 huoltoasennushellsten.com
+huoltocafenimotkahvipalvelut.fi
 huoltoexpress.com
 huoltohelp.fi
 huoltohelppi.com
@@ -3871,6 +3875,7 @@ huoltokalenteri.com
 huoltokanta.com
 huoltokanta.net
 huoltokaveri.com
+huoltokytkin.com
 huoltolaukku.com
 huoltolepisto.fi
 huoltomaalaus.net
@@ -4657,6 +4662,7 @@ kotipalvelunp.net
 kotipalveluruuthanne.fi
 kotipalvelusarastus.fi
 kotisiivouspalvelut.fi
+kotisuomi.com
 koulutuspalvelut.com
 kpalvelusavo.com
 kpalvelusavo.net
@@ -5366,6 +5372,7 @@ millasuominenoy.com
 millhelsinki.com
 millikulturvakfi.com
 millo-suomi.com
+mina-clavero-hotels.com
 minaistent.org
 minaistent.se
 minilovefinland.com
@@ -5906,6 +5913,7 @@ naturval.fr
 naturval.net
 naturvalencia-news.com
 naturvalet.com
+naturvallentuna.se
 navero-cup.com
 navero-official.com
 nayteikkuna-verkkopeleihin-suomessa.buzz
@@ -6245,6 +6253,7 @@ occupationalhealthfinland.com
 ocsfinland.com
 odfinland.shop
 oeofinland.watch
+oesvpalvelut.com
 of-suomi.com
 offer-finland.com
 offersfinland.com
@@ -6352,6 +6361,7 @@ oma-foods.com
 oma-france.bio
 oma-free.online
 oma-free.ru
+oma-funds.com
 oma-gaming.com
 oma-germana.at
 oma-gisis-german-bakery.com
@@ -6365,6 +6375,7 @@ oma-hilft.com
 oma-hk.com
 oma-holdings.com
 oma-home.ru
+oma-homebuyers.com
 oma-hub.com
 oma-ilse.de
 oma-insurance.com
@@ -7487,6 +7498,7 @@ rockysuomi.com
 rollupfinland.xyz
 rolluphelsinki.xyz
 rolmako-finland.com
+romavero.xyz
 roobet-finland.com
 roomhelsinki.com
 rootedinfinland.com
@@ -7964,6 +7976,7 @@ skannauspalvelu.fi
 skatingfinland.com
 skcfinland.info
 skechersoutletssuomi.com
+skillviesta.in
 skilsuomi.com
 skimssuomi.com
 skin-treatment-oyj.sbs
@@ -8189,6 +8202,7 @@ soumikd4.tech
 soumike.com
 soumikejidxf.cn
 soumikfactify.site
+soumikghosh.in
 soumikmanna.com
 soumikmanna.in
 soumikmanna2441139.shop
@@ -8750,6 +8764,7 @@ suomencaravanhuolto.fi
 suomencotonit.com
 suomendcoy.com
 suomendiilit.com
+suomenduunaripalvelu.com
 suomenedulliset.com
 suomenekonomiliitto.fi
 suomenetalaakarit.com
@@ -10575,6 +10590,7 @@ tukiyhteydet-suomi.site
 tukiyhteys-suomi.site
 tullifinland.com
 tulospalvelu.online
+tulostinpalvelu.fi
 tuninstus-kirjaudu.com
 tunnelmanhuolto.net
 tunneyhteys.com
