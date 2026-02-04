@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 03/02/2026 08:00 UTC
+# Last modified: 04/02/2026 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -581,6 +581,7 @@ avero-research.com
 avero-rest.ru
 avero-review.com
 avero-shop.com
+avero-smart.com
 avero-technik.ch
 avero-watches.com
 aviesta.com.mx
@@ -685,6 +686,8 @@ belano-helsinki.com
 belianisuomi.com
 belkinfinland.com
 belkinsuomi.com
+bellahelsinki.com
+bellavero-milano.com
 belleinsoumise.com
 belleviestationery.com
 beloylyhelsinki.com
@@ -1136,6 +1139,7 @@ comityopayment.com
 comly-helsinki.com
 comme-des-garconssuomi.com
 comparefinland.com
+compassgroupfinland.com
 comvero-group.ru
 concresoumiixconcret.shop
 conference-hotel-helsinki-456239310.today
@@ -1234,6 +1238,7 @@ culturvate.co.uk
 culturvate.online
 culturvated.life
 culturvatedchef.com
+culturvating.com
 culturvations.com
 culturvations.online
 culturvator.org
@@ -2153,6 +2158,7 @@ finlandplayzone.com
 finlandpool.xyz
 finlandporn.xyz
 finlandpothpiyasa.com
+finlandpress.com
 finlandpro.xyz
 finlandpublic.xyz
 finlandquality.uk
@@ -2216,6 +2222,7 @@ finlanduniversity.fi
 finlandvacancies.com
 finlandvacancy.com
 finlandvacay.com
+finlandventures.com
 finlandverify.com
 finlandview.xyz
 finlandvpn.xyz
@@ -7744,6 +7751,8 @@ samsonitesuomi.com
 san-vero-milis.my.id
 sandqvistsuomi.com
 saneerauspalvelu.fi
+saneerauspalvelusalmi.com
+saneerauspalvelutsalmi.com
 sanni-helsinki.com
 sanrio-suomi.com
 sanriokauppasuomi.com
@@ -8459,6 +8468,7 @@ soumitrafurniture.com
 soumitrakanungo.com
 soumitrakonar.me
 soumitralab.com
+soumitrarajesh.fr
 soumitrasaha.com
 soumitrasarkar.com
 soumitrasingha.com
@@ -9444,6 +9454,7 @@ suomihub.com
 suomihublucky.com
 suomihuhut.com
 suomii-fi.com
+suomii-v3.info
 suomii.sbs
 suomii.site
 suomii.xyz
@@ -9564,6 +9575,7 @@ suomimobilisa.com
 suomimobilissi.com
 suomimoe.com
 suomimonky.com
+suomimosambikseura.org
 suomimpod.com
 suomimuoti.store
 suomimystica.com
@@ -9721,6 +9733,7 @@ suomisilver.com
 suomisinkut.com
 suomisk8fam.net
 suomisk9.com
+suomislot.store
 suomislotsfi.com
 suomislotsfin.com
 suomislotsplay.com
@@ -10265,6 +10278,7 @@ thermisuomi.org
 thermomixsuomi.com
 thermosfinland.com
 thermossuomi.com
+thesoumiscanproduct.bd
 thespinsuomi.com
 thestudiohelsinki.com
 thesuomiexperience.online
