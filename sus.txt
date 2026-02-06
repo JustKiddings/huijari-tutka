@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 05/02/2026 08:00 UTC
+# Last modified: 06/02/2026 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -430,6 +430,7 @@ asiakashankintaoy.com
 asiakasino.net
 asiakasmagneetti.com
 asiakasmestarit.com
+asiakaspalkinnot-elisa.info
 asiakaspalvelu-dan.online
 asiakaspalvelu-dansk-fi.com
 asiakaspalvelu-mobil.fi
@@ -447,6 +448,7 @@ asiakaspalvelut-suomi.site
 asiakaspalveluyhteystiedot.com
 asiakasrekisteri.fi
 asiakassivut.online
+asiakassuora.com
 asiakastarina.fi
 asiakastarinat.fi
 asiakastarjous.com
@@ -754,6 +756,7 @@ bfgoodrichsuomi.com
 bfinland.cn
 bfinland.top
 bgifinland.info
+bhargaviestate.com
 bhcfinland.info
 bhelsinki.com
 biccfinland.org
@@ -869,6 +872,7 @@ britankotipalveluky.com
 brixtonsuomis.com
 bromo77leviesta.site
 brookssuomioutlet.com
+brukhelsinki.com
 bsuomineai.fun
 btbpalveluoy.com
 btcfinland.xyz
@@ -2073,6 +2077,7 @@ finlandfoward.com
 finlandfractional.xyz
 finlandfractionalize.xyz
 finlandfreeslots.com
+finlandfurniture.com
 finlandfutsal.com
 finlandfutures.com
 finlandfx.xyz
@@ -2164,6 +2169,7 @@ finlandopen.xyz
 finlandpass.com
 finlandpay.xyz
 finlandpi.com
+finlandpilates.com
 finlandplaces.online
 finlandplays.com
 finlandplayzone.com
@@ -2175,6 +2181,7 @@ finlandpro.xyz
 finlandpublic.xyz
 finlandquality.uk
 finlandquantum.xyz
+finlandquartz.com
 finlandquick.xyz
 finlandrehabs.com
 finlandremigrants.fi
@@ -2294,6 +2301,7 @@ fivora-helsinki.com
 fix-delivero-ae.com
 fix-delivero-kw.com
 fixerhelsinki.com
+fixwheelsuomi.com
 fl-trafcom.info
 flame-finland.com
 flamez-suomi.com
@@ -2705,6 +2713,7 @@ harlo-helsinki.com
 harlowmobilepay.info
 harpersbazaarfinland.com
 harrietolivero-chapman.com
+harsopalvelut.fi
 hashhelsinki.xyz
 hatas-helsinki.com
 hatssoumi.site
@@ -4497,6 +4506,7 @@ katsuomi.co.uk
 kattilahuolto.com
 kattohuoltokaipainen.fi
 kattohuoltosi.com
+kattoremontti-helsinki.fi
 kattoremonttihelsinki.fi
 kattoturvapiste.com
 katzenfutter-suomi.shop
@@ -5357,6 +5367,7 @@ metsapalvelu.net
 metsapalvelu.pro
 metsapalveluhalla.fi
 metsapalvelukallio.fi
+metsapalvelukiviranta.fi
 metsapalvelut.fi
 metsastyspalvelut.com
 metsurin-valine-huolto-ja-muu-apu.com
@@ -6823,6 +6834,7 @@ pakkosuomea.xyz
 pakupalvelu.fi
 palasuomi.ru
 palfinlands.com
+palkintotiimi-elisakirjaudu.info
 palkkiopalvelu.fi
 palladiumkengatsuomi.com
 palladiumskengatsuomi.com
@@ -7173,6 +7185,7 @@ poppankki-fi.com
 poppankki-viestini.com
 poppankki.cfd
 porinalituspalvelu.com
+porinpalveluilo.com
 porinsuomalainenpalvelukotiyhdistys.fi
 pornaistentietokonehuolto.com
 poro10finland.com
@@ -7394,6 +7407,7 @@ rafinland.com
 raflahuolto.com
 ragwearfinland.com
 ragweartakkisuomi.com
+rahapelit-ilman-rekisterointia.com
 rahasuomi.fi
 raidfinland.com
 railstockfinland.com
@@ -8249,6 +8263,7 @@ soumidiaay.net
 soumidiaay.org
 soumidiaaye.com
 soumidutt.design
+soumidutt.in
 soumieinkaufen.com
 soumieru.com
 soumiesol.xyz
@@ -8285,6 +8300,7 @@ soumikmanna2441139.shop
 soumikmanna2441139.xyz
 soumikpatra.com
 soumikpatra.xyz
+soumikpaul.in
 soumiks.com
 soumiksarker.com
 soumiktarafdar.com
@@ -8769,6 +8785,7 @@ styleksuomi.com
 styopa.xyz
 styopam.photography
 styopamakes.com
+styopandnare.us
 subfinland.org
 sudansuomiszilard.sbs
 sudokufinland.fi
@@ -9132,6 +9149,8 @@ suomenvuokramestaritoy.com
 suomenvuokramestaritoy.info
 suomenwebpalvelut.fi
 suomenwh.com
+suomenyatzykerho.fi
+suomenyatzyseura.fi
 suomenyksityisetsivat.com
 suomenymparistopalvelu.fi
 suomenyrityshaku.fi
@@ -9358,6 +9377,7 @@ suomibest.com
 suomibestexperience.com
 suomibestreviews.com
 suomibetmaster.com
+suomibetmaster.vip
 suomibetsfi.com
 suomibetswin.com
 suomibettimaster.com
@@ -9530,6 +9550,7 @@ suomijackpot.info
 suomijackpot360.com
 suomijackpot365.com
 suomijackpot365.games
+suomijackpot365.vip
 suomijoki.fi
 suomijordan.com
 suomijulkkikset.com
@@ -9683,6 +9704,7 @@ suomipalvelutfi.com
 suomipan.club
 suomipano.fi
 suomiparaspaikat.com
+suomiparhaat20.vip
 suomiparhaatgames.games
 suomiparturit.com
 suomipeli-fi.com
@@ -9712,6 +9734,7 @@ suomipirtti.org
 suomipizza.com
 suomiplanetefi.com
 suomiplay.live
+suomiplaygo.com
 suomiplaymap20.games
 suomiplaymate.com
 suomiplays.com
@@ -9892,6 +9915,7 @@ suomitodennus.com
 suomitodennus.info
 suomitop.games
 suomitop20.com
+suomitop20.vip
 suomitop24.games
 suomitopaurora.com
 suomitopchance.games
@@ -10031,6 +10055,7 @@ syotteentaksipalvelu.fi
 syotteentaksipalvelut.fi
 syruphelsinki.com
 syvellssuomi.com
+syvempiterveys.fi
 t-mobilepay.forum
 tahkonhinauspalvelu.com
 tahtaimessaterveys.com
@@ -10469,6 +10494,7 @@ top10nettikasinotsuomi.com
 top10suomi.com
 top10suomi.education
 top10suomi2k.com
+top15suomi.vip
 top20-suomi.com
 top20finland.com
 topcasino-helsinki.com
@@ -11019,6 +11045,7 @@ vahvistaakaa.info
 vahvistaheti.com
 vahvistajatuotteet.com
 vahvistajatuotteet.fi
+vahvistaminen-verkossa.net
 vahvistasuomi.com
 vahvistathan.info
 vahvistavacoach.com
@@ -11083,6 +11110,7 @@ valvonte.com
 valvonzandesk.com
 vandoeuvre-insoumise.fr
 vanityopal.site
+vankkurihuolto.com
 vanlaackoutletsuomi.info
 vanlayhteys.com
 vanssuomi.biz
@@ -11322,6 +11350,7 @@ vero-guard.com
 vero-gusto.ch
 vero-gusto.com
 vero-haus.store
+vero-henkiloasiakkaat.fi
 vero-holding.com
 vero-homecare.com
 vero-homecare.net
@@ -11739,6 +11768,7 @@ vivahvisions.com
 vivahvista.com
 vivahvistaar.com
 vivahvisual.com
+vivahvisuals.com
 vivaiafinland.com
 vivaiaisuomi.com
 vivaiasuomi-fi.com
