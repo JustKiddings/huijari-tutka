@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 09/02/2026 08:00 UTC
+# Last modified: 10/02/2026 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -495,6 +495,7 @@ asuomitv.com
 atakantaga.art
 atakantaga.com
 atakantaktikal.com
+atakantarkan.com
 ataraxterveyspalvelu.shop
 ateafinlandoy.online
 atelier-vero-creation.fr
@@ -867,6 +868,8 @@ braheankiinteistopalvelut.com
 brand-helsinki.com
 brandonbarsoumian.com
 brandvero-dynmics.com
+bratz-suomi.com
+bratzsuomi.com
 breezevapesuomi.com
 breezevapesuomi.net
 brestinsoumise.fr
@@ -1215,6 +1218,7 @@ costadelmarsuomi.com
 cotopaxisuomi.com
 cottagefinland.com
 cottageinfinland.com
+couponordeals.com
 couponordealz.com
 courtyardtamperecityfinland.com
 covero-baufinanzierung.de
@@ -1310,6 +1314,7 @@ datafinland.xyz
 datahelsinki.xyz
 datakantar.com
 datapalvelut.net
+datasuomeen.fi
 datasuomi.fi
 datavero-insight.info
 dattasoumitra.com
@@ -1430,6 +1435,7 @@ dfyne-suomi.com
 dfynegymsuomi.com
 dfynesuomi-fi.com
 dfynesuomi.fi
+dfynesuomifi.com
 dfynesuomikauppa.com
 dfynesuomishop.com
 dgcsvsuomi.info
@@ -1949,6 +1955,7 @@ fiasiakaspalvelu.com
 ficassuomi.com
 fiddledfylfotsfinland.sbs
 fifinpalvelu.xyz
+fiilishierontapalvelut.fi
 fiksusuomi.com
 fila-helsinki.com
 filadisruptorsuomi.com
@@ -2018,6 +2025,7 @@ finlandais.site
 finlandapartment.com
 finlandapi.xyz
 finlandapp.xyz
+finlandapps.com
 finlandapps.xyz
 finlandar.xyz
 finlandartretreats.com
@@ -2673,6 +2681,7 @@ groominghelsinki.com
 grouperenault-kantar.com
 grupoagrooyj.com
 gskiinteistohuolto.fi
+gslotfinland.com
 guessoutletfinland.com
 guesssuomi.com
 guidesuomi.com
@@ -3467,6 +3476,7 @@ helsinkifinlandguide.com
 helsinkifl.online
 helsinkiflow.com
 helsinkifoodguide.com
+helsinkifreetour.com
 helsinkifreetour.online
 helsinkifreetours.com
 helsinkifreewalkingtour.com
@@ -3755,6 +3765,7 @@ helsinkiweekend-ui15.top
 helsinkiweekly.com
 helsinkiwhale.xyz
 helsinkiwhisper.com
+helsinkiwinemeet.fi
 helsinkiwithrobbie.com
 helsinkiworks.com
 helsinkiwrapped.xyz
@@ -3904,6 +3915,7 @@ hstaxihelsinki.com
 hsuominemh.art
 htfinland.com
 htifinland.com
+htpienkonehuolto.fi
 httpsoumission-couriters.com
 httpsoumissioncouriters.com
 hturva.com
@@ -4384,6 +4396,7 @@ jpprakennuspalvelut.com
 jrafinland.com
 jsmokkihuolto.com
 jsterveys.fi
+jsuominen.xyz
 jsuominewi.fit
 jtpalvelut.com
 juhasuomela.com
@@ -4547,6 +4560,7 @@ kauneusjahyvinvointipalvelutjaanakotanen.com
 kaunissuomi.com
 kaupanvahvistaja.com
 kaupanvahvistajamikaloppi.com
+kaupanvahvistus.com
 kauppakassipalvelu.fi
 kauttuanrakennuspalvelu.fi
 kavero-equestrian.ch
@@ -5837,6 +5851,7 @@ moovyo.tech
 moovyou.com
 moovyourmind.com
 moovyoyj.com
+moovyrentalcar.com
 moovyrunblog.com
 moovyshoes.com
 moovysmart.com
@@ -6599,6 +6614,7 @@ oma-turvaviesti.net
 oma-und-opa-mieten.de
 oma-und-opa-tag.com
 oma-und-opa-tag.org
+oma-und-opa.cloud
 oma-unplugged.com
 oma-up.org
 oma-vergisst.at
@@ -6758,6 +6774,7 @@ onrunnersfinland.com
 onrunningsalesuomi.com
 oomi-mobiili.com
 oomimobiili.com
+oonisuomi.fi
 oooyj.top
 ooyj.casa
 op-asiakastuki.com
@@ -7257,6 +7274,7 @@ porttihuolto.com
 porvoonmuuttopalvelu.com
 porvoonpalvelutalo.store
 posidosuomi.com
+positiveeducationfinland.com
 possucasino-suomi.com
 possucasinosuomi.com
 posti-fi.com
@@ -7964,6 +7982,7 @@ scoutingfinland.com
 scuffer-suomi.com
 scufferssuomi.com
 sdartfinland.com
+sdpinternationalhelsinki.fi
 sdpyorahuolto.fi
 sdsuomei.com
 sdsuomeng.com
@@ -8441,6 +8460,7 @@ soumisa.com
 soumisastroworld.in
 soumisclasses.com
 soumiscollection.store
+soumise-a.fr
 soumise.ch
 soumise.fr
 soumise.net
@@ -9269,6 +9289,7 @@ suomi-choose.com
 suomi-connect.com
 suomi-delta.com
 suomi-design-works.com
+suomi-dfyne.com
 suomi-digital.com
 suomi-ebox.com
 suomi-eboxe.com
@@ -10099,6 +10120,7 @@ suomiyhteystiedot.com
 suomiyrl.com
 suomiz.com
 suomizo.com
+suorahakuhelsinki.fi
 suoratoistopalvelu.net
 super-finland.com
 superfinland.net
@@ -11340,6 +11362,7 @@ vero-amara.com
 vero-analytics.com
 vero-and-co-expertise.com
 vero-and-partners.com
+vero-and-partners.dev
 vero-and-partners.org
 vero-apartments.com
 vero-api.com
@@ -11726,6 +11749,7 @@ viesta.ru
 viesta.shop
 viesta.store
 viestat.com
+viestate-turkey.online
 viestation.site
 viesteja-suomi.com
 viesti-fi-sms.site
@@ -11855,6 +11879,7 @@ virtuaaliterveys.online
 virtualfinland.xyz
 virtualhelsinki.xyz
 visifinland.com
+visitahelsinki.com
 visitahelsinki.online
 visitfinland.eu
 visitfinland.online
