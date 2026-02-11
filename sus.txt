@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 10/02/2026 08:00 UTC
+# Last modified: 11/02/2026 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -21,6 +21,7 @@
 1go-casino-suomi5.ru
 1helsinki.xyz
 1moreroundfinland.com
+1stautopalvelut.fi
 1suomi.site
 1win-finland.com
 1win-finland.net
@@ -499,6 +500,7 @@ atakantarkan.com
 ataraxterveyspalvelu.shop
 ateafinlandoy.online
 atelier-vero-creation.fr
+atelierdelasoumission.fr
 atelieriohaapalahelsinki.com
 ateljeehelsinki.com
 ateriapalvelu.com
@@ -604,6 +606,7 @@ aviestatic.com
 aviestatic.tech
 avionlinsoumise.fr
 avoinhakemuspalvelu.com
+avtpalvelut.fi
 avustajapalvelu-arjen-ilo.com
 avustajapalvelu.com
 avuxipalvelut.com
@@ -1172,6 +1175,8 @@ conference-hotel-helsinki-456239310.today
 confortuma-shop.com
 connecta-finland.com
 connectivityfinland.com
+connectmobilepay.com
+connectmobilepayments.com
 connordearaujo.com
 consolidationloanshelsinki096785.icu
 contentinfinland.com
@@ -1624,6 +1629,7 @@ edunvalvontavaltakirja.org
 edunvalvontavaltuutus.net
 edunvalvontavaltuutus.org
 edusparkfinland.com
+ee-palvelut-ry.com
 eevi-helsinki.com
 eflfinland.xyz
 efqfinland.wiki
@@ -2012,6 +2018,7 @@ finland.org.au
 finland.org.il
 finland.org.tr
 finland0x.xyz
+finland2usa.com
 finland77.xyz
 finland88.com
 finland88.net
@@ -5062,6 +5069,7 @@ lomaosakepalvelut.fi
 lomaosakepalvelut.online
 lomasuomi.art
 lomasuomi.click
+lomasuomi.com
 lomaterveys.com
 london-finland-coach-tour-package-uk.sbs
 london-finland-train-holiday-deals-777.today
@@ -6226,6 +6234,7 @@ nomavero.com
 nomavero.info
 nomi-helsinki.com
 non-traite-soumission-ue.ch
+nonnaterapiapalvelut.com
 noofinland.guru
 noora-butiikki-helsinki.com
 noora-helsinki.com
@@ -6562,6 +6571,7 @@ oma-partners.com
 oma-pc.online
 oma-penny.com
 oma-pinheiros.com
+oma-pj.com
 oma-podcast.de
 oma-posti-fi.com
 oma-posti-fi.icu
@@ -7724,6 +7734,7 @@ s-mobiili-kampanja-fi-pankki.com
 s-mobiili-kampanja-fi-spankki.com
 s-mobiili-kampanja-fi-spankkii.com
 s-mobiili-kampanja-pankki-fi.com
+s-mobiili-pankki.info
 s-mobiili-pankkii-fi.com
 s-mobiili-wep.com
 s-mobiili.online
@@ -8516,6 +8527,7 @@ soumissioncourtier.ca
 soumissioncourtier.com
 soumissiondecourtier.com
 soumissiondemetal.com
+soumissiondirect.ca
 soumissiondirecte.ca
 soumissionelectricien.com
 soumissionenelectricite.ca
@@ -10174,6 +10186,7 @@ tahkonhinauspalvelu.com
 tahtaimessaterveys.com
 tahtipalvelutstjerna.fi
 tahtipolkukotipalvelut.fi
+taideturvapaikka.net
 taigatrekfinland.com
 taikapelitsuomessa.com
 taikurihelsinki.net
@@ -10852,6 +10865,7 @@ tunnistautuminen-suomi-fi-sivut-discovery-page.com
 tunnistautuminen-suomi-fi-sivut-discovery-page.mobi
 tunnistautuminen-suomi-fi-sivut-discovery-page.net
 tunnistautuminen-suomi-fi-sivut-discovery-page.org
+tunnistautuminen-suomi-fi.info
 tunnistautuminen-suomi.biz
 tunnistautuminen-suomi.com
 tunnistautuminen-suomi.mobi
@@ -10956,6 +10970,7 @@ turvallisuuskoordinaattori.com
 turvallisuusstudio.com
 turvallisuustilanne.xyz
 turvallisuusvarma.com
+turvallisuutta-op.info
 turvalo.com
 turvalo.info
 turvalodrina.ru
@@ -11004,6 +11019,7 @@ tuunnistaautumiinen-suomi-fi.online
 tuusulanhuolto-osa.fi
 tuvera-suomi.com
 tv-soumitiyu.com
+tvfinland.com
 twincasinofinland.com
 twinklingtoadstoolhelsinki.com
 tyhjennyspalveluhelsinki.fi
