@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 13/02/2026 08:00 UTC
+# Last modified: 14/02/2026 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -453,6 +453,7 @@ asiakaspalvelut-suomi.site
 asiakaspalveluyhteystiedot.com
 asiakasrekisteri.fi
 asiakassivut.online
+asiakassuhde.com
 asiakassuora.com
 asiakastarina.fi
 asiakastarinat.fi
@@ -548,6 +549,7 @@ autohuoltohyvinkaa.fi
 autohuoltokami.com
 autohuoltokami.net
 autohuoltokerava.fi
+autohuoltokeskus.com
 autohuoltomiksa.com
 autohuoltoon.com
 autohuoltoon.fi
@@ -1393,6 +1395,7 @@ delivero-fixdessertchocolatier.com
 delivero-fixdubaiae.com
 delivero-kw-fix.com
 delivero-o.icu
+delivero-qa.com
 delivero-qa.icu
 delivero-salt.com
 delivero-uae-chocolatier.com
@@ -2031,6 +2034,7 @@ finland.org.il
 finland.org.tr
 finland0x.xyz
 finland2usa.com
+finland4unsc.org
 finland77.xyz
 finland88.com
 finland88.net
@@ -2289,6 +2293,7 @@ finlandtrade.cn
 finlandtravel.store
 finlandultra.xyz
 finlanduniversity.fi
+finlandunsc.org
 finlandvacancies.com
 finlandvacancy.com
 finlandvacay.com
@@ -2685,6 +2690,7 @@ gptfinland.xyz
 gpthelsinki.xyz
 gqdsuomine.org
 graficheviesti.com
+grailsfinland.com
 gramonaamusefinland.com
 grandhansahotelhelsinki.com
 granfondohelsinki.com
@@ -3571,6 +3577,7 @@ helsinkijewels.com
 helsinkijs.com
 helsinkijuristi.com
 helsinkijuristi.org
+helsinkikasikirja.com
 helsinkikasino.com
 helsinkiknifeshow.com
 helsinkiknitwear.com
@@ -4263,12 +4270,14 @@ iptvsuomi.sale
 iptvsuomi.shop
 iptvsuomi.site
 iptvsuomi.store
+iptvsuomi.top
 iptvsuomi.vip
 iptvsuomi.xyz
 iptvsuomi4k.com
 iptvsuomi4k.shop
 iptvsuomi8k.com
 iptvsuomilive.com
+iptvsuomipro.com
 iptvsuomis.com
 iptvsuomitv.com
 iptvsuomivip.fi
@@ -4465,6 +4474,7 @@ kaiverruspalvelu.fi
 kaivinkonepalvelut.com
 kajfinland.info
 kalajoenkotipalvelu.fi
+kalastussuomi.com
 kalevanautopalveluhelsinki.com
 kamagra-finland247.com
 kamagra-finland247.store
@@ -4729,6 +4739,7 @@ kitchenaidsuomi.com
 kivaasuomessa.online
 kivihuolto.fi
 kivipankki.com
+kizik-finland.com
 kizuna-helsinki.com
 kizunahelsinki.com
 kkpapulaispalvelut.com
@@ -4793,6 +4804,7 @@ kotienhuoltopalvelu.com
 kotienpuolestakeskisuomi.fi
 kotihuolto.fi
 kotiinpalvelut.com
+kotijasiivouspalveluammat.com
 kotipalvelu-ilo-ja-onni.com
 kotipalvelufanni.fi
 kotipalveluilojaonni.com
@@ -4835,6 +4847,7 @@ kult-finland.org
 kultafinland.com
 kultapalvelu.com
 kultbet-finland.com
+kultcasino-finland.net
 kultfinland.com
 kultfinland.org
 kulturvakt.nu
@@ -5555,6 +5568,7 @@ misfinland.com
 misoumize.com
 missinternationalfinland.com
 misterlamp-helsinki.com
+mistersuomi.com
 misuomedia.com
 mitsubishiclubfinland.net
 mitsubishihelsinki.com
@@ -5717,6 +5731,7 @@ mobilepay.top
 mobilepay.website
 mobilepay24.com
 mobilepay24.net
+mobilepay5g.com
 mobilepayam.ir
 mobilepayandremit.com
 mobilepayappsda.info
@@ -6122,6 +6137,7 @@ netticasinosuomi.website
 netticasinotsuomi.online
 nettihuolto.net
 nettikasino-finland.com
+nettikasino-ilman-rekisterointia.com
 nettikasinosuomi.xyz
 nettikasinot-ilmanrekisteroitymista.com
 nettikasinot-suomessa.com
@@ -6243,6 +6259,7 @@ ninjafinland.com
 ninjasuomi.com
 ninkifinland.com
 nisantasiegitimkulturvakfi.online
+nitro-casino-finland.com
 nitro-finland.com
 nitrocasinosuomi.com
 nivakpankki.com
@@ -6461,6 +6478,7 @@ oliverinautohuolto.fi
 olivero-ai-vinci.art
 olivero-capital.com
 olivero-construction-ubaye.fr
+olivero-sactp.fr
 olukaisuomisale.com
 olybetsuomi.com
 oma-2025.com
@@ -6936,6 +6954,7 @@ oytrafcom.info
 oz-ayti-suomi.com
 ozempicsuomi247.com
 ozempicsuomi247.net
+p138finlandia.xyz
 paapankki.com
 padelhousefinland.com
 padelsuomi.com
@@ -8035,6 +8054,7 @@ scanfinland.xyz
 scanhelsinki.xyz
 schibsted-suomi.cfd
 schibsted-suomi.icu
+schilick-insoumise.fr
 schoolofaifinland.com
 schoolofhappinessfinland.com
 scotuoyj.com
@@ -9272,6 +9292,7 @@ suomentarjous.com
 suomentarjouspalvelu.com
 suomentarjoussite.com
 suomentekoaly.fi
+suomenteollisuusautomaatiooy.com
 suomenteollisuushuolto.co
 suomenteollisuushuolto.info
 suomenteollisuushuolto.net
@@ -10180,6 +10201,7 @@ suomiviihde.com
 suomivitsit.lol
 suomivoitotfi.com
 suomivoitotfin.com
+suomivoittaja.com
 suomivoitto.info
 suomivoyages.com
 suomiweb.online
@@ -10440,6 +10462,7 @@ terveysarvioss.com
 terveysasemat.com
 terveysavios.com
 terveysboosti.com
+terveysbussi.com
 terveysbuusti.com
 terveyselama.com
 terveysflow.fi
@@ -10635,6 +10658,7 @@ tktalohuolto.com
 tktxsuomi.fi
 tkvfinland.com
 tkvfinland.org
+tlcpalvelut.com
 tm-rakennuspalvelu.com
 tm-rakennuspalvelut.fi
 tmi-peppi-stiina-ahti-liikuntapalvelut.com
@@ -11077,6 +11101,7 @@ turvatiainen.fi
 turvatie.info
 turvatimpurit.com
 turvatoimi.fi
+turvatontila.store
 turvatoolid.ee
 turvatools.com
 turvatorjunta.com
@@ -11094,6 +11119,7 @@ tuusulanhuolto-osa.fi
 tuvera-suomi.com
 tv-soumitiyu.com
 tvfinland.com
+tvsuomi.com
 twincasinofinland.com
 twinklingtoadstoolhelsinki.com
 tyhjennyspalveluhelsinki.fi
@@ -12182,6 +12208,7 @@ wrappedfinland.xyz
 wrappedhelsinki.xyz
 wrsuomi.com
 wtmetallsuomi.fi
+wtyopa.homes
 wulawulaoyj.com
 wwmg2028finland.com
 wwnordea.com
