@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 16/02/2026 08:00 UTC
+# Last modified: 17/02/2026 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -1512,6 +1512,7 @@ dkkfinland.fi
 dlr-huolto-ja-pesu.com
 dlshensuomen.com
 dmc-helsinki.com
+dmsfinland.com
 dnaoyj.online
 dnrhelsinki.com
 docmartenssuomi.com
@@ -1902,6 +1903,7 @@ famefinland.com
 fanclubfinland.com
 fanclubsfinland.com
 fanipaitasuomi.com
+fanmerchfinland.com
 fansclubsfinland.com
 fantasiasuomi.com
 fantasiaurheilusuomi.com
@@ -2041,6 +2043,7 @@ finland.org.au
 finland.org.il
 finland.org.tr
 finland0x.xyz
+finland24.se
 finland2usa.com
 finland4unsc.org
 finland77.xyz
@@ -2105,6 +2108,7 @@ finlandcot.com
 finlandculture.com
 finlandcyber.xyz
 finlandcypher.xyz
+finlanddailylottery.com
 finlanddairy.com
 finlanddao.xyz
 finlanddapp.xyz
@@ -3070,6 +3074,7 @@ helsinki-mplshale-aaad.info
 helsinki-mplshale-aaae.info
 helsinki-ninj-eal.info
 helsinki-online.club
+helsinki-online.live
 helsinki-online.store
 helsinki-online.website
 helsinki-oslo-train-tour-packages.sbs
@@ -3469,6 +3474,7 @@ helsinkidesignschool.net
 helsinkidhl.com
 helsinkidiffusion.xyz
 helsinkidigital.xyz
+helsinkidigitalbank.com
 helsinkidigitalhouse.com
 helsinkidiscovery.com
 helsinkidogshome.com
@@ -3836,6 +3842,7 @@ helttityoterveys.com
 helwalkhelsinki.com
 hemteepalvelu.com
 henkiloasiakkaankanta-palvelut.info
+henkilokohtainenalue-viestisi.info
 henkilostopalveluhirmu.com
 henkilostopalvelut.com
 henkiloturva.com
@@ -6000,6 +6007,7 @@ mpnostintyopalvelut.com
 mretsoumise.cam
 mretsoumise.com
 mrpachofinland.com
+mrspalvelut.fi
 mt-huolto.fi
 mtbpalvelut.com
 mtbsuomi.xyz
@@ -6155,6 +6163,7 @@ ndttukkusuomi.com
 neohelsinki.xyz
 neohelsinkirecords.com
 neon54suomi.com
+nerakolasuome.com
 nerogiardinihelsinki.com
 netsetsuomi.fi
 netsuomikanterode.com
@@ -6360,6 +6369,7 @@ nordeabanknorway.com
 nordeabnkabp.com
 nordeac-online.com
 nordeacasa.com
+nordeacreditunion.com
 nordeactf.site
 nordeacustomer.online
 nordeaenergy.com
@@ -6488,6 +6498,7 @@ ocsfinland.com
 odfinland.shop
 oeofinland.watch
 oesvpalvelut.com
+oesvpalvelutoy.com
 of-suomi.com
 offer-finland.com
 offersfinland.com
@@ -6595,6 +6606,7 @@ oma-fi.com
 oma-fi.site
 oma-fi.website
 oma-ficken.net
+oma-ficken.top
 oma-fii.pro
 oma-finland.site
 oma-finn.site
@@ -7068,6 +7080,7 @@ palvelutie.com
 palvelutsiivooja.com
 palvelutvoittogroup.com
 palveluun-henkiloasiakkaan.com
+palveluun-suomi.info
 palveluvalmennus.com
 palveluverkkokauppa.com
 palveluvertailu.fi
@@ -7375,6 +7388,7 @@ poppanki.site
 poppanki.website
 poppankki-fi.com
 poppankki-viestini.com
+poppankki.cc
 poppankki.cfd
 porinalituspalvelu.com
 porinpalveluilo.com
@@ -8494,6 +8508,7 @@ soumifi.info
 soumifi.me
 soumiflow.com
 soumigemsandjewellery.store
+soumigo.ca
 soumigroup.net
 soumihijab.com
 soumiimajumdar.com
@@ -9725,6 +9740,7 @@ suomifinest.com
 suomifinl.com
 suomifinlande.com
 suomifinlandperkele.com
+suomifinlandperkele.net
 suomifinlandperkele.org
 suomifionline.site
 suomifitunnistus.com
@@ -10507,6 +10523,7 @@ terveyasarvios.com
 terveydenedistaminen.blog
 terveydenhelmi.online
 terveydenhoitopalvelut.com
+terveydenhuolto.site
 terveys-apteekki.com
 terveys.cc
 terveys.eu
@@ -11984,6 +12001,7 @@ viestipalvelut-suomi.site
 viestis.com
 viestisaastopanki.site
 viestisaatopanki.site
+viestisi-online.info
 viestit-spanki.com
 viestit-spanki.info
 viestit-spanki.site
