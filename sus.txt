@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 17/02/2026 08:00 UTC
+# Last modified: 18/02/2026 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -569,6 +569,7 @@ autoniturva.com
 autonomoushelsinki.xyz
 autonosiasuomi.com
 autopalvelukotkaoy.com
+autopalvelumobiili.fi
 autopalveluna.com
 autopalvelutapsa.fi
 autopalveluvuottolahti.com
@@ -1334,8 +1335,10 @@ dasarisoumith.xyz
 datafinland.xyz
 datahelsinki.xyz
 datakantar.com
+datamysuomi.com
 datapalvelut.net
 datasuomeen.fi
+datasuomi.com
 datasuomi.fi
 datavero-insight.info
 dattasoumitra.com
@@ -1922,6 +1925,8 @@ faxofferspankki.icu
 fcr-finland.fi
 fcsmobilepay.com
 fearofgodessentialssuomi.com
+fecfinland.com
+fecfinland.org
 fecsuomi.com
 feeco-helsinki.com
 felcosuomi.com
@@ -2654,6 +2659,7 @@ gigamobiili.net
 gigamobiili.org
 gigamobiili.support
 gigamobiili.tel
+gigant-helsinki.shop
 gilva-helsinki.com
 gilvero-ailyn.site
 ginatricotsuomi.com
@@ -3748,6 +3754,8 @@ helsinkismart.xyz
 helsinkismartcity.fi
 helsinkismuseum.com
 helsinkisocial.xyz
+helsinkisocialdance.com
+helsinkisocialdance.org
 helsinkisociety.com
 helsinkisolar.com
 helsinkispatial.xyz
@@ -5517,6 +5525,7 @@ metsastyspalvelut.com
 metsurin-valine-huolto-ja-muu-apu.com
 mfinland.info
 mfooyj.info
+mhdpalvelut.com
 mia-koutsoumidis.com
 miakardiasoumila.com
 miaoyj.com
@@ -6048,6 +6057,7 @@ my-suomen.site
 my-suomi.info
 my-suomifi.site
 my-viestit.site
+myball-suomi.com
 mydataturvatarkastus.com
 myempirefinland.com
 myempiresuomi.com
@@ -6621,6 +6631,7 @@ oma-gaming.com
 oma-germana.at
 oma-gisis-german-bakery.com
 oma-global.com
+oma-gold.com
 oma-gourmandises.com
 oma-group.ru
 oma-haus.com
@@ -7306,6 +7317,10 @@ playbazefinland.com
 playboy-finland.com
 playboyfinland.eu
 playboyfinland.media
+playboyfinlandmag.com
+playboyfinlandmag.info
+playboyfinlandmag.online
+playboyfinlandmag.store
 playboyfinlandsuomi.com
 playboysuomi.com
 playfina-finland.com
@@ -7637,6 +7652,7 @@ rakennuspalvelukellmanoy.com
 rakennuspalvelukorpinen.com
 rakennuspalvelunikki.com
 rakennuspalveluoap.com
+rakennuspalveluojanne.fi
 rakennuspalveluremsu.fi
 rakennuspalvelut-ismo-koponen.com
 rakennuspalvelutankki.fi
@@ -8962,6 +8978,7 @@ starcomfinland.com
 starjokersuomi.com
 starsplaysuomi.com
 startupsuomi.org
+starzinofinland.com
 starzonefinland.net
 stayfinderfinland.com
 stayinfinland.com
@@ -9439,6 +9456,7 @@ suomi-casino.online
 suomi-chic.com
 suomi-choose.com
 suomi-connect.com
+suomi-datanet.com
 suomi-delta.com
 suomi-design-works.com
 suomi-dfyne.com
@@ -9450,6 +9468,7 @@ suomi-ed.com
 suomi-education.com
 suomi-education.online
 suomi-etusivu.com
+suomi-etusivu.fi
 suomi-fans.com
 suomi-fi-etusivu.online
 suomi-fi-online.icu
@@ -10391,6 +10410,7 @@ taofinland.com
 taoyj.cn
 taoyj.com
 tapahtumasuomi.net
+tapahtumathelsinki.com
 tapmobilepay.com
 tappmobilepay.com
 taproad-app-finland.com
@@ -10638,6 +10658,7 @@ teveo-suomi.com
 teviestates.com
 texasholdemfinland.com
 tezenis-finland.com
+tfortumbler.com
 tgsfinland.com
 thassoumi.dev
 thathelsinkipage.com
@@ -11188,6 +11209,7 @@ turvatorjunta.com
 turvaturizm.com
 turvavalvonta.com
 turvaviesti-asiakas.fi
+turvaviesti.net
 tutkisuomea.com
 tutti-sensuomi.com
 tuttovero-systems.ru
@@ -11759,6 +11781,7 @@ vero-necessitatibus.site
 vero-nika-photo.art
 vero-nique.com
 vero-noir.com
+vero-nova.com
 vero-oakhome.com
 vero-occupational-therapy.com
 vero-odit.site
