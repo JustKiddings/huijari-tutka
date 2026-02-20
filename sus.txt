@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 19/02/2026 08:00 UTC
+# Last modified: 20/02/2026 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -278,6 +278,7 @@ alpineearplugssuomi.com
 als-suomi.fi
 als-suomi.net
 altcoinhelsinki.xyz
+altrosoumission.ca
 altrosoumission.com
 altrosoumission.info
 altrosoumission.org
@@ -1113,6 +1114,7 @@ chiksuomi.win
 chillstayfinland.com
 chillysfinland.com
 chillyssuomi.com
+chinafinlandinterculturalinterpretationandtranslat.org
 chinamobilepayment.com
 chipz-finland.com
 chivero-flqmra.rest
@@ -1232,6 +1234,7 @@ cornerstonehelsinki.com
 corossuomi.com
 corsaza-finland.com
 corsazafinland.com
+corsica-insoumise.info
 corteiz-suomi.com
 corteizsuomi.com
 corvero-group.com
@@ -2782,6 +2785,7 @@ halalfoodhelsinki.com
 halla-helsinki.com
 hallintopalvelut-vayla.fit
 hammashoitopalvelurasmussen.fi
+hampartsoumian.ru
 handmadebykatyoparty.com
 handmadefinland.com
 handykette-suomi.shop
@@ -3093,6 +3097,7 @@ helsinki-mplshale-aaae.info
 helsinki-ninj-eal.info
 helsinki-online.club
 helsinki-online.live
+helsinki-online.site
 helsinki-online.store
 helsinki-online.website
 helsinki-oslo-train-tour-packages.sbs
@@ -3805,6 +3810,7 @@ helsinkitogo.com
 helsinkitoken.xyz
 helsinkitool.xyz
 helsinkitools.xyz
+helsinkitopnights.com
 helsinkitour.live
 helsinkitrader.xyz
 helsinkitrading.xyz
@@ -3927,6 +3933,7 @@ hoffsneakerssuomi.com
 hoglsuomi.com
 hoitopalveluelohopia.com
 hoivapalvelu.fi
+hoivapalvelupaula.fi
 hoivapalvelut.net
 hoka-one-one-finland.com
 hoka-one-one-suomi.com
@@ -3955,6 +3962,7 @@ hoodrichsuomi-ale.com
 hoodrichsuomi-fi.com
 hoodrichsuomi.com
 hoodrichsuomi.net
+hoponhopoffhelsinki.fi
 hoponhopoffhelsinki.tours
 horecapalvelut.com
 hosfinland.buzz
@@ -4176,6 +4184,7 @@ ilvostentyopalvelut.fi
 immersivehelsinki.xyz
 immobiilienscout24.de
 immosenpyorahuolto.com
+imotongcultureanddevelopmentassociationinfinlandry.org
 imupalvelu.com
 ina-finland.com
 inaoyj.info
@@ -4343,6 +4352,7 @@ irmgard-elisabeth.com
 irmgard-elisabeth.xyz
 irsehelsinki2026.info
 irtaimistopalvelu.com
+irtaimistopalvelu.net
 isabellemassoumi.com
 isabelmarantsuomi.net
 isabelmassoumi.com
@@ -5140,6 +5150,7 @@ livephpfinland.net
 livero-lp.com
 livero-mode.de
 livero-tax.com
+livesuomicasino.com
 liveylcfinland.bond
 livezisfinland.pro
 living-in-finland.com
@@ -5306,6 +5317,7 @@ luxury777-helsinki.lat
 luxuspalvelut.fi
 luzia-helsinki.com
 lvbetsuomi.com
+lvi-rakennuspalvelu-rissanen.fi
 lvihelsinki.fi
 lwsuomi.info
 lxhfinland.com
@@ -7123,6 +7135,7 @@ palvelutvoittogroup.com
 palveluun-henkiloasiakkaan.com
 palveluun-suomi.info
 palveluvalmennus.com
+palveluverkko.com
 palveluverkkokauppa.com
 palveluvertailu.fi
 palveluviesti.com
@@ -7286,6 +7299,7 @@ piazzettahelsinki.com
 pickuplaundryfinland.com
 picstloup-insoumis.ovh
 pieceoffinland.com
+pietarsaaren-remontti-ja-siivouspalvelut.com
 pihajahuolto.com
 piilotyopaikat.fi
 piipansiivouspalvelut.com
@@ -9173,6 +9187,7 @@ suomenbussikauppa.ee
 suomenbussikauppa.online
 suomencapoeiraliitto.com
 suomencaravanhuolto.fi
+suomencotonclub.fi
 suomencotonit.com
 suomendcoy.com
 suomendiilit.com
@@ -9814,6 +9829,7 @@ suomifinlandperkele.org
 suomifionline.site
 suomifitunnistus.com
 suomiflirt.org
+suomiflirtti.com
 suomiflirtxxx.com
 suomiflowergarden.com
 suomifocus.com
@@ -11406,6 +11422,7 @@ uudet-ilman-rekisteroitymista.com
 uudetkasinotsuomessa.online
 uudetsuomi.site
 uudetsuominettikasinot.com
+uusi-viesti.info
 uusiatarjouksiasuomessa.com
 uusimaamuuttopalvelu.com
 uusiopankki.com
@@ -11972,6 +11989,7 @@ vero-wealth.com
 vero-wear.com
 vero-well.com
 vero-wellness.com
+vero-westafrika.com
 vero-wm.com
 vero-x.com
 vero-x.shop
