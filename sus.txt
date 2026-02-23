@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 22/02/2026 08:00 UTC
+# Last modified: 23/02/2026 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -1057,6 +1057,7 @@ catsuomi.top
 catsuomifi.com
 cattellafinland.com
 caturva.org
+cavero-planejamento.click
 cavero-profesional.com
 cavero-shop.com
 cawfinland.info
@@ -1259,6 +1260,7 @@ cottageinfinland.com
 couponordeals.com
 couponordealz.com
 courtyardtamperecityfinland.com
+couturvalues.info
 covero-baufinanzierung.de
 covero-gmbh.com
 cozyinfinland.club
@@ -1615,6 +1617,7 @@ dundercasinosuomi.com
 duolifypalvelut.com
 duoyj.ca
 duschzubehor-suomi.shop
+dustyopalwave.org
 duviestates.co.uk
 duviestates.com
 dviestates.com
@@ -2405,6 +2408,7 @@ fix-delivero-kw.com
 fixerhelsinki.com
 fixwheelsuomi.com
 fl-trafcom.info
+flaksisuomi.games
 flame-finland.com
 flamez-suomi.com
 flealux-finland.com
@@ -4653,6 +4657,7 @@ kasinopelitsuomi.com
 kasinosuomessa.com
 kasinot-ilman-rekisteroitymista.online
 kasinot-ilman-suomen-lisenssia.net
+kasinot-ilman-suomen-lisenssia.org
 kasinot-ilman-suomen-lisenssiä.net
 kasinot-ilmanrekisteroitymista.com
 kasinot-suomi.net
@@ -5376,6 +5381,7 @@ magicmondayzfinland.com
 magoffinland.com
 mahdaviestate.com
 mahtipalvelut.fi
+mahtisuomi.games
 mainiokotipalvelut.com
 maisa-viesti.info
 maitojaterveys.fi
@@ -5682,6 +5688,7 @@ missinternationalfinland.com
 misterfinland.nl
 misterlamp-helsinki.com
 mistersuomi.com
+mistyopalpulse.org
 misuomedia.com
 mitsubishi-huolto.fi
 mitsubishiclubfinland.net
@@ -10025,6 +10032,7 @@ suomiline.com
 suomilisenssi.net
 suomilisenssikasinot.com
 suomilisenssikasinot.net
+suomillc.shop
 suomilocal.com
 suomilodges.com
 suomilog.com
@@ -10625,6 +10633,7 @@ tedbakersuomi.shop
 tedbakersuomifi.com
 teddyfreshsuomi.com
 tehopalvelu.fi
+tehosuomi.games
 teiskonelamyspalvelut.fi
 tekaifinland.com
 tekninenpalvelu.fi
@@ -12308,6 +12317,7 @@ voopoofinland.com
 voopoovapesuomi.com
 vortexfinland.xyz
 vozolfinland.com
+vozolfinland.net
 vozolgear10000suomi.com
 vozolhelsinki.com
 vozolsuomi.net
@@ -12486,6 +12496,7 @@ wyao-caoyj.top
 wyqfinland.tattoo
 wzsuoming.com
 x-finland.com
+xalvero-dentiro.shop
 xarisfinland.fi
 xdemooyj.sbs
 xeopahertyopal.click
@@ -12610,6 +12621,7 @@ xn--suomithti-02a.com
 xn--suomithti-02a.fi
 xn--suomitnn-5zaba.com
 xn--sydnterveys-n8a.shop
+xn--thtipalvelut-gcb.online
 xn--tulettunnistus-zpba.ee
 xn--tulkkaus-jaknnspalveluhatemelsayed-m4ca28d.com
 xn--turvakengt-y5a.com
