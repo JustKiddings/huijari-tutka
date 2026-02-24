@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 23/02/2026 08:00 UTC
+# Last modified: 24/02/2026 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -314,6 +314,7 @@ amv-palvelut.fi
 anadolukulturvakfi.net
 anaistentation.com
 anapashturval.online
+anarchycasinofinland.com
 anastasiakasatkina.com
 anastasiakaspar.com
 andersfinland.com
@@ -559,6 +560,7 @@ autohuoltokami.com
 autohuoltokami.net
 autohuoltokerava.fi
 autohuoltokeskus.com
+autohuoltolaine.fi
 autohuoltomiksa.com
 autohuoltoon.com
 autohuoltoon.fi
@@ -834,6 +836,7 @@ blobhelsinki.xyz
 blockchainhelsinki.xyz
 blockhelsinki.xyz
 blossombeautyhelsinki.fi
+bluvegasfinland.com
 bmobilepay.com
 bngfinland.makeup
 bnifoundation-finland.com
@@ -988,6 +991,7 @@ casavero-home.com
 cashelsinki-fi.com
 cashfinland.xyz
 cashhelsinki.xyz
+cashimashifinland.com
 casinhelsinki.com
 casiniasuomi.com
 casino-finland-free-credit.shop
@@ -2614,6 +2618,7 @@ galacticwinssuomi.com
 galleria1981helsinki.com
 galleriakivipankki.com
 galleryfinland.art
+gamblersfinland.com
 game-finland.com
 gamefihelsinki.xyz
 gamefinland.xyz
@@ -2734,6 +2739,7 @@ goodstufffinland.com
 goodyearsuomi.com
 googleegaoyj.icu
 gorewearsuomi.com
+goslotfinland.com
 gosoumi.com
 goterveystalo.com
 gotourshelsinki.com
@@ -2762,8 +2768,10 @@ greenworkssuomi.com
 gregbarsoumian.com
 griffinlandllc.com
 griffinlandscaping25.com
+griffinlandworksmt.com
 groominghelsinki.com
 grouperenault-kantar.com
+grouptoursfinland.com
 grupoagrooyj.com
 gskiinteistohuolto.fi
 gslotfinland.com
@@ -3628,6 +3636,7 @@ helsinkihub.xyz
 helsinkihunt.xyz
 helsinkihypehub.vip
 helsinkihyper.xyz
+helsinkihypnosis.com
 helsinkii.shop
 helsinkiijing.lol
 helsinkiimmersive.xyz
@@ -4540,6 +4549,7 @@ juristi-helsinki.org
 juristihelsinki.com
 juristihelsinki.org
 jussisuominen.com
+justbitfinland.com
 justdancehelsinki.com
 justforfinland.com
 juupfinland.com
@@ -4790,6 +4800,7 @@ kilpailutuspalvelu.com
 kinderautos-suomi.shop
 kinderuhren-suomi.shop
 kingdomoffinland.com
+kingmakersuomi.com
 kingoffinland.com
 kingstonsuomi.com
 kipling-suomi-fi.com
@@ -5886,6 +5897,7 @@ mobilepaydirect.com
 mobilepaydk.app
 mobilepaydk.link
 mobilepaydk.net
+mobilepaydk.site
 mobilepaye.com
 mobilepayees.com
 mobilepayees.net
@@ -9165,6 +9177,7 @@ styopandnare.us
 subfinland.org
 sudansuomiszilard.sbs
 sudokufinland.fi
+sugarcasinofinland.com
 sugardaddyssuomessa.com
 sugardatingsuomi.com
 suitupfinland.com
@@ -9211,6 +9224,7 @@ suomen-fin.site
 suomen-finland.site
 suomen-info.site
 suomen-pah.org
+suomen-pelikielto.com
 suomen-sms-fi.site
 suomen-sms.site
 suomen-suomi.site
@@ -10495,6 +10509,7 @@ tahkonhinauspalvelu.com
 tahtaimessaterveys.com
 tahtipalvelutstjerna.fi
 tahtipolkukotipalvelut.fi
+taidepalvelu-hetkessa.com
 taideturvapaikka.net
 taigatrekfinland.com
 taikapelitsuomessa.com
@@ -11270,6 +11285,7 @@ turvallinen-nettikasino.org
 turvallinen-nettikasinot.com
 turvallinen-nettikasinot.info
 turvallinen.chat
+turvallinenapteekki.com
 turvallinenkoti.net
 turvallinenlaite.com
 turvallinenmatkapuhelin.com
@@ -11545,6 +11561,7 @@ vaihdehuolto.nu
 vaihtoehdotsuomessa.com
 vainio-helsinki.com
 vakantie-zweden-finland-reisblog.nl
+vakantiefinland.com
 vakilmasoumi.com
 vakioasiakas.fi
 vakuutuspalveluif.com
@@ -12409,6 +12426,7 @@ whynetfinland.site
 widdowson-fortum.com
 wildberriesfinland.com
 wildforestfinland.com
+wildsultansuomi.com
 wildsuomiplay.com
 wildtourshelsinki.com
 wildz-finland.com
@@ -12647,6 +12665,7 @@ xn--vierellsihyvinvointipalvelut-cnc.com
 xn--vuokravlityshelsinki-hzb.fi
 xn--w7vero-7ta.com
 xoofinland.cyou
+xplorefinland.com
 xplorefinland.se
 xrmfinland.eu
 xsuomi.site
