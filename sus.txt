@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 24/02/2026 08:00 UTC
+# Last modified: 25/02/2026 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -614,6 +614,7 @@ avero-rest.ru
 avero-review.com
 avero-shop.com
 avero-smart.com
+avero-store.com
 avero-technik.ch
 avero-watches.com
 aviesta.com.mx
@@ -2577,6 +2578,7 @@ fudusuomi.com
 fudusuomi.fi
 fuelwoodfinland.com
 fufu4dhelsinki.xyz
+fugu-amp-almetorfinland.ru
 fullthrottlefinland.com
 funbuzzhctfinland.art
 fundoimobiiliariovancouver.shop
@@ -2768,6 +2770,7 @@ greenworkssuomi.com
 gregbarsoumian.com
 griffinlandllc.com
 griffinlandscaping25.com
+griffinlandworksllc.com
 griffinlandworksmt.com
 groominghelsinki.com
 grouperenault-kantar.com
@@ -5427,6 +5430,7 @@ mamvero-wecmedia.info
 mangosuomi.net
 manishvivahvistaar.com
 mankonculturalanddevelopmentassociationfinlandry.org
+mannilapalvelutoy.com
 manoloblahniksuomi.com
 manordeal.sbs
 mansikkaterveys.com
@@ -8304,6 +8308,7 @@ sequencerhelsinki.xyz
 serenityopal.com
 serenityopals.com
 serverfinlandia19.net
+serverisuomessa.fi
 servicehelsinki.com
 sesuomined.mom
 setarehmasoumi.com
@@ -10629,6 +10634,7 @@ tastesoffinland.com
 tattoohelsinki.com
 tavero-partners.pl
 tawabilmaghniasoumicha.shop
+taxfinland.com
 taxihelsinki.com
 taxofferspankki.icu
 tbsuomi.com
@@ -10640,6 +10646,7 @@ teamfinland.info
 tecc-finland.com
 techfinland.xyz
 techhelsinki.xyz
+techjobsfinland.com
 technordiafinland.com
 ted-baker-suomi.com
 tedbakerssuomi.com
@@ -11229,6 +11236,7 @@ tunnistus-suomi.com
 tunnistus.com
 tunnistus.info
 tunnistusfi.info
+tunnistuspeli.com
 tunnistussuomi.com
 tunnistussuomi.info
 tunnlstautuninen-kirjaudu.com
@@ -11381,6 +11389,7 @@ tyopaikat-siivousyrityksissa-fi.online
 tyopaikat-siivousyrityksissa.online
 tyopaikat.best
 tyopaikkafutsal.fi
+tyopari.fi
 tyopay.com
 tyosuomi.online
 tyoterveyskirjasto.fi
