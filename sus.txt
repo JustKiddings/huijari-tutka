@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 25/02/2026 08:00 UTC
+# Last modified: 26/02/2026 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -1326,6 +1326,7 @@ cvturvattua.xyz
 cwcfinland.com
 cwtfun247finland.site
 cyberhelsinki.xyz
+cybersecfinland.com
 cybersuomi.com
 cyclinginfinland.com
 cypherhelsinki.xyz
@@ -1668,6 +1669,7 @@ econiapalvelut.com
 economynewssuomi24.today
 ecopetfinland.com
 ecosuomi.win
+ecoturva.com
 ed-hardy-suomi.com
 edelstahlschmuck-suomi.shop
 edhardyfinland.com
@@ -1865,6 +1867,7 @@ essuomi.tech
 estafetaoyj.top
 esteetonsuomi.com
 estonia-helsinki-rail-vacation.today
+esuomi.click
 esuominebp.info
 eta-uk-finland.com
 etavalvonta.fi
@@ -3356,6 +3359,7 @@ helsinki.baby
 helsinki.beer
 helsinki.bio
 helsinki.cab
+helsinki.cafe
 helsinki.chat
 helsinki.christmas
 helsinki.estate
@@ -3784,6 +3788,7 @@ helsinkirockabillyweek.com
 helsinkirollup.xyz
 helsinkiroyal.click
 helsinkiroyal.xyz
+helsinkis.com
 helsinkis.online
 helsinkis.top
 helsinkisatoshi.xyz
@@ -4219,6 +4224,7 @@ ilsuomer.online
 ilsuomer.xyz
 iltaviesti.com
 ilvostentyopalvelut.fi
+imf-finland.com
 immersivehelsinki.xyz
 immobiilienscout24.de
 immosenpyorahuolto.com
@@ -4520,6 +4526,7 @@ johtajuuspalvelu.fi
 joinaiesecinfinland.com
 joinfinland.com
 jokercasinofinland.com
+jokerisuomi.site
 jomasalesuomi.com
 jomasportsuomi.com
 joogahelsinki.com
@@ -4567,6 +4574,7 @@ k-tilipalvelu.com
 kaavahelsinki.com
 kabu-kantan.com
 kachincommunityfinland.org
+kaihdinpalvelu.com
 kaikalpalvelut.com
 kaikkikasinotilmanrekisteroitymista.fi
 kaikkiterveyteni.com
@@ -4758,6 +4766,7 @@ kengatsuomi.com
 kengityspalvelutervakoski.com
 keoksipalvelut.com
 keptpalvelut.com
+keski-helsinki.fi
 keski-suomi-portaali.fi
 keskipalkkasuomessa.com
 keskipohjanmaankonehuolto.fi
@@ -4800,6 +4809,7 @@ kikindigipalvelu.com
 kikindigipalvelut.com
 kilobet-finland.com
 kilpailutuspalvelu.com
+kimmobiili.fi
 kinderautos-suomi.shop
 kinderuhren-suomi.shop
 kingdomoffinland.com
@@ -5266,6 +5276,7 @@ lornajane-finland.com
 lornajanesuomi.com
 lostmarysuomi.com
 lot-helsinki-sauna-870970932.world
+lottafinland.su
 lotteryfinlandia.com
 lounas-helsinki.com
 louneapalvelut.com
@@ -5348,6 +5359,7 @@ luottoasiakas.com
 luottopisterekisteri.fi
 luova-finland.com
 luovayhteys.com
+luovempisuomi.fi
 luovithinkingsuomi.com
 luoyj.top
 lupsoumigh.net
@@ -6592,6 +6604,7 @@ nyt-vahvista.store
 nzfinland.shop
 o-tunnistautuminen.com
 oaqfinland.xyz
+oaspalvelut.com
 objectfinland.com
 obrazovanie-v-finland.ru
 obrazovanie-v-finlandii.ru
@@ -7554,6 +7567,7 @@ postivahvistus.online
 posturva.store
 potilaspalveluavitcid.shop
 potterhelsinki.com
+pouchesfinland.com
 poursoumise.com
 power-finland.com
 ppprojektipalvelu.com
@@ -7585,6 +7599,7 @@ pripanki.com
 prismafinland.ru
 prismasuomi.com
 pritchett-fortum.com
+prithviestate.com
 private-pool-helsinki-106266285.today
 private-pool-helsinki-111609307.today
 private-pool-helsinki-611389190.today
@@ -8811,6 +8826,7 @@ soumissionenelectricite.ca
 soumissionenergie.com
 soumissionentrepreneurs.com
 soumissionentretienmenager.com
+soumissionepoxy.com
 soumissionexpress.com
 soumissionfemmedemenage.com
 soumissionfondation.com
@@ -11332,6 +11348,7 @@ turvalodrina.store
 turvalokero.com
 turvalty.com
 turvapaikkafin.com
+turvapalvelu.com
 turvapassi.com
 turvapassi.net
 turvapilari.com
@@ -12234,6 +12251,7 @@ vintagetapahtumatsuomessa.com
 vintagevaatteetsuomi.com
 vintedmaksunvahvistus.click
 viora-helsinki.com
+vip-kasino-helsinki.site
 vip-kasino-helsinki.website
 vipfinland.com
 vipfinland.site
