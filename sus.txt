@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 26/02/2026 08:00 UTC
+# Last modified: 27/02/2026 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -387,6 +387,7 @@ aquilasuomi.com
 aquilasuomi.online
 aqvafinland.se
 arakengatsuomi.com
+arambarsoumian.com
 arcadisfinland.com
 archiwumpanki.pl
 arcopedicosuomi.com
@@ -726,6 +727,7 @@ bellahelsinki.com
 bellavero-milano.com
 belleinsoumise.com
 belleviestationery.com
+belovici-elisabeta-nettoyage.com
 beloylyhelsinki.com
 bemapro-finland.com
 bendasuomi.fi
@@ -754,6 +756,7 @@ bestfinland.xyz
 bestfinlandfood.rest
 bestfinlandresort.com
 bestfoodhelsinki.rest
+bestgamessuomi.com
 bestguestfinland.fi
 besthelsinki.com
 besthelsinkihotels.com
@@ -1867,6 +1870,7 @@ essuomi.tech
 estafetaoyj.top
 esteetonsuomi.com
 estonia-helsinki-rail-vacation.today
+esuomi.cfd
 esuomi.click
 esuominebp.info
 eta-uk-finland.com
@@ -3405,6 +3409,7 @@ helsinki8.xyz
 helsinki88.xyz
 helsinkiaamu.org
 helsinkiadorn.com
+helsinkiaesthetic.fi
 helsinkiaesthetics.com
 helsinkiaethetics.com
 helsinkiagent.xyz
@@ -3992,11 +3997,13 @@ holafinlandia.com
 holafinlandia.fi
 holdhelsinki.xyz
 holidayresortfinland.com
+hollister-suomi.fi
 homeinfinland.com
 homeopatiapalvelut.com
 honeybrowsfinland.com
 hongatarhelsinki.fi
 honordeai.xyz
+honordealz.com
 hood-richsuomi.com
 hoodrich-suomi.com
 hoodrichfinland.com
@@ -4326,6 +4333,7 @@ investhelsinki.xyz
 investinfinland.cn
 investingsuomi.fi
 investmenthelsinki.xyz
+investwithsoumitra.in
 iotsuomi.net
 ipfinland.net
 iptv-finland.best
@@ -4653,6 +4661,7 @@ karhusuomi.com
 karikaturvakfi.org
 karlkanisuomi.com
 karllagerfeldsuomi.com
+karmelfinland.org
 karshenasimasoumi.ir
 karttapalvelut.com
 kartyakevero-gep-az-en.shop
@@ -5760,6 +5769,7 @@ mobiili-kampanja-pankki.com
 mobiili-kampanjaa-suomi-fi.com
 mobiili-kampanjafi-pankki.com
 mobiili-kampanjafi-spankkifi.com
+mobiili-kampanjafi-suomi.com
 mobiili-kampanjas.com
 mobiili-kasino.fi
 mobiili-kasinot.fi
@@ -6052,6 +6062,7 @@ moovybe.info
 moovybe.online
 moovybe.store
 moovycam.com
+moovycars.com
 moovydelivery.com
 moovyexperience.com
 moovyfi.com
@@ -6590,6 +6601,7 @@ nutraficorporate.com
 nutrihealthfinland.com
 nutrilabfinland.com
 nuummitefinland.com
+nuvero-auto.fr
 nuvero-bergen.com
 nuvero-capetown.com
 nuvora-helsinki.com
@@ -6953,6 +6965,7 @@ omelo-helsinki.com
 omenahuolto.com
 omoihelsinki.com
 ompelimohelsinki.com
+omw2helsinki.com
 on-cloud-finland.com
 on-suomi.com
 onchainfinland.com
@@ -7125,6 +7138,7 @@ oytrafcom.info
 oz-ayti-suomi.com
 ozempicsuomi247.com
 ozempicsuomi247.net
+ozonedistantfinland82.sbs
 p138finlandia.xyz
 paapankki.com
 padelarenafinland.fi
@@ -7258,6 +7272,7 @@ parajumperstakkisuomi.xyz
 paras-lumenpoistopalvelu-suomi.today
 paras-suomi.com
 paraskasinosuomessa.com
+parasnettikasinosuomi.com
 parassuomessa.com
 parassuomi.live
 parassuomilotto.live
@@ -7269,6 +7284,7 @@ parhaat-ilman-rekisteroitymista.com
 parhaat-kasinot-suomi.com
 parhaat-siivouspalvelut.bond
 parhaat-suomi-kasinot.com
+parhaatpelitsuomi.com
 parhaatsuomihotellit.com
 parhaatsuomiopas.online
 parturihelsinki.fi
@@ -8468,6 +8484,7 @@ slipperhelsinki.com
 slot-casino-finland.shop
 slot-free-finland.site
 slot-game-finland.online
+slotboxfinland.com
 slotday-finland.com
 slotfinland.com
 slothunter-suomi.com
@@ -8580,16 +8597,24 @@ sossoumissionchimique.fr
 sossoumissionchimique.org
 sosterpalvelut.fi
 sottyopath.xyz
+soumi-baidu.com
+soumi-cctv.com
+soumi-douyu.com
+soumi-espn.com
 soumi-fi2.sbs
 soumi-filand.com
+soumi-iqiyi.com
+soumi-kugou.com
 soumi-linkki.life
 soumi-live.com
+soumi-mgtv.com
 soumi-online.sbs
 soumi-qq.com
 soumi-seminar.com
 soumi-sinille.art
 soumi-sinille.xyz
 soumi-sports.com
+soumi-youku.com
 soumi.icu
 soumi.org
 soumi.shop
@@ -8827,6 +8852,7 @@ soumissionenergie.com
 soumissionentrepreneurs.com
 soumissionentretienmenager.com
 soumissionepoxy.com
+soumissionex.com
 soumissionexpress.com
 soumissionfemmedemenage.com
 soumissionfondation.com
@@ -10293,6 +10319,7 @@ suomispa.ca
 suomispa.com
 suomispark.xyz
 suomisparkden.games
+suomispeak.app
 suomispeak.com
 suomispin360.com
 suomispin365.com
@@ -10384,6 +10411,7 @@ suomitopaurora.com
 suomitopchance.games
 suomitopfi.com
 suomitopfinn.com
+suomitopgames.com
 suomitopgames.games
 suomitoploot.com
 suomitopp.com
@@ -10706,6 +10734,7 @@ terveydenhelmi.online
 terveydenhoitopalvelut.com
 terveydenhuolto.site
 terveys-apteekki.com
+terveys.ai
 terveys.cc
 terveys.eu
 terveys.my.id
@@ -11279,6 +11308,7 @@ turva.xyz
 turvaasiakasfi.com
 turvakaitse.ee
 turvakasino.com
+turvakasino.fi
 turvakast.info
 turvakbelgelendirme.com
 turvakena.space
@@ -11682,6 +11712,10 @@ veevago-suomi.com
 veganordeath.com
 vegganfoodfinland.rest
 veiikvapesuomi.com
+veikkaus-casinohelsinki.com
+veikkaus-kasinohelsinki.com
+veikkauscasinohelsinki.com
+veikkauskasinohelsinki.com
 veja-suomi.com
 vejafinland.com
 vejarunnerssuomi.info
@@ -12464,6 +12498,7 @@ wineroutefinland.com
 winfinland.com
 winforfinland.com
 winfried-fortum.com
+winnerz-finland.com
 winnerzcasinofinland.com
 winnerzsuomi.com
 winsharkbonusfinland.com
