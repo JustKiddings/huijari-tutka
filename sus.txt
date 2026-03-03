@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 02/03/2026 08:00 UTC
+# Last modified: 03/03/2026 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -289,6 +289,8 @@ alveahelsinki.com
 alvero-cz.eu
 alvero-health.com
 alvero-store.com
+alvero-systems.com
+alvero-systems.info
 alvero-toronto.com
 alykotipalvelu.fi
 alymobiili.com
@@ -1627,6 +1629,7 @@ drsoumikghosh.com
 drsoumilsinghal.com
 drsoumitraghosh.in
 dsafinland.com
+dsddeluxe-finland.com
 dtyopa.shop
 dualhelsinki.xyz
 dubaihelsinki.com
@@ -3597,6 +3600,7 @@ helsinkieth.xyz
 helsinkiethereum.xyz
 helsinkievents.fi
 helsinkiexchange.xyz
+helsinkifacades.com
 helsinkifam.online
 helsinkifarm.xyz
 helsinkifarming.xyz
@@ -4505,6 +4509,7 @@ jamespalvelut.fi
 jamisuomi.com
 jamptipalvelut.com
 jamsanhinauspalvelu.fi
+jamsankiinteistopalvelu.fi
 jannittavasuomi.com
 jansportsfinland.com
 jansportssuomi.com
@@ -5195,6 +5200,7 @@ lenkkaritfinland.com
 lentokenttahotellihelsinki.com
 leovegassuomi.com
 les-insoumis.fr
+lespalvelut.com
 letmepalvelu.fi
 letsgowithsoumia.com
 leuoyj.shop
@@ -6395,6 +6401,7 @@ newerasuomi.net
 newerasuomi.org
 newerasuomis.com
 neweresuomi.com
+newfinland.fi
 newhelsinki.xyz
 newhelsinkibrassquintet.com
 newjcsfinland.sbs
@@ -6964,6 +6971,7 @@ omakanta.today
 omakantaan-kirjaudu.com
 omakantaan-kirjautuminen.com
 omakantaan-tunnistus.com
+omakantaanonline-tietosi-fi.com
 omakantafi.info
 omakantafin.info
 omakantainsights.info
@@ -7248,6 +7256,7 @@ palvelualusta.com
 palveluasiakasnordeasuomi.com
 palveluasiakasnordeasuomi.online
 palveluhaku.com
+palveluhaku.fi
 palveluhaukat.com
 palveluilmoitus-smobilii.biz
 palveluilmoitus-smobilii.com
@@ -7433,6 +7442,8 @@ peswinturva.com
 petermillarsuomi.com
 peterveyt.com
 petitervey.shop
+petrocanadafinland.fi
+petrocanadasuomi.fi
 petroi-finland.com
 petsuomi.com
 petterinpalvelut.com
@@ -8717,6 +8728,7 @@ soumi1985.com
 soumia-ben-touhami.com
 soumia-elbay.com
 soumia-hypnose.com
+soumia.ch
 soumia.org
 soumia.shop
 soumiaasbaai.com
@@ -11033,6 +11045,7 @@ tilataxipalvelu.com
 tilataxipalvelut.com
 tilaturva.fi
 tilin-hallinta-asiakas.com
+tilinhallinta-kanta-fi.com
 tilinhallinta-kanta.com
 tilipalvelu.net
 tilipalvelusaarela.fi
@@ -11302,6 +11315,7 @@ travero-pm.com
 traviesta.in
 treasuryfinland.xyz
 treasuryhelsinki.xyz
+treffit-suomi.com
 treffitsuomi.com
 treffitsuomi.fi
 treffitsuomi24.net
@@ -11781,6 +11795,7 @@ valvonte.com
 valvontres.online
 valvonzandesk.com
 vandoeuvre-insoumise.fr
+vandoeuvreinsoumise.fr
 vanityopal.site
 vankkurihuolto.com
 vanlaackoutletsuomi.info
@@ -11790,6 +11805,7 @@ vanssuomi.com
 vantaanivhuolto.fi
 vapaaksisuomi.com
 vapefinland.com
+vapefinland.net
 vaperhelsinki.online
 vaperhelsinki.store
 vapesuomi.com
@@ -11907,6 +11923,7 @@ vero-95.ru
 vero-ab.site
 vero-academy.com
 vero-academy.org
+vero-active.online
 vero-adm-mrb3mfp4zvmrgh7hak.com
 vero-advisors.com
 vero-aesthetics.com
@@ -12569,6 +12586,7 @@ warmhearthfinland.com
 wartaviesta.id
 wartaviesta.info
 wasborninhelsinkifinlandondecemberhesonofjournalist.cfd
+waterdropsuomi.com
 waterfinland.com
 wavero-lemowi.sbs
 wazamba-finland.com
