@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 03/03/2026 08:00 UTC
+# Last modified: 04/03/2026 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -409,6 +409,7 @@ arisefinland.com
 arisefinland.org
 arjeksipalvelut.fi
 arkihuolto.fi
+arkisopimusvalvonta.com
 arlivo-helsinki.com
 arminterveys.com
 armobilepay.com
@@ -2073,6 +2074,7 @@ finanssivalvontasuomi.com
 findajobinfinland.com
 findfinland.academy
 findfinland.community
+findfinland.org
 finediningfinland.com
 finefinland.org
 finestsuomi.com
@@ -2219,6 +2221,7 @@ finlandgame.com
 finlandgame.xyz
 finlandgames.com
 finlandgas.xyz
+finlandgateway.com
 finlandgo.com
 finlandgpt.xyz
 finlandgpu.xyz
@@ -4243,6 +4246,7 @@ ihnfinland.info
 ihor-finland.net
 ihzfinland.icu
 iiptvfinland.com
+iisipalvelu.fi
 iisiviisisuomi.com
 ikeasuomi.com
 ikkunahelsinki.com
@@ -5322,6 +5326,7 @@ longchampfinland.top
 longchamplaukkusuomi.com
 longchampsuomi.com
 longchampsuomifi.com
+longchampsuomifi.online
 lonkerokasinosuomi.com
 look-finland.com
 loop-earplugsfinland.com
@@ -6374,6 +6379,7 @@ nettikasinoilmanrekisteroitymista.org
 nettikasinosuomi.xyz
 nettikasinot-ilmanrekisteroitymista.com
 nettikasinot-suomessa.com
+nettikasinot-suomi.info
 nettikasinot-suomi.net
 nettikasinotilmanrekisteroitymista.bet
 nettikasinotilmanrekisteroitymista.org
@@ -6778,6 +6784,7 @@ oma-con.com
 oma-consulting.com
 oma-costruzioni.com
 oma-crm.com
+oma-crm.ru
 oma-deo.ru
 oma-design-group.com
 oma-designs.com
@@ -7021,6 +7028,7 @@ omavero.cfd
 omavero.info
 omavero.live
 omavero.top
+omaverofi.com
 omaverofin25.com
 omaverofin9.com
 omaverofiry.com
@@ -7733,6 +7741,7 @@ profuomosuomi.com
 prohelsinki.xyz
 proiptvsuomi.com
 projectsuomi.fi
+projektyopakowan.pl
 prokotipalvelut.com
 promptfinland.xyz
 prompthelsinki.xyz
@@ -9047,6 +9056,7 @@ soumit.tech
 soumita.space
 soumita.xyz
 soumitabhattacharyasen.com
+soumitacreative.site
 soumitaddanki.com
 soumitaroy.com
 soumitasamanta.com
@@ -9058,6 +9068,7 @@ soumith.com
 soumithandnavya.com
 soumithreddypodduturi.info
 soumitiyu.com
+soumitiyu.com.cn
 soumito.shop
 soumitr.com
 soumitra.dev
@@ -9512,6 +9523,8 @@ suomenkansaensin.fi
 suomenkansalaisuuskoe.com
 suomenkansanterveysyhdistys.fi
 suomenkartanot.com
+suomenkasarmi.fi
+suomenkasarminupseerikerho.fi
 suomenkasinoarvostelut.com
 suomenkasinobonus.com
 suomenkasinobonus.net
@@ -10414,6 +10427,7 @@ suomiseo.com
 suomiseptuplechance.com
 suomiservice.info
 suomisextuplechance.com
+suomisfinlandes.com
 suomishops.com
 suomisi.com
 suomisiivous.com
@@ -11052,6 +11066,7 @@ tilipalvelusaarela.fi
 tilipalvelutalous360.com
 tilipalvelutj.fi
 tilisuomi.com
+tilitoimistopalvelu.fi
 tim-nasional-sepak-bola-finlandia.com
 timberland-helsinki-outlet.com
 timberland-helsinki-outlet.pro
@@ -11461,6 +11476,7 @@ turvalineravim.com
 turvalio.pro
 turvaliq.digital
 turvalisus-katsetelia.com
+turvalli.com
 turvallinen-nettikasino.com
 turvallinen-nettikasino.net
 turvallinen-nettikasino.org
