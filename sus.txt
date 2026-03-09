@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 08/03/2026 08:00 UTC
+# Last modified: 09/03/2026 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -468,6 +468,7 @@ asiakaspalvelu-suomi.site
 asiakaspalvelu-uo.net
 asiakaspalvelu.eu
 asiakaspalvelu.xyz
+asiakaspalvelunsuomi.info
 asiakaspalvelunumero-yhteystiedot.com
 asiakaspalvelusuomi.blog
 asiakaspalvelusuomi.site
@@ -1962,6 +1963,7 @@ excitewinfinlandia.com
 exclusive-finland-vacation-packages.today
 exolfinland.com
 exopoliticsfinland.fi
+expekt-suomi.online
 expektsuomi.com
 experiencesuomi.com
 experiencesuomi247.com
@@ -2497,6 +2499,7 @@ fix-delivero-kw.com
 fixerhelsinki.com
 fixwheelsuomi.com
 fl-trafcom.info
+flaksi-suomi.org
 flaksisuomi.games
 flame-finland.com
 flamez-suomi.com
@@ -5557,8 +5560,10 @@ maella-helsinki.com
 magicmondayzfinland.com
 magoffinland.com
 mahdaviestate.com
+mahti-suomi.org
 mahtipalvelut.fi
 mahtisuomi.games
+mainio-suomi.online
 mainiokotipalvelut.com
 maisa-viesti.info
 maitojaterveys.fi
@@ -6288,6 +6293,7 @@ mphuolto.com
 mpnostintyopalvelut.com
 mretsoumise.cam
 mretsoumise.com
+mrgreen-suomi.online
 mrpachofinland.com
 mrspalvelut.fi
 mt-huolto.fi
@@ -6599,6 +6605,7 @@ ninkifinland.com
 nisantasiegitimkulturvakfi.online
 nitro-casino-finland.com
 nitro-finland.com
+nitro-suomi.online
 nitrocasinosuomi.com
 nivakpankki.com
 nivalvonen.com
@@ -6712,6 +6719,7 @@ nordeayapi.xyz
 nordefinland.com
 nordic-helsinki.com
 nordicaoilsfinland.com
+nordicbet-suomi.online
 nordicbetsuomi.com
 nordicwalkinghelsinki.pro
 nordiko-helsinki.com
@@ -7749,6 +7757,7 @@ porinsuomalainenpalvelukotiyhdistys.fi
 pornaistentietokonehuolto.com
 poro10finland.com
 porssisahkosuomi.fi
+portal-mobilepay.xyz
 portal-vippsmobilepay.com
 portaldevitaminasnaturva.info
 portalfinland.xyz
@@ -8306,6 +8315,7 @@ s-pankki.club
 s-pankki.cyou
 s-pankki.digital
 s-pankki.email
+s-pankki.gifts
 s-pankki.icu
 s-pankki.lat
 s-pankki.life
@@ -8735,6 +8745,7 @@ slowtretyopa.com
 slowtretyopa.shop
 slowtvfinland.com
 slowtvfinland.online
+slpfinland.info
 slpyorapalvelu.fi
 slushhelsinki.com
 smart-mobilepay.com
@@ -11292,6 +11303,7 @@ tomskengat-suomi.com
 tomtailorsuomi.net
 tonybet-finland.com
 tonybet-suomi.com
+tonybet-suomi.online
 tonybetsuomi.com
 tonybiancosuomi.net
 toolfinland.xyz
@@ -12030,6 +12042,7 @@ veikkaus-casinohelsinki.com
 veikkaus-kasinohelsinki.com
 veikkauscasinohelsinki.com
 veikkauskasinohelsinki.com
+veikkfinlandia.store
 veikonkotipalvelut.fi
 veja-suomi.com
 vejafinland.com
@@ -12732,6 +12745,7 @@ vpnfinlandapi.cfd
 vpnfinlandapiz.cfd
 vpnpalvelu.com
 vpofinland.website
+vpsfinland.cfd
 vpwfinland.space
 vrfinland.xyz
 vroomsuomi.com
@@ -13031,6 +13045,7 @@ xn--suomentekninenisnninti-g5b84b.fi
 xn--suomentekolypalvelut-kzb.com
 xn--suomenyksityisetsivtoisto-3ec.com
 xn--suomini-9waa.fi
+xn--suomipiv-5zac.com
 xn--suomithti-02a.com
 xn--suomithti-02a.fi
 xn--suomitnn-5zaba.com
