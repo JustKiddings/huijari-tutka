@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 10/03/2026 08:00 UTC
+# Last modified: 11/03/2026 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -617,6 +617,7 @@ avaa-pankkitili-netissa-4.online
 aveno-suomi.com
 avenoirhelsinki.com
 aventifinland.com
+avero-agency.com
 avero-bistro.ru
 avero-california.com
 avero-cms.ru
@@ -934,6 +935,8 @@ brandvero-dynmics.com
 bratz-suomi.com
 bratzfinland.com
 bratzsuomi.com
+brcpsuomi.fi
+brcsuomi.fi
 breezevapesuomi.com
 breezevapesuomi.net
 brestinsoumise.fr
@@ -1569,6 +1572,7 @@ digivero-energy.com
 digivero-energy.de
 digiviestit.com
 dimitra-kanta.com
+dimitrissoumis.com
 dininghelsinki.info
 discoverdiscoveringfinland.com
 discoverhelsinki.online
@@ -2294,6 +2298,7 @@ finlandiaspinzone.com
 finlandiasutaz.sk
 finlandiatravel.co.uk
 finlandiavillage.com
+finlandiavodka.com.ve
 finlandiccare.com
 finlandid.xyz
 finlandil.baby
@@ -2415,6 +2420,7 @@ finlandstar.ru
 finlandstays.com
 finlandsteambaths.com
 finlandstories.org
+finlandsurrogacy.com
 finlandsvisasteman.com
 finlandsvisasteman.se
 finlandswap.xyz
@@ -2474,6 +2480,7 @@ finplaysuomi.com
 finplaysuomi.net
 finplaysuomiwin.com
 finsukatsuomi.com
+finsuomi.com
 finsuomicasino.com
 finsuomislots.com
 fintalksfinland.com
@@ -3705,6 +3712,7 @@ helsinkifunstreak.vip
 helsinkifx.xyz
 helsinkigame.biz
 helsinkigame.com
+helsinkigamecas.com
 helsinkigamefi.xyz
 helsinkigamelab.com
 helsinkigamelab.online
@@ -4679,6 +4687,7 @@ journeytofinland.xyz
 joustava-autohuolto.fi
 joustokeulahuolto.com
 joustokeulahuolto.store
+jparemonttipalvelut.fi
 jpkviesta.com
 jpprakennuspalvelut.com
 jrafinland.com
@@ -4932,6 +4941,7 @@ kiassnorthsuomiyear.com
 kickscrewsuomi.com
 kicksuomi.com
 kiddiosuomi.com
+kidzmaniafinlandway.com
 kiehuvaturva.com
 kiekka-finland.com
 kielipalvelukauno.com
@@ -5716,6 +5726,7 @@ matkahuoltoapp.com
 matkahuoltoo.com
 matsuomine.xyz
 mavero-logica.cfd
+mavero-london.com
 mavero-re.com
 mavero-re.org
 mavero-solutions.de
@@ -6673,6 +6684,7 @@ nordea-problem-sbn.cyou
 nordea-sikker.com
 nordea-tuki.com
 nordea.com.br
+nordea.com.ve
 nordea.dev
 nordea.site
 nordea.space
@@ -8835,6 +8847,7 @@ socken-suomi.shop
 socohelsinki.fi
 sofia-helsinki.com
 sofia-matti-helsinki.com
+sofortumzug.com
 softwarefinland.store
 solar-installation-company-finland.bond
 solarumsuomi.online
@@ -8967,6 +8980,7 @@ soumiilmoitusvero.info
 soumiimajumdar.com
 soumiji.com
 soumik.blog
+soumik.com.bd
 soumik.me
 soumikagura.site
 soumikahammedp.com
@@ -9028,6 +9042,7 @@ soumimode.com
 soumimos.online
 soumina.com
 souminas.com
+souminator.online
 soumine.com
 soumine.net
 soumine.ru
@@ -9245,6 +9260,7 @@ soumitradutta.name
 soumitradutta.org
 soumitraduttany.com
 soumitrafurniture.com
+soumitraghosh.in
 soumitrakanungo.com
 soumitrakonar.me
 soumitralab.com
@@ -10387,6 +10403,7 @@ suomikeskus.nu
 suomikestore.com
 suomikhabar.com
 suomikimalainen.online
+suomikings.com
 suomikiuas.com
 suomikivaa.com
 suomikon.fi
@@ -11572,6 +11589,7 @@ tuholaispalvelut.com
 tuholaistorjuntapalvelu.fi
 tukiafinland.com
 tukipalvelu-suomi.site
+tukipalveluntarjoajat.sbs
 tukipalvelut-suomi.site
 tukisaatopanki.site
 tukiyhteydet-suomi.site
@@ -12406,6 +12424,7 @@ vero-roma.com
 vero-sa.com
 vero-sante-support.com
 vero-santiago.com
+vero-sbrt.com.bd
 vero-schwarz.com
 vero-science.com
 vero-se.com
@@ -12460,6 +12479,7 @@ vero-tour.com
 vero-trade.com
 vero-transcription.com
 vero-transport.com
+vero-tukea.fi
 vero-tw.cam
 vero-tw.motorcycles
 vero-umzug.ch
@@ -12594,6 +12614,8 @@ viesti-vero.sbs
 viesti.app
 viesti.co.kr
 viesti.de
+viesti.fr
+viesti.iki.fi
 viesti.one
 viesti.online
 viesti.ru
