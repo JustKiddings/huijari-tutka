@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 15/03/2026 08:00 UTC
+# Last modified: 16/03/2026 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -1042,6 +1042,7 @@ casallsuomi.com
 casasuomi.com
 casavero-dubai.com
 casavero-home.com
+casavero-style.com
 cashelsinki-fi.com
 cashelsinki.com
 cashfinland.xyz
@@ -2395,6 +2396,7 @@ finlandobserverra.xyz
 finlandodds.xyz
 finlandoffers.com
 finlandopen.xyz
+finlandpadel.com
 finlandpass.com
 finlandpay.xyz
 finlandpi.com
@@ -2634,6 +2636,7 @@ fortumars.com
 fortumate.com
 fortumatic.com
 fortumax.online
+fortumaxplay.com
 fortumaze.com
 fortumbei.com
 fortumcapital.com
@@ -3526,6 +3529,7 @@ helsinki.ltd
 helsinki.luxury
 helsinki.media
 helsinki.moi
+helsinki.pro
 helsinki.rent
 helsinki.rocks
 helsinki.tattoo
@@ -3896,6 +3900,7 @@ helsinkionlinecasino.win
 helsinkioriginalpilates.com
 helsinkioutletskechers.com
 helsinkioverdrive.com
+helsinkioverdrive.fi
 helsinkiowcup.fi
 helsinkipadel.fi
 helsinkipaleo.com
@@ -4095,6 +4100,7 @@ herhelsinki.com
 herrenschmuck-suomi.shop
 hetahoivapalvelut.fi
 hetkihelsinki.com
+hevosmiestentietotoimis.to
 hevospalveluvaisanen.com
 hexeafinland.com
 heyfinland.com
@@ -5312,6 +5318,7 @@ latasseinsoumise.com
 laterveystalo.com
 latingardenhelsinki.com
 lattiapalveluroyal.com
+laurikakotipalvelut.fi
 laurilanpalvelu.com
 laurinlivepalvelu.com
 laurinlivepalvelut.com
@@ -5553,6 +5560,7 @@ lsuominetl.skin
 ltc-finland.com
 ltp-siivouspalvelut.com
 lubaoyj.com
+lucafinland.com
 lucas-suomela.com
 luckycasino-suomi.com
 luckycasinofinland.com
@@ -6292,6 +6300,7 @@ mohsenmasoumi.online
 monarchfinland.com
 moncler-suomi.com
 moneyhelsinki.xyz
+monikulttuurinenturvallisuus.fi
 monipalveluvilen.fi
 monitoraudiosuomi.com
 moniva-helsinki.com
@@ -6883,6 +6892,7 @@ nudeviesta.com
 nudiejeans-suomi.com
 nudiejeanshelsinki.com
 nuijamaankonehuolto.fi
+nukebasefinland.com
 numino-helsinki.com
 numobilepay.com
 nuohouspalvelu.com
@@ -6931,6 +6941,7 @@ official-casino-finland.biz
 official-casino-finland.lat
 offinland.fi
 offlinefinland.com
+offthebenchhelsinki.com
 oh-pollysuomi.com
 ohefinland.bar
 ohene-helsinki.com
@@ -6950,6 +6961,7 @@ olivero-ai-vinci.art
 olivero-capital.com
 olivero-construction-ubaye.fr
 olivero-sactp.fr
+olivero-valla.com
 olukaisuomisale.com
 olybetsuomi.com
 oma-2025.com
@@ -7211,6 +7223,7 @@ omakela-fi.sbs
 omakirjaudu.com
 omakirjaudutunnis.com
 omapankki-online.com
+omapankkii-online.com
 omaposti-fi.com
 omaposti-fi.icu
 omaposti-fi.sbs
@@ -9255,6 +9268,7 @@ soumissionex.com
 soumissionexpress.com
 soumissionfemmedemenage.com
 soumissionfondation.com
+soumissiongroupevaro.com
 soumissionhabitat.com
 soumissionhypothecaire.ca
 soumissionhypothequeenligne.com
@@ -9545,6 +9559,7 @@ staifinbmwhuolto.fi
 staifinbmwhuolto.online
 stair-lift-finland.bond
 stake-finland.com
+stakefinland.com
 stakehelsinki.xyz
 stakesfinland.xyz
 stakeshelsinki.xyz
@@ -10144,6 +10159,7 @@ suomi-neito.com
 suomi-nettikasino.org
 suomi-nettikasinot.com
 suomi-oma.com
+suomi-omavero.com
 suomi-omkanta.com
 suomi-online.com
 suomi-online.icu
@@ -10548,6 +10564,7 @@ suomileaniksi.com
 suomilehti.com
 suomileikki.info
 suomilennot.fi
+suomilfinland.com
 suomilife.com
 suomilife.org
 suomilimitti.fi
@@ -11482,6 +11499,7 @@ tomorrowland-finland.com
 tomskengat-suomi.com
 tomtailorsuomi.net
 tonybet-finland.com
+tonybet-finland.fi
 tonybet-suomi.com
 tonybet-suomi.online
 tonybetsuomi.com
@@ -12055,6 +12073,7 @@ usharviestates.com
 ushturvalapamyati.ru
 usjfinland.world
 utbfinland.yachts
+utilityfinland.fi
 uudelleenohjaus-omakanta.click
 uudelleenrekisterointi.info
 uudenkylanmetsapalvelu.fi
@@ -12173,6 +12192,7 @@ valvontakomissiotafk.xyz
 valvonte.com
 valvontres.online
 valvonzandesk.com
+vandoeuvre-insoumis.fr
 vandoeuvre-insoumise.fr
 vandoeuvreinsoumise.fr
 vanityopal.site
@@ -12422,6 +12442,7 @@ vero-fi.com
 vero-fi.sbs
 vero-fi.xyz
 vero-fiber.com
+vero-fide.com
 vero-fii.com
 vero-fin.com
 vero-finanx.com
@@ -12645,6 +12666,7 @@ vero-vera.com
 vero-verdi.com
 vero-vero.art
 vero-veronpalautus.com
+vero-via.site
 vero-vibe.com
 vero-viesti.com
 vero-viesti.fi
@@ -12832,7 +12854,9 @@ vipfinland.site
 vipkasinotsuomi.com
 vipps-mobilepay-online.com
 vippsmobilepay.info
+vippsmobilepay.live
 vippsmobilepay.net
+vippsmobilepay.news
 vippsmobilepay.nu
 vippsmobilepay.online
 vippsmobilepay.org
@@ -13304,6 +13328,7 @@ yarbo-finland.eu
 yasoumin.com
 yasuomihashimura.com
 yasuomissfortune.click
+yayfinland.com
 ydffinland.quest
 yeezyfinland.com
 yeezysuomi.com
