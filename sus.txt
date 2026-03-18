@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 17/03/2026 08:00 UTC
+# Last modified: 18/03/2026 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -132,6 +132,7 @@ aeydesuomi.com
 af-buymakantan.com
 affishelsinki.com
 afinland.top
+afnanautohuolto.fi
 afriqueinsoumise.com
 aft-finland.com
 agavero-mx.com
@@ -546,6 +547,7 @@ atelieriohaapalahelsinki.com
 ateljeehelsinki.com
 ateriapalvelu.com
 athanasiagiasoumi.com
+athenisfinlandiae.com
 athens-finlandian.info
 atkpalvelu.online
 atksuperpalvelu.fi
@@ -821,6 +823,7 @@ betsider-finland.com
 betsider-suomi.com
 betsson-suomi.com
 betssuomi.com
+betterfinland.com
 bettisuomi.com
 betviesta.com
 betyopaxv.xyz
@@ -1395,6 +1398,7 @@ customer-success-helsinki.com
 customersupportfinland.com
 cutprofinland.com
 cutprofinland.store
+cuttersfinland.shop
 cvturvattua.xyz
 cwcfinland.com
 cwtfun247finland.site
@@ -1541,6 +1545,7 @@ dental-implants-finland-586.bond
 dertyopalkoma.click
 descentesuomi.com
 designemuseumfinland.com
+designersoumi.co.in
 designfinland.xyz
 designfortumbler.com
 designhelsinki.xyz
@@ -2753,6 +2758,7 @@ funyzofinland.art
 furfinland.info
 furfinland.net
 furfinland.org
+furlasuomi.com
 futurehrpalvelut.com
 futureshelsinki.org
 futurvalor.com
@@ -4343,6 +4349,7 @@ hyvinvointipalvelutmaijakarvonen.fi
 hyvinvointipalvelutrennompi.com
 hzpirkulturvakfi.org
 hzpirkulturvakfi.xyz
+hzsoumi.com
 hzsoumi.xyz
 i-suomi.info
 iafinland.com
@@ -7266,6 +7273,7 @@ omavero-suomi-viesti.com
 omavero-suomi.com
 omavero-suomi.consulting
 omavero-verohallinto.com
+omavero-verohallinto.info
 omavero-verohallintopalvelu.com
 omavero-veroilmoitus.xyz
 omavero-veronpalautus.info
@@ -7401,6 +7409,7 @@ opmobiiliserv.com
 opmobiiliserve.com
 oppankii.com
 oppilaitosturvallisuus.org
+opsahkopalvelut.fi
 opsuomimpod.com
 optimumnutritionfinland.com
 opturva.com
@@ -8042,6 +8051,7 @@ psuhholoogilineturvalisus.com
 psuominenm.guru
 psychedelicshopfinland.com
 psykoterapiajatyonohjauspalvelutmailiskarlsson.com
+psykoterapiapalvelut-sanna-vallenius.com
 pt-tilipalvelu.fi
 ptautohuolto.fi
 ptr-autohuolto.com
@@ -9205,6 +9215,7 @@ souminna.com
 souminoon.net
 souminstitut.com
 souminternational.com
+soumio.ca
 soumio.com
 soumiopo.com
 soumir.com
@@ -9316,6 +9327,7 @@ soumissionrsa.ca
 soumissions-assurances.ca
 soumissions-auto.ca
 soumissions-courtier.com
+soumissions-funeraires.com
 soumissions-travaux-quebec.com
 soumissions.ai
 soumissions360.com
@@ -9335,6 +9347,7 @@ soumissionsentrepreneurs.com
 soumissionsentretienmenager.ca
 soumissionservice.com
 soumissionsfitness.ca
+soumissionsfuneraires.com
 soumissionsgaragecabanon.ca
 soumissionshypothecaires.com
 soumissionsinfiltrations.ca
@@ -10722,6 +10735,7 @@ suomipilvi.com
 suomipilvi.info
 suomipilvi.net
 suomipilvi.org
+suomipimut.com
 suomipirtti.org
 suomipizza.com
 suomiplanetefi.com
@@ -11387,6 +11401,7 @@ the-ghost-of-finland.com
 thealleyhelsinki.com
 theautodennashville.com
 theenviromasterofinlandempire.com
+thefinlandprescription.com
 thefrankieshopsuomi.net
 thegaviestate.com
 thehappyhelsinki.pics
@@ -12095,6 +12110,11 @@ usatrafco2.cfd
 usatrafcoo1.cfd
 usavisafinland.com
 usemobilepay.com
+usenordeast.com
+usenordeast.net
+usenordeast.org
+usenordeast.shop
+usenordeast.store
 usharviestates.com
 ushturvalapamyati.ru
 usjfinland.world
