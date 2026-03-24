@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 23/03/2026 08:00 UTC
+# Last modified: 24/03/2026 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -470,6 +470,7 @@ asiakashaku.fi
 asiakashankintaa.com
 asiakashankintaoy.com
 asiakasino.net
+asiakasino89.org
 asiakasmagneetti.com
 asiakasmestarit.com
 asiakaspalkinnot-elisa.info
@@ -1320,8 +1321,11 @@ comme-des-garconssuomi.com
 comparefinland.com
 compasgroupfinland.com
 compass-group-finland.com
+compass-group-finland.net
 compass-groupfinland.com
+compass-groupfinland.net
 compassgroupfinland.com
+compassgroupfinland.net
 compassgrupfinland.com
 comvero-group.ru
 concresoumiixconcret.shop
@@ -2350,6 +2354,7 @@ finlandfashion.ru
 finlandfhe.xyz
 finlandfi.xyz
 finlandfinancialinc.com
+finlandfishclub.top
 finlandfishing.cz
 finlandfj.com
 finlandflower.com
@@ -2482,6 +2487,7 @@ finlandpool.xyz
 finlandpools.xyz
 finlandporn.xyz
 finlandpothpiyasa.com
+finlandpower.live
 finlandpress.com
 finlandpro.xyz
 finlandpublic.xyz
@@ -2530,6 +2536,7 @@ finlandstar.ru
 finlandstays.com
 finlandsteambaths.com
 finlandstories.org
+finlandstream.com
 finlandsurrogacy.com
 finlandsvisasteman.com
 finlandsvisasteman.se
@@ -4012,6 +4019,7 @@ helsinkipaleo.com
 helsinkipathfinder.com
 helsinkipatientsafety.org
 helsinkipay.xyz
+helsinkipelit.online
 helsinkipenthouse.com
 helsinkiperfumeclub.shop
 helsinkipersonaltrainer.com
@@ -4927,6 +4935,7 @@ kalastussuomi.com
 kalevanautopalveluhelsinki.com
 kallio-helsinki.com
 kalustopalvelut.com
+kalustopalvelut.fi
 kamagra-finland247.com
 kamagra-finland247.store
 kamagra-suomi.com
@@ -4943,6 +4952,7 @@ kampanja-fi-smobiili.com
 kampanja-fi-spankki.com
 kampanja-fimobiili.com
 kampanja-fispankki.com
+kampanja-mobiili-fi-suomi.com
 kampanja-mobiilifi.com
 kampanja-pankki-elakkeella-fi.com
 kampanja-pankki-fi.com
@@ -5007,6 +5017,7 @@ kartyakevero-gep-az-en.shop
 kartyakevero-gep.shop
 karvinenpalvelut.net
 kasiakasauli.com
+kasiakassijatercz.pl
 kasinfinland.com
 kasinfinland1.com
 kasino-helsinki.com
@@ -5499,6 +5510,7 @@ leadgenfinland.com
 leadrobustfinland.com
 leadsifyasiakas.com
 leadsifysuomi.com
+leaguefinland.se
 learnsuomi.com
 lecfinland.art
 lechatsoumis.com
@@ -5529,6 +5541,7 @@ lentokenttahotellihelsinki.com
 leovegassuomi.com
 lequebecinsoumis.org
 les-insoumis.fr
+lesinsoumisdujura.fr
 lespalvelut.com
 letmepalvelu.fi
 letsgowithsoumia.com
@@ -6939,6 +6952,7 @@ nobull-suomi.com
 nobulleuropesuomi.com
 nobullsuomi.com
 nocturva.com
+nocturva.net
 nocturva.org
 nodefinland.xyz
 nodehelsinki.xyz
@@ -7018,6 +7032,7 @@ nordeasgg.live
 nordeashippingco.com
 nordeasmycken.one
 nordeasmycken.se
+nordeastcapital.com
 nordeastcbd.com
 nordeaster.com
 nordeaster.io
@@ -7696,6 +7711,7 @@ padelarenafinland.fi
 padelhousefinland.com
 padelsuomi.com
 paf-suomi.com
+paf-suomi.fi
 pafcasino-finland.com
 pafcasino-suomi.com
 pafcasinofinland.com
@@ -8244,6 +8260,7 @@ projektyopakowan.pl
 prokotipalvelut.com
 promptfinland.xyz
 prompthelsinki.xyz
+promptipankki.fi
 promy-do-finlandii.pl
 prontocasino-suomi.com
 prosoumission.ca
@@ -10233,6 +10250,7 @@ suomennumeropalvelu.fi
 suomennuohousrekisteri.com
 suomennuohoustarvike.com
 suomenomaisuudenhoito.com
+suomenompelukone.com
 suomenonni.com
 suomenopiskelu.com
 suomenoy.com
@@ -10293,6 +10311,7 @@ suomenrahoitusratkaisut.net
 suomenrakennevahvistus.fi
 suomenrakennuskeskusfi.com
 suomenrakennusklinikka.com
+suomenrengas.fi
 suomenreserviakut.com
 suomensaaristo.eu
 suomensahkoautohuolto.com
@@ -11142,6 +11161,7 @@ suomisocials.com
 suomisocialslots.com
 suomisolovair.com
 suomisosiaalikasino.xyz
+suomisote.com
 suomisoul.com
 suomisoulcrochet.com
 suomispa.ca
@@ -11584,6 +11604,7 @@ terveys.eu
 terveys.media
 terveys.my.id
 terveys.shop
+terveys.site
 terveys.store
 terveysakatemia.blog
 terveysanalyysi.com
@@ -11662,6 +11683,7 @@ terveystalo-oyj1.com
 terveystalo.biz
 terveystalo.blog
 terveystalo.click
+terveystalo.cloud
 terveystalo.club
 terveystalo.design
 terveystalo.fit
@@ -12655,6 +12677,7 @@ vavada-finland-bonus.net
 vavada-finland.net
 vavada-suomi.com
 vedonlyontisuomi.com
+veebiturva.ee
 veevago-suomi.com
 veganordeath.com
 vegganfoodfinland.rest
@@ -12969,6 +12992,7 @@ vero-oakhome.com
 vero-occupational-therapy.com
 vero-odit.site
 vero-on.com
+vero-ops.io
 vero-org.com
 vero-ornavero-fi.com
 vero-os.com
