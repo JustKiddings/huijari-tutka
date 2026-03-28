@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 27/03/2026 08:00 UTC
+# Last modified: 28/03/2026 08:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -10,6 +10,7 @@
 1081asiakaspalvelu-nordea.info
 1081asiakaspalvelu-op.info
 1082asiakaspalvelu-nordea.info
+10bestfinland.com
 10xfinland.fi
 123finland.xyz
 12tapaapilatahelsinki.net
@@ -452,6 +453,7 @@ artwalkhelsinki.com
 arvokoruhelsinki.com
 arvostettuasiakaskokemus.fi
 asailfinland.com
+asencaresuomi.fi
 asennuspalvelujoku.com
 asennuspalvelumarjoniemi.fi
 asennuspalvelumerkkiniemi.com
@@ -1340,6 +1342,7 @@ compassgroupfinland.com
 compassgroupfinland.net
 compassgrupfinland.com
 comvero-group.ru
+conches-insoumise.ch
 concresoumiixconcret.shop
 conference-hotel-helsinki-456239310.today
 conflans-insoumise.fr
@@ -1598,6 +1601,7 @@ demoniassuomi.com
 demoniasuomi-fi.com
 demoniasuomifi.com
 demoteamfinland.com
+denghunsuomingo.shop
 denmark-dk-mobilepay.com
 denmark-dk-mobilepay.io
 denmark-mobilepay.com
@@ -2359,6 +2363,7 @@ finlandearlyyears.com
 finlandeasy.xyz
 finlandeconomy.com
 finlandedu.com
+finlandeloa.com
 finlandemb.de
 finlandepic.xyz
 finlandesalfin.com
@@ -2533,6 +2538,7 @@ finlands.best
 finlands.city
 finlands.cn
 finlands.fi
+finlands.pl
 finlandscan.xyz
 finlandschool.online
 finlandsequencer.xyz
@@ -2572,6 +2578,7 @@ finlandtee.xyz
 finlandtgbot.online
 finlandtoday.com
 finlandtoday.org
+finlandtodo.com
 finlandtokenization.xyz
 finlandtokenize.xyz
 finlandtool.xyz
@@ -3208,6 +3215,7 @@ helsinki-casin0.website
 helsinki-copenhagen-cruise-package-fi.sbs
 helsinki-dating.site
 helsinki-design-studio.com
+helsinki-dev-node.world
 helsinki-dire-xaaa.info
 helsinki-dire-xaab.info
 helsinki-dire-xaac.info
@@ -3956,6 +3964,7 @@ helsinkij.lol
 helsinkijackpot.shop
 helsinkijazzhub.com
 helsinkijewels.com
+helsinkijobs.work
 helsinkijs.com
 helsinkijuristi.com
 helsinkijuristi.org
@@ -4485,6 +4494,7 @@ hyperhelsinki.xyz
 hyrfinland.world
 hyundaiclubfinland.com
 hyva-haukku-koirapalvelut.com
+hyvaksymiskansia-suomi.com
 hyvanhoidonpalvelut.fi
 hyvinkaansiivouspalvelu.com
 hyvinvointipalveluoleva.blog
@@ -5583,6 +5593,7 @@ lequebecinsoumis.org
 les-insoumis.fr
 lesinsoumisdujura.fr
 lespalvelut.com
+lesptitslusahelsinki.fr
 letmepalvelu.fi
 letsgowithsoumia.com
 leuoyj.shop
@@ -5689,6 +5700,7 @@ loihdeturva.com
 loimaanasuntopalvelu.com
 loimihuolto.com
 loistopalvelu.com
+lokajaporakaivohuolto.fi
 lokifinland.com
 lomajaterveys.com
 lomallesisuomessa.com
@@ -6784,6 +6796,7 @@ nammosuomi.com
 namvero-blintrix.com
 nanorebarsoumian.com
 nanterreinsoumise.fr
+naolvsuomiaobeng.pics
 naotsuomi.net
 napapijri-finland.com
 napapijrifinland.com
@@ -7012,6 +7025,7 @@ nogentsuroiseinsoumise.fr
 nohatefinland.org
 nokiansiivouspalvelut.fi
 noktakantar.xyz
+nomadfinland.net
 nomavero.co.uk
 nomavero.com
 nomavero.info
@@ -7128,6 +7142,7 @@ northfacesuomiale.com
 northgatefinland.com
 northhelsinki.com
 norway-sweden-finland-holiday-package.today
+noseworkfinland.com
 noshit-nikotiinipussit.com
 nostojasiirtopalvelu.com
 nostopalvelu.com
@@ -7476,6 +7491,7 @@ omajo-kirjaudu.com
 omajo-oyj.com
 omakanta-fi.icu
 omakanta-fi.sbs
+omakanta-iilmoitius.com
 omakanta-iilmoitus.com
 omakanta-kansalaiset.info
 omakanta-online.com
@@ -8351,6 +8367,7 @@ psychedelicshopfinland.com
 psykoterapiajatyonohjauspalvelutmailiskarlsson.com
 psykoterapiapalvelut-sanna-vallenius.com
 pt-tilipalvelu.fi
+ptahuolto.fi
 ptautohuolto.fi
 ptr-autohuolto.com
 ptvfinland.com
@@ -8403,6 +8420,7 @@ pyro-helsinki.com
 pyynto-suomi-fi.com
 qbdfinland.info
 qbsuominem.info
+qingdaoyj.com
 qisuunnittelupalvelu.com
 qmfinland.shop
 qmobiiliatya.life
@@ -10076,6 +10094,7 @@ sunterveysjahyvinvointipalvelut.com
 suntiopankki.fi
 suojapalvelu.fi
 suojattu-yhteys-s-pankki-fi.com
+suomalainenkuvapankki.com
 suome.cn
 suomeabonus.com
 suomeca.cn
@@ -10541,6 +10560,7 @@ suomi-finland.icu
 suomi-fl.sbs
 suomi-galmudugseura.com
 suomi-games.com
+suomi-gaming-pro.sbs
 suomi-henkilokohtainenalue.info
 suomi-hosting.store
 suomi-id.info
@@ -11117,6 +11137,7 @@ suomipeliopas.com
 suomipelit.games
 suomipelit.net
 suomipelit2026.xyz
+suomipelit24.com
 suomipelithotelli.com
 suomipelitop.com
 suomipelittop20.com
@@ -11141,6 +11162,7 @@ suomiplay.live
 suomiplayerz.com
 suomiplaygo.com
 suomiplayhub.site
+suomiplaylounge.com
 suomiplaymap20.games
 suomiplaymate.com
 suomiplays.com
@@ -11709,6 +11731,7 @@ terveyselama.com
 terveysflow.fi
 terveysilta.com
 terveysinfo.net
+terveysjaelama.fi
 terveysjaloma.com
 terveyskaupat.net
 terveyskauppa.com
@@ -11718,6 +11741,7 @@ terveyskeskusplusfitr.info
 terveysklinikkalonglife.fi
 terveyskoulukoti.org
 terveysliz.fi
+terveysmaailma.store
 terveysmatkatliettua.com
 terveysmuseo.org
 terveysnavi.fi
@@ -12253,6 +12277,7 @@ tukiyhteys-suomi.site
 tulkkauspalvelut.com
 tullifinland.com
 tulospalvelu.online
+tulospalvelujetsonen.fi
 tulostinpalvelu.fi
 tulovero-viestinta-suomi.info
 tuninstus-kirjaudu.com
@@ -13006,6 +13031,7 @@ vero-gusto.com
 vero-haus.store
 vero-henkiloasiakkaat.fi
 vero-holding.com
+vero-home.nl
 vero-homecare.com
 vero-homecare.net
 vero-homes.com
@@ -13906,6 +13932,7 @@ yhteys.ai
 yhteys.net
 yhteys.org
 yhteysoperaria.com
+yhteyspiste.one
 yhteystiedotsuomi.com
 yieldfinland.xyz
 yieldhelsinki.xyz
