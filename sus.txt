@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 29/03/2026 07:01 UTC
+# Last modified: 30/03/2026 07:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -235,6 +235,7 @@ akashviestate.com
 akashviestates.com
 akisuomela.fi
 akkupankki.com
+akkuturva.com
 akkuvarastopalvelu.fi
 akokaivopalvelut-1.online
 akshatakantak.com
@@ -1000,6 +1001,7 @@ bridgehelsinki.xyz
 bridgestonesuomi.com
 brightfinland.shop
 britankotipalveluky.com
+brixtonssuomi.com
 brixtonsuomis.com
 bromo77leviesta.site
 brookssuomioutlet.com
@@ -1256,6 +1258,7 @@ chivero-gqvzma.rest
 chivero-gqvzmaep.rest
 chloefinland.com
 christianlouboutinfinland.com
+christyopara.com
 circulareconomyfinland.eu
 cirkulsuomi.com
 cisr-helsinki.org
@@ -1448,6 +1451,7 @@ culturvalencia.com
 culturvalinteriors.shop
 culturvate.co.uk
 culturvate.online
+culturvate.tours
 culturvated.life
 culturvatedchef.com
 culturvating.com
@@ -2602,6 +2606,7 @@ finlandvacay.com
 finlandventures.com
 finlandverify.com
 finlandview.xyz
+finlandvilla.com
 finlandvoyages.com
 finlandvpn.xyz
 finlandvpnx.ru
@@ -4342,6 +4347,7 @@ holafinlandia.fi
 holdhelsinki.xyz
 holidayresortfinland.com
 hollister-suomi.fi
+homavero.com
 homehoteljugendhelsinki.site
 homeinfinland.com
 homeopatiapalvelut.com
@@ -4559,6 +4565,7 @@ igloohotelfinland.com
 igmobilepaylater.com
 igni-finland.casino
 ignicasino-suomi.com
+ignicasinosuomi.fi
 ignikasino-suomi.fi
 ihmemaasuomi.fi
 ihmemaasuomi.online
@@ -5758,6 +5765,7 @@ lostmarysuomi.com
 lot-helsinki-sauna-870970932.world
 lottafinland.su
 lotteryfinlandia.com
+loudhelsinki.com
 lounas-helsinki.com
 louneapalvelut.com
 louneapalvelut.net
@@ -5817,6 +5825,7 @@ luino-il-vero-pizza-kebap.it
 lujaprohuolto.fi
 lukemattomat-viestit.com
 lukemattomatviestit.info
+lukkifinland.com
 lukoisuomian.com
 lulinautohuolto.fi
 lululemonshopsuomi.com
@@ -6433,6 +6442,7 @@ mobilepayappsda.info
 mobilepaybank.com
 mobilepaybd.com
 mobilepaybd.xyz
+mobilepaycasino-dk.dk
 mobilepaycasino-fi.top
 mobilepaycasino.com
 mobilepaycasino.info
@@ -8012,6 +8022,7 @@ pelipaitasuomi.com
 pelipetocasino-finland.com
 pelipetokasino-suomi.fi
 pelisuomeseta.com
+pelithelsinki.com
 pelitoimintaasuomessa.com
 pelitsuomi10.com
 peltipalvelu.com
@@ -8667,8 +8678,10 @@ rippasuomi.net
 rippasuomi.online
 rippasuomi.store
 rise-finland.com
+rise-helsinki.com
 riseandshinefinlandgambiaassociationry.org
 risefinland.com
+risehelsinki.com
 risoumirai.com
 ristosisko-helsinki.com
 ritan-kauneuspalvelut.com
@@ -8682,6 +8695,7 @@ rivero-rp.online
 rivero-rp.ru
 rivero-rp.space
 rivero-studios.com
+rivero-towing.online
 rizk-suomi.com
 rizkcasino-finland.com
 rizkcasino-suomi.com
@@ -9062,6 +9076,7 @@ scanhelsinki.xyz
 schibsted-suomi.cfd
 schibsted-suomi.icu
 schilick-insoumise.fr
+schoolinfinland.fi
 schoolofaifinland.com
 schoolofhappinessfinland.com
 scotuoyj.com
@@ -9390,6 +9405,7 @@ sommelierhelsinki.com
 somuuttopalvelut.fi
 soniasoumise.online
 sonnyangelfinland.com
+sonnyangelhelsinki.com
 sonnyangelsuomi.com
 soodapuhalluspalvelu.online
 sorafinland.com
@@ -10080,6 +10096,7 @@ studiopuistofinland.com
 studiopuistohelsinki.com
 study-in--finland.com
 studyinfinland.today
+sturva.com
 sturvall.com
 stussy-finland.com
 stussy-suomi.com
@@ -10684,6 +10701,7 @@ suomi-viestits.site
 suomi-web-fi.sbs
 suomi-web.sbs
 suomi-wonderful.com
+suomi-yit.fi
 suomi.bar
 suomi.best
 suomi.ch
@@ -10720,6 +10738,7 @@ suomi100.xyz
 suomi100tampere.fi
 suomi10hotel.com
 suomi10kasinot.com
+suomi110.fi
 suomi2022.com
 suomi2024.com
 suomi2025.com
@@ -11284,6 +11303,7 @@ suomislotsfin.com
 suomislotsplay.com
 suomismile.com
 suomismiles365.com
+suomismp.xyz
 suomisocialgame.com
 suomisocialkasinot.com
 suomisocials.com
@@ -12672,6 +12692,7 @@ uutisetsuomi.com
 uutisetsuomi.xyz
 uutisfinland.com
 uutiskirjeen-asiakas.fi
+uuusisuomiii.com
 uwattshelsinki.com
 uwellsuomi.com
 uwinvapesuomi.com
@@ -13874,6 +13895,7 @@ xn--premios-vero-dcb.online
 xn--promoo-vero-d8af3c.site
 xn--protocolovero-7eb.site
 xn--pshholoogilineturvalisus-wsc.com
+xn--pyrrekisteri-icb4w.com
 xn--pyrrekisteri-icb4w.fi
 xn--rekisterimttmt-nettikasinot-kkcd74cfa.com
 xn--rekisterimttmt-nettikasinot-kkcd74cfa.fi
