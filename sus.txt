@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 12/04/2026 07:01 UTC
+# Last modified: 13/04/2026 07:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -504,6 +504,7 @@ asiakasmestarit.com
 asiakaspalkinnot-elisa.info
 asiakaspalvelu-dan.online
 asiakaspalvelu-dansk-fi.com
+asiakaspalvelu-huuto.org
 asiakaspalvelu-mobil.fi
 asiakaspalvelu-omakanta.info
 asiakaspalvelu-suomi.site
@@ -4960,6 +4961,7 @@ iptvsuomi.info
 iptvsuomi.live
 iptvsuomi.net
 iptvsuomi.news
+iptvsuomi.org
 iptvsuomi.pro
 iptvsuomi.sale
 iptvsuomi.shop
