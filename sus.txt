@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 14/04/2026 07:01 UTC
+# Last modified: 15/04/2026 07:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -1536,6 +1536,7 @@ curatedvintagehelsinki.com
 curiumfinland.fi
 customer-success-helsinki.com
 customersupportfinland.com
+cusuomei-jibiunbanik.fit
 cutprofinland.com
 cutprofinland.store
 cuttersfinland.shop
@@ -2710,6 +2711,7 @@ finlandswap.xyz
 finlandswisestman.com
 finlandswisestman.se
 finlandsync.xyz
+finlandtaiwanseminar.fi
 finlandtalk.xyz
 finlandteam.xyz
 finlandtech.xyz
@@ -4695,6 +4697,8 @@ hurmiokasino-suomi.fi
 hushelsinkidiabetescenter.online
 husqvarna-soumi.com
 hute-suomi.shop
+huutopalvelu.com
+huutoturva.net
 hwffinland.info
 hxvfinland.info
 hydro-flask-suomi.com
@@ -7471,6 +7475,7 @@ nordicbet-suomi.online
 nordicbets-finland.com
 nordicbetsuomi.com
 nordicbridgefinland.com
+nordiciptvsuomi.fi
 nordicwalkinghelsinki.pro
 nordiko-helsinki.com
 nordiqofinland.com
@@ -8002,6 +8007,7 @@ onlinespankki.store
 onlinespankkifi.com
 onlinespankkifiwebsoft.com
 onlinespankkifiwebsoft.shop
+onlinetunnistautuminenfi.com
 onlineyhteydet-suomi.site
 onlineyhteys-suomi.site
 onlyfanssuomi.com
@@ -10385,6 +10391,7 @@ sparsuomi.rocks
 spashoplifestylefinland.fi
 spashoplifestylefinland.online
 spatialhelsinki.xyz
+speaksuomi.cloud
 speakupfinland.com
 specialshockeycampsuomi.com
 spectrmmobilepayment.com
@@ -12524,6 +12531,7 @@ timberlandsuomi.net
 timbuk2-suomi.com
 timbuk2suomi.com
 timesoffinland.com
+timesoffinland.net
 timesoffinland.org
 timesoffinlandcom.com
 tinamasoumi.com
@@ -12603,6 +12611,7 @@ top-list-finland.com
 top-slot-finlandia.com
 top10-ilman-rekisteroitymista.com
 top10-suomi.com
+top10helsinki.com
 top10nettikasinotsuomi.com
 top10suomi.com
 top10suomi.education
@@ -14423,6 +14432,7 @@ xn--heikkil-helsinki-1nb.com
 xn--helsinkitnn-t8aba.fi
 xn--henkilstpalvelu-etbc.fi
 xn--hierontapalveluhyrin-uzb.fi
+xn--hierontapalvelujmpti-qzb.fi
 xn--huoltoss-5zac.com
 xn--huoltovli-12a.fi
 xn--i9qz8uoyj.top
