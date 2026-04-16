@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 15/04/2026 07:01 UTC
+# Last modified: 16/04/2026 07:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -379,6 +379,7 @@ ansfinland.pro
 ansoumi.com
 anthonybarsoumian.com
 antinasennuspalvelu.fi
+anvero-consultant.se
 anvero-group.com
 anviestates.com
 any-pankki.icu
@@ -593,6 +594,7 @@ atelierdelasoumission.com
 atelierdelasoumission.fr
 atelieriohaapalahelsinki.com
 ateljeehelsinki.com
+ateljeelumifinland.com
 ateriapalvelu.com
 athanasiagiasoumi.com
 athenisfinlandiae.com
@@ -613,6 +615,7 @@ auoraoffinland.com
 auranmaanhuoltopalvelut.fi
 auranmaanmuuttopalvelu.net
 aurasuomi.com
+auraturva.online
 auraviestate.com
 aurinkorannikonrakennuspalvelut.com
 aurinkorannikonsiivouspalvelut.com
@@ -868,6 +871,7 @@ besthelsinki.com
 besthelsinkihotels.com
 bestinsuomi.com
 bestiptvfinland.com
+bestofinlandempire.com
 bestofsuomi2k.com
 bestonlinecasinofinland.com
 bestonlinecasinosfinland.com
@@ -1700,6 +1704,7 @@ designstudiohelsinkipl.info
 designstudiohelsinkiqi.info
 designstudiohelsinkiqp.info
 designstudiohelsinkisf.info
+designworksfinland.com
 desigual-finland.com
 despinayiasoumi.com
 desport-world-finland.com
@@ -2666,6 +2671,7 @@ finlandreportcom.com
 finlandreportix.pro
 finlandrestake.xyz
 finlandrestaking.xyz
+finlandrevealed.com
 finlandreview.com
 finlandrollup.xyz
 finlandrouter.xyz
@@ -3939,6 +3945,7 @@ helsinkibtc.xyz
 helsinkibtr.com
 helsinkibuses.com
 helsinkibusiness.xyz
+helsinkibusrental.com
 helsinkibyboat.com
 helsinkibyheart.com
 helsinkibytram.com
@@ -4518,6 +4525,7 @@ hkaturva.online
 hkfinland.co.uk
 hm-isannointipalvelut.fi
 hmp-palvelut.fi
+hmpalvelut.fi
 hnnettisivupalvelu.com
 hnpfinland.info
 hodlhelsinki.xyz
@@ -4599,6 +4607,7 @@ hrsuomifinland.shop
 hrxfinland.info
 hs-suomi.online
 hs-suomi.ru
+hs-vahinkopalvelut.fi
 hseqs-palvelut.com
 hsrsuomine.pics
 hstaxihelsinki.com
@@ -4698,6 +4707,7 @@ hushelsinkidiabetescenter.online
 husqvarna-soumi.com
 hute-suomi.shop
 huutopalvelu.com
+huutoturva.fi
 huutoturva.net
 hwffinland.info
 hxvfinland.info
@@ -5123,6 +5133,7 @@ jiasuomedia.top
 jiesuomi.com
 jiofinland.quest
 jituviesta.shop
+jiujitsuacademyhelsinki.com
 jjspalvelut.fi
 jk-autopalvelu.com
 jkafinland.com
@@ -7682,6 +7693,7 @@ oma-epp.org
 oma-eq.com
 oma-erna.com
 oma-erna.de
+oma-factory.com
 oma-fashion.cn
 oma-fi.com
 oma-fi.site
@@ -7877,6 +7889,7 @@ omakantasuomi.com
 omakantasuomi.shop
 omakantawellnesshub.info
 omakantayr.info
+omakeia-viesti.fi
 omakela-fi.icu
 omakela-fi.sbs
 omakirjaudu.com
@@ -9171,6 +9184,9 @@ rustsuomi.com
 rustyopaldrift.org
 rvr-rakennuspalvelut.fi
 rwafinland.xyz
+rxfinland.fit
+rxfinland.ink
+rxfinland.xyz
 rxjfinland.org
 ryhteystiedot.com
 ryosuuspankkifi.com
@@ -9415,6 +9431,7 @@ sark9finland.fi
 sashamariemassoumi.com
 sashamassoumi.com
 sasiakash.online
+sasoumia.com
 saspalvelut.com
 sassoumiracles.com
 sastamalanpalvelukiinteistot.fi
@@ -9973,6 +9990,7 @@ soumikejidxf.cn
 soumikejidxf.com
 soumikfactify.site
 soumikghosh.in
+soumikkumarsinha.com
 soumikmanna.com
 soumikmanna.in
 soumikmanna2441139.shop
@@ -10759,6 +10777,7 @@ suomenkaihdin.com
 suomenkaihdincenter.com
 suomenkaihdinkeskus.com
 suomenkaista.online
+suomenkannabisyhdistys.com
 suomenkansaensin.fi
 suomenkansalaisuuskoe.com
 suomenkansanterveysyhdistys.fi
@@ -10949,6 +10968,7 @@ suomentarjous.com
 suomentarjouspalvelu.com
 suomentarjoussite.com
 suomentekoaly.fi
+suomentekoalyt.online
 suomenteollisuusautomaatiooy.com
 suomenteollisuushuolto.co
 suomenteollisuushuolto.info
@@ -11378,6 +11398,7 @@ suomifinlandperkele.com
 suomifinlandperkele.net
 suomifinlandperkele.org
 suomifionline.site
+suomifitunnistautu.com
 suomifitunnistautuminen.com
 suomifitunnistus.com
 suomiflirt.org
@@ -12263,6 +12284,7 @@ terveydenhelmi.online
 terveydenhoitopalvelut.com
 terveydenhuolto.site
 terveydenpolku.fi
+terveydenpuolesta-oma.fi
 terveys-apteekki.com
 terveys.ai
 terveys.cc
@@ -13149,6 +13171,7 @@ ultrafcootball.shop
 ultrafinland.xyz
 ultrahelsinki.xyz
 ultrasuomi.com
+ulvilanautohuolto.com
 umakantajena.in
 umasanghviestates.com
 umnasserfinland.edu.bh
@@ -13761,6 +13784,7 @@ vero-ornavero-fi.com
 vero-os.com
 vero-p2p.com
 vero-pack.com
+vero-padel.com
 vero-paint.com
 vero-paintapp.com
 vero-paintings-prints.com
@@ -14398,6 +14422,7 @@ xalvero-dentiro.shop
 xarisfinland.fi
 xdemooyj.sbs
 xeopahertyopal.click
+xeshelsinki.com
 xiaoyj.cn
 xinmiaoyj.com
 xivero-sesari.sbs
@@ -14564,6 +14589,7 @@ xn--vero-samse-8cb.com
 xn--viemripalvelu-super-jwb.com
 xn--vierellsihyvinvointipalvelut-cnc.com
 xn--viestint-omakanta-xqb.com
+xn--vlvallrakennuspalvelut-04b.fi
 xn--vuokravlityshelsinki-hzb.fi
 xn--w7vero-7ta.com
 xoofinland.cyou
