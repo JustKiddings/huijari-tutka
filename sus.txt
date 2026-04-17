@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 16/04/2026 07:01 UTC
+# Last modified: 17/04/2026 07:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -954,6 +954,8 @@ bjjhelsinki.life
 bjornborgsuomi.com
 blackdiamondsuomi.com
 blackgirlinfinland.com
+blacklinefinland.com
+blacklinefinland.fi
 blakelyclothingsuomi.com
 blakelysuomi.com
 blankethelsinki.com
@@ -1791,6 +1793,7 @@ dlr-huolto-ja-pesu.com
 dlshensuomen.com
 dmc-helsinki.com
 dmsfinland.com
+dmtshopfinland.com
 dnaoyj.online
 dnrhelsinki.com
 docmartenssuomi.com
@@ -2648,6 +2651,7 @@ finlandpay.xyz
 finlandpi.com
 finlandpilates.com
 finlandplaces.online
+finlandplanr.com
 finlandplaygames.com
 finlandplays.com
 finlandplayzone.com
@@ -2785,6 +2789,7 @@ fintalksfinland.com
 finterveys.top
 finvero-hr.com
 finvero-pro.com
+finvero-sas.com
 finvero-ti.com
 finvero-x.com
 finwinsuomi.com
@@ -3291,6 +3296,7 @@ haoyj.net
 happinessfromfinland.com
 happy-casino-suomi.com
 happycasino-suomi.fi
+happyfinlandexperience.com
 happyhappyfinland.fi
 happyhelsinki.click
 happypalvelut.com
@@ -4168,6 +4174,7 @@ helsinkijuristi.com
 helsinkijuristi.org
 helsinkikasikirja.com
 helsinkikasino.com
+helsinkikasinot.fi
 helsinkikaupunkiopas.com
 helsinkiknifeshow.com
 helsinkiknitwear.com
@@ -4315,6 +4322,7 @@ helsinkirp.com
 helsinkis.com
 helsinkis.online
 helsinkis.top
+helsinkis.world
 helsinkisalespartners.com
 helsinkisanomat.com
 helsinkisatoshi.xyz
@@ -5558,6 +5566,7 @@ kissen-suomi.shop
 kitchenaid-suomi.com
 kitchenaidsuomi.com
 kivaasuomessa.online
+kivi-helsinki.com
 kivihuolto.fi
 kivipankki.com
 kizik-finland.com
@@ -6745,6 +6754,7 @@ mobilepay5g-id.com
 mobilepay5g.com
 mobilepayam.ir
 mobilepayandremit.com
+mobilepayapp.org
 mobilepayappsda.info
 mobilepaybank.com
 mobilepaybd.com
@@ -6778,6 +6788,7 @@ mobilepaydk.link
 mobilepaydk.net
 mobilepaydk.site
 mobilepaye.com
+mobilepaye.xyz
 mobilepayees.com
 mobilepayees.net
 mobilepayfi.com
@@ -8238,6 +8249,7 @@ palvelus.com
 palvelusaatopanki.site
 palvelut-ellenala-hiiro.com
 palvelut.fi
+palvelut.info
 palvelut.online
 palvelut.work
 palvelutfi.com
@@ -8486,6 +8498,7 @@ pinkpalmpufffinland.com
 pinkpalmpuffhoodiefinland.com
 pinkpalmpuffssuomi.com
 pinkpalmpuffsuomi.com
+pinkpalmspuffsuomi.com
 pinnaclesuomi.com
 pinocchiohelsinki.com
 pintahuolto.com
@@ -8495,6 +8508,7 @@ piperspin-finland.com
 piritanhyvinvointipalvelut.fi
 pirkanmaanpuupalvelu.com
 pirkanmaaturva.com
+pirkkalanpyorahuolto.com
 pistolo-finland.com
 pit-vipersuomi.shop
 pitkinsuomea.fi
@@ -8814,6 +8828,7 @@ purefinland.info
 purehelsinki.online
 pureslimxsuomi.online
 puriva-suomi.shop
+putkimieshelsinki.com
 putkipaivystyshelsinki.fi
 putkipalvelujv.com
 putkityothelsinki.fi
@@ -9325,6 +9340,7 @@ saappaatdopefinland.com
 saappaatsuomi.com
 saappaatsuomioutlet.vip
 saarahelsinki.com
+saarenpikahuolto.fi
 saaristohuolto.net
 saaristopalvelut.com
 saaristotienpalvelut.fi
@@ -9590,6 +9606,7 @@ shensuomencq.com
 shensuomenjiage.com
 shensuomenpeijian.com
 shhautauspalvelut.online
+shirintaksipalvelut.info
 shirtyopants.com
 shirtyopants.shop
 shirtyopants.store
@@ -11166,6 +11183,7 @@ suomi-ratings.store
 suomi-rekisterointi.info
 suomi-select.com
 suomi-services.com
+suomi-sewing-studio.com
 suomi-shop.ru
 suomi-social.world
 suomi-sports.com
@@ -12343,6 +12361,7 @@ terveysneuvome.info
 terveysneuvoqc.info
 terveysneuvoqf.info
 terveysneuvosf.info
+terveysnova.com
 terveysopas.com
 terveysopas.shop
 terveysopas.top
@@ -12893,6 +12912,7 @@ tunnelmanhuolto.net
 tunneyhteys.com
 tunnista.com
 tunnistaminen-fi.com
+tunnistasoittajat.com
 tunnistasuomi.com
 tunnistasuomi.info
 tunnistaudu-fi.info
@@ -12923,6 +12943,7 @@ tunnistautuminen.org
 tunnistautuminenfi.com
 tunnistautuminenfi.info
 tunnistautuminenfikortti.com
+tunnistautumineninit.com
 tunnistautuminennucer.com
 tunnistautuminensuomi.com
 tunnistautumisvaihtoehdot.icu
@@ -14172,6 +14193,7 @@ vivaiasuomi-fi.com
 vivaiasuomi.com
 vivaiasuomioutlet.com
 vivasuomislots.com
+vivatbet-suomi.com
 vivero-app.website
 vivero-bakery.com
 vivero-casa-romero.com
