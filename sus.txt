@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 18/04/2026 07:00 UTC
+# Last modified: 19/04/2026 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -692,6 +692,7 @@ avero-core.com
 avero-core.net
 avero-core.org
 avero-digital.com
+avero-digital.de
 avero-fit.com
 avero-group.com
 avero-health.com
@@ -836,6 +837,7 @@ belovici-elisabeta-nettoyage.com
 beloylyhelsinki.com
 bemapro-finland.com
 bendasuomi.fi
+benellifinland.fi
 benoa-palvelut.com
 benoapalvelu.com
 benoapalvelu.info
@@ -852,6 +854,7 @@ berry-helsinki.com
 berryhelsinkijumpsuit.com
 bershkasuomi.com
 berthold-elisa.com
+bessoumi.com
 bessoumi.fr
 best-casino-finland-for-android.shop
 best-casino-finland-free-credit.shop
@@ -1154,6 +1157,7 @@ carpeta-finlandia.shop
 carstofinland.com
 cartiersuomi.net
 cartmobilepaymentcrm.xyz
+casalcatalafinlandia.fi
 casallsuomi.com
 casasuomi.com
 casavero-dubai.com
@@ -1805,6 +1809,7 @@ docmartensuomi.com
 doctormartens-finland.com
 doctormartens-suomi.com
 doctormartenssuomi.com
+dodopalvelut.com
 dogfriendlyfinland.com
 dokumentointipalvelu.com
 dokumentointipalvelu.net
@@ -2429,6 +2434,7 @@ finlandartcryvpn01.ru
 finlandartretreats.com
 finlandaspirants.com
 finlandatausa.com
+finlandauto.com
 finlandauto.xyz
 finlandautonomous.xyz
 finlandavs.xyz
@@ -2513,6 +2519,7 @@ finlandev.xyz
 finlandezu.uk
 finlandfarm.xyz
 finlandfashion.ru
+finlandfeedback.com
 finlandfhe.xyz
 finlandfi.xyz
 finlandfinancialinc.com
@@ -2561,8 +2568,10 @@ finlandia.org.es
 finlandiabusiness.com
 finlandiacasino.icu
 finlandiacasino.net
+finlandiacaviar1440.com
 finlandiacircular.com
 finlandiaipc.com
+finlandiajatek.hu
 finlandiamtb.fi
 finlandianlines.fi
 finlandianyeremeny.hu
@@ -2594,6 +2603,7 @@ finlandisverige.com
 finlandisverige.org
 finlandisverige.se
 finlandiya6.shop
+finlandiyada.com
 finlandiyadaegitim.com
 finlandiyadauniversite.com
 finlandiyahaber.com
@@ -3824,6 +3834,7 @@ helsinki-shleprx-aaaj.info
 helsinki-shleprx-aaak.info
 helsinki-shleprx-aaal.info
 helsinki-shleprx-aaam.info
+helsinki-slots.site
 helsinki-stockholm-cruise-package-fn.sbs
 helsinki-stockholm-rail-vacation.today
 helsinki-stockholm.info
@@ -4958,6 +4969,7 @@ investwithsoumitra.in
 iotsuomi.net
 ip-tvfinland.fi
 ip-tvfinland.online
+ipalvelut.fi
 ipfinland.net
 iptv-finland.best
 iptv-finland.com
@@ -5015,6 +5027,7 @@ iptvsuomi.xyz
 iptvsuomi4k.com
 iptvsuomi4k.shop
 iptvsuomi8k.com
+iptvsuomi8k.pro
 iptvsuomilive.com
 iptvsuomipro.com
 iptvsuomis.com
@@ -5243,6 +5256,7 @@ kaikkikasinotilmanrekisteroitymista.fi
 kaikkiterveyteni.com
 kaikkityopaikat.com
 kainuunkiinteistohuolto.com
+kaippersviesta.lt
 kaitesifinland.com
 kaiverruspalvelu.fi
 kaivinkonepalvelut.com
@@ -5460,6 +5474,7 @@ kelakyytipalvelu.net
 kelakyytipalvelut.com
 kelakyytipalvelut.net
 kellohuoltopekkala.fi
+kellohuoltosainio.com
 kellolaatikko-suomi.shop
 kemikaalirekisteri.fi
 kemikaalirekisteri.org
@@ -5839,6 +5854,7 @@ latasseinsoumise.com
 laterveystalo.com
 latingardenhelsinki.com
 lattiapalveluroyal.com
+laukaanpitopalvelu.fi
 laurikakotipalvelut.fi
 laurilanpalvelu.com
 laurinlivepalvelu.com
@@ -7455,6 +7471,7 @@ nordeafund.com
 nordeafund.xyz
 nordeafunds.lu
 nordeaga.xyz
+nordeagle.com
 nordeagroup.xyz
 nordeainvestmentfunds.com
 nordeainvestmentfunds.info
@@ -7627,6 +7644,7 @@ oikeusturva.org
 oikeusturvakeskus.net
 oisuomi.com
 oivalakipalvelu.com
+okmonipalveluoy.org
 oldcasinohelsinki.com
 olegsuomi.com
 olet-palveluunlogin.com
@@ -8176,6 +8194,7 @@ owalasuomi.com
 owalasuomifi.com
 owningfinland.com
 owninghelsinki.com
+oxsigenceuticalsfinland.com
 oy-trafcom.info
 oyj-trafcom.info
 oytrafcom.info
@@ -8483,6 +8502,7 @@ picstloup-insoumis.ovh
 picturecarfinland.fi
 pieceoffinland.com
 pielisentalohuolto.fi
+piercinghelsinki.com
 pietarsaaren-remontti-ja-siivouspalvelut.com
 pihahuoltoavuoti.fi
 pihajahuolto.com
@@ -8849,6 +8869,7 @@ putkityothelsinki.fi
 putkola-cottage-finland.com
 puuhuolto.info
 puulamposuomi.fi
+puuseppahelsinki.com
 puutarhapalvelut.com
 puutarhapalvelutaimi.com
 puutarhurin-tyopaikat.online
@@ -11383,6 +11404,7 @@ suomicricketfi.com
 suomicritique.com
 suomicritiques.com
 suomics2.com
+suomicsino.com
 suomictangledtarheel.fun
 suomidaily.com
 suomidailyra.pro
@@ -11454,6 +11476,7 @@ suomifreespins.com
 suomifrenzy365.com
 suomifront.co.uk
 suomifront.com
+suomiftu.com
 suomifun.click
 suomifun.club
 suomifun.online
@@ -11572,6 +11595,7 @@ suomikasinot.biz
 suomikasinot.ninja
 suomikasinot.online
 suomikasinot2024.com
+suomikasinot24.fi
 suomikasinot365.com
 suomikasinotarjukset.com
 suomikasinothotels.com
@@ -12083,6 +12107,7 @@ superkasino-suomi.fi
 supersuomi.com
 supersuomi.net
 superwoodfinland.com
+supreme-finland-fi.com
 supremefinland.com
 suraviestates.com
 surronsuomi.com
@@ -12257,6 +12282,7 @@ tassupalvelu.com
 tastefinland.com
 tastesoffinland.com
 tattoohelsinki.com
+tattoohelsinki.net
 tavero-partners.pl
 tawabilmaghniasoumicha.shop
 taxfinland.com
@@ -12369,6 +12395,7 @@ terveyslahjat.com
 terveysliz.fi
 terveysmaailma.store
 terveysmatkatliettua.com
+terveysmuseo.fi
 terveysmuseo.org
 terveysnavi.fi
 terveysnaytto.info
@@ -12897,6 +12924,7 @@ trumocasinosuomi.fi
 trumokasinotsuomi.fi
 trustfinland.com
 trustfinlandslots.com
+trustly-kasinot-suomi.eu.com
 trustmobilepay.com
 truthfinland.com
 truthfinland.online
@@ -13004,6 +13032,7 @@ turunkylmahuolto.fi
 turunmuuttopalvelu.com
 turunremonttipalvelut.fi
 turuntalonmiespalvelut.fi
+turuntyhjennyspalvelu.com
 turva.chat
 turva.dev
 turva.me
@@ -13043,6 +13072,7 @@ turvalinekontor.ee
 turvalineravim.com
 turvalio.pro
 turvaliq.digital
+turvalisedliiklejad.com
 turvalisus-katsetelia.com
 turvalli.com
 turvallinen-fi.org
@@ -13752,6 +13782,7 @@ vero-k12.com
 vero-kaa.de
 vero-kart.shop
 vero-kebab.it
+vero-kitchens.com
 vero-ksa.com
 vero-kumamoto.com
 vero-kysely.fi
@@ -13871,6 +13902,7 @@ vero-schwarz.com
 vero-science.com
 vero-se.com
 vero-security.com
+vero-sh.com
 vero-shigemaru.com
 vero-shnur.com
 vero-shopping.com
@@ -14223,6 +14255,7 @@ vivero-casa-romero.com
 vivero-cosmo.com
 vivero-elpotro.com
 vivero-inteligente.info
+vivero-lahacienda.com
 vivero-luxury.store
 vivero-romen.com
 vivero-sanrafael.com
