@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 20/04/2026 07:00 UTC
+# Last modified: 21/04/2026 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -463,6 +463,7 @@ arminterveys.com
 armobilepay.com
 armonialapalvelutoy.com
 artbooksfinland.com
+arteksuomi.com
 artfairsuomi.fi
 artgalleryfinland.com
 arthelsinki.com
@@ -932,6 +933,7 @@ bigboostfinland.com
 bigboostsuomi.com
 bigchancesuomi.com
 bigclash-finland.com
+bigclash-finland.net
 biglucky-finland.com
 bigluckykasino-suomi.fi
 bigluckysuomi.com
@@ -2250,6 +2252,10 @@ fantasiaurheilusuomi.com
 fanteamsuomi.com
 faoyj.com
 faressoumind.fr
+farizon-finland.fi
+farizon-suomi.fi
+farizonfinland.fi
+farizonsuomi.fi
 farmaseuttinen-pakkaus-tyopaikat.xyz
 farmfinland.xyz
 farmhelsinki.xyz
@@ -4109,6 +4115,7 @@ helsinkifinlandguide.com
 helsinkifl.online
 helsinkiflow.com
 helsinkiflyin.fi
+helsinkifoodgroup.com
 helsinkifoodguide.com
 helsinkifreetour.com
 helsinkifreetour.online
@@ -4283,6 +4290,7 @@ helsinkinode.xyz
 helsinkinoir.net
 helsinkinoko.com
 helsinkinotebooks.com
+helsinkioasis.com
 helsinkionlinecasino.win
 helsinkioriginalpilates.com
 helsinkiotsoni.store
@@ -5708,6 +5716,7 @@ kpkiinteistopalvelut.fi
 kpkoirapalvelu.com
 kpopfinland.app
 kpsoft-finland.net
+kramerhuolto.fi
 kreasi-helsinki.com
 kremointipalvelut-suomessa.today
 kremointipalvelut.bond
@@ -6056,6 +6065,7 @@ loistopalvelu.com
 lokajaporakaivohuolto.fi
 lokifinland.com
 lolocasino-finland.com
+lolocasino-finland.net
 lomajaterveys.com
 lomallesisuomessa.com
 lomaosakepalvelut.fi
@@ -6187,6 +6197,7 @@ lumocasino-suomi.com
 lumocasino-suomi.fi
 lumokasino-suomi.fi
 lumosfinland.com
+lunafinland.com
 lunahelsinki.com
 lunasandalssuomi.net
 lunubet-suomi.com
@@ -6468,6 +6479,7 @@ megahelsinki.xyz
 megarich-finland.com
 megasuomi.com
 meghanfortumwater.com
+meheripalvelut.online
 meidansuomi.fi
 meillasuomessa.com
 meilleuresoumission.com
@@ -8254,6 +8266,7 @@ pajar-finland.com
 pajarsfinland.com
 pajarsuomi.com
 pakastinhuolto.fi
+pakkauspalvelut.com
 pakkosuomea.xyz
 pakupalvelu.fi
 palaiseau-insoumise.fr
@@ -8534,6 +8547,7 @@ picstloup-insoumis.ovh
 picturecarfinland.fi
 pieceoffinland.com
 pielisentalohuolto.fi
+pientuotepalvelu.fi
 piercinghelsinki.com
 pietarsaaren-remontti-ja-siivouspalvelut.com
 pihahuoltoavuoti.fi
@@ -10350,6 +10364,7 @@ soumissionzootherapie.com
 soumissmart.com
 soumissmartnetwork.com
 soumist.com
+soumistutorial.com
 soumit.foo
 soumit.tech
 soumita.online
@@ -10799,6 +10814,7 @@ suomenghb.com
 suomengjue.cn
 suomengolddesign.com
 suomengolfkentat.fi
+suomengraniitti.fi
 suomengraniittipuolue.fi
 suomengroup.org
 suomengrup.org
@@ -12429,6 +12445,7 @@ terveysbuusti.com
 terveyscheck.com
 terveysdata.fi
 terveyselama.com
+terveysfaktat.fi
 terveysflow.fi
 terveysilta.com
 terveysinfo.net
@@ -13233,6 +13250,7 @@ tuuliajarvisuomi.fi
 tuunnistaautumiinen-suomi-fi.online
 tuurikasino-suomi.fi
 tuusulanhuolto-osa.fi
+tuvepalvelut.fi
 tuvera-suomi.com
 tv-soumitiyu.com
 tvfinland.com
@@ -13817,6 +13835,7 @@ vero-health.org
 vero-henkiloasiakkaat.fi
 vero-holding.com
 vero-home.nl
+vero-home.store
 vero-homecare.com
 vero-homecare.net
 vero-homes.com
