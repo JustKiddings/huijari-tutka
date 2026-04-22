@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 21/04/2026 07:00 UTC
+# Last modified: 22/04/2026 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -1460,6 +1460,7 @@ conversesuomi-fi.com
 conversesuomi.com
 cookinfinland.com
 coolbet-finland.com
+coolbetfinland.com
 coolbetsuomi.com
 coolcationinfinland.com
 coolfinland.com
@@ -1599,6 +1600,7 @@ darimakantakova.art
 dartsoffinland.com
 dasarisoumith.xyz
 dasuominingghana.com
+datacenterfinland.com
 datafinland.xyz
 datahelsinki.xyz
 datakantar.com
@@ -2389,6 +2391,7 @@ finishitfinland.com
 finland-account.ru
 finland-beta-9sports.com
 finland-casino.online
+finland-cctv.com
 finland-deal.com
 finland-expat.com
 finland-fuel.com
@@ -2396,7 +2399,9 @@ finland-holiday.online
 finland-home.ru
 finland-hotel.com
 finland-iptv.com
+finland-iqiyi.com
 finland-life.com
+finland-qq.com
 finland-scewc2025.com
 finland-slots.best
 finland-slots.com
@@ -2724,6 +2729,7 @@ finlandscan.xyz
 finlandschool.online
 finlandsequencer.xyz
 finlandsex.xyz
+finlandsgottalent.com
 finlandshirts.com
 finlandshop.cc
 finlandshop.xyz
@@ -2739,6 +2745,7 @@ finlandspatial.xyz
 finlandspin.com
 finlandspins.com
 finlandssvenskaaret.fi
+finlandstandard.com
 finlandstar.ru
 finlandstays.com
 finlandsteambaths.com
@@ -3145,6 +3152,7 @@ gestionsoumissions.ca
 gesuomingbaoyaochai.bond
 get-personal-loan-in-finland.bond
 getenviromasterofinlandempire.com
+getintofinland.com
 getlucky-casino-suomi.com
 getworkfinland.com
 getworkfinland.online
@@ -5582,6 +5590,7 @@ kirjaudu-oma.com
 kirjaudu-omakanta.com
 kirjaudu-omakantaan.com
 kirjaudu-omakantaanonline.com
+kirjaudu-omakelafi.info
 kirjaudu-online.com
 kirjaudu-online.sbs
 kirjaudu-op.online
@@ -6441,8 +6450,10 @@ matkahuoltoapp.com
 matkahuoltoo.com
 matkaturva.com
 matsuomine.xyz
+mavero-field.online
 mavero-logica.cfd
 mavero-london.com
+mavero-plus.online
 mavero-re.com
 mavero-re.org
 mavero-solutions.de
@@ -8704,6 +8715,7 @@ polviesti-turva.net
 polviestiturva.com
 pommi-casino-suomi.com
 pommi-finland.com
+pommicasino-finland.com
 ponyedgefinland.com
 pool-cleaner-tyopaikat.online
 poolfinland.xyz
@@ -8795,6 +8807,7 @@ prestigehelsinki.com
 previestatementau.info
 prh-asiakaspalvelu.fi
 prh-suomi.com
+prh-yritysrekisteri.info
 prhsuomi.com
 price-saunas-finland-733676498.zone
 pridefinland.com
@@ -9004,6 +9017,7 @@ rahasuomi.fi
 raidfinland.com
 railstockfinland.com
 railstockfinland.net
+rainbet-finland.com
 rainbetcasinosuomi.com
 rainbetsuomi.com
 rajatoto4finlandia.com
@@ -9987,6 +10001,7 @@ soumi.fi
 soumi.icu
 soumi.org
 soumi.shop
+soumi.store
 soumi.xin
 soumi.xyz
 soumi1985.com
@@ -10231,6 +10246,7 @@ soumission.de
 soumission.net
 soumission.pro
 soumission360.com
+soumissionai.com
 soumissionalamaison.com
 soumissionario.com.br
 soumissionassurance.online
@@ -10555,6 +10571,7 @@ spintribefinland.com
 spinz-casino-suomi.com
 spinz-finland.com
 spinz-suomi.com
+spinzfinland.com
 spoonkkifinland.com
 sport-bet-finland.online
 sportbetssuomi.com
@@ -11498,6 +11515,7 @@ suomifaama.com
 suomifan.fi
 suomifans.com
 suomifans.site
+suomifap.com
 suomifeed.com
 suomifeedback.com
 suomifest.com
