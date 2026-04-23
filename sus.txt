@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 22/04/2026 07:00 UTC
+# Last modified: 23/04/2026 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -682,6 +682,7 @@ avaa-pankkitili-netissa-1.online
 avaa-pankkitili-netissa-2.online
 avaa-pankkitili-netissa-3.online
 avaa-pankkitili-netissa-4.online
+avainterveyteen.net
 aveno-suomi.com
 avenoirhelsinki.com
 aventifinland.com
@@ -1085,6 +1086,7 @@ btrhelsinki.com
 bucketlistfinland.com
 bud-casino-suomi.com
 buenaviesta.online
+bugattisuomi.com
 buildabearsuomi.com
 buildfinland.com
 bularo-helsinki.com
@@ -1319,6 +1321,7 @@ chat-finland.com
 chat-gpt-suomi.com
 chatfinland.com
 chatfinland.xyz
+chatgptsuomi.app
 chathelsinki.com
 chatsuomi.com
 chatturvate.com
@@ -4532,6 +4535,7 @@ heyfinland.com
 heyhelsinki.com
 hfinland.online
 hhaoyj.sbs
+hhasiakashankinta.fi
 hhperhepalvelut.fi
 hhwfinland.monster
 hi-elisa.com
@@ -5875,6 +5879,7 @@ laskutuspalvelu.io
 laskutuspalvelufi.online
 laskutuspalvelut.net
 lasmi-helsinki.com
+lastblondeinfinland.com
 lastenhoitopalvelupikkupanda.com
 lastenvaunut-suomi.shop
 lastupdaatingspankki.com
@@ -6010,6 +6015,7 @@ lilleinsoumise2026.fr
 limen-pc-huolto.net
 limoservicefinland.com
 limoservicehelsinki.com
+linde-finland.com
 liningsuomi.com
 linjapalvelu.fi
 linkmobilepay.com
@@ -6451,9 +6457,11 @@ matkahuoltoo.com
 matkaturva.com
 matsuomine.xyz
 mavero-field.online
+mavero-field.ru
 mavero-logica.cfd
 mavero-london.com
 mavero-plus.online
+mavero-plus.ru
 mavero-re.com
 mavero-re.org
 mavero-solutions.de
@@ -7218,6 +7226,7 @@ naistenpiiri.fi
 naistenterveys.com
 naistenurheiluasut.com
 naistenvalmiusliitto.com
+naisterveys.fi
 naisyrittajatsuomi.com
 nakedsportsinnovationsfinland.com
 nakedwolfefinland.com
@@ -7695,6 +7704,7 @@ oikeusturvakeskus.net
 oisuomi.com
 oivalakipalvelu.com
 okmonipalveluoy.org
+olavipalvelut.fi
 oldcasinohelsinki.com
 olegsuomi.com
 olet-palveluunlogin.com
@@ -8365,6 +8375,7 @@ panasonic-huolto.fi
 panasonichuolto.fi
 pandorafinlandoutlet.com
 pandorajewelryfinland.com
+pandorassuomi.com
 panki-fi.site
 pankki-app.com
 pankki-elakkeella-fi.com
@@ -8844,6 +8855,7 @@ prodjfinland.org
 productionservicefinland.com
 productionservicesfinland.com
 productionserviceshelsinki.com
+productoffinland.org
 produkti-iz-finlandii-moskva.ru
 produkti-iz-finlandii-msk.ru
 produkti-iz-finlandii-v-moskve.ru
@@ -9017,6 +9029,7 @@ rahasuomi.fi
 raidfinland.com
 railstockfinland.com
 railstockfinland.net
+railwaysystemsfinland.fi
 rainbet-finland.com
 rainbetcasinosuomi.com
 rainbetsuomi.com
@@ -9794,6 +9807,7 @@ sipetakantahmorotai.com
 sipisuominen.com
 siqfinland.site
 sirfinland.one
+sisailmapalvelu.com
 sisaltopalvelut.com
 sisasuomenkone.fi
 siseturvalisus.ee
@@ -10213,12 +10227,14 @@ soumisexxx.com
 soumisho.shop
 soumishop.com
 soumishsengupta.com
+soumission-agrandissement.ca
 soumission-ao.com
 soumission-article.fr
 soumission-asdm.com
 soumission-assurance-moto.net
 soumission-assurance.com
 soumission-assurances.com
+soumission-cloture.ca
 soumission-dz.com
 soumission-electricien.ca
 soumission-electricien.com
@@ -10247,6 +10263,7 @@ soumission.net
 soumission.pro
 soumission360.com
 soumissionai.com
+soumissionair.com
 soumissionalamaison.com
 soumissionario.com.br
 soumissionassurance.online
@@ -11194,6 +11211,7 @@ suomi-app.store
 suomi-arvat.biz
 suomi-asekauppa.com
 suomi-best-list.com
+suomi-boats.com
 suomi-bonus.online
 suomi-box.com
 suomi-casino.online
@@ -11566,6 +11584,7 @@ suomifun247.sbs
 suomifun25.club
 suomifun25.info
 suomifunapp.top
+suomifungames.com
 suomifunhouse.com
 suomifunhub.com
 suomifusion.com
@@ -12479,6 +12498,7 @@ terveyskeskusplusfisa.info
 terveyskeskusplusfitr.info
 terveysklinikkalonglife.fi
 terveyskoulukoti.org
+terveyslahde.fi
 terveyslahjat.com
 terveysliz.fi
 terveysmaailma.store
@@ -13061,10 +13081,12 @@ tunnistaudufi.shop
 tunnistauentityid.com
 tunnistauth.com
 tunnistautumin-fi.info
+tunnistautumin-kirjaudu.com
 tunnistautuminen-elisa.info
 tunnistautuminen-fi.com
 tunnistautuminen-fi.online
 tunnistautuminen-omakanta-fi.com
+tunnistautuminen-omakelafi.info
 tunnistautuminen-sivut.com
 tunnistautuminen-suom.com
 tunnistautuminen-suomi-fi-sivut-discovery-page.biz
@@ -13737,6 +13759,8 @@ vero-aurea.com
 vero-aviation.com
 vero-aviation.net
 vero-backend.site
+vero-beach-luxury-homes.com
+vero-beach-real-estate.com
 vero-beach-south.web.id
 vero-beach.web.id
 vero-beachhomesforsale.com
@@ -14480,6 +14504,7 @@ wellensteynfinland.com
 west-vero-corridor.web.id
 western-finland.com
 westernfinland.com
+wetbrushsuomi.com
 weymutrafinland.ru
 wg2031helsinki.fi
 whalefinland.xyz
@@ -14792,6 +14817,7 @@ ydffinland.quest
 yeezyfinland.com
 yeezysuomi.com
 yellowumbrellatourshelsinki.com
+yeoreosuomi.com
 yesfinland.com
 yeshelsinki.com
 yeti-suomi.com
