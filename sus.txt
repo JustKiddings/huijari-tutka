@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 25/04/2026 07:00 UTC
+# Last modified: 26/04/2026 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -127,7 +127,11 @@ actorsinhelsinki.net
 adaptivetrainingfinland.com
 adeccofinland.com
 adevilinhelsinki.com
+adidascampussuomi.com
 adidasfinland.com
+adidasgazellesuomi.com
+adidassambasuomi.com
+adidasspezialsuomi.com
 adidassuomi.top
 adirondacksuomi.com
 adruinosuomi.com
@@ -661,6 +665,7 @@ autohuoltopasila.fi
 autohuoltoss.fi
 autohuoltow.fi
 autojakonehuolto.com
+autojakonehuoltolpr.fi
 autokorjaamohelsinki.com
 autolasipalvelu.com
 autolasipalvelu.net
@@ -899,6 +904,7 @@ betfurysuomi.com
 bethardfinland.com
 betinia-finland.fi
 betiniafinland.com
+betlabel-finland.com
 betrepublic-finland.com
 betriot-suomi.com
 betrixcasino-finland.com
@@ -948,6 +954,7 @@ bilimvekulturvak.net
 billybetsfinland.com
 bimmerfinland.com
 bingobongafinland.com
+binordeal.com
 bioturva.com
 biqfinland.monster
 birdhelsinki.com
@@ -1468,6 +1475,7 @@ coolbetfinland.com
 coolbetsuomi.com
 coolcationinfinland.com
 coolfinland.com
+coopsleepgoodssuomi.com
 copahelsinki.fi
 copavi-helsinki.com
 copenhagen-helsinki-rail-vacation.today
@@ -2672,6 +2680,7 @@ finlandmoments.com
 finlandmoon.xyz
 finlandmotogp.fi
 finlandmpc.xyz
+finlandmulti.com
 finlandmultisig.xyz
 finlandneo.xyz
 finlandnet.xyz
@@ -3214,6 +3223,7 @@ gmifinland.motorcycles
 go-finland.com
 go-soumission.com
 go-spankki-to.pro
+gocarfinland.com
 goenviromasterofinlandempire.com
 goesfinland.com
 goessuomi.com
@@ -3417,6 +3427,7 @@ helpmefinland.com
 helpmefinland.store
 helppo-huolto.com
 helppohuolto.com
+helsinginsoitinhuolto.fi
 helsingintulkkauspalvelu.fi
 helsingintyhjennyspalvelu.fi
 helsinki-accountants.com
@@ -5419,6 +5430,7 @@ kasinfinland1.com
 kasino-helsinki.com
 kasino-ilman-rekisterointia.fi
 kasino-ilman-rekisteroitymista.fi
+kasino-pankkitunnuksilla.xyz
 kasino-suomi.net
 kasinohotelsfinland.com
 kasinoilmanpankkitunnuksia.com
@@ -6342,9 +6354,11 @@ makantanah.com
 makantaneku.com
 makantangan.store
 makantanju.top
+makantapao.com
 makantarik.online
 makantashelcom.com
 makantasis.gr
+makantayo.com
 makea-viesti.com
 makeinfinland.com
 makerfinland.xyz
@@ -6426,6 +6440,7 @@ massy-insoumise.fr
 master-finland.com
 mastergastrofinland.com
 masterveyor.com
+mastraficomarketing.com
 mathlearning-helsinki00600.academy
 matkahuolto-maksu-fi.online
 matkahuolto-paketti-01807323.top
@@ -6484,8 +6499,10 @@ matkaturva.com
 matsuomine.xyz
 mavero-field.online
 mavero-field.ru
+mavero-ion.shop
 mavero-logica.cfd
 mavero-london.com
+mavero-nex.shop
 mavero-plus.online
 mavero-plus.ru
 mavero-point.online
@@ -6497,6 +6514,7 @@ mavero-store.com
 mavero-system.pl
 mavero-system.pro
 mavero-vault.com
+mavero-xo.shop
 maviestilofeminino.online
 maviestilofeminino.store
 mawuviesta.com
@@ -6903,6 +6921,7 @@ mobilepaye.com
 mobilepaye.xyz
 mobilepayees.com
 mobilepayees.net
+mobilepayexpress.dk
 mobilepayfi.com
 mobilepayfi.info
 mobilepayid-update2.com
@@ -7146,6 +7165,7 @@ mrspalvelut.fi
 msg-asiakirja-suomi.com
 mt-huolto.fi
 mtbpalvelut.com
+mtbsuomi.com
 mtbsuomi.xyz
 muckbootssuomi.com
 muen-handmade-finland.net
@@ -7856,6 +7876,7 @@ oma-health.app
 oma-health.ca
 oma-health.com
 oma-hilft.com
+oma-hilft.org
 oma-hk.com
 oma-holdings.com
 oma-home.ru
@@ -8289,6 +8310,7 @@ owalasuomi.com
 owalasuomifi.com
 owningfinland.com
 owninghelsinki.com
+oxelosundinsuomiseura.se
 oxsigenceuticalsfinland.com
 oy-trafcom.info
 oyj-trafcom.info
@@ -8398,6 +8420,7 @@ palveluverkkokauppa.com
 palveluvertailu.fi
 palveluviesti.com
 palveluviestit.com
+palveluvoima.fi
 palveluvoittogroup.com
 palvelux.com
 palveluyhteydet-suomi.site
@@ -11077,6 +11100,7 @@ suomenoppilaitosturvallisuus.fi
 suomenoy.com
 suomenpah.com
 suomenpah.org
+suomenpalkat.com
 suomenpaperitukku.fi
 suomenparaslista.com
 suomenparhaatkasinot.net
@@ -11664,6 +11688,7 @@ suomigrilli.com
 suomigroup.org
 suomiguide.com
 suomihauskapeli.site
+suomihelmet.fi
 suomihelp.fi
 suomiherald.com
 suomiheroes.com
@@ -13222,6 +13247,7 @@ turvakortit.fi
 turvakoti.net
 turvakti.com
 turvala.com
+turvalaitepalvelu.fi
 turvalaitevertailu.com
 turvaldovino.com
 turvaldovino.info
@@ -13467,6 +13493,7 @@ upeaasuomea.com
 upmotosuomi.fi
 upptackfinland.nu
 uqefinland.bond
+urallepalvelut.fi
 urasenke-finland.org
 urazinvacaturvalgus.cloud
 urban-soumitra-erandwane.in
@@ -13625,6 +13652,7 @@ valvonx.com
 valvonzandesk.com
 vandoeuvre-insoumis.fr
 vandoeuvre-insoumise.fr
+vandoeuvre-insoumise2027.fr
 vandoeuvreinsoumise.fr
 vanityopal.site
 vankkurihuolto.com
@@ -14527,6 +14555,7 @@ waterfinland.com
 wavero-lemowi.sbs
 wazamba-casino-suomi.com
 wazamba-finland.com
+wbmbysoumi.com
 wch-finland.org
 wclfinland.com
 weallfinland.org
