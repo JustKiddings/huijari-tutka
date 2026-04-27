@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 26/04/2026 07:00 UTC
+# Last modified: 27/04/2026 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -9591,6 +9591,7 @@ samsonitesuomi.com
 san-vero-milis.my.id
 sandqvistsuomi.com
 saneerauspalvelu.fi
+saneerauspalvelu.se
 saneerauspalvelusalmi.com
 saneerauspalvelusalmi.net
 saneerauspalvelutsalmi.com
@@ -13524,6 +13525,7 @@ utbfinland.yachts
 utilityfinland.fi
 uudelleenohjaus-omakanta.click
 uudelleenrekisterointi.info
+uudenkaarlepyynsaanerauspalvelu.se
 uudenkylanmetsapalvelu.fi
 uudenmaan-puupalvelu.com
 uudenmaankattohuolto.com
