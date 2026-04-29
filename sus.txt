@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 28/04/2026 07:00 UTC
+# Last modified: 29/04/2026 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -431,6 +431,7 @@ apupalvelu.com
 apurapalvelut.com
 apuvalinepalvelu.com
 apuvapalvelut.com
+aquaflasksuomi.com
 aquawin-finland.org
 aquilasuomi.com
 aquilasuomi.online
@@ -536,6 +537,7 @@ asiakaspalvelut-oy.lol
 asiakaspalvelut-suomi.site
 asiakaspalveluyhteystiedot.com
 asiakaspolku360.fi
+asiakasportaali.net
 asiakasratkaisukeskus.com
 asiakasrekisteri.fi
 asiakasrekisteri.info
@@ -2893,6 +2895,7 @@ flame-finland.com
 flamez-suomi.com
 flamezcasino-suomi.fi
 flamezkasino-suomi.fi
+flashfinland.ru
 flealux-finland.com
 flexpalvelut.com
 flightclubfinland.com
@@ -7379,6 +7382,7 @@ nettikasinotsuomessa.com
 nettikasinotsuomifin.com
 nettipalvelu-suomi.site
 nettiparhaatsuomi.com
+nettipelitsuomi.com
 nettisivupalvelu.com
 nettisivupalvelu.online
 nettisuomenspin.com
@@ -8077,6 +8081,7 @@ omaposti-suomi.com
 omaposti-suomi.icu
 omaposti-suomi.sbs
 omaposti-viesti.com
+omasaasto-palvelut.com
 omasp-pankkin.xyz
 omasuomi.com
 omasuomi.shop
@@ -8650,6 +8655,7 @@ pihajahuolto.com
 pihapalvelutpv.fi
 piilotyopaikat.fi
 piipansiivouspalvelut.com
+pikakasinosuomen.com
 pikasuomi.com
 pikefishingfinland.com
 pikoilnossuomi.com
@@ -9608,6 +9614,7 @@ sammutinhuoltoketonen.com
 samnordean.shop
 samsonitesuomi.com
 san-vero-milis.my.id
+sanavero-shop.com
 sandqvistsuomi.com
 saneerauspalvelu.com
 saneerauspalvelu.fi
@@ -9795,6 +9802,7 @@ sfhpsuomifinlandhousingandplanningry.org
 sg-casino-suomi.com
 sgsalmakantagciwqwjfkfl.run
 sh-suomei.com
+shaanviestate.com
 shadowpowerfinland.com
 shamisenfinland.com
 sharviestate.com
@@ -9826,6 +9834,7 @@ shotbarhelsinki.xyz
 shotzkasino-suomi.fi
 showposuomi.com
 showroomhelsinki.com
+shqip-suomi-shqip.online
 shrivivekyogahelsinki.com
 shsuomi.com
 shturval.pro
@@ -10069,6 +10078,7 @@ sorvauspalvelu.com
 sosehelsinki.com
 sosiaalipalvelut.com
 sosiaalisetpelitsuomi.games
+sosiaalisetsuomi.com
 sossoumissionchimique.com
 sossoumissionchimique.fr
 sossoumissionchimique.org
@@ -10190,6 +10200,7 @@ soumik.law
 soumik.me
 soumik.online
 soumik.pro
+soumik.space
 soumikagura.site
 soumikah.com
 soumikahammedp.com
@@ -12487,6 +12498,7 @@ tastesoffinland.com
 tattoohelsinki.com
 tattoohelsinki.net
 tavero-partners.pl
+tavero-shop.shop
 tawabilmaghniasoumicha.shop
 taxfinland.com
 taxihelsinki.com
