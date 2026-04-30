@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 29/04/2026 07:00 UTC
+# Last modified: 30/04/2026 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -251,6 +251,7 @@ akamaomakanta.com
 akashviestate.com
 akashviestates.com
 akisuomela.fi
+akkuhuolto.com
 akkupankki.com
 akkuturva.com
 akkuturva.fi
@@ -268,6 +269,7 @@ aktiayrittajaturva.com
 akunpalvelut.com
 akwacrossfinland.org
 al-monipalvelu.com
+alamo-finland.org
 alandskirjaudu.com
 alastonsuomi.pics
 alastonsuomi.shop
@@ -559,6 +561,7 @@ asiakasvelvollisuuslakien-fi.site
 asiakasvelvollisuuslakien-suomen.site
 asiakasvelvollisuuslakien-suomi-fi.site
 asiakasvelvollisuuslakien-suomi.site
+asiakasvirta.com
 asiakasyhteydet-suomi.site
 asiakasyhteys-suomi.site
 asiakasyhteys.fi
@@ -965,6 +968,7 @@ biqfinland.monster
 birdhelsinki.com
 birgittahelsinki.com
 birkenstock-suomi-fi.com
+birkenstocksuomi.com
 birkenstocksuomifi.com
 bitcoinfinland.xyz
 bitcoinhelsinki.xyz
@@ -2367,6 +2371,7 @@ fi-suomi.website
 fi-trafcom.info
 fi-traficom.icu
 fi-tunnistus.homes
+fi-turvata.online
 fi-vahvistus.info
 fi-veropalvelu.info
 fi-viesti.info
@@ -2936,6 +2941,7 @@ forssanhinauspalvelu.net
 fortum-capital.com
 fortum-energia.online
 fortum-fi.com
+fortum-global.com
 fortum-harcourt.com
 fortum-hermine.com
 fortum-impact.com
@@ -4335,6 +4341,7 @@ helsinkinews24.com
 helsinkinext.xyz
 helsinkinights.com
 helsinkinl.services
+helsinkinode.com
 helsinkinode.xyz
 helsinkinoir.net
 helsinkinoko.com
@@ -4460,6 +4467,7 @@ helsinkistablecoin.xyz
 helsinkistake.xyz
 helsinkistakes.xyz
 helsinkistaking.xyz
+helsinkistandupleague.com
 helsinkistayhotel.com
 helsinkistorage.com
 helsinkisuper.xyz
@@ -7168,6 +7176,7 @@ mp-suomi.info
 mpaysuomi.com
 mpaysuomi.info
 mphuolto.com
+mpifinland.org
 mpnostintyopalvelut.com
 mr-rakentajapalvelu.net
 mretsoumise.cam
@@ -7870,6 +7879,7 @@ oma-fashion.cn
 oma-fi.com
 oma-fi.site
 oma-fi.website
+oma-fick.top
 oma-ficken.net
 oma-ficken.top
 oma-fii.pro
@@ -9155,6 +9165,7 @@ ratsiapalvelu.fi
 rauduspalvelut.com
 rauhanasiakaspalvelu.com
 raumankenkahuolto.fi
+rautanethelsinki.net
 ravintoterveys.net
 ravitsemushelsinki.info
 ravitsemushelsinkiav.info
@@ -10323,6 +10334,8 @@ soumisexxx.com
 soumisho.shop
 soumishop.com
 soumishsengupta.com
+soumissio.ca
+soumissio.com
 soumission-agrandissement.ca
 soumission-ao.com
 soumission-article.fr
@@ -10382,6 +10395,7 @@ soumissionconfort.com
 soumissionconstruction.com
 soumissioncourtier.ca
 soumissioncourtier.com
+soumissioncouvreur.com
 soumissiondecourtier.com
 soumissiondemetal.com
 soumissiondirect.ca
@@ -10394,6 +10408,7 @@ soumissionentrepreneurs.com
 soumissionentretienmenager.com
 soumissionepoxy.com
 soumissionex.com
+soumissionexcavation.com
 soumissionexpress.com
 soumissionfemmedemenage.com
 soumissionfondation.com
@@ -10412,6 +10427,7 @@ soumissionpanneauxsolaires.ca
 soumissionpanneauxsolaires.com
 soumissionpeinture.com
 soumissionpeinturetoiture.com
+soumissionplombier.com
 soumissionplus.ca
 soumissionplus.com
 soumissionprethypothecaire.com
@@ -10443,10 +10459,14 @@ soumissionsassurancevieenligne.com
 soumissionscabanongarage.com
 soumissionscellant.com
 soumissionsceramique.ca
+soumissionschauffage.com
+soumissionsclimatisation.com
 soumissionscoffrage.com
 soumissionsconstructeurs.ca
+soumissionscouvreur.com
 soumissionsdemenagement.ca
 soumissionsebenisterie.ca
+soumissionselectricien.com
 soumissionsentrepreneurs.com
 soumissionsentretienmenager.ca
 soumissionservice.com
@@ -10464,6 +10484,7 @@ soumissionsmenage.com
 soumissionspanneauxsolaires.ca
 soumissionspanneauxsolaires.com
 soumissionspeinturegratuit.com
+soumissionsplombier.com
 soumissionsplus.ca
 soumissionspoutrelleschevrons.ca
 soumissionspro.ca
@@ -11171,7 +11192,9 @@ suomenpeliedut.website
 suomenpeliedut.world
 suomenpeliedut.xyz
 suomenpelifi.com
+suomenpelimaailma.info
 suomenpelimaailma.online
+suomenpelimaailma.org
 suomenpelit2026.com
 suomenpelitieto.com
 suomenperinnetatuoijat.com
