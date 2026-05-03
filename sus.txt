@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 02/05/2026 07:00 UTC
+# Last modified: 03/05/2026 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -138,6 +138,7 @@ adruinosuomi.com
 adultmoviestation.com
 advero-consultants.com
 advero-consulting.com
+advero-marketing.de
 aecfinland.com
 aekfinland.today
 aelinhelsinki.fi
@@ -892,6 +893,7 @@ bestfinlandfood.rest
 bestfinlandhotel.com
 bestfinlandhotels.com
 bestfinlandresort.com
+bestfoodfinland.com
 bestfoodhelsinki.rest
 bestgamessuomi.com
 bestguestfinland.fi
@@ -985,6 +987,7 @@ bitfinland.xyz
 bithelsinki.xyz
 bizfinland.xyz
 bizhelsinki.xyz
+bizzocasinofinland.com
 bjjhelsinki.life
 bjornborgsuomi.com
 blackdiamondsuomi.com
@@ -2511,6 +2514,7 @@ finlandblob.xyz
 finlandblogi.org
 finlandbot.xyz
 finlandbots.xyz
+finlandbox.com
 finlandbtc.xyz
 finlandbulletix.pro
 finlandbundler.xyz
@@ -2617,6 +2621,7 @@ finlandhodl.xyz
 finlandhoetsl.com
 finlandholding.com
 finlandhomelesfound.life
+finlandhotelbest.com
 finlandhub.xyz
 finlandhyper.xyz
 finlandia-extra.online
@@ -2934,6 +2939,7 @@ fluxhelsinki.com
 flyhelsinki.com
 flyingdresshelsinki.com
 fmafinland.com
+fmoviesta.com
 fmoviesti.top
 fmsuomi.com
 fohowsuomi.fi
@@ -3363,6 +3369,7 @@ haglofsoutletsuomi.com
 haiaoyj.com
 haimoonmoottorihuolto.com
 hairtodaysuomi.com
+hairtransplantfinland.com
 haittarekisteri.com
 haixsuomi.com
 hakemusmenettelyt-omakanta.com
@@ -3604,6 +3611,7 @@ helsinki-drec-abab.info
 helsinki-drec-abac.info
 helsinki-drec-abad.info
 helsinki-dubai.com
+helsinki-escort.com
 helsinki-fi.com
 helsinki-fi.org
 helsinki-fi.xyz
@@ -3929,6 +3937,7 @@ helsinki-swimming-725325571.click
 helsinki-swimming-907380973.click
 helsinki-swimming-pool-325513898.today
 helsinki-talvella.com
+helsinki-top.site
 helsinki-topcasino.com
 helsinki-tourismtickets.com
 helsinki-tours.com
@@ -4402,6 +4411,7 @@ helsinkiplay.xyz
 helsinkiplumber.com
 helsinkipool.xyz
 helsinkiport.com
+helsinkiportal.com
 helsinkiportal.xyz
 helsinkiporvootour.com
 helsinkiporvootours.com
@@ -5020,6 +5030,7 @@ insoumiscommunistes.fr
 insoumisdecreteil.fr
 insoumisdz.com
 insoumise.fr
+insoumiseromandie.ch
 insoumises.net
 insoumislespharaons.com
 insoumislivre.com
@@ -5175,6 +5186,7 @@ it-digiturva.fi
 it-palvelu.ltd
 it-tyopaikat-suomi.cfd
 ita-suomenlaserpuhdistus.fi
+italiafinlandconnection.com
 italianovero-varna.com
 italyinfinland.com
 itamerensuomi.net
@@ -5836,6 +5848,7 @@ kturva.info
 kuismasuominen.com
 kuittipalvelu.com
 kuittipankki.fi
+kukkapalveluhavina.fi
 kuljetuspalvelu.com
 kuljetuspalvelumiilumaki.com
 kuljetuspalveluolahti.com
@@ -8258,6 +8271,7 @@ onnela-suomi.com
 onnelacasino-suomi.fi
 onnelakasino-finland.com
 onnelakasino-suomi.fi
+onnivalvonta.online
 onpointsiivouspalvelut.com
 onrunnersfinland.com
 onrunningsalesuomi.com
@@ -8982,6 +8996,7 @@ proautopalvelut.fi
 procedosfinland.com
 procurementlawyersfinland.com
 prodartsfinland.com
+prodecfinland.com
 prodjfinland.com
 prodjfinland.org
 productionservicefinland.com
@@ -10155,6 +10170,7 @@ soumi-live.com
 soumi-mgtv.com
 soumi-online.sbs
 soumi-qq.com
+soumi-security-login.com
 soumi-seminar.com
 soumi-sinille.art
 soumi-sinille.xyz
@@ -10551,6 +10567,7 @@ soumissiontattoo.com
 soumissionthermopompe.net
 soumissionthermopompes.ca
 soumissiontoitures.com
+soumissiontransportcolivex.com
 soumissiontravaux.com
 soumissionxpert.com
 soumissionzootherapie.ca
@@ -11262,6 +11279,7 @@ suomenprime.com
 suomenprojektimajoitus.fi
 suomenputkiasentajat.com
 suomenpyorapalvelu.com
+suomenpyorarekisteri.com
 suomenrahoitusratkaisut.com
 suomenrahoitusratkaisut.net
 suomenrakennevahvistus.fi
@@ -11487,6 +11505,7 @@ suomi-palvelun.site
 suomi-palvelut-fi.com
 suomi-palvelut.com
 suomi-palvelut.shop
+suomi-partners.com
 suomi-pay.cfd
 suomi-play.com
 suomi-poleneparis.com
@@ -11534,6 +11553,7 @@ suomi-web-fi.sbs
 suomi-web.sbs
 suomi-wonderful.com
 suomi-yit.fi
+suomi-ylaosa.site
 suomi.bar
 suomi.best
 suomi.ch
@@ -12061,6 +12081,7 @@ suomipictures.org
 suomipiha.com
 suomipiharakennus.fi
 suomipiharakennus.online
+suomipikakasinot.com
 suomipilvi.com
 suomipilvi.info
 suomipilvi.net
@@ -12114,6 +12135,7 @@ suomiranking.com
 suomirata.site
 suomiratings.com
 suomirealty.com
+suomireelarena.com
 suomireelz.site
 suomirent.com
 suomirentoutuu.com
@@ -12205,6 +12227,7 @@ suomispinnas.com
 suomispinners.com
 suomispinrank25.games
 suomispins.net
+suomispins.org
 suomisportshop.com
 suomisportsshop.com
 suomisportti.click
@@ -12593,8 +12616,10 @@ team-finland.com
 team-kantals.xyz
 teamfinland.info
 tecc-finland.com
+techenthusiastfromfinland.com
 techfinland.xyz
 techhelsinki.xyz
+techhubfinland.com
 techjobsfinland.com
 technordiafinland.com
 ted-baker-suomi.com
@@ -12630,6 +12655,7 @@ terapiapalvelupaile.com
 terapiapalvelut.com
 terapiapalvelutpaulanylander.com
 terapiapalvelutr.fi
+terapiapalveluttuuhan.com
 terapiapankki.com
 terapiapankki.org
 terminalteamtthelsinkioy.com
@@ -12810,6 +12836,7 @@ terveysvaikutukset.org
 terveysvalmennus.com
 terveysverstas.com
 terveysviidakko.com
+terveysvinkit.site
 terveysvirasto.com
 terveysyritykset.com
 terveyttaluonnosta.fi
@@ -12834,6 +12861,8 @@ thatsosuomi.com
 the-ghost-of-finland.com
 thealleyhelsinki.com
 theautodennashville.com
+thebestfinlandhotel.com
+thebesthotelfinland.com
 theenviromasterofinlandempire.com
 thefinlandhotel.com
 thefinlandprescription.com
@@ -12887,6 +12916,7 @@ tietoja-fi-suomi.com
 tietoja-suomi-fi.com
 tietokonehuolto.info
 tietokonehuolto.org
+tietoliikennepalvelut.com
 tietopankki.com
 tietoturvakartoitus.fi
 tietoturvapankki.com
@@ -13127,6 +13157,7 @@ trafcore.cc
 trafcore.click
 trafcore.io
 trafcore.online
+trafcore.quest
 trafcoser.biz
 trafcotrack.com
 traffic-finland.com
@@ -13858,6 +13889,7 @@ vejafinland.com
 vejarunnerssuomi.info
 vejasrunningsuomi.com
 vejasstoresuomi.com
+vejassuomistore.com
 vejastoressuomi.com
 vejastoresuomi.com
 vejasuomi-fi.shop
@@ -14082,6 +14114,7 @@ vero-growth.com
 vero-guard.com
 vero-gusto.ch
 vero-gusto.com
+vero-hairstyle.shop
 vero-hardware.com
 vero-haus.store
 vero-health.net
@@ -14122,6 +14155,7 @@ vero-labs.com
 vero-labs.net
 vero-lake-estates.com
 vero-lammert.com
+vero-lane.site
 vero-laudantium.site
 vero-life.com
 vero-light.com
