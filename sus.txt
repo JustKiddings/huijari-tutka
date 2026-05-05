@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 04/05/2026 07:00 UTC
+# Last modified: 05/05/2026 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -87,6 +87,7 @@
 7kcasino-oyj.top
 7kslot-oyj.top
 7luckfinland.com
+8109finland.com
 888-casino-suomi.com
 888finland.xyz
 888helsinki.xyz
@@ -317,6 +318,7 @@ alphamode-finland.com
 alpine-finland.com
 alpine-finland.fi
 alpineearplugssuomi.com
+alpineearplugsuomi.com
 als-suomi.fi
 als-suomi.net
 alseccofinland.fi
@@ -339,6 +341,7 @@ alvero-toronto.com
 alykotipalvelu.fi
 alymobiili.com
 amami-helsinki.com
+amandaartfinland.com
 amaterasuomikami.jp
 amazonpalvelut.fi
 ambiehelsinki.com
@@ -2010,6 +2013,7 @@ edipalvelut.net
 edu-finland.com
 educampfinland.com
 education-finland.com
+educlusterfinland.com
 edufinland.cn
 edufinlandia.com
 edunafinland.com
@@ -2528,6 +2532,7 @@ finlandbuy.com
 finlandcabins.com
 finlandcandy.com
 finlandcandy.store
+finlandcaravan.com
 finlandcare.online
 finlandcare.ru
 finlandcasifreespins.click
@@ -2657,6 +2662,7 @@ finlandiaspinzone.com
 finlandiasutaz.sk
 finlandiatravel.co.uk
 finlandiavillage.com
+finlandiavodka-us.com
 finlandiavodka.com.ve
 finlandiavodka.us
 finlandiccare.com
@@ -2846,6 +2852,7 @@ finlandvacancy.com
 finlandvacay.com
 finlandventures.com
 finlandverify.com
+finlandverosuomi.com
 finlandview.xyz
 finlandvilla.com
 finlandvoyages.com
@@ -3251,6 +3258,7 @@ gigamobiili.tel
 gigant-helsinki.shop
 gilva-helsinki.com
 gilvero-ailyn.site
+gimp-suomi.org
 ginatricotsuomi.com
 giorgioarmanisuomi.com
 giosepposuomi.com
@@ -4392,6 +4400,7 @@ helsinkioutletskechers.com
 helsinkioverdrive.com
 helsinkioverdrive.fi
 helsinkiowcup.fi
+helsinkipadel.com
 helsinkipadel.fi
 helsinkipaleo.com
 helsinkipathfinder.com
@@ -6586,6 +6595,7 @@ mavero-plus.online
 mavero-plus.ru
 mavero-point.online
 mavero-point.ru
+mavero-qinsha.shop
 mavero-re.com
 mavero-re.org
 mavero-solutions.de
@@ -7326,6 +7336,7 @@ myvero-consulting.com
 myvero-partners.com
 myyntijohtajapalvelu.com
 myyntisuomi.fi
+myyntiturva.ai
 myyttinensuomi.com
 naamiaispalvelu.com
 naarfinland.nl
@@ -7524,6 +7535,8 @@ nikesuomi.com
 nikesuomi.net
 nikesuomishop.com
 nikotiini-pussit.com
+nikotiini.online
+nikotiini.store
 nikotiiniala.com
 nikotiinilasku.fi
 nikotiininurkka.com
@@ -8072,6 +8085,7 @@ oma-slot.site
 oma-smash.ch
 oma-smash.com
 oma-snipingbot.com
+oma-stream.com
 oma-studio.com
 oma-sucht-sex.com
 oma-suomi.icu
@@ -9266,6 +9280,7 @@ rcepthelsinkisw.shop
 rcnmobilepay.com
 rcsfinland.com
 rcsfinland.net
+rdifinland.com
 rdsiivouspalvelut.com
 rdstrsuomi.com
 reactoonz-finland.com
@@ -12372,6 +12387,7 @@ suomiturva.info
 suomiturvallisuus.com
 suomitv.com
 suomitv.net
+suomityres.africa
 suomiuio.com
 suomiurbanretreat.com
 suomiuseful.org
@@ -12390,6 +12406,7 @@ suomivastaanotetutviestit.info
 suomivedot.com
 suomivedot.fi
 suomiverify.com
+suomiverofinland.com
 suomiverse.lol
 suomivertailu.com
 suomiveto.net
@@ -12482,6 +12499,7 @@ swedenoffinland.com
 swellsuomi.com
 swinginhelsinki.com
 sxviestit.com
+sydneynsuomikoulu.org
 syispalvelus.com
 syklihelsinki.com
 synlawnfinland.com
@@ -13657,6 +13675,7 @@ universofortum.com
 universoumi.com
 universoumisshymeternal.net
 unlimitedfinland.com
+unlocfinland.com
 unnukanmetsajahirsipalvelu.com
 unstonyvacaturvalutas.cfd
 untamohelsinki.com
