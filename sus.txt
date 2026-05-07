@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 06/05/2026 07:00 UTC
+# Last modified: 07/05/2026 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -4279,6 +4279,7 @@ helsinkihold.xyz
 helsinkiholdings.net
 helsinkihorizon.com
 helsinkihorizoncompany.com
+helsinkihospitality.com
 helsinkihotelchoice.com
 helsinkihotelroom.com
 helsinkihotelsguide.com
@@ -5122,6 +5123,8 @@ investwithsoumitra.in
 iotsuomi.net
 ip-tvfinland.fi
 ip-tvfinland.online
+ip-tvsuomi.online
+ip-tvsuomi.se
 ipalvelut.fi
 ipfinland.net
 iptv-finland.best
@@ -6495,6 +6498,7 @@ mannilapalvelutoy.com
 manoloblahniksuomi.com
 manordeal.sbs
 mansikkaterveys.com
+mansuomianmo.com
 manufacturedinfinland.com
 many-helsinki-events-756119764.today
 marela-helsinki.com
@@ -7806,6 +7810,7 @@ nrityopachara.com
 nsacpalvelut.com
 nshotelornfinland.com
 nsrfinland.coupons
+nt-muuttopalvelut.com
 nu-mobilepay.com
 nubollssuomi.com
 nudehelsinki.com
@@ -9438,6 +9443,7 @@ rivero-abogados.com
 rivero-automotive.se
 rivero-ayerza.com
 rivero-blanco.com
+rivero-cy.com
 rivero-fashion.com
 rivero-mebel.ru
 rivero-rp.online
@@ -10612,6 +10618,7 @@ soumissionsgaragecabanon.ca
 soumissionshypothecaires.com
 soumissionsinfiltrations.ca
 soumissionsinspections.com
+soumissionsisolationtroisrivieres.com
 soumissionsmaison.net
 soumissionsmart.ca
 soumissionsmateriaux.ca
@@ -11438,6 +11445,7 @@ suomenvaltakunta.org
 suomenvaltakunta.tech
 suomenvaltio.com
 suomenvaltio.org
+suomenvaltionvelka.com
 suomenvaltionvelka.fi
 suomenvannekorjaus.com
 suomenvapaatiedeinstituutti.fi
@@ -13947,6 +13955,7 @@ vartiointipalvelumikkola.com
 vartiointiturva.fi
 vaskionautohuolto.com
 vastaanotetutviestitsuomi.info
+vastaanottaaomfinland.info
 vastauspalvelu.fi
 vaude-suomi.com
 vauhdikas-finland.com
@@ -15033,6 +15042,7 @@ xn--kasino-ilman-suomi-lisenssi-1kc.com
 xn--kasino-ilmanrekisteritymist-1kc82c.com
 xn--kasinoilmanrekisterinti-i8b95b.com
 xn--kasinoilmanrekisteritymist-5hc01c.com
+xn--kasinoilmanrekisteritymist-5hc01c.org
 xn--kasinoilmanrekisteritymist10e-qqc46c.com
 xn--kasinoilmansuomenlisenssi-9ec.com
 xn--kasinot-ilman-rekisteritymist-tqc46c.org
