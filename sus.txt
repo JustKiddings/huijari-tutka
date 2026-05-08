@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 07/05/2026 07:00 UTC
+# Last modified: 08/05/2026 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -369,6 +369,7 @@ anadolukulturvakfi.net
 anaistentation.com
 anapashturval.online
 anarchycasinofinland.com
+anasandsoumiaswedding.app
 anastasiakasatkina.com
 anastasiakaspar.com
 andersfinland.com
@@ -417,6 +418,7 @@ apikulturvakfi.org
 apinpalvelut.com
 apolloterapiapalvelut.fi
 app-fi-turvallisuus.com
+app-mobilepay.com
 app-mobilepay.info
 app-mobilepay.mobi
 app-s-pankki-mobiili.com
@@ -612,6 +614,7 @@ atakantaktikal.com
 atakantarkan.com
 ataraxterveyspalvelu.shop
 ateafinlandoy.online
+atelier-insoumis.fr
 atelier-vero-creation.fr
 atelierdelasoumission.com
 atelierdelasoumission.fr
@@ -996,6 +999,7 @@ bitfinland.xyz
 bithelsinki.xyz
 bizfinland.xyz
 bizhelsinki.xyz
+bizzocasino-finland.com
 bizzocasinofinland.com
 bjjhelsinki.life
 bjornborgsuomi.com
@@ -2086,6 +2090,7 @@ elektroniikkahuolto.com
 elements-suomi.com
 eleppizpalvelut.com
 eleppizpalvelut.info
+elevatorsfromfinland.com
 elfbarsuomi.net
 elfbarvapesuomi.com
 elina-butiikki-helsinki.com
@@ -3757,6 +3762,7 @@ helsinki-pass.com
 helsinki-pch-eaa.info
 helsinki-pch-eal.info
 helsinki-peachify-aac.org
+helsinki-play-game.store
 helsinki-pool-150964433.click
 helsinki-pool-339338448.click
 helsinki-pool-rental-353355716.live
@@ -4652,6 +4658,7 @@ hi-elisa.com
 hi-helsinkicity.com
 hibachihelsinki.com
 hidden-gems-finland.fi
+hiddenadventuresfinland.com
 hiddenhelsinki.fi
 hideawayfinland.com
 hierontapalvelu.com
@@ -4789,6 +4796,7 @@ hsrsuomine.pics
 hstaxihelsinki.com
 hsuominemh.art
 htfinland.com
+htg-finland.com
 htifinland.com
 htpienkonehuolto.fi
 httpsoumission-couriters.com
@@ -5123,6 +5131,7 @@ investwithsoumitra.in
 iotsuomi.net
 ip-tvfinland.fi
 ip-tvfinland.online
+ip-tvsuomi.com
 ip-tvsuomi.online
 ip-tvsuomi.se
 ipalvelut.fi
@@ -5858,6 +5867,7 @@ kotisuomi.com
 koulutuspalvelut.com
 kouvolanhuoltojarengaspalvelu.fi
 kouvolanplusterveys.net
+kovturvalisuse-andmelaud.app
 kpalvelusavo.com
 kpalvelusavo.net
 kpkiinteistopalvelut.fi
@@ -6646,6 +6656,7 @@ medassistshaslfinland.bond
 mediafinland.com
 mediahelsinki.xyz
 mediapalvelukirjava.fi
+mediateamfinland.com
 mediatukipalvelut.net
 medibridgeukfinland.co.uk
 meditsina-severo-zapad.ru
@@ -7431,6 +7442,7 @@ naturewellbeingfinland.com
 naturovero-cuisine.fr
 naturva.co
 naturva.info
+naturva.net
 naturva.store
 naturval.fr
 naturval.net
@@ -9287,6 +9299,7 @@ ramonrakennuspalvelu.fi
 randmsuomi.com
 rannikonkonehuolto.com
 rapha-suomi.com
+raphaelhelsinki.com
 raphafinland.com
 rapid-casino-suomi.com
 rapidautohuolto.com
@@ -9354,6 +9367,7 @@ rekisteroimattomat-nettikasinot.com
 rekisterointi-nyt.com
 rekisteroitymisbonus.com
 reklamaatiopalvelu.com
+rekofinland.com
 rekrytointitoimistosuomi.work
 relepankki.com
 reload-casino-suomi.com
@@ -10103,6 +10117,7 @@ slotday-finland.com
 slotexocasinosuomi.com
 slotfinland.com
 slothunter-suomi.com
+slotsgem-finland.com
 slotsgemfinland.com
 slotsi-casino-suomi.com
 slotspalace-suomi.com
@@ -10267,6 +10282,7 @@ soumia-ben-touhami.com
 soumia-elbay.com
 soumia-henna.de
 soumia-hypnose.com
+soumia.app
 soumia.ch
 soumia.org
 soumia.shop
@@ -11838,6 +11854,7 @@ suomifi.cc
 suomifi.com
 suomifi.info
 suomifi.life
+suomifi.net
 suomifi1.site
 suomifilandee.com
 suomifin.eu
@@ -12697,6 +12714,7 @@ tastefinland.com
 tastesoffinland.com
 tattoohelsinki.com
 tattoohelsinki.net
+tattoomasterhelsinki.com
 tavero-partners.pl
 tavero-shop.shop
 tawabilmaghniasoumicha.shop
@@ -13376,6 +13394,7 @@ tsplus-finland.net
 tsuome.beer
 tsuomegaalumni.com
 ttmonitoimipalvelutgroup.fi
+tubersfortumors.org
 tuffpufffinland.com
 tuhkaus-hinta-suomi.site
 tuhkaus-suomi.xyz
@@ -13572,6 +13591,7 @@ turvalodrina.ru
 turvalodrina.store
 turvalokero.com
 turvalty.com
+turvalu.com
 turvapaikkafin.com
 turvapalvelu.com
 turvapassi.com
@@ -14210,6 +14230,7 @@ vero-gaming.com
 vero-garden.com
 vero-geothermal.energy
 vero-gestivonda.com
+vero-gestivonda.org
 vero-gestivonda.site
 vero-golf.com
 vero-gomez.com
@@ -14376,6 +14397,7 @@ vero-security.com
 vero-sh.com
 vero-shigemaru.com
 vero-shnur.com
+vero-shop.space
 vero-shopping.com
 vero-sicurezza.co.uk
 vero-sicurezza.com
