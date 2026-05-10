@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 09/05/2026 07:00 UTC
+# Last modified: 10/05/2026 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -1780,6 +1780,7 @@ designstudiohelsinkipl.info
 designstudiohelsinkiqi.info
 designstudiohelsinkiqp.info
 designstudiohelsinkisf.info
+designtourshelsinki.com
 designworksfinland.com
 desigual-finland.com
 despinayiasoumi.com
@@ -2812,6 +2813,7 @@ finlands.pl
 finlandscan.xyz
 finlandschool.online
 finlandselect.com
+finlandselectvip.com
 finlandsequencer.xyz
 finlandsex.xyz
 finlandsgottalent.com
@@ -2836,6 +2838,7 @@ finlandstays.com
 finlandsteambaths.com
 finlandstories.org
 finlandstream.com
+finlandsummer.com
 finlandsurrogacy.com
 finlandsvisasteman.com
 finlandsvisasteman.se
@@ -3666,6 +3669,9 @@ helsinki-jp.com
 helsinki-juristi.com
 helsinki-juristi.org
 helsinki-kasino.com
+helsinki-kult.com
+helsinki-kult.icu
+helsinki-kult.lat
 helsinki-lakiasiaintoimisto.com
 helsinki-lakiasiaintoimisto.org
 helsinki-lakiasiaintoimistot.com
@@ -5152,6 +5158,7 @@ ipalvelut.fi
 ipfinland.net
 iptv-finland.best
 iptv-finland.com
+iptv-finland.net
 iptv-finland.pro
 iptv-finland.shop
 iptv-finland.store
@@ -5432,6 +5439,7 @@ k-palvelusavo.net
 k-pankki.fi
 k-tilipalvelu.com
 kaahaus-casino-suomi.com
+kaakkois-suomenkiertotalous.fi
 kaavahelsinki.com
 kabu-kantan.com
 kachincommunityfinland.org
@@ -8674,7 +8682,10 @@ paratiisicasino-suomi.fi
 paratiisikasino-suomi.fi
 paremminsuomessa.net
 parempielamaterveys.org
+parempiterveys-suomi.com
 parempiterveys.com
+parempiterveysbp.com
+parempiterveyssuomi.com
 parhaat-ilman-rekisteroitymista.com
 parhaat-kasinot-suomi.com
 parhaat-siivouspalvelut.bond
@@ -9122,6 +9133,7 @@ proiptvsuomi.com
 projectsuomi.fi
 projektyopakowan.pl
 prokotipalvelut.com
+promavero.com
 promptfinland.xyz
 prompthelsinki.xyz
 promptipankki.fi
@@ -9497,6 +9509,7 @@ rizziokasino-suomi.fi
 rkautopalvelu.com
 rkmautohuolto.fi
 rkmpalvelut.fi
+rmtautohuolto.com
 rmvfinland.lol
 roadtofinland.com
 roamfinland.com
@@ -10033,6 +10046,7 @@ siegelringe-suomi.shop
 sienitunnistus.fi
 sieshefinland.com
 sievisuomi.com
+sigg-suomi.com
 siggsuomi.com
 siggsuomis.top
 signaturefinland.com
@@ -10904,6 +10918,7 @@ sporttravelfinland.fi
 sportunafinland.com
 sportyfinland.com
 spothelsinki.com
+spotonhelsinki.com
 spr-turvapassi.com
 spr-turvapassi.net
 sprayconceptlaurentidessoumission.com
@@ -11044,6 +11059,7 @@ styopamakes.com
 styopandnare.us
 sub-finland-lommarket.ru
 subfinland.org
+subwayfinland.com
 sudansuomiszilard.sbs
 sudokufinland.fi
 sugarcasinofinland.com
@@ -11089,6 +11105,7 @@ suomeksilightingroul.online
 suomela.ch
 suomela.nu
 suomen-apteekki.com
+suomen-elastomeeripinnoitus.com
 suomen-fi.site
 suomen-fi.website
 suomen-fin.site
@@ -11574,6 +11591,7 @@ suomi-fi.info
 suomi-fi.one
 suomi-fi.sbs
 suomi-fi.shop
+suomi-fi.top
 suomi-fi0.sbs
 suomi-fin.icu
 suomi-fin.online
@@ -11947,6 +11965,7 @@ suomigaming.com
 suomigaminggroup.com
 suomigasoa.fi
 suomigems.com
+suomigetaway.xyz
 suomiglitz.com
 suomigo.site
 suomigrad.online
@@ -12431,6 +12450,7 @@ suomitiedot.net
 suomitierlist.com
 suomitierlist.xyz
 suomitieto.com
+suomitimes.org
 suomitoday.com
 suomitoday.fi
 suomitodennus.com
@@ -14043,6 +14063,7 @@ vejarunnerssuomi.info
 vejasrunningsuomi.com
 vejasstoresuomi.com
 vejassuomistore.com
+vejastore-suomi.com
 vejastoressuomi.com
 vejastoresuomi.com
 vejasuomi-fi.shop
@@ -14409,6 +14430,7 @@ vero-quibusdam.com
 vero-quintanar.online
 vero-quis.site
 vero-real-estate.com
+vero-realty.com
 vero-reiki.com
 vero-repellendus.site
 vero-reprehenderit.com
@@ -14832,6 +14854,7 @@ vpnfinlandapiz.cfd
 vpnpalvelu.com
 vpofinland.website
 vpsfinland.cfd
+vpsfinland.ru
 vpsfinlandforpersonaluse.ru
 vpwfinland.space
 vrfinland.xyz
@@ -15312,6 +15335,7 @@ yuxiaoyj.com
 yuzhaoyj.com
 ywamhelsinki.org
 yxcfinland.guru
+zanvero-marketingautomationlabs.store
 zapad-severo-decor.ru
 zaramekotsuomi.com
 zarkovsoumisky.com
