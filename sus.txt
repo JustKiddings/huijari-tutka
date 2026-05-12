@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 11/05/2026 07:00 UTC
+# Last modified: 12/05/2026 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -314,6 +314,7 @@ aloeverasuomi.com
 alohahelsinki.com
 alosuomi.com
 aloyoga-suomi.net
+alphabetfinland.eu.cc
 alphaindustriessuomi.com
 alphaletesuomi.com
 alphamode-finland.com
@@ -645,6 +646,7 @@ auranmaanmuuttopalvelu.net
 aurasuomi.com
 auraturva.online
 auraviestate.com
+aurihelsinki.fi
 aurinkorannikonrakennuspalvelut.com
 aurinkorannikonsiivouspalvelut.com
 aurinkosalopalvelut.com
@@ -1584,6 +1586,7 @@ crownplayfinland.com
 crownresortfinland.com
 croydoninsuomikoulu.org
 croydoninsuomikoulu.org.uk
+croydonsuomischool.com
 crpalvelut.com
 crusino-suomi.com
 cryptohelsinki.xyz
@@ -3445,6 +3448,7 @@ haoyj.net
 happinessfromfinland.com
 happy-casino-suomi.com
 happycasino-suomi.fi
+happydayshelsinki.com
 happyfinlandexperience.com
 happyhappyfinland.fi
 happyhelsinki.click
@@ -5097,6 +5101,7 @@ insoumiscommunistes.fr
 insoumisdecreteil.fr
 insoumisdz.com
 insoumise.fr
+insoumisebeauty.com
 insoumiseromandie.ch
 insoumises.net
 insoumislespharaons.com
@@ -5759,6 +5764,7 @@ kipling-suomi-fi.com
 kiplingbagssuomi.com
 kiplinglaukutsuomi.com
 kiplingsuomi-fi.com
+kiplingsuomishop.com
 kirjanpitopalvelu.com
 kirjaudu-akt1112.net
 kirjaudu-aktia.net
@@ -5891,6 +5897,7 @@ kotipalveluilojaonni.com
 kotipalvelunp.com
 kotipalvelunp.net
 kotipalveluruuthanne.fi
+kotipalvelusalvia.fi
 kotipalvelusarastus.fi
 kotisiivouspalvelut.fi
 kotisivuaktiapalvelut.sbs
@@ -7950,6 +7957,7 @@ olivero-capital.com
 olivero-construction-ubaye.fr
 olivero-sactp.fr
 olivero-valla.com
+olivia-helsinki.com
 olukaisuomisale.com
 olybet-finland.com
 olybetsuomi.com
@@ -8517,6 +8525,7 @@ owninghelsinki.com
 oxelosundinsuomiseura.se
 oxsigenceuticalsfinland.com
 oxsygenceuticalsfinland.com
+oxygenceuticalsfinland.com
 oy-trafcom.info
 oyj-trafcom.info
 oytrafcom.info
@@ -8801,6 +8810,7 @@ personal-loans-prfinland.bond
 perusterveydenhuolto.fi
 pesapalvelut.com
 pessacinsoumise.fr
+pesukonepalvelut.fi
 pesulapalvelu.fi
 pesupalvelupojat.com
 peswinturva.com
@@ -9775,6 +9785,7 @@ safecasinosuomi.com
 safetyfinland.com
 sahapalvelut.fi
 sahkohelsinki.fi
+sahkohuoltorovaniemi.fi
 sahkomies-suomi.fi
 sahkomieshelsinki.net
 sahkomiespalvelut.fi
@@ -10503,6 +10514,7 @@ soumine.net
 soumine.ru
 soumine.store
 souminecraft.com
+soumineiralicores.com.br
 soumineirouai.com.br
 souming.com.cn
 soumingdan.com
@@ -10749,6 +10761,7 @@ soumitguha.com
 soumith.ai
 soumith.com
 soumithandnavya.com
+soumithinturi.com
 soumithreddypodduturi.info
 soumitiyu.com
 soumitiyu.com.cn
@@ -11265,6 +11278,7 @@ suomenilmatar.fi
 suomeninnovaatiorahoitus.fi
 suomeninnvointisaatio.com
 suomeniptv.com
+suomeniptv.fi
 suomenjatenouto.fi
 suomenkaihdin.com
 suomenkaihdincenter.com
@@ -12642,6 +12656,7 @@ syispalvelus.com
 syklihelsinki.com
 synlawnfinland.com
 synlawnhelsinki.com
+synthscapestudioshelsinki.com
 syomapuikot-suomi.shop
 syotteentaksipalvelu.fi
 syotteentaksipalvelut.fi
@@ -12658,6 +12673,7 @@ tahtipalvelut.fi
 tahtipalvelutstjerna.fi
 tahtipolkukotipalvelut.fi
 taidepalvelu-hetkessa.com
+taideterapiapalvelusielunmaisema.com
 taideturvapaikka.net
 taigatrekfinland.com
 taijankukkajapuutarhapalvelut.fi
@@ -13791,6 +13807,7 @@ ultrafinland.xyz
 ultrahelsinki.xyz
 ultrasuomi.com
 ulvilanautohuolto.com
+umakantaenterprises.fun
 umakantajena.in
 umasanghviestates.com
 umnasserfinland.edu.bh
