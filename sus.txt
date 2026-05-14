@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 13/05/2026 07:00 UTC
+# Last modified: 14/05/2026 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -98,6 +98,7 @@
 8helsinki.xyz
 91soumi.cn
 9cyooyj.shop
+a2a-suomi.com
 a2zmobilepay.com
 aabhasoumitra.com
 aalto-helsinki.com
@@ -782,6 +783,7 @@ azurslotfinland.com
 b2bfinland.com
 b2bfinland.net
 babyboofashionsuomi.com
+babylisssuomi.com
 babyschuhe-suomi.shop
 backend-kehittajan-tyopaikat-suomi.cfd
 backformen-suomi.shop
@@ -1406,6 +1408,7 @@ chroniques-insoumises.com
 circulareconomyfinland.eu
 cirkulsuomi.com
 cisr-helsinki.org
+city1-vero-invest.de
 citycutshelsinki.com
 cityofhelsinki.com
 cityopal.com
@@ -1840,6 +1843,7 @@ digitaalinen-viesti.cc
 digitaalinen-viesti.info
 digitalfactoryfinland.com
 digitalhelsinki.xyz
+digitalsoumik.com
 digitaltagsfinland.com
 digitoimistopalvelu.online
 digiturva.fi
@@ -1889,6 +1893,7 @@ domainfinland.com
 domainfinland.net
 domainpalvelut.com
 domanihelsinki.com
+domaverohq.com
 domhelsinkitopwork.icu
 domi-elisa.com
 dominantesetsoumis.com
@@ -2607,6 +2612,7 @@ finlandearlyyears.com
 finlandeasy.xyz
 finlandeconomy.com
 finlandedu.com
+finlandeducwisdow.com.br
 finlandeloa.com
 finlandemb.de
 finlandembassyindonesia.com
@@ -2846,6 +2852,7 @@ finlandsteambaths.com
 finlandstories.org
 finlandstream.com
 finlandsummer.com
+finlandsummit.com
 finlandsurrogacy.com
 finlandsvisasteman.com
 finlandsvisasteman.se
@@ -3050,6 +3057,7 @@ fortuman.org
 fortuman.shop
 fortuman.store
 fortuman.xyz
+fortumap.com
 fortumaritime.com
 fortumarket.com
 fortumars.com
@@ -3492,6 +3500,9 @@ hcsuomined.beauty
 hcvgmpnyxtdgfruoyj.shop
 heal-turva.com
 healthycoffeehelsinki.com
+healthylifehelsinkif.info
+healthylifehelsinkifcv.info
+healthylifehelsinkiftu.info
 heatlhincubatorhelsinki.com
 heatlhincubatorhelsinki.pro
 hedengrenhuolto.fi
@@ -4007,6 +4018,7 @@ helsinki.cab
 helsinki.cafe
 helsinki.chat
 helsinki.christmas
+helsinki.codes
 helsinki.com.br
 helsinki.email
 helsinki.estate
@@ -4027,6 +4039,7 @@ helsinki.pl
 helsinki.pro
 helsinki.rent
 helsinki.rocks
+helsinki.singles
 helsinki.tattoo
 helsinki.tips
 helsinki.tours
@@ -5199,6 +5212,7 @@ iptvfinland.top
 iptvfinland.tv
 iptvfinland4k.com
 iptvfinlande.com
+iptvpalvelu.fi
 iptvs-suomi.com
 iptvsuomessa.com
 iptvsuomi-fi.org
@@ -5351,6 +5365,7 @@ jellycatsuomi.net
 jellycatsuomi.org
 jelppipalvelut.fi
 jennynterapiapalvelu.com
+jeremyinfinland.com
 jessen-rengaspalvelu.com
 jetcasino-suomi.com
 jetcasinosuomi.com
@@ -5858,6 +5873,7 @@ konehuoltoheinonen.com
 konehuoltokairenius.fi
 konehuoltokeskus.com
 konehuoltonurminen.com
+konehuoltopeltonen.com
 koneistuspalvelu.com
 konejahuoltoholopainen.fi
 konejametallipalvelukoponen.com
@@ -5982,6 +5998,7 @@ kyafinland.shop
 kybersuomi.com
 kyberterveyskeskus.com
 kyberterveyskeskus.info
+kybunsuomi.com
 kymmenensuomi.com
 kyytipalvelu.com
 kyytipalvelu.net
@@ -6160,6 +6177,7 @@ letmepalvelu.fi
 letsgowithsoumia.com
 leuoyj.shop
 leviestate.com
+levinkattohuolto.fi
 levinmokkihuolto.com
 levitunturinkiinteistohuolto.fi
 lexitfinland.com
@@ -6256,6 +6274,7 @@ localfinland.net
 localhelsinkiguide.com
 localnewsinfinland.com
 lodgingfinland.com
+lofreesuomi.com
 logicshelsinki.com
 login-poppankki.sbs
 login-spankki.cfd
@@ -7162,6 +7181,7 @@ mobilepayposreports.com
 mobilepayposreports.online
 mobilepaypros.com
 mobilepayqr.dk
+mobilepays.com
 mobilepaysea.com
 mobilepaysearch.online
 mobilepaysecuredk.live
@@ -8650,6 +8670,7 @@ pamperssuomi.com
 panamajacksuomi.top
 panasonic-huolto.fi
 panasonichuolto.fi
+pandora-suomi.com
 pandorafinlandoutlet.com
 pandorajewelryfinland.com
 pandorassuomi.com
@@ -8733,6 +8754,7 @@ pathtocornucopiafinland0.xyz
 patriziapepefinland.com
 patternsfromfinland.com
 patyoparis.fr
+pawvero-usa.com
 pay--asiakaspalvelu.com
 pay--palvelu.com
 pay-asiakas-palvelu-dmn.com
@@ -8971,6 +8993,7 @@ plumber-helsinki.fi
 plumberhelsinki.com
 plusterveysxasc.world
 plutofinland.com
+plvalvona.com
 plzfinland.com
 pmsuominew.fun
 pmzfinland.world
@@ -9452,6 +9475,7 @@ restakingfinland.xyz
 restockssuomi.com
 reterveystalo.com
 retrohelsinki.fi
+returvakten.se
 returvaluta.com
 returvaluta.nu
 reusekiertotalouspalvelu.fi
@@ -9893,6 +9917,7 @@ satorifinland.fi
 satorikoulutuspalvelut.fi
 satoshifinland.xyz
 satoshihelsinki.xyz
+satoshimobilepay.com
 satulapalveluhilmalaya.com
 satupalvelu.fi
 saturvalawassociates.com
@@ -9993,6 +10018,7 @@ senegalsuomiystavat.com
 senfinland.com
 senior-car-insurance-costs-in-finland.bond
 senior-living-finland-yshkin.click
+seniorhelsinki.com
 sennheiser-suomi.com
 sennheisersuomi.com
 senrahamiestenosoekt.xyz
@@ -10466,6 +10492,7 @@ soumikpatra.com
 soumikpatra.xyz
 soumikpaul.in
 soumiks.com
+soumiksaha.in
 soumiksarkar.online
 soumiksarker.com
 soumiksp.in
@@ -11101,6 +11128,7 @@ suitupfinland.com
 sukitusvalvontaheikkijyrama.com
 sukitusvalvontaheikkijyrama.info
 sukkafinland.com
+summitfinland.com
 sun-suomen-ope.ru
 sunburysuomiswings.sbs
 sundayredsuomi.com
@@ -11164,6 +11192,7 @@ suomenaika.com
 suomenakvarellitaiteenyhdistys.fi
 suomenalvguruoy.com
 suomenamyloidoosiyhdistys.com
+suomenapteekki.store
 suomenarkiseura.com
 suomenarvoteosmyynti.fi
 suomenaurinkopaneelit.fi
@@ -12484,6 +12513,7 @@ suomitiedot.net
 suomitierlist.com
 suomitierlist.xyz
 suomitieto.com
+suomitimes.io
 suomitimes.net
 suomitimes.org
 suomitoday.com
@@ -13031,8 +13061,14 @@ terveystalovirastory.com
 terveystaloweb.com
 terveystalox.info
 terveystarkastus-korso.net
+terveystasapainofi.info
+terveystasapainofiaw.info
+terveystasapainofiqx.info
 terveystase.com
 terveystiedonabc.com
+terveystottumuksetfi.info
+terveystottumuksetfial.info
+terveystottumuksetfiao.info
 terveystuote.com
 terveystutkimus.fi
 terveysuutiset-suomi.com
@@ -13064,6 +13100,7 @@ thaimaanlakipalvelut.fi
 thassoumi.dev
 thathelsinkipage.com
 thatsosuomi.com
+thbcxnooyj.store
 the-ghost-of-finland.com
 thealleyhelsinki.com
 theautodennashville.com
@@ -13087,6 +13124,7 @@ thenorthfacehelsinki.com
 thenorthfacessuomi.com
 thenorthfacesuomi.com
 thepilatesstudiohelsinki.com
+therabodysuomi.com
 thermisuomi.org
 thermomixsuomi.com
 thermosfinland.com
@@ -14010,6 +14048,7 @@ valuthelsinki.com
 valvero-app.com
 valvon.site
 valvon.space
+valvona.store
 valvonacrolla-online.co.uk
 valvondan.com
 valvondan.store
@@ -14059,6 +14098,7 @@ varatuomarihelsinki.com
 varatuomarihelsinki.org
 varausuomi.online
 varela-helsinki.com
+varkaudensahkopalvelut.fi
 varma-oyj.com
 varmamuuttopalvelu.fi
 varmaoyj.com
@@ -14306,6 +14346,7 @@ vero-eu.shop
 vero-fashion.com
 vero-fasion.com
 vero-fi-mytax.com
+vero-fi-tieto.info
 vero-fi-yritykset-ja-yhteisot.com
 vero-fi.com
 vero-fi.sbs
