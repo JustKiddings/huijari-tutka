@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 16/05/2026 07:00 UTC
+# Last modified: 17/05/2026 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -820,6 +820,7 @@ baoyj.com
 bape-suomi.com
 bapefinland.com
 bapehuppari-suomi.com
+bapessuomi.com
 bapesuomi.com
 baranmasoumian.com
 barebellssuomi.com
@@ -1079,6 +1080,7 @@ boostcasino-finland.com
 boostcasino-suomi.fi
 boostcasinossuomi.com
 boostcasinosuomi.com
+boosticfinland.com
 boostkasino-suomi.fi
 boostmobilepay.com
 boostmobilepayment.com
@@ -1253,6 +1255,7 @@ casino-welcome-bonus-finland.shop
 casino360finland.com
 casinobonusfinland.com
 casinodayssuomi.com
+casinoeuro-finland.com
 casinoeuro-suomi.com
 casinoeurosuomi.com
 casinofinland.games
@@ -1332,8 +1335,10 @@ cavero-profesional.com
 cavero-shop.com
 cawfinland.info
 caxino-casino-suomi.com
+caxino-finland.com
 caxino-suomi.online
 caxinocasino-finland.com
+caxinofinland.com
 cazimbo-casino-suomi.com
 cazimbofinland.com
 cbcafinland.com
@@ -1406,6 +1411,7 @@ chinafinlandinterculturalinterpretationandtranslat.org
 chinamobilepayment.com
 chipz-casino-suomi.com
 chipz-finland.com
+chipzfinland.com
 chivero-flqmra.rest
 chivero-gqvzma.rest
 chivero-gqvzmaep.rest
@@ -1626,6 +1632,7 @@ culturvations.online
 culturvator.org
 cumobilepay.com
 cuprahuolto.online
+curahelsinki.com
 curatedvintagehelsinki.com
 curiumfinland.fi
 customer-success-helsinki.com
@@ -2955,6 +2962,7 @@ finwinsuomi.com
 firapalvelut.com
 firespins-casino-suomi.com
 firestonesuomi.com
+firevegas-suomi.com
 firola-helsinki.com
 fishingguideinfinland.com
 fishingtripfinland.com
@@ -2982,6 +2990,7 @@ fl-trafcom.info
 flaksi-casino-suomi.com
 flaksi-suomi.org
 flaksicasino-finland.com
+flaksikasino-suomi.com
 flaksikasino-suomi.fi
 flaksisuomi.games
 flame-finland.com
@@ -3155,6 +3164,7 @@ freshfishfinland.fi
 freyahelsinki.com
 friday-casino-suomi.com
 friendsoffinland.com
+fromfinland.net
 fromfinlandtofranceforhautecouture.com
 frontierfinland.com
 frostbitesuomi.com
@@ -3594,6 +3604,7 @@ helsinki-copenhagen-cruise-package-fi.sbs
 helsinki-cro.com
 helsinki-dating.site
 helsinki-design-studio.com
+helsinki-design.com
 helsinki-dev-node.world
 helsinki-dire-xaaa.info
 helsinki-dire-xaab.info
@@ -4599,6 +4610,7 @@ helsinkistaking.xyz
 helsinkistandupleague.com
 helsinkistayhotel.com
 helsinkistorage.com
+helsinkistoryslam.com
 helsinkistreet.fi
 helsinkisuper.xyz
 helsinkisven.com
@@ -6026,6 +6038,7 @@ kyberterveyskeskus.com
 kyberterveyskeskus.info
 kybunsuomi.com
 kymmenensuomi.com
+kyvero-ai.com
 kyytipalvelu.com
 kyytipalvelu.net
 kyytipalvelu.org
@@ -6183,6 +6196,7 @@ lempisiivouspalvelu.com
 lems-suomi.com
 lemsfinland.com
 lemsfootwearfinland.com
+lemsinsuomi.top
 lemsshoessuomi.net
 lemssuomi.top
 lemurdesinsoumis.fr
@@ -6599,6 +6613,7 @@ manufacturedinfinland.com
 many-helsinki-events-756119764.today
 marela-helsinki.com
 maria-casino-suomi.com
+maria-und-elisabeth.de
 mariacasino-finland.com
 mariacasino-suomi.com
 mariacasinossuomi.com
@@ -6719,6 +6734,7 @@ mavero-point.ru
 mavero-qinsha.shop
 mavero-re.com
 mavero-re.org
+mavero-shop.com
 mavero-solutions.de
 mavero-store.com
 mavero-system.pl
@@ -7565,6 +7581,7 @@ nebenlesuomise.com
 neohelsinki.xyz
 neohelsinkirecords.com
 neon54suomi.com
+neonvegas-finland.com
 nerakolasuome.com
 nerogiardinihelsinki.com
 nestvero-style.com
@@ -7730,6 +7747,7 @@ nitro-finland.com
 nitro-suomi.online
 nitrocasino-finland.com
 nitrocasino-suomi.fi
+nitrocasinofinland.com
 nitrocasinosuomi.com
 nitrokasino-suomi.fi
 nivakpankki.com
@@ -7863,6 +7881,7 @@ nordeat-online.com
 nordeat.se
 nordeatelier.store
 nordeator.se
+nordeats.com
 nordeaux.ee
 nordeaux.se
 nordeayapi.com
@@ -8755,6 +8774,7 @@ paragonixearnfinland.com
 parajumperstakkisuomi.xyz
 paras-lumenpoistopalvelu-suomi.today
 paras-suomi.com
+parasaanikirjapalvelu.fi
 paraskasinosuomessa.com
 parasnettikasinosuomi.com
 parassuomessa.com
@@ -9425,6 +9445,7 @@ raphaelhelsinki.com
 raphafinland.com
 rapid-casino-suomi.com
 rapidautohuolto.com
+rapidcasino-finland.com
 raskashuoltotaipale.fi
 raslinautohuolto.com
 rasvero-service.ru
@@ -9600,6 +9621,7 @@ rizziokasino-suomi.fi
 rkautopalvelu.com
 rkmautohuolto.fi
 rkmpalvelut.fi
+rmcfinland-fi.com
 rmtautohuolto.com
 rmvfinland.lol
 roadtofinland.com
@@ -10472,6 +10494,7 @@ soumickraj.com
 soumiconto.com
 soumicosmetics.com
 soumicosmetics.shop
+soumicrochet.store
 soumics.com
 soumidelrio.com
 soumidiaay.com
@@ -10732,6 +10755,7 @@ soumissionpro.ch
 soumissionpro.net
 soumissionqc.ca
 soumissionqc.com
+soumissionquebec.com
 soumissionrbq.com
 soumissionreno.com
 soumissionreno.construction
@@ -11009,6 +11033,8 @@ spintribefinland.com
 spinz-casino-suomi.com
 spinz-finland.com
 spinz-suomi.com
+spinzcasino-finland.com
+spinzcasinofinland.com
 spinzfinland.com
 spoonkkifinland.com
 sport-bet-finland.online
@@ -11118,6 +11144,7 @@ stooripalvelut.fi
 stopagfinland.com
 storifyfinland.com
 stormsuomi.fi
+storyslamhelsinki.com
 stradivariusfinland.com
 strafconsa.com
 strafconsulting.com
@@ -12179,6 +12206,7 @@ suomikassu.com
 suomikazino.com
 suomike.com
 suomike.net
+suomikela.com
 suomikerho.org
 suomikeskus.nu
 suomikestore.com
@@ -12315,6 +12343,7 @@ suomiono.com
 suomioo.top
 suomiopas.org
 suomioriginals.com
+suomipackagegerman.lat
 suomipadel.fi
 suomipage.com
 suomipaidat.com
@@ -12919,6 +12948,7 @@ tedbakersuomi.com
 tedbakersuomi.shop
 tedbakersuomifi.com
 teddyfreshsuomi.com
+teho-kasino-suomi.com
 tehocasino-suomi.fi
 tehokasino-suomi.fi
 tehopalvelu.fi
@@ -13676,7 +13706,9 @@ tuohi-casino-suomi.com
 tuohicasino-suomi.fi
 tuohikasino-suomi.fi
 tuoyj.net
+tuplaus-finland.com
 tuplauscasino-suomi.fi
+tuplauskasino-finland.com
 tuplauskasino-suomi.fi
 tupperware-suomi.com
 tupperwaresuomi.com
@@ -13899,6 +13931,7 @@ ulkoporeallashuolto.com
 ullavanpalvelut.net
 ulosmittaus-asiakas.net
 ulpukanhuolto.shop
+ultracasino-finland.com
 ultracasino-suomi.com
 ultracasinosuomi.com
 ultrafco.com
@@ -14179,6 +14212,7 @@ vastaanottaaomfinland.info
 vastauspalvelu.fi
 vaude-suomi.com
 vauhdikas-finland.com
+vauhdikasfinland.com
 vauhdikaskasino-suomi.fi
 vauhti-casino-suomi.com
 vauhticasino-suomi.fi
@@ -14602,6 +14636,7 @@ vero-security.com
 vero-sh.com
 vero-shigemaru.com
 vero-shnur.com
+vero-shop.org
 vero-shop.space
 vero-shopping.com
 vero-sicurezza.co.uk
@@ -14670,6 +14705,7 @@ vero-valore.com
 vero-valore.fr
 vero-valore.uk
 vero-value.com
+vero-vault.com
 vero-velit.site
 vero-velo.com
 vero-vera.com
@@ -15095,6 +15131,7 @@ welcometofinland.org
 wellasiakashmir.com
 wellbeingflowfinland.info
 wellensteynfinland.com
+welovefinland.com
 west-vero-corridor.web.id
 western-finland.com
 westernfinland.com
@@ -15107,6 +15144,7 @@ whatfinland.com
 whatinfinland.com
 whdfinland.motorcycles
 wheelz-casino-suomi.com
+wheelzcasinofinland.com
 wheretogohelsinki.com
 whgfinland.com
 whshensuomen.com
