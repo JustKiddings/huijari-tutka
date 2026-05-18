@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 17/05/2026 07:00 UTC
+# Last modified: 18/05/2026 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -2498,6 +2498,7 @@ finland-hotel.com
 finland-iptv.com
 finland-iqiyi.com
 finland-life.com
+finland-node.cfd
 finland-qq.com
 finland-scewc2025.com
 finland-slots.best
@@ -4960,6 +4961,7 @@ huoltotarra.com
 huoltotek.fi
 huoltotutka.com
 huoltotutka.fi
+huoltotutkimus.fi
 huoltovali.fi
 huoltovarmuuspeli.fi
 huoltovarmuussovellus.fi
@@ -5653,6 +5655,7 @@ kasinotilmanpankkitunnuksia.com
 kasinotilmanrekisterointia.com
 kasinotilmanrekisterointia.net
 kasinotilmanrekisteroitymista.co
+kasinotilmanrekisteroitymista.info
 kasinotilmanrekisteroitymistajalisenssia.com
 kasinotilmansuomenlisenssia.net
 kasinotsuomenlisenssilla.fi
@@ -5760,6 +5763,7 @@ ketobase-finland.shop
 ketobase-finland.site
 ketopowerxfinland.com
 keturvalakiubendruomene.lt
+keychronsuomi.com
 keystationfinland.com
 kfxfinland.autos
 kgzfinland.com
@@ -5860,6 +5864,7 @@ kirkashuolto.fi
 kirkkonummensahkopalvelu.fi
 kiropraktiikkahelsinki.com
 kiropraktikko-helsinki.com
+kirvero-consulting.ch
 kissen-suomi.shop
 kitchenaid-suomi.com
 kitchenaidsuomi.com
@@ -6025,6 +6030,7 @@ kupipankki.fi
 kuriiripalvelu-suomi.com
 kuriiripalvelu.net
 kutyavalvonaton.hu
+kuulesuomi.fi
 kuulutusrekisteri.com
 kuulutusrekisteri.net
 kuumahelsinki.com
@@ -6056,6 +6062,7 @@ labshelsinki.xyz
 lacbleuviestat.com
 lacoste-suomi.com
 lacostenfinland.com
+lacostesuomi.com
 lacrima-fortum.com
 ladocottonfinland.com
 ladore-helsinki.com
@@ -7241,6 +7248,7 @@ mobilepaysuomi.com
 mobilepaysuomii-fi.com
 mobilepaysuomii.com
 mobilepaysupport.com
+mobilepaysys.com
 mobilepaytakht.com
 mobilepaytakht.ir
 mobilepayto.info
@@ -8752,6 +8760,7 @@ pankkiasiakas.net
 pankkietu-fi-kampanja.com
 pankkii.run
 pankkijarjestelma.icu
+pankkiopas.fi
 pankkipalvelut-smobiilissa-fi.xyz
 pankkipantti.com
 pankkirahoitus.com
@@ -9546,6 +9555,7 @@ revero-shop.de
 reviewsuomenhotelit.com
 reviewsuomi.com
 revire-suomi.com
+revivahvisas.com
 revivingthehelsinkispirit.org
 revolutioncasinofinland.com
 revolvero-slot.com
@@ -9957,6 +9967,7 @@ sanviestates.com
 sanviestates.in
 saoyj.sbs
 saramasoumi.com
+saramassoumi.com
 sarang188helsinki.site
 sark9finland.fi
 sashamariemassoumi.com
@@ -10658,6 +10669,7 @@ soumissio.ca
 soumissio.com
 soumission-agrandissement.ca
 soumission-ao.com
+soumission-apres-sinistre.com
 soumission-article.fr
 soumission-asdm.com
 soumission-assurance-moto.net
@@ -10694,6 +10706,7 @@ soumission360.com
 soumissionai.com
 soumissionair.com
 soumissionalamaison.com
+soumissionapressinistre.com
 soumissionario.com.br
 soumissionassurance.online
 soumissionassurance.quebec
@@ -10815,6 +10828,7 @@ soumissionspro.ca
 soumissionspro.com
 soumissionsqc.ca
 soumissionsqc.com
+soumissionsrapide.ca
 soumissionsrefinancement.ca
 soumissionsreno.com
 soumissionsrenoplus.com
@@ -12181,6 +12195,7 @@ suomikasino-ilman-rekisteroitymista.com
 suomikasino.ai
 suomikasino.buzz
 suomikasino.icu
+suomikasino.life
 suomikasino.live
 suomikasino.pro
 suomikasino1.bond
@@ -12673,6 +12688,7 @@ suomivedot.com
 suomivedot.fi
 suomiverify.com
 suomiverkkoilmoitus.click
+suomiverkkoilmoitus.sbs
 suomiverofinland.com
 suomiverse.lol
 suomivertailu.com
@@ -13097,6 +13113,7 @@ terveysruokasm.info
 terveysruokasp.info
 terveysruokati.info
 terveysruokaty.info
+terveysruokavalio.com
 terveysry.fi
 terveysseuranta.com
 terveysshotit.com
@@ -13348,6 +13365,7 @@ tomisuomi.shop
 tommobilepay.com
 tommy-hilfiger-suomi.com
 tommyfinland.com
+tommyhilfiger-suomi.com
 tomoffinland.co.uk
 tomoffinland.hamburg
 tomoffinlandstorebuypop.shop
@@ -15569,6 +15587,7 @@ zhiviestate.ru
 zhongbaoyj.com
 zhusuomenchuang.com
 zigarrenschneider-suomi.shop
+zimmermanconsultingfinland.com
 zimplerkasinotsuomi.com
 zkfinland.com
 zkfinland.xyz
