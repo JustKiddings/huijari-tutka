@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 18/05/2026 07:00 UTC
+# Last modified: 19/05/2026 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -637,6 +637,7 @@ atkpalvelu.online
 atksuperpalvelu.fi
 atlantafinlandsociety.com
 atomobilepayment.info
+atreafinland.fi
 atvero-mail.co.uk
 atvero-mail.com
 atvero-pim.co.uk
@@ -2113,6 +2114,7 @@ elakkellaspankki.com
 elamantasapainoterveys.org
 elamyspalvelut.info
 elamyspalvelut.net
+elanhelsinki.com
 elanikasoumila.xyz
 elavayhteys.com
 eldarkylhelsinki.ru
@@ -4047,6 +4049,7 @@ helsinki.asia
 helsinki.baby
 helsinki.beer
 helsinki.bio
+helsinki.boats
 helsinki.cab
 helsinki.cafe
 helsinki.chat
@@ -4713,6 +4716,7 @@ henkiloturva.com
 henkiloturvat.com
 heohelsinki.com
 herhelsinki.com
+herkkupankki.fi
 heroes-casino-suomi.com
 herospinfinland.com
 herrenschmuck-suomi.shop
@@ -5057,6 +5061,7 @@ ihnfinland.info
 ihor-finland.net
 ihzfinland.icu
 iiptvfinland.com
+iiptvfinland4k.com
 iisipalvelu.fi
 iisiviisisuomi.com
 ikeasuomi.com
@@ -5255,6 +5260,7 @@ iptvs-suomi.com
 iptvsuomessa.com
 iptvsuomi-fi.org
 iptvsuomi-fi.store
+iptvsuomi-finland.com
 iptvsuomi-pro.com
 iptvsuomi.blog
 iptvsuomi.click
@@ -5865,6 +5871,7 @@ kirkkonummensahkopalvelu.fi
 kiropraktiikkahelsinki.com
 kiropraktikko-helsinki.com
 kirvero-consulting.ch
+kirvero-consulting.com
 kissen-suomi.shop
 kitchenaid-suomi.com
 kitchenaidsuomi.com
@@ -6320,6 +6327,7 @@ local-solar-panel-companies-in-finland.bond
 localfinland.net
 localhelsinkiguide.com
 localnewsinfinland.com
+lodgefinland.com
 lodgingfinland.com
 lofreesuomi.com
 logicshelsinki.com
@@ -6505,6 +6513,7 @@ luxuryhelsinki.store
 luxuryhelsinkicollection.shop
 luxuryhelsinkiho.shop
 luxuryhelsinkistore.shop
+luxuryhelsinkistyle.shop
 luxuspalvelut.fi
 luzia-helsinki.com
 lvbetsuomi.com
@@ -6648,6 +6657,7 @@ marssisuomelle.fi
 marsvenuscoachingfinland.com
 martensuomi.com
 martinfortumwater.com
+marzbanhelsinki.shop
 masculinesuomi.com
 maskhelsinki.xyz
 masoumi-customs.com
@@ -7440,6 +7450,7 @@ museumsinfinland.com
 musicasibelianfinlandia.cfd
 musiikkipalveludjwindhawk.com
 musiikkipalveluikaheimo.fi
+musthelsinki.com
 muurauspalveluisola.fi
 muutotsuomeen.fi
 muutto-helsinki.fi
@@ -7489,6 +7500,7 @@ mythicalfinland.com
 myvero-advisory.com
 myvero-consulting.com
 myvero-partners.com
+myynninvahvistus.com
 myyntijohtajapalvelu.com
 myyntisuomi.fi
 myyntiturva.ai
@@ -9073,6 +9085,7 @@ pohjanmaankoulutuspalvelu.com
 pohjoinenterveysfi.info
 pohjoinenterveysfigh.info
 pohjoinenterveysfilk.info
+pohjois-suomen-kadenvaanto.com
 pohjois-suomenmessut.com
 pohjois-suomenmessut.net
 pohjois-suomentyoterveys.fi
@@ -9425,6 +9438,7 @@ rakennusjahuoltopalvelukakela.com
 rakennusliikehelsinki.fi
 rakennuspalvelu-m-ahonen-tmi.com
 rakennuspalvelu-p-vahatalo.com
+rakennuspalveluforville.fi
 rakennuspalvelujussikangasniemi.fi
 rakennuspalvelukallioharju.com
 rakennuspalvelukellmanoy.com
@@ -10077,6 +10091,7 @@ seikosuomi.com
 sekiraqarakennuspalvelu.com
 seksipalvelut.online
 seksiseuraa-suomessa.fi
+seksisuomi.com
 seksitreffitsuomi24.com
 sekura-kantahlambar.id
 selestakantaron.com
@@ -10234,6 +10249,7 @@ siseturvalisus.ee
 sisleysuomi.com
 sisucasinofinland.com
 sisudraftfinland.com
+sisugamessuomi.com
 sisuhelsinki.com
 sisuhuolto.fi
 sisuhuolto.online
@@ -10302,6 +10318,7 @@ slotticasino-suomi.fi
 slottikasino-suomi.fi
 slottimonsteri-finland.com
 slottimosterisuomi.com
+slottisuomi.com
 slotunafinland.com
 slowfinland.fi
 slowtretyopa.com
@@ -10530,6 +10547,7 @@ soumihijab.com
 soumiilmoitusvero.info
 soumiimajumdar.com
 soumiji.com
+soumik.ai
 soumik.blog
 soumik.com.bd
 soumik.law
@@ -10580,6 +10598,7 @@ soumil07.com
 soumilab.com
 soumilagarwal.com
 soumilb.com
+soumilbhandari.com
 soumilbhatt.com
 soumilbhatt.info
 soumilbhatt.tech
@@ -13030,6 +13049,7 @@ terveysarviointi.com
 terveysarvioss.com
 terveysasemat.com
 terveysavios.com
+terveysbalance.shop
 terveysblogi.fi
 terveysblogifi.info
 terveysblogifial.info
@@ -13192,6 +13212,7 @@ terveysyritykset.com
 terveyttaluonnosta.fi
 tesoumi.com
 tesoumira.com
+testaatietoturva.fi
 testi-mobiilipunnitus.com
 testivoittaja-terveys.com
 testolink-suomi.shop
@@ -13684,6 +13705,7 @@ tunnistautuminen-suomi-fi-sivut-discovery-page.com
 tunnistautuminen-suomi-fi-sivut-discovery-page.mobi
 tunnistautuminen-suomi-fi-sivut-discovery-page.net
 tunnistautuminen-suomi-fi-sivut-discovery-page.org
+tunnistautuminen-suomi-fi.com
 tunnistautuminen-suomi-fi.info
 tunnistautuminen-suomi.biz
 tunnistautuminen-suomi.com
@@ -14023,6 +14045,7 @@ urasenke-finland.org
 urazinvacaturvalgus.cloud
 urban-soumitra-erandwane.in
 urban-soumitra.site
+urbangardenhelsinki.fi
 urbani-helsinki.com
 urbansuomistyle.com
 urheilubaarit-suomessa.com
@@ -14471,6 +14494,8 @@ vero-fiber.com
 vero-fide.com
 vero-fii.com
 vero-fin.com
+vero-finance.co.uk
+vero-finance.uk
 vero-finanx.com
 vero-fitness.com
 vero-footwear.com
@@ -15197,6 +15222,7 @@ winnerzcasinofinland.com
 winnerzsuomi.com
 winsharkbonusfinland.com
 wintersuomi.games
+winz-finland.com
 winzkasino-suomi.fi
 winzonefinland.com
 wishwin-finland.com
@@ -15316,6 +15342,7 @@ xn--hierontapalvelujmpti-qzb.fi
 xn--huoltoss-5zac.com
 xn--huoltovli-12a.fi
 xn--i9qz8uoyj.top
+xn--iiksenmetspalvelu-zqb.com
 xn--ilmalmppumppuhelsinki-91b03b.fi
 xn--ilmalmppumppuhuolto-kwb49a.com
 xn--ilman-rekisterinti-2tb96a.fi
@@ -15383,6 +15410,7 @@ xn--nettikasinotilmanrekisterintifin-ezc12d.com
 xn--nettikasinotilmanrekisteritymist-hzc81d.ninja
 xn--nettikasinotilmanrekisteritymistfin-17c27d.com
 xn--nettikasinotilmansuomilisenssi-ptc.com
+xn--nh-metspalvelukoillismaa-wbc.fi
 xn--nostopalveluheikkil-ywb.fi
 xn--parasnettikasinoilmanrekisteritymist-0bd09d.com
 xn--pelitilmanrekisteritymist-9ec29b.com
