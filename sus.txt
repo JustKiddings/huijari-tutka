@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 20/05/2026 07:00 UTC
+# Last modified: 21/05/2026 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -2238,6 +2238,7 @@ escort-helsinki.vip
 escortservice-in-finland.xyz
 escortshelsinki.com
 esfinland.com
+esgfortum.pl
 eshelsinki.org
 esifinland.com
 esityspalvelu.fi
@@ -3116,6 +3117,7 @@ fortumejack.com
 fortumeka.top
 fortumenergia.com
 fortumenergia.online
+fortumenergy.pl
 fortumfix.info
 fortumfln.com
 fortumgroup.com
@@ -4865,6 +4867,7 @@ hotellithelsinki.net
 hotellodgingsuomi.com
 hotelshelsinki.nl
 hotelshelsinkifinland.net
+hotosuomi.fi
 hotspinsuomi.com
 hottomoffinlandstorepop.shop
 hotviesta.sbs
@@ -5122,6 +5125,7 @@ immosenpyorahuolto.com
 imotongcultureanddevelopmentassociationinfinlandry.org
 imperialwins-suomi.com
 imupalvelu.com
+imvero-home.de
 ina-finland.com
 inaoyj.info
 inapalvelut.fi
@@ -5637,6 +5641,7 @@ karissuomenparis.net
 karlkanisuomi.com
 karllagerfeldsuomi.com
 karmelfinland.org
+karpinpalvelut.com
 karshenasimasoumi.ir
 karttapalvelut.com
 kartyakevero-gep-az-en.shop
@@ -6783,6 +6788,7 @@ maviestilofeminino.store
 mawuviesta.com
 maxam-suomi.com
 maxandcodresssuomi.com
+maximumtsygahuolto.net
 maxmarasuomi.com
 maxvero-bd.com
 mayasiivouspalvelut.com
@@ -8552,6 +8558,7 @@ op-turva.com
 op-turva.finance
 op-turvallisuus.cfd
 op-turvattu.com
+opalvelune.com
 opanki.com
 opastepalvelu.fi
 opastyosuomi.fi
@@ -10641,6 +10648,7 @@ soumilbhatt.tech
 soumilheiro.com
 soumilhouse.com
 soumili.net
+soumilienterprise.shop
 soumilifecoach.com
 soumilimukherjee.com
 soumilionaria.online
@@ -11817,6 +11825,7 @@ suomi-fl.sbs
 suomi-galmudugseura.com
 suomi-games.com
 suomi-gaming-pro.sbs
+suomi-helsinki.com
 suomi-henkilokohtainenalue.info
 suomi-hosting.store
 suomi-id.info
@@ -13277,6 +13286,7 @@ thbcxnooyj.store
 the-ghost-of-finland.com
 thealleyhelsinki.com
 theautodennashville.com
+thebarksuomi.com
 thebestfinlandhotel.com
 thebesthotelfinland.com
 theenviromasterofinlandempire.com
@@ -13804,6 +13814,7 @@ turunmuuttopalvelu.com
 turunremonttipalvelut.fi
 turuntalonmiespalvelut.fi
 turuntyhjennyspalvelu.com
+turva.ac.id
 turva.chat
 turva.dev
 turva.me
@@ -14543,6 +14554,7 @@ vero-finance.co.uk
 vero-finance.uk
 vero-finanx.com
 vero-fitness.com
+vero-fondavio.com
 vero-footwear.com
 vero-fratello.com
 vero-fs.com
@@ -14572,6 +14584,7 @@ vero-health.org
 vero-henkiloasiakkaat.fi
 vero-hk.com
 vero-holding.com
+vero-home.co
 vero-home.nl
 vero-home.store
 vero-homecare.com
@@ -14957,6 +14970,7 @@ viestit-suomifi.info
 viestit-suomifi.site
 viestit.info
 viestit.one
+viestitch.shop
 viestitse-suomi.site
 viestitsuomi.info
 viestitverif.info
