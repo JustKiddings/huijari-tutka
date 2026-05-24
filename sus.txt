@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 23/05/2026 07:00 UTC
+# Last modified: 24/05/2026 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -488,6 +488,8 @@ arlivo-helsinki.com
 arminterveys.com
 armobilepay.com
 armonialapalvelutoy.com
+arrpalvelut.online
+arrpalvelut.org
 artbooksfinland.com
 arteksuomi.com
 artfairsuomi.fi
@@ -1198,6 +1200,7 @@ bymalenebirgersuomi.com
 byredosuomi.com
 bysoumitra.com
 bytyopava.cloud
+caballerorivero-scheduler.com
 cacisuomi.com
 cadevynn-finland.ru
 cafeberryhelsinki.com
@@ -1379,6 +1382,8 @@ cfmotofinland.eu
 cfxfinland.today
 cgefinland.com
 ch-palvelu.codes
+chaddaviestattoos.com
+chaddaviestattoos.online
 chainhelsinki.xyz
 chakdefinland.com
 chakdehelsinki.com
@@ -1426,6 +1431,7 @@ chinamobilepayment.com
 chipz-casino-suomi.com
 chipz-finland.com
 chipzfinland.com
+chitirfinland.fi
 chivero-flqmra.rest
 chivero-gqvzma.rest
 chivero-gqvzmaep.rest
@@ -2570,6 +2576,7 @@ finland88.net
 finland90.bet
 finlanda.eu
 finlandadventures.net
+finlandagent.com
 finlandagentic.xyz
 finlandagi.xyz
 finlandai.xyz
@@ -2600,6 +2607,7 @@ finlandbit.xyz
 finlandbitcoin.xyz
 finlandblob.xyz
 finlandblogi.org
+finlandbot.com
 finlandbot.xyz
 finlandbots.xyz
 finlandbox.com
@@ -2675,6 +2683,8 @@ finlandetch.xyz
 finlandeth.xyz
 finlandethereum.xyz
 finlandev.xyz
+finlandex.com
+finlandexchange.com
 finlandezu.uk
 finlandfarm.xyz
 finlandfashion.ru
@@ -2751,6 +2761,7 @@ finlandiavodka.com.ve
 finlandiavodka.us
 finlandiccare.com
 finlandid.xyz
+finlandigaming.com
 finlandil.baby
 finlandil.website
 finlandinamerica.com
@@ -2799,6 +2810,7 @@ finlandmap.xyz
 finlandmarathon.com
 finlandmask.xyz
 finlandmasters.com
+finlandmemoir.blog
 finlandmemoriesandmiracles.com
 finlandmeta.xyz
 finlandmev.xyz
@@ -2856,6 +2868,7 @@ finlandquick.xyz
 finlandrehabs.com
 finlandremigrants.fi
 finlandreport.co.uk
+finlandreport.net
 finlandreport.org
 finlandreport24.today
 finlandreportcom.com
@@ -2864,6 +2877,7 @@ finlandrestake.xyz
 finlandrestaking.xyz
 finlandrevealed.com
 finlandreview.com
+finlandrobot.com
 finlandrollup.xyz
 finlandrouter.xyz
 finlandroyal.xyz
@@ -2889,6 +2903,7 @@ finlandshop.cc
 finlandshop.xyz
 finlandslot.xyz
 finlandslz.xyz
+finlandsmart.com
 finlandsmart.xyz
 finlandsnationaltasting.com
 finlandsnow.com
@@ -2900,6 +2915,8 @@ finlandspatial.xyz
 finlandspin.com
 finlandspins.com
 finlandssvenskaaret.fi
+finlandstablecoin.com
+finlandstablecoins.com
 finlandstandard.com
 finlandstar.ru
 finlandstays.com
@@ -3487,6 +3504,7 @@ h2finland.org
 h2suomi.com
 h2suomi.org
 haakuvaaja-helsinki.com
+haantionpihapalvelu.com
 habfinland.one
 hadrisoumia.com
 haefinland.org
@@ -4812,6 +4830,7 @@ hinauspalvelu.website
 hinauspalvelulappeenranta.fi
 hinauspalveluoulu.fi
 hinauspalveluvalkeakoski.com
+hinaussuomi.fi
 hinku-ja-vinku-atk-palvelut.com
 hinterviesta.com
 hippuedunvalvonta.com
@@ -5523,6 +5542,7 @@ jordanfinland.com
 jordaninsuomi.shop
 jormanaistensukuseura.org
 josefseibel-suomi.com
+josephribkoffsuomi.com
 journeytodayfinland.com
 journeytofinland.xyz
 joustava-autohuolto.fi
@@ -5583,6 +5603,7 @@ kaippersviesta.lt
 kaitesifinland.com
 kaiverruspalvelu.fi
 kaivinkonepalvelut.com
+kaivonhuolto.com
 kaivonhuolto.fi
 kajfinland.info
 kalaharifinland.com
@@ -5687,6 +5708,7 @@ kasiakassijatercz.pl
 kasinfinland.com
 kasinfinland1.com
 kasino-helsinki.com
+kasino-helsinki.site
 kasino-ilman-rekisterointia.fi
 kasino-ilman-rekisteroitymista.fi
 kasino-pankkitunnuksilla.xyz
@@ -5930,6 +5952,7 @@ kiropraktikko-helsinki.com
 kirvero-consulting.ch
 kirvero-consulting.com
 kissen-suomi.shop
+kitarahuolto.org
 kitchenaid-suomi.com
 kitchenaidsuomi.com
 kivaasuomessa.online
@@ -6812,6 +6835,7 @@ matkahuolto.sbs
 matkahuolto.shop
 matkahuolto.top
 matkahuoltoapp.com
+matkahuoltofi.sbs
 matkahuoltoo.com
 matkaturva.com
 matsuomi.site
@@ -7531,6 +7555,7 @@ mummopalvelu.com
 mummopalvelut.com
 mun-finland.com
 mun-suomi.com
+munsuomi.com
 muntmentorsuomi.com
 muoti-helsinki.com
 muotoilevapalvelunhallinta.fi
@@ -7969,6 +7994,7 @@ nordearo.com
 nordeas-online.com
 nordeas.one
 nordeas.online
+nordease.store
 nordeaseshop.com
 nordeasgaming.world
 nordeasgg.live
@@ -8011,6 +8037,7 @@ nordicbet-suomi.online
 nordicbets-finland.com
 nordicbetsuomi.com
 nordicbridgefinland.com
+nordiciptvfinland.com
 nordiciptvsuomi.fi
 nordicwalkinghelsinki.pro
 nordiko-helsinki.com
@@ -8174,6 +8201,7 @@ oma-and-opa.com
 oma-app.com
 oma-app.schwarz
 oma-architecture.com
+oma-archive.org
 oma-arpa.com
 oma-arpa.net
 oma-arquitectura.com
@@ -8674,6 +8702,7 @@ oslo-helsinki-coach-tour-package-no.sbs
 oslo-helsinki-train-tour-package-offers.today
 oslo-helsinki-train-tour-packages-no.sbs
 osoitepalvelu.fi
+ospreysuomi.com
 oss-jarjestopalvelut.fi
 ostaarekisteroityajokortti.com
 ostaatietokantojasuomi.com
@@ -10346,6 +10375,7 @@ silmu-helsinki.com
 siltalapalvelut.fi
 silvercityopal.com
 silvero-construccion.com
+silvero-finanza.com
 simonhinauspalvelu.com
 simple-casino-suomi.com
 simppeli-casino-suomi.com
@@ -10778,6 +10808,7 @@ souminternational.com
 soumio.ca
 soumio.com
 soumiopo.com
+soumipictures.com
 soumiptv.life
 soumiptv.store
 soumiq.com
@@ -10899,6 +10930,8 @@ soumissionpanneauxsolaires.ca
 soumissionpanneauxsolaires.com
 soumissionpeinture.com
 soumissionpeinturetoiture.com
+soumissionplomberie.info
+soumissionplomberie.org
 soumissionplombier.com
 soumissionplus.ca
 soumissionplus.com
@@ -11445,6 +11478,7 @@ suomencaravanhuolto.fi
 suomencas-fi.site
 suomencotonclub.fi
 suomencotonit.com
+suomencup.net
 suomendcoy.com
 suomendiilit.com
 suomenduunaripalvelu.com
@@ -12912,6 +12946,7 @@ surronsuomi.com
 susanfetalvero-roces.com
 susihelsinki.com
 sussnaswamiestenso.cfd
+sutazfinlandia.sk
 suuntasipaihdepalvelut.com
 suuntasipaihdepalvelut.org
 suunterveystalo.com
@@ -13684,6 +13719,7 @@ traficom-fl.com
 traficom-oyj.info
 traficom-palvelu.com
 traficom-virasto.com
+traficom.icu
 traficom.news
 traficomaestro.com
 traficomagazine.com
@@ -15027,6 +15063,7 @@ viesti-suomifi.site
 viesti-vero.icu
 viesti-vero.sbs
 viesti.app
+viesti.co
 viesti.co.kr
 viesti.de
 viesti.fr
