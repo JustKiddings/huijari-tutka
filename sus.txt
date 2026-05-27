@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 26/05/2026 07:00 UTC
+# Last modified: 27/05/2026 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -567,6 +567,7 @@ asiakasprofiili.info
 asiakasratkaisukeskus.com
 asiakasrekisteri.fi
 asiakasrekisteri.info
+asiakasreppu.fi
 asiakassivut.online
 asiakassuhde.com
 asiakassuora.com
@@ -3001,6 +3002,7 @@ finlandxr.xyz
 finlandxxx.xyz
 finlandyield.xyz
 finlandyrl.com
+finlandzen.digital
 finlandzero.xyz
 finlandzk.xyz
 finlandzkml.xyz
@@ -6155,6 +6157,7 @@ kybersuomi.com
 kyberterveyskeskus.com
 kyberterveyskeskus.info
 kybunsuomi.com
+kymenelainpalvelut.com
 kymmenensuomi.com
 kyvero-ai.com
 kyytipalvelu.com
@@ -6729,6 +6732,7 @@ mammotionsuomi.fi
 mamoautohuolto.com
 mamvero-wecmedia.com
 mamvero-wecmedia.info
+mangosuomi.com
 mangosuomi.net
 mangzhuisuomie.cfd
 manishvivahvistaar.com
@@ -7167,6 +7171,8 @@ mobiilikokkuost.ee
 mobiililava.net
 mobiililava.org
 mobiililla-notice.com
+mobiilimaksu-kasino-fi.com
+mobiilimaksu-kasinot-online.com
 mobiilimaksu-kasinot.com
 mobiilimaksu-kasinot.fi
 mobiilimaksu.com
@@ -8014,6 +8020,7 @@ nordeaga.xyz
 nordeagle.com
 nordeagroup.xyz
 nordeahouse.store
+nordeainternational.com
 nordeainvestmentfunds.com
 nordeainvestmentfunds.info
 nordeainvestmentfunds.link
@@ -10433,6 +10440,7 @@ sipetakantahmorotai.com
 sipisuominen.com
 siqfinland.site
 sirfinland.one
+sirumobilcasinoer-finland.com
 sisailmapalvelu.com
 sisaltopalvelut.com
 sisasuomenkone.fi
@@ -11157,6 +11165,7 @@ southern-finlands-156097653.click
 southernfinland.institute
 southfinland.com
 southhelsinki.fi
+sovellus-mobiili.com
 soviestates.com
 soyuzfinland.com
 sozialfond-elisabethenpark.ch
@@ -11856,6 +11865,7 @@ suomenterassicenter.com
 suomenterassilasitus.com
 suomenterveysmuseo.fi
 suomenterveysmuseo.org
+suomenterveysmuseosaatio.com
 suomentietokanta.fi
 suomentimanttipurku.com
 suomentimanttiurakointi.com
@@ -12399,6 +12409,7 @@ suomiinternational.co.ke
 suomiiptv.forum
 suomiiptv.net
 suomiiptv.store
+suomiiptvguide.com
 suomiitop10.com
 suomijackpot.info
 suomijackpot360.com
@@ -14641,6 +14652,7 @@ vero-beach.web.id
 vero-beachhomesforsale.com
 vero-bermudez.com
 vero-bet.com
+vero-blur.site
 vero-brand.com
 vero-brew.com
 vero-bridge.com
@@ -14739,6 +14751,7 @@ vero-fondavio.site
 vero-footwear.com
 vero-fratello.com
 vero-fs.com
+vero-funds.com
 vero-furniture.com
 vero-fusspflege.de
 vero-gamers.com
@@ -15728,6 +15741,7 @@ xn--viestint-omakanta-xqb.com
 xn--vlvallrakennuspalvelut-04b.fi
 xn--vuokravlityshelsinki-hzb.fi
 xn--w7vero-7ta.com
+xnuoyj.top
 xoofinland.cyou
 xotozabutatuoyj.info
 xplorefinland.com
