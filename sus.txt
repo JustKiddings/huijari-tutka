@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 27/05/2026 07:00 UTC
+# Last modified: 28/05/2026 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -1375,6 +1375,7 @@ celsiussuomi.fi
 cemexfinland.com
 cemsclubhelsinki.com
 cenon-insoumise-solidaire.fr
+centralesoumissions.com
 centralfinland.org
 centralhelsinki.xyz
 centrovero-suites.gr
@@ -2543,6 +2544,8 @@ finland-hotel.com
 finland-iptv.com
 finland-iqiyi.com
 finland-life.com
+finland-matkahuolto.icu
+finland-matkahuolto.sbs
 finland-node.cfd
 finland-qq.com
 finland-scewc2025.com
@@ -5021,6 +5024,7 @@ huoltokalenteri.com
 huoltokanta.com
 huoltokanta.net
 huoltokaveri.com
+huoltoklinikka.fi
 huoltokorjaamo.fi
 huoltokytkin.com
 huoltolaukku.com
@@ -5050,6 +5054,7 @@ huoltotarra.com
 huoltotek.fi
 huoltotutka.com
 huoltotutka.fi
+huoltotutkanmarkkinointi.fi
 huoltotutkimus.fi
 huoltovali.fi
 huoltovarmuuspeli.fi
@@ -5230,6 +5235,7 @@ innerpeacefinland.fi
 innofinland.fi
 innoluxfinland.com
 innovatefinland.com
+innutunniviesti.com
 insideoutfinland.com
 insideoutsidefinland.com
 insoumidating.com
