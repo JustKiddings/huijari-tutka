@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 31/05/2026 07:00 UTC
+# Last modified: 01/06/2026 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -1030,6 +1030,7 @@ bitcoinordeals.com
 bitfinland.xyz
 bithelsinki.xyz
 bitvero-24.com
+bitvero-24.de
 bitvero-24.pro
 bitvero-24.sbs
 bizfinland.xyz
@@ -2026,6 +2027,7 @@ drsoumilsinghal.com
 drsoumitraghosh.in
 dsafinland.com
 dsddeluxe-finland.com
+dssuomi.fi
 dtyopa.shop
 dualhelsinki.xyz
 dubaihelsinki.com
@@ -2880,6 +2882,7 @@ finlandodds.xyz
 finlandoffers.com
 finlandonice.com
 finlandopen.xyz
+finlandpackage.com
 finlandpadel.com
 finlandpass.com
 finlandpay.xyz
@@ -3012,6 +3015,7 @@ finlandvpn.tech
 finlandvpn.xyz
 finlandvpnx.ru
 finlandvpnx.store
+finlandvps.ru
 finlandvr.com
 finlandvr.xyz
 finlandwallet.xyz
@@ -3096,6 +3100,7 @@ flamezcasino-suomi.fi
 flamezkasino-suomi.fi
 flashfinland.ru
 flealux-finland.com
+fleure-helsinki.com
 flexpalvelut.com
 flightclubfinland.com
 flightstofinland.com
@@ -4153,6 +4158,7 @@ helsinki-tours.com
 helsinki-truck-517334517.click
 helsinki-ui9.xyz
 helsinki-varatuomari.com
+helsinki-vpn.ru
 helsinki-yachts.com
 helsinki-yritysallas-100871787.click
 helsinki.asia
@@ -4704,6 +4710,7 @@ helsinkiskiweeks.fi
 helsinkislipper.com
 helsinkislo.online
 helsinkislotmuseum.com
+helsinkislotrush.com
 helsinkislots.com
 helsinkislots.website
 helsinkislotvault.com
@@ -4835,6 +4842,7 @@ henkilostopalvelut.com
 henkiloturva.com
 henkiloturvat.com
 heohelsinki.com
+herbalifesuomi.com
 herhelsinki.com
 herkkupankki.fi
 heroes-casino-suomi.com
@@ -5125,6 +5133,7 @@ hyvaksymiskansia-suomi.com
 hyvanhoidonpalvelut.fi
 hyvinkaansiivouspalvelu.com
 hyvinvointipalveluoleva.blog
+hyvinvointipalvelutharrihuusko.com
 hyvinvointipalvelutjussila.net
 hyvinvointipalvelutmaijakarvonen.fi
 hyvinvointipalvelutrennompi.com
@@ -6129,6 +6138,7 @@ kotisuomi.com
 koulutuspalvelut.com
 kouvolanhuoltojarengaspalvelu.fi
 kouvolanplusterveys.net
+kovesuomi.fi
 kovturvalisuse-andmelaud.app
 kpalvelusavo.com
 kpalvelusavo.net
@@ -6211,6 +6221,7 @@ kybersuomi.com
 kyberterveyskeskus.com
 kyberterveyskeskus.info
 kybunsuomi.com
+kylpyhuoneremontti-helsinki.com
 kymenelainpalvelut.com
 kymmenensuomi.com
 kyvero-ai.com
@@ -8302,6 +8313,7 @@ oma-academy.site
 oma-adimu.online
 oma-admin.com
 oma-adriatic.com
+oma-aerospace.com
 oma-agentaccelerator.com
 oma-agents.com
 oma-ai.com
@@ -9405,6 +9417,8 @@ poro10finland.com
 porssisahkosuomi.fi
 portaal-omavero-info.com
 portaali-viestitverkossa.info
+portailmobilepay.one
+portailmobilepay.online
 portal-mobilepay.xyz
 portal-vippsmobilepay.com
 portaldevitaminasnaturva.info
@@ -9593,6 +9607,7 @@ purefinlandorgqa.info
 purehelsinki.online
 pureslimxsuomi.online
 puriva-suomi.shop
+putkimies-helsinki.com
 putkimieshelsinki.com
 putkipaivystyshelsinki.fi
 putkipalvelu.fi
@@ -10475,6 +10490,7 @@ sidisuomi.net
 siegelringe-suomi.shop
 sienitunnistus.fi
 sieshefinland.com
+siestahelsinki.fi
 sievisuomi.com
 sigg-suomi.com
 siggsuomi.com
@@ -10557,6 +10573,7 @@ skagensuomi.com
 skandifootsuomi.com
 skandisteppers-suomi.com
 skannauspalvelu.fi
+skarppiavustajapalvelut.fi
 skarppiseurapalvelut.fi
 skatingfinland.com
 skbvahvistus.fi
@@ -11037,6 +11054,7 @@ soumissionassuredirect.com
 soumissionavantageplus.ca
 soumissioncanada.ca
 soumissioncarrelage.com
+soumissionclimat.ca
 soumissionclimat.com
 soumissionclimatisation.com
 soumissioncomptable.com
@@ -11768,6 +11786,7 @@ suomenkirjansitojat.net
 suomenkirjoja.com
 suomenkirkkoespanjassa.net
 suomenkirvesmiehet.com
+suomenkoirametsat.com
 suomenkotiaidit.com
 suomenkotiaidit.fi
 suomenkotiaidit.online
@@ -12647,6 +12666,7 @@ suomimax.com
 suomimed.com
 suomimedical.ru
 suomimeds.com
+suomimegaspin.com
 suomimeme.xyz
 suomimetalstar.com
 suomimieli.com
@@ -13649,6 +13669,7 @@ tilataksipalvelut.com
 tilataxipalvelu.com
 tilataxipalvelut.com
 tilaturva.fi
+tilausajopalvelut.fi
 tilin-hallinta-asiakas.com
 tilinhallinta-kanta-fi.com
 tilinhallinta-kanta.com
@@ -14536,6 +14557,7 @@ valvon.site
 valvon.space
 valvona.store
 valvonacrolla-online.co.uk
+valvonatravels.com
 valvondan.com
 valvondan.store
 valvonia.sk
@@ -14748,6 +14770,7 @@ vero-assistance.ru
 vero-atelier.com
 vero-athletic.com
 vero-aurea.com
+vero-auxiliaire-devie-lesherbiers.fr
 vero-aviation.com
 vero-aviation.net
 vero-backend.site
@@ -15077,6 +15100,7 @@ vero-suomi.sbs
 vero-supply.com
 vero-sydney.com
 vero-synthai.fun
+vero-takaoka.com
 vero-talent.com
 vero-talent.net
 vero-tarot.com
@@ -15439,6 +15463,7 @@ voiceoffinland.com
 voitapalvelu.xyz
 voiteluhuolto.com
 voittopalvelu.info
+volcomsuomi.com
 volgaclubfinland.com
 volthelsinki.com
 voluspasuomi.com
@@ -15938,6 +15963,7 @@ yrityskyberturva.com
 yritysoikeuspalvelut.com
 yritysoikeuspalvelut.net
 yrityspalvelu.nu
+yrityspalvelukoota.fi
 yrityspankki.com
 yrityspankki.fi
 yrityspankki.net
