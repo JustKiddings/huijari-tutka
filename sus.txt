@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 01/06/2026 07:00 UTC
+# Last modified: 02/06/2026 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -507,6 +507,7 @@ artsanfinland.com
 artsanfinland.net
 arttupakkanenpt-palvelut.com
 arturval.ru
+arturvaleev.ru
 artwalkhelsinki.com
 arvokoruhelsinki.com
 arvostettuasiakaskokemus.fi
@@ -615,6 +616,7 @@ assist-suomi.online
 assistance-suomein.com
 assistanthelsinki.xyz
 assistantshelsinki.xyz
+assuranceviesoumission.com
 assuranceviesoumissions.com
 assurdomavero.it
 astalaviesta.com
@@ -754,6 +756,7 @@ avero-health.com
 avero-inc.net
 avero-inc.org
 avero-jewerly.com
+avero-lab.com
 avero-living.com
 avero-london.com
 avero-marketing.com
@@ -2584,6 +2587,7 @@ finland-tour.com
 finland-tourism.com.cn
 finland-usa.org
 finland-viesti.site
+finland-ws.dev
 finland.cl
 finland.cn.com
 finland.com.tr
@@ -2947,6 +2951,7 @@ finlandslot.xyz
 finlandslz.xyz
 finlandsmart.com
 finlandsmart.xyz
+finlandsmp.xyz
 finlandsnationaltasting.com
 finlandsnow.com
 finlandsocalfres.com
@@ -5839,6 +5844,7 @@ katsuomi.co.uk
 kattilahuolto.com
 kattohuoltokaipainen.fi
 kattohuoltosi.com
+kattojapalvelu.com
 kattoremontti-helsinki.fi
 kattoremonttihelsinki.fi
 kattoturvapiste.com
@@ -7572,6 +7578,7 @@ moovycars.com
 moovydelivery.com
 moovyexperience.com
 moovyfi.com
+moovyfood.com
 moovyglobal.com
 moovyhub.com.br
 moovyi.com
@@ -7660,6 +7667,7 @@ mt-huolto.fi
 mtbpalvelut.com
 mtbsuomi.com
 mtbsuomi.xyz
+mtsfinland.com
 muckbootssuomi.com
 muen-handmade-finland.net
 muffinland.xyz
@@ -8821,6 +8829,7 @@ ornavero-oy.info
 ornavero-ry.com
 ororowearsuomi.com
 orozo-helsinki.com
+ortodentus.com
 ortodentus.se
 ortomed-finland.com
 ortotalofinland.com
@@ -9379,6 +9388,7 @@ polkanertyopar.click
 polkcountyopa.org
 polpalvelufi.com
 poltinhuoltoahonen.fi
+polttopalvelu.com
 polttopuupalvelu.fi
 polviesti-turva.net
 polviestiturva.com
@@ -9975,6 +9985,7 @@ roposuomi.org
 ropotodennus.com
 ropoturva.com
 ropoviesti.com
+rose-soumise.fr
 rotaractfinland.com
 rothenrollmediafinland.com
 rothyssuomi.com
@@ -10640,6 +10651,7 @@ slushhelsinki.com
 smart-mobilepay.com
 smartdeals-finland.com
 smartdeals-suomi.com
+smartersiptvsuomi.com
 smartiptvsuomi.com
 smartiptvsuomi4k.com
 smartlifefinland.com
@@ -11155,6 +11167,7 @@ soumissionshypothecaires.com
 soumissionsinfiltrations.ca
 soumissionsinspections.com
 soumissionsisolationtroisrivieres.com
+soumissionsiteweb.com
 soumissionsmaison.net
 soumissionsmart.ca
 soumissionsmateriaux.ca
@@ -11610,6 +11623,8 @@ suomen-fi.website
 suomen-fin.site
 suomen-finland.site
 suomen-info.site
+suomen-kasino.fi
+suomen-kasinot.blog
 suomen-lippu.fi
 suomen-pah.org
 suomen-pelikielto.com
@@ -12158,6 +12173,7 @@ suomi-neito.com
 suomi-neito.net
 suomi-nettikasino.org
 suomi-nettikasinot.com
+suomi-nettikasinot.fi
 suomi-nikotiinipussit.com
 suomi-oma-vero.com
 suomi-oma.com
@@ -14767,6 +14783,7 @@ vero-assist.digital
 vero-assist.ru
 vero-assistance.digital
 vero-assistance.ru
+vero-astra.com
 vero-atelier.com
 vero-athletic.com
 vero-aurea.com
@@ -15055,6 +15072,7 @@ vero-ride.com
 vero-ro.com
 vero-roma.com
 vero-sa.com
+vero-samsoe.com
 vero-sante-support.com
 vero-santiago.com
 vero-sbrt.com.bd
@@ -15562,6 +15580,7 @@ wecoya-finland.com
 wedkarskafinlandia.com.pl
 wedkarskafinlandia.pl
 weedinfinland.com
+weekday-suomi.com
 weezybet-finland.com
 wefifinland.com
 wego6suomi.shop
