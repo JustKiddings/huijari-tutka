@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 02/06/2026 07:00 UTC
+# Last modified: 03/06/2026 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -2052,6 +2052,7 @@ dviestates.com
 dwgfinland.com
 dxcfinland.info
 dynastyhelsinki.com
+e-finland.info
 e-finland.website
 e-fortum.ru
 e-makantasis.com
@@ -2104,6 +2105,7 @@ ecopetfinland.com
 ecosuomi.win
 ecoturva.com
 ed-hardy-suomi.com
+edcofinland.com
 edelstahlschmuck-suomi.shop
 edhardyfinland.com
 edhelsinki.online
@@ -2675,6 +2677,7 @@ finlandcenter.org
 finlandcentral.xyz
 finlandchat.xyz
 finlandchickfire.com
+finlandchilifest.com
 finlandchinaeconomicandinvestmentassociationry.org
 finlandchinainvestmentandtradingpromotionassociati.org
 finlandcloud-9c2f5a7e1.com
@@ -4197,6 +4200,7 @@ helsinki.pro
 helsinki.rent
 helsinki.rocks
 helsinki.singles
+helsinki.skin
 helsinki.tattoo
 helsinki.tips
 helsinki.tours
@@ -5305,6 +5309,7 @@ insoumise.fr
 insoumisebeauty.com
 insoumiseromandie.ch
 insoumises.net
+insoumisesurementvolcaniquenumeriquesyi.org
 insoumislespharaons.com
 insoumislivre.com
 insoumisoutremer.com
@@ -5624,6 +5629,7 @@ jordaninsuomi.shop
 jormanaistensukuseura.org
 josefseibel-suomi.com
 josephribkoffsuomi.com
+journal-insoumis-chambery.com
 journeytodayfinland.com
 journeytofinland.xyz
 joustava-autohuolto.fi
@@ -7854,6 +7860,7 @@ neonvegas-finland.com
 nerakolasuome.com
 nerogiardinihelsinki.com
 nestvero-style.com
+netbank-nordea.com
 netbet-casino-suomi.com
 netbet-suomi.com
 netopiamobilepaypariuri.com
@@ -7985,6 +7992,7 @@ nikotiinipussi1.bio
 nikotiinipussi1.club
 nikotiinipussi1.info
 nikotiinipussi1.pro
+nikotiinipussi1.shop
 nikotiinipussi1.site
 nikotiinipussikauppa.com
 nikotiinipussit.bio
@@ -8475,6 +8483,7 @@ oma-mori.net
 oma-mx.com
 oma-mx.site
 oma-nappe.com
+oma-network.ru
 oma-nuclear-power-plant-pointcloud.com
 oma-oberwesel.de
 oma-ogreen.com
@@ -9089,6 +9098,7 @@ parhaat-ilman-rekisteroitymista.com
 parhaat-kasinot-suomi.com
 parhaat-siivouspalvelut.bond
 parhaat-suomi-kasinot.com
+parhaat-suomikasinot.fi
 parhaatpelitsuomi.com
 parhaatsuomihotellit.com
 parhaatsuomiopas.online
@@ -10472,6 +10482,7 @@ shiseidosuomi.com
 shisuomic.com
 shk-finland.cfd
 shk-finlandtravel.icu
+shkposti-suomi.sbs
 shmasoumi.com
 shokkikasino-suomi.fi
 shokzsuomi.com
@@ -12193,6 +12204,7 @@ suomi-play.com
 suomi-poleneparis.com
 suomi-poliisi.info
 suomi-porno.com
+suomi-postilaatikko.sbs
 suomi-pressu.com
 suomi-prh.com
 suomi-rank.com
@@ -12238,6 +12250,7 @@ suomi-yit.fi
 suomi-ylaosa.site
 suomi.bar
 suomi.best
+suomi.bot
 suomi.ch
 suomi.cz
 suomi.digital
@@ -12646,6 +12659,7 @@ suomilimitti.fi
 suomilimoland.com
 suomiline.com
 suomilink.com
+suomiliput.com
 suomilisenssi.net
 suomilisenssikasinot.com
 suomilisenssikasinot.net
@@ -14737,6 +14751,7 @@ verkkopostilaatikko-suomi-fi.com
 verkkopyynto-suomi.com
 verkkosaastopanki.site
 verkkosivupalvelut.fi
+verkkospankkivahvistus.cc
 verkkospankkivahvistus.com
 verkkoturva.com
 verkkoyhteydet-suomi.site
@@ -15685,6 +15700,7 @@ wwmg2028finland.com
 wwnordea.com
 www-elisa-fi.site
 www-elisa.site
+www-freedom-mobilepay.com
 www-mobilepay.com
 www-mobilepay.info
 www-op-fi.com
