@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 03/06/2026 07:00 UTC
+# Last modified: 04/06/2026 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -235,6 +235,7 @@ aito-yhteys.org
 aitoviesti.com
 aivasuomi.com
 aivasuomi.shop
+aiviesta.com
 aivoilleterveytta.fi
 aivonovapesuomi.com
 aivopesupalvelu.org
@@ -322,6 +323,7 @@ alphaletesuomi.com
 alphamode-finland.com
 alpine-finland.com
 alpine-finland.fi
+alpinearplugssuomi.com
 alpineearplugssuomi.com
 alpineearplugsuomi.com
 als-suomi.fi
@@ -4321,6 +4323,7 @@ helsinkicasinonodeposit.click
 helsinkicc.com
 helsinkicf.com
 helsinkichain.xyz
+helsinkichallenge.com
 helsinkicharter.com
 helsinkichroniq.xyz
 helsinkicircusfestival.fi
@@ -6285,6 +6288,7 @@ laitehuoltohavia.online
 laitteenturvallisuus.com
 lakeudenagrihuolto.net
 lakeudenlakipalvelu.com
+lakeudenlvijakiinteistopalveluoy.fi
 lakiasiaintoimistot-helsinki.net
 lakiasiaintoimistot-helsinki.org
 lakiasiaintoimistothelsinki.net
@@ -7694,6 +7698,7 @@ munterveys.com
 muntmentorsuomi.com
 muoti-helsinki.com
 muotoilevapalvelunhallinta.fi
+muresuomi.com
 musapalvelu.net
 museumsinfinland.com
 musicasibelianfinlandia.cfd
@@ -8086,6 +8091,7 @@ nordea-id.com
 nordea-info.com
 nordea-net.xyz
 nordea-nets.net
+nordea-no-help.com
 nordea-operaattori.com
 nordea-problem-sbn.cyou
 nordea-sikker.com
@@ -8161,6 +8167,7 @@ nordeaststeel.com
 nordeastudio.com
 nordeastudios.com
 nordeasuomi.com
+nordeasverige.se
 nordeaswe.com
 nordeaswe.online
 nordeat-online.com
@@ -8762,6 +8769,7 @@ onlyinfinland.com
 onlysmilesuomi.com
 onlysuomi.com
 onlysuomifans.fi
+onlysuomihaku.fi
 onnela-suomi.com
 onnelacasino-suomi.fi
 onnelakasino-finland.com
@@ -10602,6 +10610,7 @@ skbvahvistus.fi
 skcfinland.info
 skechersoutletssuomi.com
 skecherssuomisale.com
+skevapesuomi.com
 skillviesta.in
 skilsuomi.com
 skimssuomi.com
@@ -10800,6 +10809,7 @@ soumia-ben-touhami.com
 soumia-elbay.com
 soumia-henna.de
 soumia-hypnose.com
+soumia-laiourate.com
 soumia.app
 soumia.ch
 soumia.org
@@ -13725,6 +13735,7 @@ timesoffinlandcom.com
 tinamasoumi.com
 tinyworldfinland.com
 tipshelsinki.com
+tiramisuhelsinki.com
 tischdecke-suomi.shop
 tissotsuomi.com
 tistelgren-helsinki.com
@@ -14751,6 +14762,7 @@ verkkopostilaatikko-suomi-fi.com
 verkkopyynto-suomi.com
 verkkosaastopanki.site
 verkkosivupalvelut.fi
+verkkospankki-vahvistus.com
 verkkospankkivahvistus.cc
 verkkospankkivahvistus.com
 verkkoturva.com
@@ -14826,6 +14838,7 @@ vero-ca.xyz
 vero-capital-imoveis.com
 vero-capital.com
 vero-cars.com
+vero-caudenca.com
 vero-check.com
 vero-chic.shop
 vero-clik.com
