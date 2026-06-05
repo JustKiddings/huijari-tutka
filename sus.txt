@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 04/06/2026 07:00 UTC
+# Last modified: 05/06/2026 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -896,6 +896,7 @@ belano-helsinki.com
 belianisuomi.com
 belkinfinland.com
 belkinsuomi.com
+belkylmahuolto.fi
 bellahelsinki.com
 bellavero-milano.com
 belleinsoumise.com
@@ -1213,6 +1214,7 @@ buzzing24cnvfinland.xyz
 buzzjgnfinland.homes
 bvbet-finland.com
 by-soumi.de
+bydsuomi.com
 bymalenebirgersuomi.com
 byredosuomi.com
 bysoumitra.com
@@ -2466,6 +2468,7 @@ fennia-kirjaudu.com
 fenniaasiakaspalvelu.com
 fennoturvapalvelut.com
 ferrarihelsinki.com
+ferrarisuomi.fi
 ferroli-finland.com
 ferrugofinland.shop
 fertility-clinics-and-ivf-oyj.cyou
@@ -4626,6 +4629,7 @@ helsinkinutritionnetse.info
 helsinkioasis.com
 helsinkionlinecasino.win
 helsinkioriginalpilates.com
+helsinkioriginals.com
 helsinkiotsoni.store
 helsinkioutletskechers.com
 helsinkioverdrive.com
@@ -5035,6 +5039,7 @@ hubaconhelsinki.com
 hubeconhelsinki.com
 hubfinland.xyz
 hubhelsinki.xyz
+hubstudents-finland.com
 hugo-boss-suomi.com
 hugobosssuomi.com
 hugobosssuomi.me
@@ -6223,6 +6228,7 @@ kupipankki.fi
 kuriiripalvelu-suomi.com
 kuriiripalvelu.net
 kutyavalvonaton.hu
+kuulaspalvelut.com
 kuulesuomi.fi
 kuulutusrekisteri.com
 kuulutusrekisteri.net
@@ -6267,6 +6273,7 @@ lafranceinsoumise.info
 lafranceinsoumise.vote
 lafranceinsoumise.xyz
 lafranceinsoumise17.org
+lafrangeinsoumise.com
 lahdenatkpalvelut.com
 lahita-piola-asiakas.fi
 lahitapiola-suomi-fi.com
@@ -6294,6 +6301,7 @@ lakiasiaintoimistot-helsinki.org
 lakiasiaintoimistothelsinki.net
 lakiasiaintoimistothelsinki.org
 lakimies-helsinki.com
+lakipalvelunoste.com
 lakipalvelut-emendatus.com
 lakipalvelutjpconsulting.com
 lakitoimistohelsinki.com
@@ -6435,6 +6443,7 @@ lfisensinsoumise.com
 lgsuomi.com
 lhefinland.digital
 liberationordeath.com
+liberationordeath.org
 libertyopalillustration.com
 libramobilepaymentsystem.com
 liebeskindberlinsuomi.com
@@ -6787,6 +6796,7 @@ makantahu.site
 makantahu.xyz
 makantahutempel.site
 makantai.com
+makantajhiz.com
 makantajhizazma.com
 makantak.com
 makantamin.com
@@ -8397,6 +8407,7 @@ oma-dm.cn
 oma-doc.com
 oma-doris.com
 oma-doris.de
+oma-edith.de
 oma-ela-kocht.cloud
 oma-ela-kocht.online
 oma-electrical.com
@@ -10022,6 +10033,7 @@ rp-huolto.com
 rrpalvelut.fi
 rsh-turvallisuuspalvelut.fi
 rtbetsuomi.com
+rtmobilepaydev.com
 rtps27viesta.site
 rturva.biz.id
 rudepalvelut.fi
@@ -10427,6 +10439,7 @@ selkeeturva.fi
 selkirkfinland.com
 selkirkfinland.online
 selkopalvelu.online
+selkoturva.com
 selomakantaoyj.com
 sendokmakantante.xyz
 sendrabootssuomi.com
@@ -10805,6 +10818,7 @@ soumi.store
 soumi.xin
 soumi.xyz
 soumi1985.com
+soumia-assistantevirtuelle.fr
 soumia-ben-touhami.com
 soumia-elbay.com
 soumia-henna.de
@@ -11229,6 +11243,7 @@ soumissmart.com
 soumissmartnetwork.com
 soumist.com
 soumistutorial.com
+soumiswear.com
 soumit.foo
 soumit.tech
 soumita.online
@@ -11502,6 +11517,7 @@ starshelsinki.com
 starsplaysuomi-casino.fi
 starsplaysuomi-kasino.fi
 starsplaysuomi.com
+starsplaysuomi.net
 startupsuomi.org
 starzinofinland.com
 starzonefinland.net
@@ -13434,6 +13450,7 @@ terveys.my.id
 terveys.shop
 terveys.site
 terveys.store
+terveys2011.info
 terveysakatemia.blog
 terveysanalyysi.com
 terveysapteekki.com
@@ -13564,6 +13581,7 @@ terveystaloer.com
 terveystalofi.com
 terveystalofink.com
 terveystalofl.com
+terveystalohohde.com
 terveystaloing.com
 terveystaloly.com
 terveystalomedia.com
@@ -13953,6 +13971,7 @@ traficom.icu
 traficom.news
 traficomaestro.com
 traficomagazine.com
+traficomak.buzz
 traficomfi.com
 traficomfl.com
 traficomin.com
@@ -14934,6 +14953,7 @@ vero-gaming-solutions.com
 vero-gaming.com
 vero-garden.com
 vero-geothermal.energy
+vero-gestivond.net
 vero-gestivonda.com
 vero-gestivonda.org
 vero-gestivonda.site
