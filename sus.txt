@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 06/06/2026 07:00 UTC
+# Last modified: 07/06/2026 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -662,6 +662,7 @@ atvero-mail.com
 atvero-pim.co.uk
 atvero-pim.com
 aubenasinsoumise.fr
+audiexcelenciafinlandia.com
 audisensefinland.com
 aumobilepay.website
 aumobilepays.website
@@ -855,6 +856,7 @@ barsoumiandesign.com
 barz-casino-suomi.com
 base64finland.org
 basedfinland.com
+basefinland.com
 baskerit-suomi.shop
 bassbetsuomi.com
 bassoumi.com
@@ -3340,6 +3342,7 @@ funyzofinland.art
 furfinland.info
 furfinland.net
 furfinland.org
+furlafinland.com
 furlasuomi.com
 futurehrpalvelut.com
 futureshelsinki.org
@@ -3441,6 +3444,7 @@ ghdsuomi.com
 gherbisoumia.com
 gholamrezamasoumi.com
 ghostfinland.com
+gifinland.com
 giftfromfinland.com
 giga-mobiili.com
 gigamobiili.app
@@ -3849,6 +3853,7 @@ helsinki-fi.org
 helsinki-fi.xyz
 helsinki-fun.com
 helsinki-game-pro-fi.online
+helsinki-games.site
 helsinki-group.com
 helsinki-gw.ru
 helsinki-hifishow.fi
@@ -4504,6 +4509,7 @@ helsinkihodl.xyz
 helsinkihold.xyz
 helsinkiholdings.net
 helsinkiholiday.com
+helsinkihomemade.com
 helsinkihorizon.com
 helsinkihorizoncompany.com
 helsinkihospitality.com
@@ -10044,6 +10050,7 @@ rovero-airvent.com
 roxysuomi.com
 royalcaninsuomi.com
 royaldeviesta.com
+royalehelsinki.com
 royalfinland.xyz
 royalgamecasinofinland.com
 royalhelsinki.xyz
@@ -10214,6 +10221,7 @@ s-siivouspalvelut.com
 s-steel-finland.com
 s-terveys.com
 saahelsinki.com
+saanviestates.com
 saapalvelu.fi
 saappaatdopefinland.com
 saappaatsuomi.com
@@ -10458,6 +10466,7 @@ selkirkfinland.com
 selkirkfinland.online
 selkopalvelu.online
 selkoturva.com
+selkoturva.fi
 selomakantaoyj.com
 sendokmakantante.xyz
 sendrabootssuomi.com
@@ -10598,6 +10607,7 @@ silvero-construccion.com
 silvero-finanza.com
 simonhinauspalvelu.com
 simple-casino-suomi.com
+simpliflyfinland.cloud
 simppeli-casino-suomi.com
 sinaistengel.com
 singersuomi.com
@@ -12231,6 +12241,7 @@ suomi-nettikasino.org
 suomi-nettikasinot.com
 suomi-nettikasinot.fi
 suomi-nikotiinipussit.com
+suomi-now.com
 suomi-oma-vero.com
 suomi-oma.com
 suomi-omavero.com
@@ -14140,6 +14151,7 @@ tunnistauentityid.com
 tunnistaumien.com
 tunnistauth.com
 tunnistautufiminen.com
+tunnistautumifinen.com
 tunnistautumin-fi.info
 tunnistautumin-kirjaudu.com
 tunnistautuminen-elisa.info
@@ -14641,6 +14653,8 @@ valvon.site
 valvon.space
 valvona.store
 valvonacrolla-online.co.uk
+valvonai.com
+valvonai.in
 valvonatravels.com
 valvondan.com
 valvondan.store
@@ -15134,6 +15148,7 @@ vero-publishing.com
 vero-quibusdam.com
 vero-quintanar.online
 vero-quis.site
+vero-rakoto.com
 vero-real-estate.com
 vero-realty.com
 vero-reiki.com
