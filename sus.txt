@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 08/06/2026 07:00 UTC
+# Last modified: 09/06/2026 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -340,6 +340,7 @@ alurahelsinkishop.com
 alure-helsinki.com
 alveahelsinki.com
 alvero-cz.eu
+alvero-deals.com
 alvero-health.com
 alvero-store.com
 alvero-systems.com
@@ -1126,6 +1127,7 @@ borenpalvelu.com
 bosch-huolto.fi
 bose-suomi.com
 bosesuomi-fi.com
+bosesuomi.com
 boshoryfinland.com
 botfinland.xyz
 bothelsinki.xyz
@@ -1461,6 +1463,7 @@ chicntrafco.run
 chiksuomi.win
 chillstayfinland.com
 chillysfinland.com
+chillyspullosuomi.com
 chillyssuomi.com
 chinafinlandinterculturalinterpretationandtranslat.org
 chinamobilepayment.com
@@ -2068,6 +2071,7 @@ dviestates.com
 dwgfinland.com
 dxcfinland.info
 dynastyhelsinki.com
+dysonsuomi.com
 e-finland.info
 e-finland.website
 e-fortum.ru
@@ -2541,6 +2545,7 @@ ficassuomi.com
 fiddledfylfotsfinland.sbs
 fifinpalvelu.xyz
 fiilishierontapalvelut.fi
+fiinlandomaverossa.com
 fiksusuomi.com
 fila-helsinki.com
 filadisruptorsuomi.com
@@ -3306,6 +3311,7 @@ frostbitesuomi.com
 frostroyalhelsinki.com
 frostsuomi.xyz
 frostyopalglow.store
+frozenhelsinki.com
 fruit-packaging-jobs-finland.today
 fruityfinland.com
 frumzi-casino-suomi.com
@@ -3721,6 +3727,7 @@ helsinki-accountants.com
 helsinki-ai.com
 helsinki-app.online
 helsinki-app.site
+helsinki-app.store
 helsinki-app.website
 helsinki-based.com
 helsinki-berlin-train-tour-package.today
@@ -5114,6 +5121,7 @@ huoltokanta.net
 huoltokaveri.com
 huoltoklinikka.fi
 huoltokorjaamo.fi
+huoltokotona.fi
 huoltokytkin.com
 huoltolaukku.com
 huoltolepisto.fi
@@ -5250,6 +5258,7 @@ ikkunahelsinki.net
 ikkunahelsinki.org
 illumet-helsinki.com
 illustratedhelsinki.com
+illysuomi.com
 ilmaisetpelitsuomi.site
 ilmajoenpyorahuolto.com
 ilmamasoumi.com
@@ -7281,6 +7290,7 @@ mobiili-kampanjas.com
 mobiili-kasino.fi
 mobiili-kasinot.fi
 mobiili-kasinot.org
+mobiili-kmpanja.com
 mobiili-s.com
 mobiili-spankki-elakkeella.com
 mobiili-spankki-elakkeellaafi.com
@@ -8817,6 +8827,7 @@ onlineyhteys-suomi.site
 onlyfanssuomi.com
 onlyinfinland.com
 onlysmilesuomi.com
+onlyspins-suomi.com
 onlysuomi.com
 onlysuomifans.fi
 onlysuomihaku.fi
@@ -8886,6 +8897,7 @@ ordbadtravelcommoninfinland.com
 org-oyj.world
 organduofinland.com
 oriflamesuomi.com
+originalfinland.com
 orijensuomi.com
 orimattilanliikuntapalvelut.fi
 orion-asiakaskirjautuminen.net
@@ -9227,6 +9239,7 @@ peliliikesuomi.com
 pelipaitasuomi.com
 pelipetocasino-finland.com
 pelipetokasino-suomi.fi
+pelipistehelsinki.fi
 pelisuomeseta.com
 pelithelsinki.com
 pelitoimintaasuomessa.com
@@ -10325,6 +10338,7 @@ salsoumia.com
 saltyopalco.com
 saltyopals.app
 saltyopals.com
+saltyopals.fun
 salvero-boutique.com
 sameda-kanta.com
 sammutinhuoltoketonen.com
@@ -10415,6 +10429,7 @@ saunas-finland-172191398.click
 saunashopfinland.com
 saunofinland.com
 savaspin-finland.com
+savero-96.shop
 savero-clean.com
 savero-il.com
 savingsbankhelsinki.com
@@ -11122,6 +11137,7 @@ soumission-particulier.com
 soumission-peinture.com
 soumission-plancher.ca
 soumission-plombier.ca
+soumission-porte-garage.ca
 soumission-rapide.com
 soumission-referencement.com
 soumission-salledebain.ca
@@ -12217,6 +12233,7 @@ suomi-fi0.sbs
 suomi-fin.icu
 suomi-fin.online
 suomi-finland.icu
+suomi-finlandvero.com
 suomi-fl.sbs
 suomi-galmudugseura.com
 suomi-games.com
@@ -12830,6 +12847,7 @@ suominyt.net
 suomio.ru
 suomiof.com
 suomiolut.com
+suomiomaverossa.com
 suomiomi.top
 suomionline.casino
 suomionline.com
@@ -13760,6 +13778,7 @@ thursdayfinland.com
 thyroxinterveyskeskus.shop
 ticinonsuomikoulu.ch
 tiedonvalvonta.info
+tiedot-ja-palvelut.com
 tiedotsuomi.info
 tiedotuspalvelu.fi
 tienda-avero-shop.store
@@ -15319,6 +15338,7 @@ vero-x.shop
 vero-xp.store
 vero-zone.store
 verofinland-suomi.com
+verofinlandsuomi.com
 verohallinnon-asiointipalvelu.com
 verohallinnonasiointipalvelu.com
 verohallinto.info
@@ -15715,6 +15735,7 @@ welcometofinland.org
 wellasiakashmir.com
 wellbeingflowfinland.info
 wellensteynfinland.com
+wellnessfinland.com
 welovefinland.com
 west-vero-corridor.web.id
 western-finland.com
@@ -15949,6 +15970,7 @@ xn--monjarovero-i8a.com
 xn--musadevero-n5a.com
 xn--myyntipllikkpalvelu-mwba51b.com
 xn--netti-kasino-ilman-rekisteritymist-84c45d.com
+xn--nettikasino-ilman-rekisteritymist-d2c63d.fi
 xn--nettikasinoilmanrekisteritymist-lwc00d.org
 xn--nettikasinoilmansuomilisenssi-tqc.com
 xn--nettikasinot-ilman-rekisteritymist-84c45d.org
