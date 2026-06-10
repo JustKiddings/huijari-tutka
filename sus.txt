@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 09/06/2026 07:00 UTC
+# Last modified: 10/06/2026 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -363,6 +363,7 @@ amivero-solutions.com
 amivero-verification.com
 amliikuntapalvelut.fi
 ammafinland.org
+amopafinlande.com
 amorehelsinki.com
 amplixityopalconnector.digital
 amplixityopalconnector.email
@@ -2708,6 +2709,7 @@ finlandcloud-9c2f5a7e1.com
 finlandcode.xyz
 finlandcoe.fr
 finlandcoin.xyz
+finlandcollections.life
 finlandcolocation.com
 finlandcomebacksocial.com
 finlandcompute.xyz
@@ -3227,6 +3229,7 @@ fortumate.com
 fortumatic.com
 fortumax.online
 fortumaxplay.com
+fortumaxx.com
 fortumaze.com
 fortumbei.com
 fortumcapital.com
@@ -4697,6 +4700,7 @@ helsinkipool.xyz
 helsinkiport.com
 helsinkiportal.com
 helsinkiportal.xyz
+helsinkiportcruise.com
 helsinkiporvootour.com
 helsinkiporvootours.com
 helsinkipostra.pro
@@ -6155,6 +6159,7 @@ konepajapalvelut.com
 konepalveluleinonen.net
 konepalvelulonnqvist.fi
 konepalvelupeltonen.net
+konesalipalvelu.com
 konnevedenvuokrauspalvelu.com
 konsumenturval.se
 kontakti-suomi.site
@@ -9298,6 +9303,7 @@ pholmahelsinki.com
 phonebookofhelsinki.com
 phosaigonhelsinki.com
 photofinland.com
+photographerhelsinki.com
 photographfinland.com
 pi-medical-finland.com
 pia-palvelut.com
@@ -10551,6 +10557,7 @@ sgsalmakantagciwqwjfkfl.run
 sh-suomei.com
 shaanviestate.com
 shadowpowerfinland.com
+shalahelsinki.com
 shamisenfinland.com
 sharviestate.com
 shensuomen.net
@@ -10588,6 +10595,7 @@ shsuomi.com
 shturval-shop.online
 shturval.pro
 shturval25.ru
+shturvalchanel.shop
 shturvalplus.ru
 sialviestate.com
 sialviestateandbuilders.com
@@ -11110,6 +11118,7 @@ soumisexxx.com
 soumisho.shop
 soumishop.com
 soumishsengupta.com
+soumispixels.online
 soumissio.ca
 soumissio.com
 soumission-agrandissement.ca
@@ -14710,6 +14719,7 @@ valvonai.in
 valvonatravels.com
 valvondan.com
 valvondan.store
+valvone.online
 valvonia.sk
 valvonis.lt
 valvonis.tech
@@ -15682,6 +15692,7 @@ walkertapefinland.com
 walletfinland.xyz
 wallethelsinki.xyz
 walletohelsinki.com
+walofinland.fi
 wamofinland.com
 wamofinland.net
 wamofinland.store
@@ -15789,6 +15800,7 @@ winz-finland.com
 winzkasino-suomi.fi
 winzonefinland.com
 winzsuomi.com
+wiremobilepay.online
 wishwin-finland.com
 wistafinland.com
 witold-elisa.com
@@ -16065,6 +16077,7 @@ xylitolinfinland.com
 yaoyj.com
 yarahelsinki.com
 yarbo-finland.eu
+yarbofinland.online
 yasoumin.com
 yasuomihashimura.com
 yasuomissfortune.click
