@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 12/06/2026 07:00 UTC
+# Last modified: 13/06/2026 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -200,6 +200,7 @@ aino-helsinki.com
 ainohelsinki.com
 ainohelsinki.fi
 ainordeabank.se
+aipfinland.com
 air-up-finland.com
 air-upfinland.com
 air-upsuomi.com
@@ -886,6 +887,7 @@ beapfinland.com
 bearpawfinland.com
 beastdealsfinland.com
 beaterveys.fi
+beautyhelsinki.com
 beautyopa.com
 beautyopal.blog
 beautyopal.com
@@ -1279,6 +1281,7 @@ casallsuomi.com
 casasuomi.com
 casavero-dubai.com
 casavero-home.com
+casavero-immobilien-grundstuecke.ch
 casavero-style.com
 cashedcasinofinland.com
 cashelsinki-fi.com
@@ -1314,6 +1317,7 @@ casinofinland.site
 casinofinlandonline.com
 casinofinlandtop.com
 casinohelsinki-online.com
+casinohelsinki-vip.click
 casinohelsinki.club
 casinohelsinki.icu
 casinohelsinki.online
@@ -5027,6 +5031,7 @@ homeopatiapalvelut.com
 honeybrowsfinland.com
 hongatarhelsinki.fi
 honordeai.xyz
+honordeal.com
 honordeals.cfd
 honordeals.com
 honordealz.com
@@ -5610,6 +5615,7 @@ jansportssuomi.com
 jansportsuomi-fi.com
 jaoyj.soy
 japanfinland100.jp
+japen-piha-ja-puupalvelu.com
 jarjestyksenvalvonta.com
 jarvila-helsinki.com
 jarvinenhelsinki.com
@@ -5677,6 +5683,7 @@ jlphuolto.com
 jmasoumi.com
 jmcfinland.help
 jmk-kiinteistopalvelut.fi
+jmpihapalvelut.online
 jncofinland.com
 jncosuomi.com
 joakimsuominen.com
@@ -6162,6 +6169,7 @@ koirapalvelutatsi.fi
 koirapalvelutotte.com
 koivu-helsinki.com
 koivulahelsinki.com
+kojima-kantakun.com
 kokemuksiasuomi.com
 kokin-tyopaikat.cfd
 kokki-avoimet-tyopaikat.cfd
@@ -7894,6 +7902,7 @@ nakedsportsinnovationsfinland.com
 nakedwolfefinland.com
 nalgene-suomi.com
 naluhelsinki.com
+namastefinland.online
 namhelsinki.fi
 nammofinland.com
 nammofinland.eu
@@ -8231,6 +8240,7 @@ nordeam.com
 nordeamedia.com
 nordeamschatbot.com
 nordeaosake.com
+nordeaplomberie.com
 nordeaquebec.com
 nordearo.com
 nordeas-online.com
@@ -9409,6 +9419,7 @@ pk-asennuspalvelut.fi
 pk-teollisuushuolto.com
 pkhuolto.shop
 pkmkpalvelut.fi
+pknoutopalvelu.com
 pko-kuvapankki.fi
 pkshuoltopalvelut.com
 plakranooyj.online
@@ -10426,6 +10437,7 @@ saoyj.sbs
 saramasoumi.com
 saramassoumi.com
 sarang188helsinki.site
+sarasenioripalvelu.fi
 sark9finland.fi
 sashamariemassoumi.com
 sashamassoumi.com
@@ -11439,6 +11451,7 @@ soundcoressuomi.com
 soundcoresuomi.com
 sousoumi.gr
 sousuomi.com
+sousuomingtianshijiebei.lol
 southeastfishingfinland.com
 southern-finland.com
 southern-finlands-156097653.click
@@ -12318,6 +12331,7 @@ suomi-kantat.com
 suomi-kasino.info
 suomi-kasino.org
 suomi-kasinot.fi
+suomi-kasinot.info
 suomi-kasinot.net
 suomi-kasittelyasiakirja-fi.com
 suomi-kauppa.com
@@ -12364,6 +12378,7 @@ suomi-ratings.store
 suomi-rekisterointi.info
 suomi-select.com
 suomi-services.com
+suomi-services.site
 suomi-sewing-studio.com
 suomi-shop.ru
 suomi-social.world
@@ -12491,6 +12506,7 @@ suomiasiakastukinumero.com
 suomiauto.com
 suomiautodeals.bond
 suomiautomaati.com
+suomiautomaatti.org
 suomiautot.fi
 suomib.com
 suomibest.com
@@ -14738,6 +14754,7 @@ vakantie-zweden-finland-reisblog.nl
 vakantiefinland.com
 vakilmasoumi.com
 vakioasiakas.fi
+vakkasuomi.com
 vakuutuspalveluif.com
 vala-helsinki.com
 valdemarhelsinki.com
@@ -15194,6 +15211,7 @@ vero-luma.com
 vero-lusso.com
 vero-luxe.com
 vero-luxe.net
+vero-machinery.com
 vero-magni.com
 vero-mall.com
 vero-management.com
@@ -15322,6 +15340,7 @@ vero-step.com
 vero-stile.com
 vero-store.com
 vero-store.store
+vero-store26.shop
 vero-street-food.it
 vero-strength.com
 vero-studio.fun
@@ -15837,6 +15856,7 @@ wildsuomiplay.com
 wildtourshelsinki.com
 wildz-casino-suomi.com
 wildz-finland.com
+wildz-finland.net
 wildz-suomi.com
 wildzcasino-suomi.com
 wildzfinland.com
@@ -16257,10 +16277,12 @@ zet-casino-suomi.com
 zfinlandlw.pics
 zfwfinland.pro
 zgxoehardwpcaoyj.shop
+zh-soumi-zhibo.com
 zhaosuoming.com
 zhhfinland.quest
 zhiviestate.ru
 zhongbaoyj.com
+zhuijiaoyj.com
 zhusuomenchuang.com
 zigarrenschneider-suomi.shop
 zimmermanconsultingfinland.com
