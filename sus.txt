@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 13/06/2026 07:00 UTC
+# Last modified: 14/06/2026 07:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -517,6 +517,7 @@ arttupakkanenpt-palvelut.com
 arturval.ru
 arturvaleev.ru
 artwalkhelsinki.com
+arvohuolto.com
 arvokoruhelsinki.com
 arvostettuasiakaskokemus.fi
 asailfinland.com
@@ -944,6 +945,9 @@ best-casino-finland-free-credit.shop
 best-casino-finland.shop
 best-geme-finland.com
 best10suomi.com
+bestaicompaniesinfinland.com
+bestaiplatformsinfinland.com
+bestaitoolsinfinland.com
 bestbusinessesinfinland.com
 bestcasinosfinland.com
 bestcompaniesinfinland.com
@@ -1145,6 +1149,7 @@ bottegaveneta-suomi.com
 bottegavenetafinland.com
 bottegavenetasuomi.com
 bottegavenetasuomi.net
+bottlebottle-suomi.com
 bottlebottlesuomi.com
 boutiquefinland.com
 bovedaoyj.shop
@@ -2973,6 +2978,7 @@ finlandrestaking.xyz
 finlandrevealed.com
 finlandreview.com
 finlandrobot.com
+finlandrobotics.com
 finlandrollup.xyz
 finlandrouter.xyz
 finlandroyal.xyz
@@ -3892,6 +3898,7 @@ helsinki-drec-abab.info
 helsinki-drec-abac.info
 helsinki-drec-abad.info
 helsinki-dubai.com
+helsinki-escape.com
 helsinki-escort.com
 helsinki-fi.com
 helsinki-fi.org
@@ -5622,6 +5629,7 @@ jarvinenhelsinki.com
 jarvipalvelut.fi
 jasderutyopaset.click
 jasminslotsfinland.com
+jatehuoltovaronen.fi
 jathaviestates.com
 jatkokoulutuspalvelu.com
 javero-servicos.cfd
@@ -7827,6 +7835,8 @@ my-suomifi.site
 my-viestit.site
 myball-suomi.com
 myballesuomi.com
+mycalvero-spark.com
+mycalvero-spark.org
 mydataturvatarkastus.com
 myempire-casino-suomi.com
 myempirefinland.com
@@ -8439,6 +8449,7 @@ oma-academy.com
 oma-academy.site
 oma-adimu.online
 oma-admin.com
+oma-admin.org
 oma-adriatic.com
 oma-aerospace.com
 oma-agentaccelerator.com
@@ -9010,6 +9021,7 @@ overo-viesti.info
 overseaskoreanadopteeinfinlandandwellbeing.com
 ovipalvelupori.fi
 owala-suomi.com
+owalalifesuomi.com
 owalapullosuomi.com
 owalassuomi.com
 owalasuomi.com
@@ -9595,6 +9607,7 @@ posti-suomi.site
 posti-vahvistus.cfd
 posti-vahvistus.com
 postifinland.delivery
+postipalvelu.net
 postisuomen.site
 postisuomi.site
 postivahvistus.info
@@ -10832,6 +10845,7 @@ smobiilielakkeella.com
 smobiiliellakkeella.com
 smobiilifi-kampanja.com
 smobiilifikampanja.com
+smobiilifloyj.com
 smobiilikammpanja.com
 smobiilispankki.com
 smobiilisuomifi.com
@@ -11259,6 +11273,7 @@ soumissiongroupevaro.com
 soumissionhabitat.com
 soumissionhypothecaire.ca
 soumissionhypothequeenligne.com
+soumissionimprimaction2000.com
 soumissionimprimerie.com
 soumissionlanaudiere.com
 soumissionlaveoplus.com
@@ -11950,6 +11965,7 @@ suomenkartanot.com
 suomenkartta.fi
 suomenkasarmi.fi
 suomenkasarminupseerikerho.fi
+suomenkasino.online
 suomenkasinoarvostelut.com
 suomenkasinobonus.com
 suomenkasinobonus.net
@@ -12380,6 +12396,7 @@ suomi-select.com
 suomi-services.com
 suomi-services.site
 suomi-sewing-studio.com
+suomi-shkposti.sbs
 suomi-shop.ru
 suomi-social.world
 suomi-sports.com
@@ -12422,6 +12439,7 @@ suomi.ch
 suomi.cz
 suomi.digital
 suomi.email
+suomi.fyi
 suomi.games
 suomi.gold
 suomi.group
@@ -12732,6 +12750,7 @@ suomiiptv.forum
 suomiiptv.net
 suomiiptv.store
 suomiiptvguide.com
+suomiiptvpro.com
 suomiitop10.com
 suomijackpot.info
 suomijackpot360.com
@@ -13872,6 +13891,7 @@ tietoliikennepalvelut.com
 tietopankki.com
 tietoturvakartoitus.fi
 tietoturvapankki.com
+tietoturvatesti.net
 tifosisuomi.com
 tigerofswedensuomi.com
 tigersomtilipalvelu.com
@@ -14003,6 +14023,9 @@ top10suomi2k.com
 top15suomi.vip
 top20-suomi.com
 top20finland.com
+topaicompaniesinfinland.com
+topaiplatformsinfinland.com
+topaitoolsinfinland.com
 topcasino-helsinki.com
 topcasinosuomi.com
 topchurchfinland.org
@@ -15019,6 +15042,7 @@ vero-beachhomesforsale.com
 vero-bermudez.com
 vero-bet.com
 vero-bit.com
+vero-bit.xyz
 vero-blur.site
 vero-brand.com
 vero-brew.com
@@ -15085,6 +15109,7 @@ vero-eg.com
 vero-electric.com
 vero-electronics.com
 vero-elements.com
+vero-energielabels.nl
 vero-engineering.com
 vero-enim.site
 vero-eric.com
@@ -15267,6 +15292,7 @@ vero-paintapp.com
 vero-paintings-prints.com
 vero-paivittaaksesi.com
 vero-partners.com
+vero-pay.com
 vero-peach.com
 vero-performance.com
 vero-pizza.com
@@ -16282,6 +16308,7 @@ zhaosuoming.com
 zhhfinland.quest
 zhiviestate.ru
 zhongbaoyj.com
+zhs-soumi-zhibo.com
 zhuijiaoyj.com
 zhusuomenchuang.com
 zigarrenschneider-suomi.shop
