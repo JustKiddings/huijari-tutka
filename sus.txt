@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 17/06/2026 07:01 UTC
+# Last modified: 18/06/2026 07:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -199,6 +199,8 @@ aikapankki.com
 aila-helsinki.com
 aimoviestation.com
 aimsmobilepay.io
+ainapalvelut.org
+ainatyoterveys.org
 aino-helsinki.com
 ainohelsinki.com
 ainohelsinki.fi
@@ -552,6 +554,7 @@ asiakashaku.fi
 asiakashankintaa.com
 asiakashankintaoy.com
 asiakasino.net
+asiakasino.org
 asiakasino89.net
 asiakasino89.org
 asiakasint.net
@@ -4441,6 +4444,7 @@ helsinkibyheart.com
 helsinkibytram.com
 helsinkicab.com
 helsinkicafebistro.com
+helsinkicapital.xyz
 helsinkicards.com
 helsinkicarrental.com
 helsinkicas-fi.com
@@ -5571,6 +5575,7 @@ iptvsuomi-fi.org
 iptvsuomi-fi.store
 iptvsuomi-finland.com
 iptvsuomi-pro.com
+iptvsuomi.app
 iptvsuomi.blog
 iptvsuomi.click
 iptvsuomi.cloud
@@ -8570,6 +8575,7 @@ oma-ai.top
 oma-aisolutions.com
 oma-ajo.com
 oma-alandsbenken.com
+oma-alice.nl
 oma-and-me.co
 oma-and-opa.com
 oma-app.com
@@ -11202,6 +11208,8 @@ soumikejidxf.com
 soumikfactify.site
 soumikghosh.in
 soumikkumarsinha.com
+soumiklaw.net
+soumiklaw.us
 soumikmanna.com
 soumikmanna.in
 soumikmanna2441139.shop
@@ -13966,6 +13974,7 @@ theautodennashville.com
 thebarksuomi.com
 thebestfinlandhotel.com
 thebesthotelfinland.com
+thecalvero-spark.org
 theenviromasterofinlandempire.com
 thefinlandhotel.com
 thefinlandhotelbest.com
@@ -14848,6 +14857,7 @@ uudet-suomenkieliset-nettikasinot.com
 uudetkasinotsuomessa.online
 uudetparassuomi.com
 uudetsuomenkielisetnettikasinot.com
+uudetsuomenkielisetnettikasinot.fi
 uudetsuomi.site
 uudetsuomilink.com
 uudetsuominettikasinot.com
@@ -15678,6 +15688,7 @@ viesti-kanta.click
 viesti-kanta.com
 viesti-kanta.digital
 viesti-kela.com
+viesti-laatikko.info
 viesti-omaposti-fi.com
 viesti-omavero.icu
 viesti-omavero.sbs
