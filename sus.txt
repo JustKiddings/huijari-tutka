@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 21/06/2026 07:01 UTC
+# Last modified: 22/06/2026 07:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -272,6 +272,7 @@ akamaomakanta.com
 akashviestate.com
 akashviestates.com
 akisuomela.fi
+akkuhelsinki.fi
 akkuhuolto.com
 akkupankki.com
 akkuturva.com
@@ -668,6 +669,7 @@ ataraxterveyspalvelu.shop
 atasteoffinland.fi
 ateafinlandoy.online
 atefia-finland.com
+atefia-finland.net
 atefia-finland.org
 atelier-insoumis.fr
 atelier-vero-creation.fr
@@ -1211,6 +1213,7 @@ breezevapesuomi.net
 brestinsoumise.fr
 brewedinfinland.fi
 briansuomela.win
+bridgefinland.xyz
 bridgehelsinki.xyz
 bridgestonesuomi.com
 brightfinland.shop
@@ -4393,6 +4396,7 @@ helsinki.pro
 helsinki.rent
 helsinki.rocks
 helsinki.singles
+helsinki.sk
 helsinki.skin
 helsinki.tattoo
 helsinki.tips
@@ -4963,6 +4967,7 @@ helsinkistayhotel.com
 helsinkistorage.com
 helsinkistoryslam.com
 helsinkistreet.fi
+helsinkistudios.pro
 helsinkisuper.xyz
 helsinkisven.com
 helsinkiswap.xyz
@@ -6605,6 +6610,7 @@ lavatori-helsinki.com
 lavera-helsinki.com
 lavero-boutique.be
 lavero-helsinki.com
+lavero-horeca.ru
 lavero-nexo.click
 lavero-rabuca.site
 lavero-shop.com
@@ -6692,6 +6698,7 @@ lfisensinsoumise.com
 lgsuomi.com
 lhefinland.digital
 liberationordeath.com
+liberationordeath.net
 liberationordeath.org
 libertyopalillustration.com
 libramobilepaymentsystem.com
@@ -7121,6 +7128,7 @@ marivero-ruz.com
 marka-helsinki.com
 markatilavalvonta.fi
 markatilavalvontaa.fi
+marketfinland.xyz
 markethelsinki.xyz
 marketingdigi2026soumia.blog
 marketingdigisoumia.blog
@@ -8199,6 +8207,7 @@ nettikasinoilmanrekisteroitymista.org
 nettikasinoilmanrekisteroitymista2026.com
 nettikasinosuomi.xyz
 nettikasinot-ilmanrekisteroitymista.com
+nettikasinot-rekisteroitymista.fi
 nettikasinot-suomessa.com
 nettikasinot-suomi.info
 nettikasinot-suomi.net
@@ -10088,6 +10097,7 @@ quotatripfinland.com
 quttyopat.site
 raabersoumimok.ru
 rabonacasino-suomi.com
+radar-soumission.ca
 radarsoumissions.com
 radianthelsinki.lol
 radiofreefinland.net
@@ -10373,6 +10383,8 @@ romavero.xyz
 romibetfinland.com
 roobet-finland.com
 roobet-suomi.com
+roobet-suomi.net
+roobet-suomi.org
 roobetfinland.com
 roobetsuomi.com
 roobetsuomi.fi
@@ -10841,6 +10853,7 @@ sennheiser-suomi.com
 sennheisersuomi.com
 senrahamiestenosoekt.xyz
 senseshelsinki.com
+sensitiveshopfinland.fi
 sensoumingshuangxiaodatou.top
 seopalvelu.com
 seoulbbqhelsinki.shop
@@ -10913,10 +10926,12 @@ shrivivekyogahelsinki.com
 shsuomi.com
 shturval-forum.ru
 shturval-shop.online
+shturval-trade.ru
 shturval.pro
 shturval25.ru
 shturvalchanel.shop
 shturvalplus.ru
+shturvaltrade.ru
 sialviestate.com
 sialviestateandbuilders.com
 sidequestfinland.fi
@@ -16438,6 +16453,7 @@ xn--musadevero-n5a.com
 xn--myyntipllikkpalvelu-mwba51b.com
 xn--netti-kasino-ilman-rekisteritymist-84c45d.com
 xn--nettikasino-ilman-rekisteritymist-d2c63d.fi
+xn--nettikasinoilmanrekisteritymist-lwc00d.net
 xn--nettikasinoilmanrekisteritymist-lwc00d.org
 xn--nettikasinoilmansuomilisenssi-tqc.com
 xn--nettikasinot-ilman-rekisteritymist-84c45d.org
