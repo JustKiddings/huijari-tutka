@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 22/06/2026 07:01 UTC
+# Last modified: 23/06/2026 07:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -3042,6 +3042,7 @@ finlandpartners.com
 finlandpass.com
 finlandpay.xyz
 finlandpeacemakers.org
+finlandpeptides.com
 finlandpi.com
 finlandpilates.com
 finlandplaces.online
@@ -4403,6 +4404,7 @@ helsinki.tips
 helsinki.tours
 helsinki.vodka
 helsinki.voyage
+helsinki.wedding
 helsinki.yachts
 helsinki0x.xyz
 helsinki10000.com
@@ -4519,6 +4521,7 @@ helsinkicasinoclub.com
 helsinkicasinohotel.com
 helsinkicasinonodeposit.click
 helsinkicc.com
+helsinkicenter.com
 helsinkicf.com
 helsinkichain.xyz
 helsinkichallenge.com
@@ -6108,6 +6111,7 @@ kaupanvahvistaja-jukka-pakkanen.com
 kaupanvahvistaja.com
 kaupanvahvistajakuopio.fi
 kaupanvahvistajamikaloppi.com
+kaupanvahvistukset.com
 kaupanvahvistus.com
 kauppakassipalvelu.fi
 kaupunkipalvelutfi.info
@@ -7934,6 +7938,7 @@ movetofinland.net
 movetofinland.org
 movetofinland.org.uk
 movexsuomi.fi
+movie-oyj.cfd
 moviesta-sub.com
 moviesta.club
 moviesta.fun
@@ -8172,6 +8177,7 @@ ndsuominer.org
 ndttukkufinland.com
 ndttukkusuomi.com
 nebenlesuomise.com
+needoh-finland.com
 needohfinland.com
 neohelsinki.xyz
 neohelsinkirecords.com
@@ -10414,6 +10420,7 @@ roxysuomi.com
 royalcaninsuomi.com
 royaldeviesta.com
 royalehelsinki.com
+royalfinland.com
 royalfinland.xyz
 royalgamecasinofinland.com
 royalhelsinki.xyz
@@ -10673,6 +10680,7 @@ saltyopals.com
 saltyopals.fun
 salvero-boutique.com
 sameda-kanta.com
+samiramassoumi.space
 sammutinhuoltoketonen.com
 samnordean.shop
 samsonitesuomi.com
@@ -13463,6 +13471,7 @@ suomistarvault.com
 suomistays.com
 suomistayzone.com
 suomistore.fi
+suomistories.com
 suomistory.com
 suomistrategia.com
 suomistream.live
@@ -15431,6 +15440,7 @@ vero-cruises.com
 vero-csn.com
 vero-csn.site
 vero-cupiditate.site
+vero-cura-vita.store
 vero-data.com
 vero-deco.fr
 vero-decor.com
