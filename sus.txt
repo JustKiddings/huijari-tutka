@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 23/06/2026 07:01 UTC
+# Last modified: 24/06/2026 07:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -285,6 +285,7 @@ akshatakantak.com
 akt-suomi.click
 aktia-asiakasalue.store
 aktia-finland.com
+aktia-pankki.com
 aktiapankki.xxx
 aktiapankkioyjpalvelu.sbs
 aktiayrittajaturva.com
@@ -483,6 +484,7 @@ arcades-insoumises.com
 arcadiafinland.com
 arcadisfinland.com
 arcadisuomigames.com
+arcclubhelsinki.com
 archiwumpanki.pl
 arcopedicosuomi.com
 arctic-casino-suomi.com
@@ -614,6 +616,7 @@ asiakastuki.com
 asiakastuki.icu
 asiakastuki.site
 asiakastukisuomi.com
+asiakastukisuomis.com
 asiakasvastaaja.com
 asiakasvelvollisuuslakien-fi.site
 asiakasvelvollisuuslakien-suomen.site
@@ -940,6 +943,7 @@ belkinfinland.com
 belkinsuomi.com
 belkylmahuolto.fi
 bellahelsinki.com
+bellavero-birtoto.xyz
 bellavero-milano.com
 belleinsoumise.com
 belleviestates.com
@@ -2017,6 +2021,7 @@ digitalhelsinki.xyz
 digitalproductpassport-finland.com
 digitalsoumik.com
 digitaltagsfinland.com
+digitalwithsoumik.com
 digitoimistopalvelu.online
 digiturva.fi
 digivero-energy.com
@@ -2516,6 +2521,7 @@ fabu-helsinki.com
 facebook-turvallisuus.com
 facebook-turvallisuus.info
 fadimanfellnerfinland.art
+fahuolto.site
 fairtex-suomi.com
 fairtexfinland.com
 falch-finland.com
@@ -2810,6 +2816,7 @@ finlandchilifest.com
 finlandchinaeconomicandinvestmentassociationry.org
 finlandchinainvestmentandtradingpromotionassociati.org
 finlandcloud-9c2f5a7e1.com
+finlandcloud.xyz
 finlandcode.xyz
 finlandcoe.fr
 finlandcoin.xyz
@@ -2997,6 +3004,7 @@ finlandmanepali.fi
 finlandmap.com
 finlandmap.xyz
 finlandmarathon.com
+finlandmarket.xyz
 finlandmask.xyz
 finlandmasters.com
 finlandmemoir.blog
@@ -5030,6 +5038,8 @@ helsinkivisuals.com
 helsinkivodka.eu
 helsinkivodka.sk
 helsinkivoyage.com
+helsinkivpn.online
+helsinkivpn.ru
 helsinkiwallet.xyz
 helsinkiwealth.com
 helsinkiweather.info
@@ -6848,6 +6858,7 @@ lonkero-casino-suomi.com
 lonkerocasino-finland.com
 lonkerokasinosuomi.com
 look-finland.com
+lookupfinland.com
 loop-earplugs-finland.com
 loop-earplugsfinland.com
 loop-earplugssuomi.com
@@ -7451,6 +7462,7 @@ minna-helsinki.com
 minordeals.com
 minorityhelsinki.com
 minside-mobilepay.info
+mintfinland.xyz
 minthelsinki.xyz
 mintoo-helsinki.com
 minunpankki.fi
@@ -11483,6 +11495,7 @@ soumission-assurance-moto.net
 soumission-assurance.com
 soumission-assurances.com
 soumission-cloture.ca
+soumission-douche.ca
 soumission-dz.com
 soumission-electricien.ca
 soumission-electricien.com
@@ -13679,6 +13692,7 @@ susihelsinki.com
 suskinterveysvalmennus.fi
 sussnaswamiestenso.cfd
 sutazfinlandia.sk
+sutfinlandworks.com
 suuntasipaihdepalvelut.com
 suuntasipaihdepalvelut.org
 suunterveystalo.com
@@ -14804,6 +14818,7 @@ turvallisuuspalvelufap.info
 turvallisuuspalvelufkj.info
 turvallisuuspalvelufqk.info
 turvallisuuspalvelufsf.info
+turvallisuusportaali.click
 turvallisuusstudio.com
 turvallisuustilanne.xyz
 turvallisuusvarma.com
@@ -15013,6 +15028,8 @@ urbansuomistyle.com
 urheilubaarit-suomessa.com
 urheilusovelluksetsuomi.com
 urheiluviesti.com
+urhokasino-suomi.fi
+urhokasinosuomi.fi
 ursa-casino-suomi.com
 ursacasinofinland.com
 urviestate.com
@@ -15371,6 +15388,7 @@ vero-apparel.com
 vero-arch.com
 vero-asionti.com
 vero-asperiores.com
+vero-assets.com
 vero-assist.com
 vero-assist.digital
 vero-assist.ru
@@ -16074,6 +16092,7 @@ vivero-app.website
 vivero-bakery.com
 vivero-casa-romero.com
 vivero-cosmo.com
+vivero-elmayorista.com
 vivero-elpotro.com
 vivero-inteligente.info
 vivero-lahacienda.com
@@ -16548,6 +16567,7 @@ xplorefinland.com
 xplorefinland.se
 xrmfinland.eu
 xsisetfinland3xui1.site
+xsisetfinland3xui2.site
 xsuomi.site
 xsuomifi.site
 xtremelashesfinland.com
