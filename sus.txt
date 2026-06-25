@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 24/06/2026 07:01 UTC
+# Last modified: 25/06/2026 07:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -1082,6 +1082,7 @@ bimmerfinland.com
 binancefinland.com
 bingobongafinland.com
 binordeal.com
+biotecfinland.com
 bioturva.com
 biqfinland.monster
 birdhelsinki.com
@@ -1975,6 +1976,7 @@ deutz-fahr-finland.fi
 dev-soumitra.com
 devero-dienstleistungen.com
 devicely-suomi.com
+deviesta.com
 deviestates.com
 dewamakantakoyaki.app
 dexfinland.xyz
@@ -2237,6 +2239,7 @@ edunvalvontavaltuutus.net
 edunvalvontavaltuutus.org
 edusparkfinland.com
 ee-palvelut-ry.com
+eeva-helsinki.com
 eevi-helsinki.com
 eflfinland.xyz
 efqfinland.wiki
@@ -4785,6 +4788,7 @@ helsinkilimo.mobi
 helsinkilimoservice.com
 helsinkiliquidity.xyz
 helsinkiliving.com
+helsinkillc.com
 helsinkilm.lol
 helsinkiloan.xyz
 helsinkilottery.com
@@ -6667,6 +6671,7 @@ leguanofinland.com
 lehtinenhelsinki.com
 leinwandbilder-suomi.shop
 leireg-finland.com
+lejournaldelinsoumission.org
 lemfinland.com
 lemmikkipalvelukeskus.com
 lemmikkipalveluoiva.com
@@ -7428,6 +7433,7 @@ miestenlethi.com
 miestenmuoti.fi
 miestenmuoti.net
 miestenpiiri.eu
+miestenrannekoru.fi
 miestenrannekorut.shop
 miestentakki.com
 miestenterveystabletit.info
@@ -7651,6 +7657,7 @@ mobilepay-virker-ikke-ugo.cyou
 mobilepay.africa
 mobilepay.bio
 mobilepay.biz
+mobilepay.cafe
 mobilepay.cash
 mobilepay.casino
 mobilepay.cz
@@ -9262,6 +9269,7 @@ ourhelsinki.info
 ourhelsinki.link
 ourhelsinkiflat.com
 outdoorsfinland.com
+ovarininnocencehelsinki.surf
 ovenhelsinki.fi
 overo-viesti.info
 overseaskoreanadopteeinfinlandandwellbeing.com
@@ -10115,6 +10123,7 @@ quotatripfinland.com
 quttyopat.site
 raabersoumimok.ru
 rabonacasino-suomi.com
+radar-insoumis.fr
 radar-soumission.ca
 radarsoumissions.com
 radianthelsinki.lol
@@ -10219,6 +10228,7 @@ realisointipalvelut.com
 realmsuomidrift.com
 rebelhelsinki.fi
 rebuautohuolto.com
+redbetcasinosuomi.com
 reddicecasino-suomi.com
 rederihelsinki.com
 redshelsinki.fi
@@ -11541,6 +11551,7 @@ soumissionassuranceviequebec.com
 soumissionassuranceviesansexamenmedical.com
 soumissionassuredirect.com
 soumissionavantageplus.ca
+soumissionbge.com
 soumissioncanada.ca
 soumissioncarrelage.com
 soumissionclimat.ca
@@ -11578,6 +11589,7 @@ soumissionimprimerie.com
 soumissionlanaudiere.com
 soumissionlaveoplus.com
 soumissionmauricie.com
+soumissionnetacour.com
 soumissionnettoyage.com
 soumissionnettoyageqc.com
 soumissionnon.ch
@@ -13570,6 +13582,7 @@ suomitours.com
 suomitrack.com
 suomitrade.com
 suomitradeai.com
+suomitrading.se
 suomitravel.org
 suomitravelfind.com
 suomitreffit.net
@@ -14797,6 +14810,7 @@ turvallisemmin.com
 turvallisesti-omakantaan.com
 turvallisesti.com
 turvallisestiverkossa.org
+turvalliset-kaivot.online
 turvalliset-kasinot.com
 turvallisetlisensoimattomatkasinot.com
 turvallisetnettikasinot.org
