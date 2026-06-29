@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 28/06/2026 07:01 UTC
+# Last modified: 29/06/2026 07:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -2036,6 +2036,7 @@ digitalproductpassport-finland.com
 digitalsoumik.com
 digitaltagsfinland.com
 digitalwithsoumik.com
+digiterveys.info
 digitoimistopalvelu.online
 digiturva.fi
 digivero-energy.com
@@ -2148,6 +2149,7 @@ dronepalvelut.com
 drophelsinki.xyz
 drsoumiabenaammouch.com
 drsoumikghosh.com
+drsoumikphysio.in
 drsoumilsinghal.com
 drsoumitraghosh.in
 dsafinland.com
