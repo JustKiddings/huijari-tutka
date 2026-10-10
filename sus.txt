@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 09/10/2026 07:01 UTC
+# Last modified: 10/10/2026 07:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -664,6 +664,7 @@ asiakasvelvollisuuslakien-fi.site
 asiakasvelvollisuuslakien-suomen.site
 asiakasvelvollisuuslakien-suomi-fi.site
 asiakasvelvollisuuslakien-suomi.site
+asiakasviesti-vitecavoine.com
 asiakasvirta.com
 asiakasyhteydet-suomi.site
 asiakasyhteys-suomi.site
@@ -2096,6 +2097,7 @@ despinayiasoumi.com
 desport-world-finland.com
 destinationweddinginfinland.com
 detvitafinland.com
+deusfinland.space
 deuter-suomi.com
 deutersuomi.com
 deutschebibliothekhelsinki.net
@@ -2389,6 +2391,7 @@ edunvalvontavaltuutus.net
 edunvalvontavaltuutus.org
 edusparkfinland.com
 eduturva.com
+eduturva.fi
 ee-palvelut-ry.com
 eeva-helsinki.com
 eeva-jari-helsinki.com
@@ -3827,6 +3830,8 @@ gelopalvelut.com
 gemfinland.com
 gemmasuomi.com
 genaifinland.com
+geniusmobilepay.com
+geniusmobilepay.sk
 gennova-helsinki.com
 gennova-suomi.com
 gennovasuomi.com
@@ -3900,6 +3905,7 @@ globalhelsinki.xyz
 globalmobilepay.africa
 globesuomi.com
 glorion-finland.com
+glorion-suomi.com
 glorioncasino-finland.com
 glorionkasino-finland.com
 glorionkasinosuomi.fi
@@ -4922,6 +4928,7 @@ helsinkifacades.com
 helsinkifam.online
 helsinkifarm.xyz
 helsinkifarming.xyz
+helsinkifarter.ru
 helsinkifc.com
 helsinkiferries.com
 helsinkifestival.org
@@ -5868,6 +5875,7 @@ infospankki.com
 infoyxpfinland.space
 inhelsinki.com
 inhimillisintyopaiva.com
+inia-suomi.com
 inifinland.fun
 injfinland.mom
 ink2behelsinki.com
@@ -5922,6 +5930,7 @@ insuranceluighghlfinland.bond
 insurancelujnuwlfinland.bond
 insurxlfinland.bond
 integralhockeyswhelsinki.com
+integrasuomi.fi
 interfortum.online
 interfortum.ru
 international-bank-transfer-finland-pay-eu.click
@@ -6041,11 +6050,13 @@ iptvsuomi8k.com
 iptvsuomi8k.pro
 iptvsuomii.com
 iptvsuomilive.com
+iptvsuomipalvelu.com
 iptvsuomipro.com
 iptvsuomis.com
 iptvsuomistream.fi
 iptvsuomitv.com
 iptvsuomivip.fi
+iptvvfinland.com
 irafinlandia.com
 iranfinland.com
 ireland-finland-train-holiday-deals-777.today
@@ -6443,6 +6454,7 @@ kasinoilmanrekisteroitymista.io
 kasinoilmanrekisteroitymistajalisenssia.com
 kasinoilmansuomenlisenssia.com
 kasinoilmansuomenlisenssia.net
+kasinoitailmanrekisteroitymista.fi
 kasinokierratystarekisteroitymista.fi
 kasinomobiili.net
 kasinopankkitunnuksilla.com
@@ -6594,6 +6606,7 @@ keyrelocationfinland.fi
 keystationfinland.com
 kfxfinland.autos
 kgzfinland.com
+kh-suomiputki.fi
 khosraviestate.com
 khosraviestates.com
 khvkiinteistopalvelu.fi
@@ -7040,6 +7053,7 @@ lavero-stockholm.com
 lavero-store.com
 lavida-helsinki.com
 laviesta.app
+laviesta.xyz
 laviestat.online
 laviestat.ru
 laviestatcom.online
@@ -7714,6 +7728,7 @@ mavero-35.store
 mavero-field.online
 mavero-field.ru
 mavero-group.com
+mavero-hr.com
 mavero-ion.shop
 mavero-logica.cfd
 mavero-london.com
@@ -7923,6 +7938,7 @@ mininghelsinki.xyz
 mininglawfinland.com
 minna-helsinki.com
 minordeals.com
+minordear.xyz
 minorityhelsinki.com
 minosuomi.fi
 minside-mobilepay.info
@@ -8020,6 +8036,7 @@ mobiili-suomi-fi-elakkeella.com
 mobiili-talo.com
 mobiili.co.uk
 mobiili.info
+mobiiliapp-online.com
 mobiiliapp.com
 mobiiliappi.fi
 mobiilidanske.online
@@ -8458,6 +8475,7 @@ moviesta.xyz
 moviestash.click
 moviestash.net
 moviestat.site
+moviestat.xyz
 moviestate.icu
 moviestates.com
 moviestation.city
@@ -8565,6 +8583,7 @@ myfinland.ai
 myfinland.fi
 myfinland.ir
 myfinlandfirtsdate.live
+myfinlandguide.com
 myfinlandstay.com
 myhelsinki.cloud
 myhelsinki.life
@@ -9068,6 +9087,7 @@ nordicbetsuomi.com
 nordicbridgefinland.com
 nordiciptvfinland.com
 nordiciptvsuomi.fi
+nordicpalvelut.com
 nordicsuomi.net
 nordicwalkinghelsinki.pro
 nordiko-helsinki.com
@@ -10300,6 +10320,7 @@ plastiikkakirurgiahelsinki.fi
 plastyopava.com
 platformfinland.xyz
 platformhelsinki.xyz
+plavero-gummy.shop
 play-finlandia.website
 play-suomi.com
 play-suomi.fi
@@ -12308,6 +12329,7 @@ soumissionprethypothecaire.com
 soumissionpro.ca
 soumissionpro.ch
 soumissionpro.net
+soumissionpublique.com
 soumissionqc.ca
 soumissionqc.com
 soumissionquebec.com
@@ -13214,6 +13236,7 @@ suomenpelit2026.com
 suomenpelitieto.com
 suomenperinnetatuoijat.com
 suomenpienet.com
+suomenpietistikirkko.fi
 suomenpiilot.com
 suomenpintapalvelu.com
 suomenpintapalvelu.net
@@ -13840,6 +13863,7 @@ suomigrilli.com
 suomigroup.org
 suomiguide.com
 suomiguide.help
+suomihaku.com
 suomihauskapeli.site
 suomihaveing.com
 suomihelmet.fi
@@ -14153,6 +14177,7 @@ suomipod.store
 suomipodcast.com
 suomipoke.fi
 suomiporno.info
+suomiporno.li
 suomiporno.top
 suomiporno69.com
 suomipornoa.net
@@ -14405,6 +14430,7 @@ suomitrends.com
 suomitrip10.com
 suomitripworld.com
 suomitrya.games
+suomitukifi.com
 suomitunnis.com
 suomitunnista.com
 suomitunnista.info
@@ -15980,8 +16006,10 @@ uudetsuomilink.com
 uudetsuominettikasinot.com
 uunokasino-finland.com
 uunokasino-suomi.fi
+uusi-kasino-ilman-rekisteroitymista.fi
 uusi-viesti.info
 uusiatarjouksiasuomessa.com
+uusikasinoilmanrekisteroitymista.eu
 uusimaamuuttopalvelu.com
 uusiminenpankki.com
 uusiminenspankki.com
@@ -16242,6 +16270,7 @@ verdecasinofinland.com
 verhoomohelsinki.fi
 verif-soumission.com
 verificer-mobilepay.com
+verifortum.com
 veritaspalvelut.com
 verkkaponki-kirjaudu.com
 verkko-palvelui.com
@@ -17701,6 +17730,7 @@ zavero-fashion.com
 zavero-linx-app.pro
 zavero-linx.pro
 zavero-pnc.live
+zavero-vip.trade
 zaviestateandbuilders.com
 zavvori-suomi.com
 zb-soumi.com
@@ -17719,6 +17749,7 @@ zerofinland.xyz
 zerohelsinki.xyz
 zet-casino-suomi.com
 zetcasino-suomi.com
+zetcasino-suomi.net
 zfinlandlw.pics
 zfwfinland.pro
 zgxoehardwpcaoyj.shop
