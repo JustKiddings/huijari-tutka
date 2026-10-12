@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 11/10/2026 07:01 UTC
+# Last modified: 12/10/2026 07:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -534,6 +534,7 @@ arcticcasino-suomi.fi
 arcticcirclefinland.com
 arctickasino-finland.com
 arctickasino-suomi.fi
+arcticracingsuomi.fi
 arcticrallyfinland.fi
 arcusfinland.net
 arduinosuomi.com
@@ -3919,6 +3920,7 @@ glorioncasino-finland.com
 glorionkasino-finland.com
 glorionkasinosuomi.fi
 glorionsuomi.fi
+glovero-03.shop
 glowfinland.sbs
 glowiesuomi.com
 glowmed-elisabeth.xyz
@@ -7540,6 +7542,7 @@ maisonnordeau.com
 maisonvero-mv.in
 maitojaterveys.fi
 majuriturvallinen.com
+makanta.com.br
 makanta.monster
 makantaadvisory.com
 makantadbir.com
@@ -9407,6 +9410,7 @@ oma-hub.com
 oma-ilse.de
 oma-insurance.com
 oma-irma.com
+oma-jewelry.ru
 oma-jiuyouhui.com.cn
 oma-kaethe.de
 oma-kanta.help
@@ -11656,6 +11660,7 @@ showposuomi.com
 showroomhelsinki.com
 shqip-suomi-shqip.online
 shrinkprofinland.com
+shrinkprofinland.fi
 shrivivekyogahelsinki.com
 shsuomi.com
 shturval-forum.ru
