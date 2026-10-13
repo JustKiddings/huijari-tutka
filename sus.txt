@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 12/10/2026 07:01 UTC
+# Last modified: 13/10/2026 07:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -194,6 +194,7 @@ ahti-casino-suomi.com
 ai-helsinki.com
 ai-palvelu.com
 ai-suomi.com
+ai-turvalisus.ee
 aiacademyfinland.com
 aiartgalleryfinland.com
 aida-suomi.com
@@ -3621,6 +3622,7 @@ fortuman.shop
 fortuman.store
 fortuman.xyz
 fortumania-net.ru
+fortumania.org
 fortumania.ru
 fortumap.com
 fortumaritime.com
@@ -5124,6 +5126,7 @@ helsinkimagazine.com
 helsinkimail.online
 helsinkimainos.com
 helsinkimaker.xyz
+helsinkimarket.fi
 helsinkimarket.xyz
 helsinkimarketingsummit.com
 helsinkimask.xyz
@@ -5160,6 +5163,7 @@ helsinkinews.tv
 helsinkinews24.com
 helsinkinext.xyz
 helsinkinft.xyz
+helsinkinightchallenge.fi
 helsinkinights.com
 helsinkinl.services
 helsinkinode.com
@@ -5395,6 +5399,7 @@ helsinkiworks.com
 helsinkiwrapped.xyz
 helsinkiww.net
 helsinkix.xyz
+helsinkiyachtcharter.fi
 helsinkiyes.com
 helsinkiyield.xyz
 helsinkizero.xyz
@@ -5508,6 +5513,7 @@ hoffsneakerssuomi.com
 hoglsuomi.com
 hoito-ja-kotipalvelu-oy.com
 hoitopalveluelohopia.com
+hoituupalvelu.fi
 hoivapalvelu.fi
 hoivapalvelupaula.fi
 hoivapalvelut.net
@@ -5986,6 +5992,7 @@ investwithsoumitra.in
 iotsuomi.net
 ip-tvfinland.fi
 ip-tvfinland.online
+ip-tvsuomi.co
 ip-tvsuomi.com
 ip-tvsuomi.live
 ip-tvsuomi.online
@@ -6736,6 +6743,7 @@ kissen-suomi.shop
 kitarahuolto.org
 kitchenaid-suomi.com
 kitchenaidsuomi.com
+kitfinland.xyz
 kivaasuomessa.online
 kivi-helsinki.com
 kivihuolto.fi
@@ -8462,6 +8470,7 @@ moovyshoes.com
 moovysmart.com
 moovysmart.net
 moovystill.com
+moovytech.com.br
 moovytravel.com
 moovyx.fr
 mopaiguichaosusuome.cfd
@@ -9664,6 +9673,7 @@ omaverossa-asiakirja.info
 omaverossa-finland.com
 omaverossa-suomi.bio
 omaverossa-suomi.com
+omaverossa-suomii.online
 omaverossa-verohallinnonasiointipalvelu.com
 omaverossaa-finland.com
 omaverosuomi.com
@@ -12205,6 +12215,7 @@ souminna.com
 souminoon.net
 souminstitut.com
 souminternational.com
+soumio.app
 soumio.ca
 soumio.ch
 soumio.com
@@ -15222,6 +15233,7 @@ titaniturvapalvelut.com
 tjtfinland.fi
 tkt-autohuolto.fi
 tktalohuolto.com
+tkturvallisuuskonsultti.fi
 tktxsuomi.fi
 tkvfinland.com
 tkvfinland.org
@@ -15931,6 +15943,7 @@ ulvilanautohuolto.com
 umakantaenterprises.fun
 umakantajena.in
 umasanghviestates.com
+umasuomi.fi
 umcfinland.fi
 umnasserfinland.edu.bh
 ums-asiakasportaali.fi
