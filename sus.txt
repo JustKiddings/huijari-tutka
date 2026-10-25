@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 24/10/2026 07:01 UTC
+# Last modified: 25/10/2026 08:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -532,6 +532,7 @@ aquilasuomi.online
 aqvafinland.se
 arakengatsuomi.com
 arambarsoumian.com
+arampalvelu.com
 arboristipalvelu.net
 arcades-insoumises.com
 arcadiafinland.com
@@ -762,6 +763,7 @@ atkhuolto.fi
 atkpalvelu.online
 atksuperpalvelu.fi
 atlantafinlandsociety.com
+atomic-suomi.com
 atomobilepayment.info
 atreafinland.fi
 aturva.com
@@ -1127,6 +1129,7 @@ betalicefinland.com
 betalingsservice-mobilepay.com
 betalingsservicemobilepay.com
 betalrightfinland.com
+betbay-finland.com
 betbaysuomi.com
 beteumsuomi.com
 betfurysuomi.com
@@ -1181,6 +1184,7 @@ bigbassbonanza1000-finland.net
 bigbassbonanza1000-finland.org
 bigboost-casino-suomi.com
 bigboost-suomi.com
+bigboostcasino-finland.com
 bigboostcasino-suomi.com
 bigboostfinland.com
 bigboostsuomi.com
@@ -1461,6 +1465,7 @@ canadagoosesuomiale.com
 canadamobilepay.com
 candypop-finland.com
 cannabisfortumors.com
+cannabisinhelsinki.shop
 cansuomiland.com
 cantostcusuomerusta.com
 canvasfinland.xyz
@@ -1545,6 +1550,7 @@ casinohelsinkihotel.com
 casinohelsinkionline.com
 casinohotelhelsinki.com
 casinoilmanrekisteria.com
+casinoilmanrekisteroitymista.com
 casinoilmansuomenlisenssia.com
 casinoilmansuomilisenssia.com
 casinoinfinityfinland.com
@@ -2899,6 +2905,7 @@ festivaalisuomi.fi
 festivohuolto.pro
 fezbet-suomi.com
 ffgrfinland.com
+ffinland.com
 ffkfinland.icu
 fhassoumikadri.com
 fhgzzmbgbaoyj.website
@@ -4176,6 +4183,7 @@ gestionsoumissions.ca
 gesuomingbaoyaochai.bond
 get-personal-loan-in-finland.bond
 get-playvero-tv.shop
+getakanta.com
 getenviromasterofinlandempire.com
 getfinland.com
 getintofinland.com
@@ -4558,6 +4566,7 @@ helsinki-blkaft-aabb.info
 helsinki-boat-tour.com
 helsinki-card.com
 helsinki-casin0.website
+helsinki-city.club
 helsinki-copenhagen-cruise-package-fi.sbs
 helsinki-cro.com
 helsinki-dating.site
@@ -4793,6 +4802,7 @@ helsinki-pch-eal.info
 helsinki-peachify-aac.org
 helsinki-pelaa.online
 helsinki-play-game.store
+helsinki-play.click
 helsinki-play.site
 helsinki-pool-150964433.click
 helsinki-pool-339338448.click
@@ -5211,6 +5221,7 @@ helsinkicommission.com
 helsinkicommittee.org
 helsinkicompany.com
 helsinkiconference.com
+helsinkicontemporarytheatrecompany.com
 helsinkicopilot.xyz
 helsinkicopilots.xyz
 helsinkicreativesociety.com
@@ -5971,6 +5982,7 @@ htfsuomi.com
 htg-finland.com
 htifinland.com
 htpienkonehuolto.fi
+https-mobiili-online.com
 httpsoumission-couriters.com
 httpsoumissioncouriters.com
 hturva.com
@@ -6831,6 +6843,7 @@ karikaturvakfi.org
 karissuomenparis.net
 karisuomelaoy.fi
 karlkanisuomi.com
+karllagerfeld-suomi.com
 karllagerfeldsuomi.com
 karmelfinland.org
 karpinpalvelut.com
@@ -7441,6 +7454,7 @@ laserpalvelut.com
 laserpuhdistuspalvelu.fi
 lasihuolto.fi
 lasiturva.com
+laskentapalvelut.net
 laskuttaa-mobilepay.com
 laskutuspalvelu.io
 laskutuspalvelufi.online
@@ -7811,6 +7825,7 @@ luckycasino-suomi.com
 luckycasinofinland.com
 luckycasinosuomi.com
 luckycasinosuomi.fi
+luckydayscasino-finland.com
 luckydayscasino-suomi.com
 luckykasino-suomi.fi
 luckynordicfinland.com
@@ -8850,6 +8865,7 @@ monvero-alpha-flux.pro
 monvero-line.store
 monvero-london.com
 monviestates.com
+moonboot-suomi.com
 moonbootfinland.com
 moondancefinland.com
 moonhelsinki.xyz
@@ -9425,6 +9441,9 @@ nobullsuomi.com
 nocturva.com
 nocturva.net
 nocturva.org
+nodanvero-ai.com
+nodanvero-es.com
+nodanvero-ia.com
 node-finland.xyz
 nodefinland.xyz
 nodehelsinki.xyz
@@ -9706,6 +9725,7 @@ official-casino-finland.lat
 offinland.fi
 offlinefinland.com
 offthebenchhelsinki.com
+ofinland.com
 oh-pollysuomi.com
 ohcasino-finland.com
 ohefinland.bar
@@ -10578,6 +10598,7 @@ panofinland.com
 panokavereita-helsinki.online
 panosta-kasino-finland.com
 panosta-suomi.org
+panostacasino-finland.com
 panostafinland.com
 panslotsuomi.club
 panterahelsinki.com
@@ -10599,6 +10620,7 @@ paras-suomi.com
 parasaanikirjapalvelu.fi
 parasiptvpalvelu.com
 paraskasinosuomessa.com
+paraskasinosuomi.com
 paraskasinotsuomi.com
 parasnettikasino-suomi.com
 parasnettikasinosuomi.com
@@ -11493,6 +11515,7 @@ returvakten.se
 returvaluta.com
 returvaluta.nu
 reusekiertotalouspalvelu.fi
+revanpalveluttaxsoy.com
 revela-helsinki.com
 revero-fruit.com
 revero-shop.de
@@ -11597,6 +11620,7 @@ roborocksuomi.com
 robotfinland.xyz
 robothelsinki.fi
 robothelsinki.xyz
+roboticsexpofinland.com
 robotitsuomi.com
 robotsfinland.com
 robustfinland.com
@@ -14716,6 +14740,7 @@ suominature.com
 suominature.life
 suominatureca.com
 suominayttamona.dance
+suomindo.com
 suomineapq.info
 suominedlw.tattoo
 suomineidotriisuu.com
@@ -15285,7 +15310,9 @@ takanta.online
 takemobilepayments.com
 takeyasuomi.com
 takkifinland.top
+taksifinland.com
 taksifinland.guru
+taksifinland.net
 taksifinland.org
 taksihelsinki.link
 taksipalvelu-koikkalainen.com
@@ -15539,6 +15566,7 @@ terveysilta.com
 terveysinfo.net
 terveysjaelama.fi
 terveysjaloma.com
+terveyskauneus.com
 terveyskaupat.net
 terveyskauppa.com
 terveyskauppaonline.com
@@ -15945,6 +15973,7 @@ top20finland.com
 topaicompaniesinfinland.com
 topaiinfinland.com
 topaiplatformsinfinland.com
+topairsuomi-fi.fit
 topaitoolsinfinland.com
 topcasino-helsinki.com
 topcasinosuomi.com
@@ -16571,6 +16600,7 @@ ullavanpalvelut.net
 ulosmittaus-asiakas.net
 ulpukanhuolto.shop
 ulthuolto.com
+ultimatehelsinkicityguide.com
 ultracasino-finland.com
 ultracasino-suomi.com
 ultracasinosuomi.com
@@ -17247,6 +17277,7 @@ vero-io.com
 vero-iq.com
 vero-it.com
 vero-it.ru
+vero-italiano.com
 vero-italiano.se
 vero-jewelry.com
 vero-jewelryshop.com
@@ -18219,6 +18250,8 @@ xn--kasinotilmanrekisteritymist-1kc82c.info
 xn--kasinotilmanrekisteritymist-1kc82c.ninja
 xn--kasinotilmanrekisteritymist-1kc82c.org
 xn--kasinotilmanrekisteritymistfin-mtc28c.com
+xn--keiteleenjtehuolto-utb.com
+xn--keiteleenjtehuolto-utb.fi
 xn--kiinteisthuoltokivioja-2hc.fi
 xn--kiinteistpalvelut-7zb.net
 xn--kitvero-suplementos-0vb.online
