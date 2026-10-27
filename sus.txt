@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 26/10/2026 08:01 UTC
+# Last modified: 27/10/2026 08:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -296,6 +296,7 @@ akamaomakanta.com
 akapalvelut.com
 akashviestate.com
 akashviestates.com
+akela-finance.com
 akgsuomi.com
 akisuomela.fi
 akkuhelsinki.fi
@@ -605,6 +606,7 @@ arvostettuasiakaskokemus.fi
 asailfinland.com
 asencaresuomi.fi
 asennuspalvelujoku.com
+asennuspalveluluxsus.fi
 asennuspalvelumarjoniemi.fi
 asennuspalvelumerkkiniemi.com
 asennuspalvelupalmu.fi
@@ -1232,6 +1234,7 @@ birdhelsinki.com
 birgittahelsinki.com
 birkenstock-suomi-fi.com
 birkenstock-suomi.com
+birkenstocks-suomi.com
 birkenstocksuomi.com
 birkenstocksuomifi.com
 bisoumi.com
@@ -2190,6 +2193,7 @@ designersoumi.co.in
 designfinland.xyz
 designfortumbler.com
 designhelsinki.xyz
+designordeath.org
 designstudiohelsinki.info
 designstudiohelsinkids.info
 designstudiohelsinkipl.info
@@ -4318,6 +4322,7 @@ gohelsinkigo.com
 goingtofinland.com
 golasuomi.com
 gold-finland-89.today
+goldbet-finland.one
 goldenfish-finland.com
 goldengun-finland.com
 goldengun-finland.net
@@ -4455,6 +4460,7 @@ halalfoodhelsinki.com
 halla-helsinki.com
 hallinnollinenviesti.info
 hallintopalvelut-vayla.fit
+hameenatkjatilipalveluoy.com
 haminan-autohuolto.fi
 hammashoitopalvelurasmussen.fi
 hampartsoumian.ru
@@ -6006,6 +6012,7 @@ hotels-in-helsinki.com
 hotelshelsinki.nl
 hotelshelsinkifinland.net
 hotelsoffinland.com
+hotelsofhelsinki.com
 hotfinland.xyz
 hotosuomi.fi
 hotspinsuomi.com
@@ -7521,6 +7528,7 @@ laskentapalvelut.net
 laskuttaa-mobilepay.com
 laskutuspalvelu.io
 laskutuspalvelufi.online
+laskutuspalvelufin.com
 laskutuspalveluoy.com
 laskutuspalvelut.net
 lasmi-helsinki.com
@@ -7871,6 +7879,7 @@ lowelloysuomi.com
 lowellsuomi.com
 lowellsuomi.net
 lowellsuomioy.com
+loyalbondsuomi.com
 lpglobalfinland.com
 lrtfinland.xyz
 lsgrillsfinland.com
@@ -10309,6 +10318,7 @@ online-suomi.com
 online-suomi.site
 online-vipps-dkmobilepay.com
 onlineasiakas-suomi.site
+onlinecasinoeirekisteroitymista.com
 onlinecasinos-finland.com
 onlinecasinosinfinland.com
 onlinedatingfinland.today
@@ -12215,6 +12225,7 @@ seksiseuraa-suomessa.fi
 seksiseuraa-suomi.fi
 seksisuomi.com
 seksisuomi.fi
+seksitreffit-helsinki.online
 seksitreffitsuomi24.com
 sekura-kantahlambar.id
 selestakantaron.com
@@ -13185,6 +13196,7 @@ soumitrab.com
 soumitrabasu.com
 soumitrabasu.org
 soumitrabhose.com
+soumitrachatterjee.cfd
 soumitrachatterjee.com
 soumitradey.com
 soumitradutta.name
@@ -14151,6 +14163,7 @@ suomi-boats.com
 suomi-bonus.online
 suomi-box.com
 suomi-casino.online
+suomi-casino.org
 suomi-chic.com
 suomi-choose.com
 suomi-connect.com
@@ -17217,6 +17230,7 @@ vero-backend.site
 vero-beach-luxury-homes.com
 vero-beach-real-estate.com
 vero-beach-south.web.id
+vero-beach.com
 vero-beach.web.id
 vero-beachhomesforsale.com
 vero-bean.com
