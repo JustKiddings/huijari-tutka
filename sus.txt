@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 27/10/2026 08:01 UTC
+# Last modified: 28/10/2026 08:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -112,6 +112,7 @@ aabhasoumitra.com
 aada-helsinki.com
 aalto-helsinki.com
 aamunkoihelsinki.com
+aamutahtipalvelut.com
 aanekoskenhinauspalvelu.com
 aaniviesti.com
 aasiakas.com
@@ -906,6 +907,7 @@ avero-nex.com
 avero-nixal.fr
 avero-paris.com
 avero-peak.com
+avero-properties.com
 avero-research.com
 avero-rest.ru
 avero-review.com
@@ -3719,6 +3721,7 @@ finlandtap.xyz
 finlandtb.com
 finlandteam.xyz
 finlandtech.xyz
+finlandtechnology.com
 finlandtechnordia.com
 finlandtee.xyz
 finlandtekai.com
@@ -3948,6 +3951,7 @@ fortum-vip.shop
 fortum.agency
 fortum.com.pl
 fortum.green
+fortum.lat
 fortum.live
 fortum.lu
 fortum.nu
@@ -6549,6 +6553,7 @@ isabellemassoumi.com
 isabelmarantsuomi.net
 isabelmassoumi.com
 isannointihelsinki.com
+isbeautyhelsinki.com
 isfinland.com
 ishopfinland.com
 isma2026helsinki.org
@@ -9521,6 +9526,7 @@ nodanvero-ai.com
 nodanvero-es.com
 nodanvero-ia.com
 nodanvero-ki.com
+nodanvero-no.com
 node-finland.xyz
 nodefinland.xyz
 nodehelsinki.xyz
@@ -9604,6 +9610,7 @@ nordeafund.xyz
 nordeafunds.lu
 nordeaga.xyz
 nordeagle.com
+nordeagood.life
 nordeagroup.shop
 nordeagroup.tk
 nordeagroup.xyz
@@ -11129,6 +11136,7 @@ porvoonpalvelutalo.store
 porvoonsuomiunkari.fi
 porvoontahtihuolto.fi
 posidosuomi.com
+positiivinen-luottotietorekisteri.com
 positiveeducationfinland.com
 possu-casino-suomi.com
 possu-finlandia.com
@@ -11355,6 +11363,7 @@ pyretrinfinland.com
 pyro-helsinki.com
 pyynto-suomi-fi.com
 qartloungefinland.com
+qavero-sa.com
 qbdfinland.info
 qbsuominem.info
 qingdaoyj.com
@@ -11488,6 +11497,7 @@ raturvatia.blog
 rauduspalvelut.com
 rauhanasiakaspalvelu.com
 raumankenkahuolto.fi
+raumankiinteistojarakennuspalvelu.com
 rautanethelsinki.net
 ravintoterveys.net
 ravitsemushelsinki.info
@@ -11509,6 +11519,7 @@ rbsuomi.online
 rbsuomi.org
 rcepthelsinkisw.shop
 rcnmobilepay.com
+rcracingfinland.com
 rcsfinland.com
 rcsfinland.net
 rdifinland.com
@@ -13535,6 +13546,7 @@ stonevegas-finland.com
 stonevegasfinland.com
 stooripalvelut.fi
 stopagfinland.com
+storiesbyfinland.se
 storifyfinland.com
 stormsuomi.fi
 storyslamhelsinki.com
@@ -17465,6 +17477,7 @@ vero-med.ru
 vero-media.net
 vero-mentoring.com
 vero-mgmt.com
+vero-michael.com
 vero-microfluent.com
 vero-milano.it
 vero-minus.site
@@ -17690,6 +17703,7 @@ verofinland-suomi.com
 verofinlandsuomi.com
 verohallinnon-asiointipalvelu.com
 verohallinnonasiointipalvelu.com
+verohallinto-finland.com
 verohallinto.info
 verohallinto.org
 veroo-suomi.com
