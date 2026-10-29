@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 28/10/2026 08:01 UTC
+# Last modified: 29/10/2026 08:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -788,6 +788,7 @@ auranmaanmuuttopalvelu.net
 aurasuomi.com
 auraturva.online
 auraviestate.com
+aurelfinland.com
 aurihelsinki.fi
 aurinkorannikonrakennuspalvelut.com
 aurinkorannikonsiivouspalvelut.com
@@ -1226,6 +1227,7 @@ billybetsfinland.com
 bimmerfinland.com
 binancefinland.com
 binaryfinland.xyz
+bingobonga-suomi.click
 bingobongafinland.com
 binordeal.com
 biocharfinland.org
@@ -2029,6 +2031,7 @@ cyberhelsinki.xyz
 cybersecfinland.com
 cybersuomi.com
 cyclinginfinland.com
+cyclosuomispare.com
 cypherhelsinki.xyz
 cysmobilepay.com
 czasoumilacze.pl
@@ -2722,6 +2725,7 @@ ervosahkopalvelu.fi
 escort-helsinki.top
 escort-helsinki.vip
 escortservice-in-finland.xyz
+escortsfinland.biz
 escortshelsinki.com
 escortsoumise.be
 escrowfinland.xyz
@@ -3113,6 +3117,7 @@ finlandapp.xyz
 finlandapps.com
 finlandapps.xyz
 finlandar.xyz
+finlandarchitecture.com
 finlandarchives.xyz
 finlandarcticcircle.com
 finlandartcryvpn01.ru
@@ -3476,6 +3481,7 @@ finlandluck.com
 finlandluxuryhome.com
 finlandluxurymedia.company
 finlandm1ch.site
+finlandmadeclear.com
 finlandman.com
 finlandmanager.xyz
 finlandmanepali.fi
@@ -3785,6 +3791,7 @@ finlandvps.ru
 finlandvps.shop
 finlandvr.com
 finlandvr.xyz
+finlandwalk.com
 finlandwallet.xyz
 finlandwaterbottle.shop
 finlandwayschools.com
@@ -4465,6 +4472,7 @@ halla-helsinki.com
 hallinnollinenviesti.info
 hallintopalvelut-vayla.fit
 hameenatkjatilipalveluoy.com
+hameenkyrontilijakiinteistopalveluoy.com
 haminan-autohuolto.fi
 hammashoitopalvelurasmussen.fi
 hampartsoumian.ru
@@ -5494,6 +5502,7 @@ helsinkijazzkissa.com
 helsinkijetskigo.com
 helsinkijewels.com
 helsinkijobs.work
+helsinkijournal.com
 helsinkijs.com
 helsinkijuristi.com
 helsinkijuristi.org
@@ -6088,6 +6097,7 @@ hunter-boots-suomi.com
 hunter-finland.com
 hunterbootsfinland.com
 hunterbootsuomi.com
+huntersuomi.com
 huntersuomi.shop
 huntinfinland.com
 huolenpitopalvelu.com
@@ -6464,6 +6474,7 @@ iptv-finland.store
 iptv-finland.tv
 iptv-finlandplus.com
 iptv-helsinki.com
+iptv-palvelu.shop
 iptv-suomi-finland.site
 iptv-suomi.cc
 iptv-suomi.cloud
@@ -6532,6 +6543,7 @@ iptvsuomipro.com
 iptvsuomis.com
 iptvsuomistream.fi
 iptvsuomitv.com
+iptvsuomitv.shop
 iptvsuomivip.fi
 iptvvfinland.com
 irafinlandia.com
@@ -6872,6 +6884,7 @@ kampanjaspankkifimobiili.com
 kampanjasuomi-fimobiili.com
 kamppihelsinkii.com
 kamranmassoumi.com
+kanavatiptvsuomi.shop
 kansalaiset-kirjauduomakantaan.info
 kansalaiset-omakanta.com
 kansallinenturvallisuus.com
@@ -7008,6 +7021,7 @@ katutaidehelsinki.fi
 katzenfutter-suomi.shop
 kaukoturva.info
 kauneusjahyvinvointipalvelutjaanakotanen.com
+kauneusjaterveys.com
 kauneusterveyskulma.fi
 kauniaistenautohuolto.fi
 kaunissuomi.com
@@ -7298,6 +7312,7 @@ kontaktipalvelut-suomi.site
 kontaktisaastopanki.site
 kontaktisaatopanki.site
 koodifinland.com
+kookaisuomi.com
 kopiopalvelu.fi
 korasuomi.fi
 korhonen-helsinki.com
@@ -8347,6 +8362,7 @@ memberfinland.xyz
 membersmobilepay.info
 memehelsinki.xyz
 menacecasinofinland.com
+mentalsuomi.net
 menuhinnatsuomessa.online
 mephistohelsinki.fi
 mephistosuomi.com
@@ -8918,6 +8934,7 @@ mohsenmasoumi.nl
 mohsenmasoumi.online
 moi-casino-suomi.com
 moicasino-suomi.com
+moisuomi.com
 mokkisuomi.fi
 moldofinlandez.md
 momentumfinland.xyz
@@ -9015,6 +9032,7 @@ moovyta.com
 moovytech.com.br
 moovytravel.com
 moovyx.fr
+moovyx.site
 mopaiguichaosusuome.cfd
 morali-helsinki.com
 morenipalvelut.com
@@ -9315,6 +9333,7 @@ netbet-casino-suomi.com
 netbet-finland.com
 netbet-suomi.com
 netbetcasino-suomi.com
+netinturva.org
 netopiamobilepaypariuri.com
 netsetsuomi.fi
 netsuomikanterode.com
@@ -9901,6 +9920,7 @@ oma-cha.com
 oma-chareef.com
 oma-chic.com
 oma-circles.com
+oma-clinic.ru
 oma-closet.com
 oma-closets.com
 oma-club.fr
@@ -10171,6 +10191,7 @@ omakantaanpalvelut-kirjaudu.com
 omakantaanpalvelut.com
 omakantafi.info
 omakantafin.info
+omakantaif.online
 omakantainsights.info
 omakantal-kansalaiset.com
 omakantarypalv.com
@@ -10395,6 +10416,7 @@ opantyopanty.com
 opastepalvelu.fi
 opastyosuomi.fi
 openacademyoffinland.eu
+openarmsfesthelsinki.com
 openfinlandchallenge.fi
 openhelsinki.xyz
 openstagefinland.com
@@ -10821,6 +10843,7 @@ pelipaitasuomi.com
 pelipetocasino-finland.com
 pelipetokasino-suomi.fi
 pelipistehelsinki.fi
+pelisudenpalvelut.com
 pelisuomeseta.com
 pelithelsinki.com
 pelitoimintaasuomessa.com
@@ -11206,6 +11229,7 @@ primefinland.com
 primehouseviestit.com
 princesspollyfinland.com
 printfinland.com
+printhelsinki.store
 pripanki.com
 prismafinland.ru
 prismasuomi.com
@@ -11428,6 +11452,7 @@ radicalfinland.xyz
 radiofreefinland.net
 radiosuomi.com
 radiosuomi.net
+radiosuomi.vip
 raffinland.info
 rafinland.com
 raflahuolto.com
@@ -12412,6 +12437,7 @@ silvero-construccion.com
 silvero-finanza.com
 simonhinauspalvelu.com
 simple-casino-suomi.com
+simplefinland.com
 simplefinland.xyz
 simpliflyfinland.cloud
 simpliflyfinland.com
@@ -12672,6 +12698,7 @@ soumi-youku.com
 soumi.fi
 soumi.icu
 soumi.org
+soumi.ru
 soumi.shop
 soumi.store
 soumi.tn
@@ -13197,6 +13224,7 @@ soumitiyu.com
 soumitiyu.com.cn
 soumitiyu.org.cn
 soumitiyuappxiazaigwzuixinban.com.cn
+soumitiyucn.cn
 soumitiyuw.com.cn
 soumito.shop
 soumitr.com
@@ -13546,6 +13574,7 @@ stonevegas-finland.com
 stonevegasfinland.com
 stooripalvelut.fi
 stopagfinland.com
+storiesbyfinland.com
 storiesbyfinland.se
 storifyfinland.com
 stormsuomi.fi
@@ -13828,6 +13857,7 @@ suomenkaihdin.com
 suomenkaihdincenter.com
 suomenkaihdinkeskus.com
 suomenkaista.online
+suomenkalustemyynti.fi
 suomenkannabisyhdistys.com
 suomenkansaensin.fi
 suomenkansalaisuuskoe.com
@@ -13903,6 +13933,7 @@ suomenlentopallo.com
 suomenlevytyo.com
 suomenliikennevalmennus.com
 suomenliittokunta.com
+suomenlinnadistillery.com
 suomenlinnaferry.fi
 suomenlinnanvanhatparrat.com
 suomenlisenssi.com
@@ -14089,6 +14120,7 @@ suomentukkuliike.fi
 suomentulevaisuus.net
 suomenturvetuottajat.fi
 suomentuulienergia.fi
+suomentyotarviketukku.online
 suomentyoterveys.com
 suomenuintikoulu-fi.com
 suomenurheilijat.fi
@@ -14263,6 +14295,7 @@ suomi-kokemuksia.com
 suomi-kult.com
 suomi-linkki.life
 suomi-linkki.top
+suomi-loopearplugs.com
 suomi-lumoava.com
 suomi-market.com
 suomi-mebel.ru
@@ -14317,6 +14350,7 @@ suomi-tek.com
 suomi-tili.sbs
 suomi-tunnistautuminen.com
 suomi-tunnistus.com
+suomi-tunnitsaudi.fi
 suomi-uutiskirje.fi
 suomi-uutiskirjeita.fi
 suomi-vavada.com
@@ -15836,6 +15870,7 @@ terveystottumuksetfial.info
 terveystottumuksetfiao.info
 terveystukku.com
 terveystuote.com
+terveystuotteet.com
 terveystutkimus.fi
 terveysuutiset-suomi.com
 terveysvaikutukset.com
@@ -16062,6 +16097,7 @@ tommyfinland.com
 tommyhilfiger-suomi.com
 tomoffinland.co.uk
 tomoffinland.hamburg
+tomoffinland.net
 tomoffinlandstorebuypop.shop
 tomoffinlandstoremypop.shop
 tomoffinlandstoresalepop.shop
@@ -16069,6 +16105,7 @@ tomorrowland-finland.com
 tompanrakentamispalvelut.fi
 tomskengat-suomi.com
 tomtailorsuomi.net
+tomtocsuomi.com
 tongliaoyj.com
 tonybet-finland.com
 tonybet-finland.fi
@@ -17970,6 +18007,7 @@ visuometer.com
 visuometrics.com
 visuometrics.org
 visuomis.com
+vitalfinland.com
 vitamiinipankki.online
 vitapalvelut.com
 vittaro-helsinki.com
