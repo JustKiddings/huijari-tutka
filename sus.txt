@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 30/10/2026 08:01 UTC
+# Last modified: 31/10/2026 08:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -957,6 +957,7 @@ azurslotcasinofinland.com
 azurslotfinland.com
 b2bfinland.com
 b2bfinland.net
+baanthaifinland.com
 babyboofashionsuomi.com
 babylissfinland.com
 babylisssuomi.com
@@ -1501,6 +1502,7 @@ carawayfinland.org
 carcapsulefinland.com
 carebridgefinland.com
 careercornerfinland.com
+carhartt-suomi.com
 carharttfinland.com
 carpediemvero-24.com
 carpeta-finlandia.shop
@@ -1520,6 +1522,7 @@ cashelsinki.com
 cashfinland.xyz
 cashhelsinki.xyz
 cashimashifinland.com
+cashlounge-casino-finland.com
 cashlounge-finland.com
 cashlounge-suomi.com
 casiku-finland.com
@@ -2102,6 +2105,7 @@ dc-shoes-finland.com
 dc-shoessuomi.com
 dckengatfinland.com
 dckengatsuomi.com
+dclandscapefinland.com
 dcpfinland.com
 dcshoes-suomi.com
 dcshoesfinland.com
@@ -2448,9 +2452,11 @@ e-makantasis.gr
 e-nordea.com
 e-omakanta-verkossa.com
 e-playfinland.online
+e-sahkopostialuesuomi.info
 e-shturval.ru
 e-suomen.site
 e-suomi-asiakirja.com
+e-suomi-sahkopostialue.info
 e-suomi-tukitiedosto.org
 e-suomi-verkossa.com
 e-suomi-viestinta.info
@@ -2726,6 +2732,7 @@ eroasuomesta.org
 erosenvuokrauspalvelucom.net
 eroticmoviestation.com
 ervosahkopalvelu.fi
+escort-finland.net
 escort-helsinki.top
 escort-helsinki.vip
 escortservice-in-finland.xyz
@@ -3214,6 +3221,7 @@ finlandchinaeconomicandinvestmentassociationry.org
 finlandchinainvestmentandtradingpromotionassociati.org
 finlandclean.com
 finlandcleaner.xyz
+finlandcleaning.com
 finlandclient.xyz
 finlandclothing.com
 finlandcloud-9c2f5a7e1.com
@@ -3668,6 +3676,7 @@ finlandserver.xyz
 finlandservices.xyz
 finlandsex.xyz
 finlandsgottalent.com
+finlandsguiden.se
 finlandshirts.com
 finlandshoes.com
 finlandshop.cc
@@ -4398,6 +4407,7 @@ greece-finland-train-holiday-deals.today
 greehuolto.fi
 greenandbluefinland.com
 greenfinland.org
+greenharvestfinland.com
 greenhelsinki.com
 greeninvestfinland.com
 greenlinefinland.com
@@ -4535,6 +4545,7 @@ hashhelsinki.xyz
 hashratefinland.xyz
 hassanmasoumi.com
 hatas-helsinki.com
+hatayhelsinki.com
 hatssoumi.site
 hattufinland.top
 hattulanterveys.fi
@@ -5798,6 +5809,7 @@ helsinkitutkija.com
 helsinkitypefoundry.com
 helsinkiultra.xyz
 helsinkiunited.com
+helsinkiunited.net
 helsinkiuutiset.com
 helsinkivaatteet.com
 helsinkivalley.com
@@ -7511,6 +7523,7 @@ laitehuolto.com
 laitehuoltohavia.online
 laitteenturvallisuus.com
 lajiaofosuomeikongzhuang.sbs
+lakaudensiivouspalvelu.com
 lakeudenagrihuolto.net
 lakeudenautohuolto.fi
 lakeudenlakipalvelu.com
@@ -8019,6 +8032,8 @@ luxuryhelsinkistore.shop
 luxuryhelsinkistyle.shop
 luxuspalvelut.fi
 luzia-helsinki.com
+luzqavero-qavolzemi-poxavqeli.shop
+luzqavero-virexolqa-kexivorla.shop
 lvbetsuomi.com
 lvi-helsinki.fi
 lvi-palvelu.fi
@@ -10149,6 +10164,7 @@ oma-tech.com
 oma-tipps.de
 oma-token.com
 oma-toos.com
+oma-tototogeltopno1.com
 oma-trading-zfn.xyz
 oma-tradingschool.com
 oma-trubel.de
@@ -10208,6 +10224,7 @@ omakantaanonline-tietosi-fi.com
 omakantaanpalvelut-fi.info
 omakantaanpalvelut-kirjaudu.com
 omakantaanpalvelut.com
+omakantafi-suomi.com
 omakantafi-suomi.online
 omakantafi.info
 omakantafin.info
@@ -12287,6 +12304,7 @@ seksitreffit-helsinki.online
 seksitreffitsuomi24.com
 sekura-kantahlambar.id
 selestakantaron.com
+selfishfinland.com
 selkeeturva.fi
 selkirkfinland.com
 selkirkfinland.online
@@ -12414,6 +12432,7 @@ sigg-suomi.com
 siggsuomi.com
 siggsuomis.top
 signaturefinland.com
+sihelsinki.com
 siirry-omakantaan.com
 siirtopalvelu.com
 siivoojan-tyopaika-fi.bond
@@ -13214,6 +13233,7 @@ soumissionsystemedalarme.com
 soumissiontattoo.com
 soumissionthermopompe.net
 soumissionthermopompes.ca
+soumissionthermos.com
 soumissiontoitures.com
 soumissiontransportcolivex.com
 soumissiontravaux.com
@@ -13246,6 +13266,7 @@ soumith.com
 soumithandnavya.com
 soumithinturi.com
 soumithreddypodduturi.info
+soumitiyu-xiazai.cn
 soumitiyu.com
 soumitiyu.com.cn
 soumitiyu.org.cn
@@ -15613,6 +15634,7 @@ tarjousketsuomessa.website
 tarjousketsuomessa.world
 tarjousketsuomessa.xyz
 tarkastuspalvelu.com
+tarkistailmoituksesi-suomionline.com
 tarkistus-omavero.com
 tasapainotasuomi.com
 taschefinland.com
@@ -15757,6 +15779,7 @@ terveysilta.com
 terveysinfo.net
 terveysjaelama.fi
 terveysjaloma.com
+terveysjuomat.com
 terveyskauneus.com
 terveyskaupat.net
 terveyskauppa.com
@@ -16550,6 +16573,7 @@ tupperware-suomis.com
 tupperwarefinland.com
 tupperwaresuomi-fi.com
 tupperwaresuomi.com
+turbofollowinsoumis.meme
 turksinfinland.com
 turunkattohuolto.com
 turunkylmahuolto.fi
@@ -18469,6 +18493,7 @@ xn--kasinotilmanrekisteritymistfin-mtc28c.com
 xn--keiteleenjtehuolto-utb.com
 xn--keiteleenjtehuolto-utb.fi
 xn--keiteleenjtehuolto-utb.online
+xn--kiinteisthuolto-htb.com
 xn--kiinteisthuoltokivioja-2hc.fi
 xn--kiinteistpalvelut-7zb.net
 xn--kitvero-suplementos-0vb.online
@@ -18777,6 +18802,7 @@ zrtfinland.org
 zsuominehx.coupons
 zuborapapa-kantanikuji.com
 zuluspinsfinland.net
+zunvero-market.shop
 zuoyj.com
 zuoyj.top
 zuxe-helsinki.com
