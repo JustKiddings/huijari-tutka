@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 03/11/2026 08:01 UTC
+# Last modified: 04/11/2026 08:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -3116,6 +3116,7 @@ finland.vn
 finland0x.xyz
 finland100com.com
 finland1x2.com
+finland22.best
 finland24.com
 finland24.se
 finland2u.com
@@ -6661,6 +6662,7 @@ ivanahelsinki.fi
 ivcfinland.world
 ivero-moda.cz
 ivhuoltoht.com
+ivhuoltosopimus.fi
 ivpalvelut.fi
 iwe-palvelut.fi
 iwebprofinland.info
@@ -6723,6 +6725,7 @@ jatehuoltovaronen.fi
 jathaviestates.com
 jatkokoulutuspalvelu.com
 javero-servicos.cfd
+jayceefinland.boats
 jaydaviestattoos.com
 jazzsuomi100.fi
 jbl-finland.com
@@ -6830,6 +6833,7 @@ joutsenfinland.com
 joyfulfinland.xyz
 jparemonttipalvelut.fi
 jpkviesta.com
+jppalveluthamina.com
 jpprakennuspalvelut.com
 jrafinland.com
 jskinhelsinki.fi
@@ -6858,6 +6862,7 @@ jussisuominen.com
 justbitfinland.com
 justdancehelsinki.com
 justforfinland.com
+justurvalpal.blog
 juupfinland.com
 jvaoyj.info
 jvkehonhuolto.com
@@ -6989,6 +6994,7 @@ karambacasino-suomi.com
 karcher-center-kymppipalvelu.fi
 karhu-suomi.com
 karhubetkasino-suomi.fi
+karhuhelsinki.com
 karhukoplasiivouspalvelut.com
 karhusuomi.com
 karikaturvakfi.org
@@ -7789,6 +7795,7 @@ lilja-putiikki-helsinki.com
 lillanhelsinki.fi
 lilleinsoumise.fr
 lilleinsoumise2026.fr
+limageurinsoumis.com
 limen-pc-huolto.net
 limoservicefinland.com
 limoservicehelsinki.com
@@ -10105,11 +10112,13 @@ oma-hub.com
 oma-ilse.de
 oma-insurance.com
 oma-irma.com
+oma-janssen.live
 oma-jewelry.ru
 oma-jiuyouhui.com.cn
 oma-kaethe.de
 oma-kanta-finland.com
 oma-kanta-finland.online
+oma-kanta-suomi.com
 oma-kanta.help
 oma-kanta.icu
 oma-kanta.info
@@ -10796,6 +10805,7 @@ pankkifi.com
 pankkii.run
 pankkiiriliikecdv.fi
 pankkijarjestelma.icu
+pankkijuristi.fi
 pankkiminun.com
 pankkiopas.fi
 pankkipalvelut-smobiilissa-fi.xyz
@@ -12340,6 +12350,7 @@ sdpinternationalhelsinki.fi
 sdpyorahuolto.fi
 sdsuomei.com
 sdsuomeng.com
+seafinland.com
 sealifehelsinki.ru
 seamshelsinki.org
 search-for-ai-mental-testing-finland.today
@@ -16860,6 +16871,7 @@ twincasino-suomi.com
 twincasinofinland.com
 twinklingtoadstoolhelsinki.com
 twistedhelsinki.fi
+tyhjennys-palvelu.com
 tyhjennyspalveluhelsinki.fi
 tyhjennyspalvelupulli.fi
 tykitys-finland.com
@@ -18599,6 +18611,7 @@ xn--keiteleenjtehuolto-utb.fi
 xn--keiteleenjtehuolto-utb.online
 xn--kiinteisthuolto-htb.com
 xn--kiinteisthuoltokivioja-2hc.fi
+xn--kiinteistpalveluravelin-glc.com
 xn--kiinteistpalvelut-7zb.net
 xn--kitvero-suplementos-0vb.online
 xn--kotijasiivouspalvelummt-f8bc.com
