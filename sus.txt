@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 06/11/2026 08:01 UTC
+# Last modified: 07/11/2026 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -351,6 +351,7 @@ allbirdssuomi-fi.com
 allbirdssuomionline.com
 allekirjoituspalvelu.com
 allekirjoituspalvelu.net
+alleyhelsinki.com
 allhelsinki.com
 allhelsinki.info
 allhelsinki.link
@@ -815,6 +816,7 @@ australian-cobberdog-finland.com
 auth-asiakaspalvelu.com
 auth-s-pankkii-fi.com
 auth-tunnistautuminen-suomi.help
+authenticpilatesfinland.com
 authfinland.xyz
 authhelsinki.xyz
 authorokothowityopap.com
@@ -1236,6 +1238,7 @@ bilgiegitimvekulturvakfi.xyz
 bilimvekulturvak.net
 billionfinland.xyz
 billybetsfinland.com
+bilvero-bet.com
 bilvero-th.com
 bilvero-th.org
 bimmerfinland.com
@@ -2260,6 +2263,7 @@ dfyne-suomi.com
 dfynefinland-fi.com
 dfynegymsuomi.com
 dfynesuomi-fi.com
+dfynesuomi-finland.com
 dfynesuomi.fi
 dfynesuomifi.com
 dfynesuomikauppa.com
@@ -2434,6 +2438,7 @@ drsoumikghosh.com
 drsoumikphysio.in
 drsoumilsinghal.com
 drsoumitraghosh.in
+drtaherehmasoumi.com
 dsafinland.com
 dsddeluxe-finland.com
 dssuomi.fi
@@ -2486,6 +2491,7 @@ e-suomi-viestinta.info
 e-suomifi.site
 e-todennus-omakela.com
 e-valvonta.fi
+e-viestinta-suomi.info
 e-viestit.site
 eakoulutuspalvelu.com
 eaoyj.cn
@@ -2522,6 +2528,7 @@ eco-finland.com
 ecoenergysoumission.com
 ecofinland.com
 ecofinland.xyz
+ecoleinsoumise.fr
 ecologyfinland.xyz
 ecomotion-finland.com
 econiapalvelut.com
@@ -2809,6 +2816,7 @@ etelasavonkourupalvelu.fi
 etelasavonnuohouspalvelu.com
 etelasuomenasennus.com
 etelasuomenlviasennus.fi
+eternityopalescent.click
 ethereumfinland.xyz
 ethereumhelsinki.xyz
 etherviesta.ink
@@ -3353,6 +3361,7 @@ finlandfitness.com
 finlandfj.com
 finlandflow.com
 finlandflower.com
+finlandflowers.ru
 finlandfoodguide.com
 finlandforward.com
 finlandfoward.com
@@ -3410,6 +3419,7 @@ finlandhot.xyz
 finlandhotelbest.com
 finlandhouse.top
 finlandhub.xyz
+finlandhyderabad.org
 finlandhyper.xyz
 finlandia-buende.de
 finlandia-extra.online
@@ -4056,6 +4066,7 @@ fortumars.com
 fortumate.com
 fortumatic.com
 fortumax.online
+fortumaxgroup.com
 fortumaxplay.com
 fortumaxx.com
 fortumaze.com
@@ -5802,6 +5813,7 @@ helsinkispatial.xyz
 helsinkispecial.xyz
 helsinkispin.bet
 helsinkispin.com
+helsinkispincity.click
 helsinkispinfi.com
 helsinkispins.com
 helsinkispirit-fi.com
@@ -6794,6 +6806,7 @@ jk-autopalvelu.com
 jkafinland.com
 jkafinland.fi
 jkiinteistopalvelut.com
+jklvipalvelut.com
 jl-liikuntapalvelut.com
 jlhsuomine.org
 jlindebergsuomi.fi
@@ -6823,6 +6836,7 @@ johtajuuspalvelu.fi
 joinaiesecinfinland.com
 joinfinland.com
 joinsaltyopals.com
+jokapaivainenterveys.info
 joker8finland.com
 jokercasinofinland.com
 jokeri-casino-suomi.com
@@ -7124,6 +7138,7 @@ kaupanvahvistajakuopio.fi
 kaupanvahvistajamikaloppi.com
 kaupanvahvistukset.com
 kaupanvahvistus.com
+kauppa-oliviahelsinki.com
 kauppakassipalvelu.fi
 kaupunkipalvelutfi.info
 kaupunkipalvelutfiho.info
@@ -7281,6 +7296,7 @@ kiplinglaukutsuomi.com
 kiplingsuomi-fi.com
 kiplingsuomishop.com
 kirjanpitopalvelu.com
+kirjanpitopalvelu.net
 kirjanpitopalvelut.com
 kirjaudu-akt1112.net
 kirjaudu-aktia.net
@@ -8176,6 +8192,7 @@ mainostoimistohelsinki.com
 maisa-viesti.info
 maisonnordeau.com
 maisonordea.com
+maisonsoumi.com
 maisonvero-mv.in
 maitojaterveys.fi
 majuriturvallinen.com
@@ -8398,6 +8415,7 @@ mavero-hr.com
 mavero-ion.shop
 mavero-logica.cfd
 mavero-london.com
+mavero-marketing.com
 mavero-nex.shop
 mavero-plus.online
 mavero-plus.ru
@@ -8444,6 +8462,7 @@ medium-vero-raphael.com
 mediumfinland.xyz
 medsterveys.fi
 meet-single-women-finland.today
+meetfinland.com
 meeturvaprep.com
 megadicesuomi.com
 megahelsinki.xyz
@@ -10036,6 +10055,7 @@ oma-asiakirjat.com
 oma-asiakirjat.info
 oma-authenticator.com
 oma-automation.com
+oma-baby.com
 oma-backoffice.com
 oma-baker.xyz
 oma-beaurepaire.com
@@ -10274,6 +10294,7 @@ oma-turvaviesti.net
 oma-und-opa-mieten.de
 oma-und-opa-tag.com
 oma-und-opa-tag.org
+oma-und-opa.app
 oma-und-opa.cloud
 oma-unplugged.com
 oma-up.org
@@ -10633,6 +10654,7 @@ osuuspankki-fi1.com
 osuuspankki2.com
 osuusyrpankki.com
 otsecfinland.com
+ottavero-co.com
 otto-casino-suomi.com
 ottocasino-suomi.com
 ottofinland.com
@@ -11292,6 +11314,7 @@ poro10finland.com
 porssisahkosuomi.fi
 portaal-omavero-info.com
 portaali-viestitverkossa.info
+portaildesoumissions.com
 portailmobilepay.one
 portailmobilepay.online
 portal-mobilepay.xyz
@@ -13040,6 +13063,7 @@ soumilbhatt.info
 soumilbhatt.tech
 soumilg.com
 soumilgarg.com
+soumilgg.com
 soumilheiro.com
 soumilhouse.com
 soumili.net
@@ -13061,6 +13085,7 @@ soumille.net
 soumilll.com
 soumilm.xyz
 soumilop.com
+soumils.com
 soumilsarkar.dev
 soumilsrivastava.com
 soumiltonalves.com.br
@@ -13212,6 +13237,7 @@ soumissioncomptable.com
 soumissionconfort.com
 soumissionconstru.com
 soumissionconstruction.com
+soumissionconstructionneuve.com
 soumissioncourtier.ca
 soumissioncourtier.com
 soumissioncouvreur.com
@@ -14160,6 +14186,7 @@ suomennostatus.com
 suomennumeropalvelu.fi
 suomennuohousrekisteri.com
 suomennuohoustarvike.com
+suomenoffarit.com
 suomenohjelmistotuotanto.fi
 suomenomaisuudenhoito.com
 suomenomakotihuolto.fi
@@ -14766,10 +14793,12 @@ suomiensin.com
 suomiensin.fi
 suomier.cn
 suomiescort.com
+suomietufi.com
 suomiexperience.cyou
 suomiexperience.sbs
 suomiexplore.click
 suomiexplore.online
+suomiexprolirre.com
 suomifaama.com
 suomifan.fi
 suomifans.com
@@ -15595,6 +15624,7 @@ suskinterveysvalmennus.fi
 sussnaswamiestenso.cfd
 sutazfinlandia.sk
 sutfinlandworks.com
+suunnittele-suomi-loggin.com
 suunnittele-suomi-loggin.online
 suuntasipaihdepalvelut.com
 suuntasipaihdepalvelut.org
@@ -16506,6 +16536,7 @@ traficomry.com
 traficomta.com
 traficomultasmadrid.com
 traficomyrfl.info
+traficora.com
 traficore.com
 traficore.online
 traficoreal.com
@@ -16942,6 +16973,7 @@ tyopaikat-siivousyrityksissa-fi.online
 tyopaikat-siivousyrityksissa.online
 tyopaikat.best
 tyopaikkafutsal.fi
+tyopaikkailmoituksenfi.com
 tyopaikkailmoituksenfi.online
 tyopaikkasaksassa.com
 tyopari.fi
@@ -17284,6 +17316,7 @@ vapsolosuomi.com
 varaahuolto.com
 varaahuolto.fi
 varaosapankki.com
+varapalvelut.com
 varastointipalvelu.com
 varastointipalvelu.net
 varastointipalvelut.com
