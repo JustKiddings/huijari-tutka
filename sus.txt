@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 08/11/2026 08:00 UTC
+# Last modified: 09/11/2026 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -852,6 +852,7 @@ autohuoltopalokka.com
 autohuoltopasila.fi
 autohuoltoss.fi
 autohuoltotarjous.fi
+autohuoltovantlux.online
 autohuoltow.fi
 autojakonehuolto.com
 autojakonehuoltolpr.fi
@@ -1016,6 +1017,7 @@ bapessuomi.com
 bapesuomi.com
 baranmasoumian.com
 barebellssuomi.com
+barebellssuomionline.com
 bargainhubfinland.com
 barhubhelsinki.fi
 barkstopsuomi.com
@@ -1057,6 +1059,7 @@ beats-suomi.com
 beautyhelsinki.com
 beautyopa.com
 beautyopal.blog
+beautyopal.click
 beautyopal.com
 beautyopaliha.beauty
 beautyopathy.com
@@ -2342,6 +2345,7 @@ discoveringfinlandoutreach.com
 discoveringhelsinki.com
 discoverysoumin.xxx
 disfinland.xyz
+districthelsinki.shop
 divaspinfinland.com
 diviestate.com
 djagencyfinland.com
@@ -2921,6 +2925,7 @@ fairtexfinland.com
 falch-finland.com
 falkesuomi.com
 fallafinlandhq.shop
+fallafinlandshop.shop
 fam-bet-finland.com
 fambet-finland.com
 fambet-finland.net
@@ -3614,6 +3619,7 @@ finlandnft.xyz
 finlandnights.com
 finlandnode.xyz
 finlandnorthernlights.tours
+finlandnovemberone.best
 finlandnpv.uk
 finlandnutra.info
 finlandnutritioncom.info
@@ -3732,6 +3738,7 @@ finlandsbestgamer.com
 finlandscan.xyz
 finlandschool.online
 finlandschool.xyz
+finlandschoolhyderabad.com
 finlandscribe.xyz
 finlandscript.xyz
 finlandscripts.xyz
@@ -5869,6 +5876,7 @@ helsinkisymphonyorchestra.tech
 helsinkitap.com
 helsinkitap.fi
 helsinkitapwater.com
+helsinkitattoo.com
 helsinkitech.com
 helsinkitech.xyz
 helsinkitechnology.com
@@ -6737,6 +6745,7 @@ izoautopesulahuolto.fi
 jaahdytyspalvelu.com
 jaakaappihuoltoturku.fi
 jaakarhunrakennuspalveluoy.fi
+jabra-suomi.com
 jabrasuomi.com
 jacheteenfinlande.com
 jacheteenfinlande.fr
@@ -8647,6 +8656,7 @@ miestenlelut.net
 miestenlethi.com
 miestenmuoti.fi
 miestenmuoti.net
+miestenpaidatshop.shop
 miestenpiiri.eu
 miestenrannekoru.fi
 miestenrannekorut.shop
@@ -9313,6 +9323,7 @@ mujifinland.com
 mulmipalvelut.com
 multastraficomadrid.com
 multichainhelsinki.xyz
+multiculturalfinland.com
 multihelsinki.xyz
 multishopfinland.fi
 multisighelsinki.xyz
@@ -10056,6 +10067,7 @@ oivalakipalvelu.com
 okmonipalveluoy.org
 olavipalvelut.fi
 oldcasinohelsinki.com
+oldschoolfinland.com
 olegsuomi.com
 olet-palveluunlogin.com
 olet-palveluunlogin.store
@@ -11029,6 +11041,7 @@ paylevocasino-finland.top
 paymentsfinland.xyz
 paynplay-casino-suomi.com
 paysafecardsuomi.com
+paysafesuomi.com
 paysagiste-soumission.com
 paysuomi.com
 pbcfinland.com
@@ -11103,6 +11116,7 @@ persevero-watches.com
 personal-loans-finland.today
 personal-loans-prfinland.bond
 personalfinland.xyz
+persoumi.xyz
 perusterveydenhuolto.fi
 pesapalvelut.com
 pessacinsoumise.fr
@@ -13121,6 +13135,7 @@ soumiksp.in
 soumiktarafdar.com
 soumil.co.uk
 soumil.gay
+soumil.ltd
 soumil.store
 soumil07.com
 soumila.com.cn
@@ -13621,9 +13636,11 @@ spankki-suomi-kampanja-fi.com
 spankki-viestit.com
 spankki-viestit.net
 spankki-viestit.online
+spankki.art
 spankki.click
 spankki.fun
 spankki.online
+spankki.org
 spankki.run
 spankki.site
 spankki.space
@@ -14004,6 +14021,7 @@ suomenakvarellitaiteenyhdistys.fi
 suomenalvguruoy.com
 suomenamyloidoosiyhdistys.com
 suomenapteekki.store
+suomenapteekkishop.shop
 suomenarki.org
 suomenarkiseura.com
 suomenarvoteosmyynti.fi
@@ -14998,6 +15016,7 @@ suomihublucky.com
 suomihubscore.games
 suomihubtop.games
 suomihuhut.com
+suomihuorat.com
 suomihusoghytter.com
 suomihvh.fi
 suomii-asiakaspalvelu.com
@@ -16197,6 +16216,7 @@ terveysvaikutukset.org
 terveysvalmennus.com
 terveysverstas.com
 terveysviidakko.com
+terveysvinkit.com
 terveysvinkit.site
 terveysvirasto.com
 terveysvoime.com
@@ -17762,6 +17782,7 @@ vero-gestivonda.site
 vero-glass.com
 vero-golf.com
 vero-gomez.com
+vero-gp.com
 vero-green.com
 vero-group.com
 vero-growth.com
@@ -18743,6 +18764,7 @@ xn--coraznagavero-flb.com
 xn--cosa--vero-cosa-no--vero-peco.ch
 xn--culvero-kchenbedarf-ebc.com
 xn--desafiodevero-7eb.site
+xn--dicasdevero-i8a.shop
 xn--erpalvelukontiometso-czb.com
 xn--esteetnsuomi-9ib.com
 xn--etsivpalvelut-ffb.com
@@ -18997,6 +19019,7 @@ younglasuomi.net
 your-instant-loan-for-you-finland.xyz
 yourtraveltofinland.com
 yovalo-suomi.com
+yovalosuomishop.shop
 yoyaku-kantan.com
 yrisuomine.bond
 yrittajanturva.com
