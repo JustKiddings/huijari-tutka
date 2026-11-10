@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 09/11/2026 08:00 UTC
+# Last modified: 10/11/2026 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -1489,6 +1489,7 @@ cadevynn-finland.ru
 caesarfinland.com
 cafeberryhelsinki.com
 cafefinlandia.fi
+cafenordhelsinki.com
 caffearomavero.com
 cafinland.fi
 calorieactive-suomi.com
@@ -2429,6 +2430,7 @@ drinkshelsinki.org
 dripcasinofinland.com
 dripstorehelsinki.com
 driveinrengaspalvelu.com
+drivereadyfinland.com
 driving-school-helsinki-344791214.today
 drivinginfinland.info
 drkamranmassoumi.com
@@ -3060,6 +3062,7 @@ fiasiakaspalvelu.com
 ficassuomi.com
 fiddledfylfotsfinland.sbs
 fifinpalvelu.xyz
+fightclubfinland.com
 fiilishierontapalvelut.fi
 fiinlandomaverossa.com
 fiksusuomi.com
@@ -4210,6 +4213,7 @@ frumzi-suomi.com
 frumzicasino-suomi.com
 frumzisuomi.com
 fruta-casino-suomi.com
+fsaoyj.xyz
 fsoumille.com
 fsqfinland.boutique
 fssuomei.cn
@@ -4555,6 +4559,7 @@ gymsharksuomiwebshop.com
 h2finland.org
 h2suomi.com
 h2suomi.org
+haaganverhoilupalvelu.live
 haakuvaaja-helsinki.com
 haantionpihapalvelu.com
 haapamaenautohuolto.fi
@@ -5946,6 +5951,7 @@ helsinkiweekly.com
 helsinkiwhale.xyz
 helsinkiwhisper.com
 helsinkiwinemeet.fi
+helsinkiwire.com
 helsinkiwithachef.com
 helsinkiwithrobbie.com
 helsinkiwoolsockfactory.com
@@ -7321,6 +7327,7 @@ kiitosuomi.com
 kikin-sisallontuotantopalvelut.com
 kikindigipalvelu.com
 kikindigipalvelut.com
+killersmilefinland.com
 kilobet-finland.com
 kilpailutuspalvelu.com
 kimmobiili.fi
@@ -8949,6 +8956,7 @@ mobilepay.top
 mobilepay.website
 mobilepay24.com
 mobilepay24.net
+mobilepay2park.com
 mobilepay5g-id.com
 mobilepay5g.com
 mobilepayables.xyz
@@ -9241,6 +9249,9 @@ morthanarfinland.web.id
 mosaicfinland.com
 mosaviestate.com
 moscotsuomi.com
+mostbetfinland.click
+mostbetfinland.fun
+mostbetfinland.site
 motelrocksfinland.com
 motelrockssuomi.com
 motivapesuomi.com
@@ -10043,6 +10054,7 @@ office-cleaner-finland.bond
 official-casino-finland.biz
 official-casino-finland.lat
 officialfinland.xyz
+officialmiahelsinki.shop
 offinland.fi
 offlinefinland.com
 offthebenchhelsinki.com
@@ -10418,6 +10430,7 @@ omakantaanpalvelut.com
 omakantafi-suomi.com
 omakantafi-suomi.online
 omakantafi.info
+omakantafii.com
 omakantafin.info
 omakantaif.online
 omakantainsights.info
@@ -10596,6 +10609,7 @@ onlinespankkifiwebsoft.shop
 onlinetunnistautuminenfi.com
 onlineyhteydet-suomi.site
 onlineyhteys-suomi.site
+onlyfansfinland.com
 onlyfanssuomi.com
 onlyinfinland.com
 onlysmilesuomi.com
@@ -10730,6 +10744,7 @@ ottofinland.com
 ottokasinosuomi.com
 ottosuomi.com
 oukitel-finland.eu
+oulaistenpyorahuolto.live
 oulujarvenmetsapalvelu.com
 oulunautohuolto.fi
 oulundatapalvelut.com
@@ -11040,6 +11055,7 @@ payhelsinki.xyz
 paylevocasino-finland.top
 paymentsfinland.xyz
 paynplay-casino-suomi.com
+paysafecard-suomi.com
 paysafecardsuomi.com
 paysafesuomi.com
 paysagiste-soumission.com
@@ -12968,6 +12984,7 @@ soumi-sinille.art
 soumi-sinille.xyz
 soumi-sports.com
 soumi-youku.com
+soumi.app
 soumi.fi
 soumi.icu
 soumi.org
@@ -13519,6 +13536,7 @@ soumitr.com
 soumitra.dev
 soumitra.fun
 soumitra.link
+soumitra.online
 soumitrab.com
 soumitrabasu.com
 soumitrabasu.org
@@ -14843,6 +14861,7 @@ suomicelebrations.com
 suomichancehub.com
 suomichic.com
 suomichoices.com
+suomicloud.ru
 suomiclub.com
 suomiclub.ru
 suomiclub.store
@@ -15134,6 +15153,7 @@ suomikulta.com
 suomikulta.online
 suomikuva.net
 suomikuvva.com
+suomilab.dev
 suomilabs.click
 suomilandcan.com
 suomilandcanada.com
@@ -16213,6 +16233,7 @@ terveysuutiset-suomi.com
 terveysvaikutukset.com
 terveysvaikutukset.net
 terveysvaikutukset.org
+terveysvalinta.store
 terveysvalmennus.com
 terveysverstas.com
 terveysviidakko.com
@@ -17082,6 +17103,7 @@ tyopaikkafutsal.fi
 tyopaikkailmoituksenfi.com
 tyopaikkailmoituksenfi.online
 tyopaikkasaksassa.com
+tyopaivakirja.fi
 tyopari.fi
 tyopay.com
 tyosuomi.online
@@ -17887,6 +17909,7 @@ vero-mentoring.com
 vero-mgmt.com
 vero-michael.com
 vero-microfluent.com
+vero-milano.com
 vero-milano.it
 vero-minus.site
 vero-moda-nl.shop
@@ -18839,6 +18862,7 @@ xn--lymobiili-u2a.com
 xn--lyttavarapalvelu-mwbc.fi
 xn--maalaus-jakiinteisthuoltonyholm-pdd.fi
 xn--maalauspalvelu-sterman-8hc.com
+xn--maisvero-xza.shop
 xn--manunhautauspalvelumikkelijoutsahartolajyvskyl-r4de.fi
 xn--metsjaviherpalvelukpy-81bp.com
 xn--miksimobilepayvaihtaanime-9ec.fi
