@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 14/11/2026 08:01 UTC
+# Last modified: 15/11/2026 08:00 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -405,6 +405,7 @@ altrosoumission.org
 alumni-elisa.fr
 alurahelsinkishop.com
 alure-helsinki.com
+alva-helsinki.com
 alveahelsinki.com
 alvero-box.shop
 alvero-cove.life
@@ -618,6 +619,7 @@ arttupakkanenpt-palvelut.com
 arturval.ru
 arturvaleev.ru
 artwalkhelsinki.com
+arvero-montage.com
 arvohuolto.com
 arvokoruhelsinki.com
 arvostettuasiakaskokemus.fi
@@ -1374,6 +1376,7 @@ boosticfinland.com
 boostkasino-suomi.fi
 boostmobilepay.com
 boostmobilepayment.com
+boostmobilepayments.com
 bootssuomi.com
 booyj.com
 borenpalvelu.com
@@ -1690,6 +1693,7 @@ caterpillarinsuomi.com
 caterpillarsuomi-fi.com
 caterpillarsuomi.shop
 caterpliarssuomi.com
+caterveya.com
 catfinland.com
 catfootwear-suomi.com
 catsfinland.com
@@ -2279,6 +2283,7 @@ designworksfinland.com
 desigual-finland.com
 despinayiasoumi.com
 desport-world-finland.com
+destination-finlande.com
 destinationweddinginfinland.com
 detvitafinland.com
 deusfinland.space
@@ -2862,6 +2867,7 @@ etelasavonnuohouspalvelu.com
 etelasuomenasennus.com
 etelasuomenlviasennus.fi
 eternityopalescent.click
+ethannordean.com
 ethereumfinland.xyz
 ethereumhelsinki.xyz
 etherviesta.ink
@@ -3807,6 +3813,7 @@ finlandsmart.xyz
 finlandsmp.xyz
 finlandsnationaltasting.com
 finlandsnow.com
+finlandsnowshoeing.com
 finlandsocalfres.com
 finlandsoccer.xyz
 finlandsocialgames.com
@@ -3891,6 +3898,7 @@ finlandtraveltv.com
 finlandtraveltv.fi
 finlandtreasury.xyz
 finlandtry.xyz
+finlandtvplay.com
 finlandultra.xyz
 finlanduncovered.fi
 finlanduniverse.com
@@ -4899,6 +4907,7 @@ helsinki-fi.com
 helsinki-fi.org
 helsinki-fi.xyz
 helsinki-fun.com
+helsinki-funding.com
 helsinki-game-pro-fi.online
 helsinki-games.com
 helsinki-games.site
@@ -7513,6 +7522,7 @@ kombattaekwondofinland.com
 komfortum.shop
 komonofinland.com
 komviesta.xyz
+konehuolto-koski.com
 konehuoltoheinonen.com
 konehuoltokairenius.fi
 konehuoltokeskus.com
@@ -7787,6 +7797,7 @@ laskutuspalvelutry.com
 lasmi-helsinki.com
 lasnapalvelut.online
 lasoumissionqc.info
+lasportivasuomi.com
 lastblondeinfinland.com
 lastenhoitopalvelupikkupanda.com
 lastenvaunut-suomi.shop
@@ -8284,6 +8295,7 @@ maalausliike-helsinki.com
 maalauspalvelu-osterman.com
 maalauspalvelu-österman.com
 maalauspalveluniinivari.com
+maalauspalveluttampere.fi
 maanrakennuspalveluthorkko.fi
 maaritsfinland.com
 maddabouthelsinki.fi
@@ -9480,6 +9492,7 @@ myomakantaa.com
 mypersonalsuomi.com
 myresortsuomi.com
 myrskypalvelut.fi
+mysitefinlandwg.site
 mysoumi.com
 myspankki.com
 myspankki.shop
@@ -9817,6 +9830,7 @@ nitrocasino-finland.com
 nitrocasino-suomi.com
 nitrocasino-suomi.fi
 nitrocasinofinland.com
+nitrocasinokirjaudu.com
 nitrocasinosuomi.com
 nitrokasino-suomi.fi
 nivakpankki.com
@@ -9959,6 +9973,7 @@ nordeas.one
 nordeas.online
 nordease.dk
 nordease.store
+nordeasecurities.com
 nordeaseshop.com
 nordeasgaming.world
 nordeasgg.live
@@ -10621,6 +10636,7 @@ omendonfinland.com
 omistajanvaihdospalvelu.fi
 omoihelsinki.com
 ompelimohelsinki.com
+omronsuomi.com
 omw2helsinki.com
 on-cloud-finland.com
 on-suomi.com
@@ -12104,6 +12120,7 @@ rkautopalvelu.com
 rkhyvinvointipalvelut.fi
 rkmautohuolto.fi
 rkmpalvelut.fi
+rkpalvelut.com
 rmcfinland-fi.com
 rmcfinlandfi.com
 rmtautohuolto.com
@@ -15805,6 +15822,7 @@ suomiviesti-ilmoitukset.com
 suomiviestit.info
 suomiview.com
 suomiviihde.com
+suomivio.com
 suomivippi.fi
 suomivitsit.lol
 suomivoitotfi.com
@@ -17949,6 +17967,7 @@ vero-growth.com
 vero-guard.com
 vero-gusto.ch
 vero-gusto.com
+vero-gynecology.com
 vero-h2.com
 vero-hairstyle.shop
 vero-hardware.com
@@ -18109,6 +18128,8 @@ vero-potenco.co.uk
 vero-potenco.com
 vero-potenco.org
 vero-praesentium.com
+vero-prime.com
+vero-prime.online
 vero-pro.com
 vero-prod.com
 vero-prod.site
@@ -18716,6 +18737,7 @@ webservicespankki.xyz
 webterveystalo.com
 webtraficomarketing.com
 webtvfinland.fi
+wec-finland.com
 wecoya-finland.com
 wedfinland.com
 wedkarskafinlandia.com.pl
