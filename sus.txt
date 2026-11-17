@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 16/11/2026 08:01 UTC
+# Last modified: 17/11/2026 08:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -368,6 +368,7 @@ allprint-suomi.fi
 allprintfinland.fi
 allsaintssuomi.net
 allstarfinland.com
+allthingsfinland.com
 allthingshelsinki.com
 alltravelfinland.com
 allvero-sa.com
@@ -619,6 +620,7 @@ artsanfinland.net
 arttupakkanenpt-palvelut.com
 arturval.ru
 arturvaleev.ru
+arturvales.com
 artwalkhelsinki.com
 arvero-montage.com
 arvohuolto.com
@@ -854,6 +856,7 @@ autohuoltokami.com
 autohuoltokami.net
 autohuoltokerava.fi
 autohuoltokeskus.com
+autohuoltokosonen.fi
 autohuoltokumpulainen.com
 autohuoltolaine.fi
 autohuoltolohilahti.pro
@@ -959,6 +962,7 @@ avero-vista.com
 avero-washington.com
 avero-watches.com
 avero-zen.com
+avidfinland.com
 aviesta.com.mx
 aviestas.com
 aviestas.site
@@ -3132,6 +3136,7 @@ filmschoolfinland.com
 filterboxsuomi.com
 filuckysuomi.com
 fimobiili-kampanja.com
+fimobiili-ohjearvofi.com
 fimobiiliimaksut.com
 fimobilepay.ink
 fimobilepayonline.website
@@ -3519,6 +3524,7 @@ finlandia.edu.pl
 finlandia.fr
 finlandia.org.br
 finlandia.org.es
+finlandia.org.uk
 finlandiabusiness.com
 finlandiacasino.fi
 finlandiacasino.icu
@@ -6240,6 +6246,9 @@ hotspinsuomi.com
 hottomoffinlandstorepop.shop
 hotviesta.sbs
 houkuttelevasuomi.com
+houseboat-finland.com
+houseboatfinland.com
+houseboatsfinland.com
 housefinland.com
 housefinland.one
 houseofcbsuomi.com
@@ -7495,6 +7504,7 @@ kiropraktiikkahelsinki.com
 kiropraktikko-helsinki.com
 kirvero-consulting.ch
 kirvero-consulting.com
+kissarekisteri.fi
 kissen-suomi.shop
 kitarahuolto.org
 kitchenaid-suomi.com
@@ -8913,6 +8923,7 @@ mobiili-kasino.fi
 mobiili-kasinot.fi
 mobiili-kasinot.org
 mobiili-kmpanja.com
+mobiili-ohjearvofi.com
 mobiili-s.com
 mobiili-spankki-elakkeella.com
 mobiili-spankki-elakkeellaafi.com
@@ -9654,6 +9665,7 @@ nbcfinland2025.com
 nbcsymposiumfinland.com
 nblenkkaritsuomi.com
 nbsuomi.shop
+ndasuomi.fi
 ndsuominer.org
 ndttukkufinland.com
 ndttukkusuomi.com
@@ -11159,6 +11171,7 @@ parhaatsuomihotellit.com
 parhaatsuomiopas.online
 parkanon-hinauspalvelu.fi
 parkettityohelsinki.fi
+parkkilahuolto.fi
 parkmobilepay.com
 parolantienpihapalvelu.fi
 parolinfinlandstore.com
@@ -11886,6 +11899,7 @@ ragweartakkisuomi.com
 rahapelisuomi.fi
 rahapelit-ilman-rekisterointia.com
 rahasuomi.fi
+rahul-weds-soumi.site
 raidfinland.com
 railfinland.com
 railstockfinland.com
@@ -13046,6 +13060,7 @@ smobiili.online
 smobiilidigialkufi.com
 smobiilielakkeella.com
 smobiiliellakkeella.com
+smobiilietarahatfi.com
 smobiilifi-kampanja.com
 smobiilifikampanja.com
 smobiilifloyj.com
@@ -13141,9 +13156,11 @@ sossoumissionchimique.org
 sosterpalvelut.fi
 sotrafco.com
 sottyopath.xyz
+soumi-app.cn
 soumi-baidu.com
 soumi-cctv.com
 soumi-douyu.com
+soumi-entry.cn
 soumi-espn.com
 soumi-fi.top
 soumi-fi2.sbs
@@ -13154,6 +13171,7 @@ soumi-kanta.store
 soumi-kugou.com
 soumi-linkki.life
 soumi-live.com
+soumi-login.cn
 soumi-mgtv.com
 soumi-online.sbs
 soumi-qq.com
@@ -14262,8 +14280,10 @@ suomenensiaputalo.fi
 suomenetalaakarit.com
 suomenetalaakarit.net
 suomenetalaakarit.org
+suomenf1.com
 suomenfi.site
 suomenfinanssipaasyohjelma.com
+suomenfutis.com
 suomeng.cc
 suomeng.cn
 suomeng.lol
@@ -14388,6 +14408,7 @@ suomenkattopinta.com
 suomenkattoremontit.fi
 suomenkaupungit.com
 suomenkellojakulta.com
+suomenkiekko.com
 suomenkieli.com
 suomenkieliset-kasinot.com
 suomenkiinteistohuolto.fi
@@ -14400,6 +14421,7 @@ suomenkirkkoespanjassa.net
 suomenkirvesmiehet.com
 suomenkoirametsat.com
 suomenkondomit.fi
+suomenkoris.com
 suomenkosmetologikoulu.fi
 suomenkotiaidit.com
 suomenkotiaidit.fi
@@ -14729,6 +14751,9 @@ suomi-datanet.com
 suomi-delta.com
 suomi-design-works.com
 suomi-dfyne.com
+suomi-dhl.delivery
+suomi-dhl.info
+suomi-dhl.today
 suomi-digital.com
 suomi-ebox.com
 suomi-eboxe.com
@@ -14897,6 +14922,7 @@ suomi-viestit-osiossa.site
 suomi-viestit-osiossa.website
 suomi-viestits.site
 suomi-voitto.com
+suomi-voitto.website
 suomi-web-fi.sbs
 suomi-web.sbs
 suomi-wonderful.com
@@ -18628,6 +18654,7 @@ visitmyfinland.com
 visitmyfinland.se
 visitnaantalifinland.com
 visitnorthernfinland.travel
+visitsaunahelsinki.com
 visitsuomi.fi
 visitsuomi.net
 visma-kirjaudu.com
