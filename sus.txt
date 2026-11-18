@@ -1,7 +1,7 @@
 # Title Suomalaiset Huijaussivustot
 # Description: Lista, joka pyrkii estämään huijaussivustoja.
 # Homepage: https://github.com/JustKiddings/huijari-tutka
-# Last modified: 17/11/2026 08:01 UTC
+# Last modified: 18/11/2026 08:01 UTC
 #
 02autopalvelut.com
 0938-turvallisuus-op.info
@@ -3681,6 +3681,7 @@ finlandnewsletter.com
 finlandnewstv.com
 finlandnext.xyz
 finlandnft.xyz
+finlandnhlforum.com
 finlandnights.com
 finlandnode.xyz
 finlandnorthernlights.tours
@@ -5365,6 +5366,7 @@ helsinkiagi.xyz
 helsinkiai.solutions
 helsinkiai.xyz
 helsinkiaihub.com
+helsinkiaika.fi
 helsinkiairdrop.xyz
 helsinkiairplane.com
 helsinkiairport.rocks
@@ -7267,6 +7269,7 @@ katespadesuomi.net
 katisuominen.com
 katon-korjaus-palvelut.online
 katori-finland.online
+katori-finland.store
 katsuomi.co.uk
 kattilahuolto.com
 kattohuolto-huopamestarit.fi
@@ -7740,6 +7743,7 @@ laakaripalveluvatjus.fi
 laakehoidonturva.com
 laaksonen-helsinki.com
 laatupankki.se
+labambafinland.pro
 labourfinland.com
 labsfinland.xyz
 labshelsinki.xyz
@@ -8043,6 +8047,7 @@ littlessuomi.cyou
 lituoyj.com
 liujosuomi.com
 livecdnfinland.skin
+livekasinorekisteroitymista.fi
 livekasinosuomi.com
 livelisuomi.com
 livelovehelsinki.com
@@ -8295,6 +8300,7 @@ lux-helsinki.com
 luxhelsinki.com
 luxlifefinland.net
 luxorfinland.fi
+luxpalvelu.online
 luxury-finland-holiday-package-deals.xyz
 luxury777-helsinki.lat
 luxurycasinosuomi.com
@@ -8591,6 +8597,7 @@ matkahuoltofi.sbs
 matkahuoltofi.shop
 matkahuoltoi.bond
 matkahuoltoo.com
+matkapuhelinnumeronvahvistus.info
 matkaturva.com
 matrixzinofinland.com
 matsuomethod.com
@@ -12153,6 +12160,7 @@ risoumirai.com
 ristonpyorahuolto.live
 ristosisko-helsinki.com
 ritan-kauneuspalvelut.com
+riturvatus.blog
 riverislandsuomi.net
 rivero-abogados.com
 rivero-automotive.se
@@ -12496,6 +12504,7 @@ sahkopalvelupuustinen.fi
 sahkopalvelutsalmi.com
 sahkoposti-omakanta.org
 sahkoposti-suomi.com
+sahkoturvallisuustutkinto.fi
 sahkotyopaloviita.fi
 sahkotyoturvallisuus.com
 saikuru-helsinki.com
@@ -12845,6 +12854,7 @@ shturval-trade.ru
 shturval-udovolstviya.ru
 shturval.online
 shturval.pro
+shturval.space
 shturval25.ru
 shturvalchanel.shop
 shturvalplus.ru
@@ -12947,6 +12957,7 @@ sisuhuolto.org
 sisukasinosuomi.com
 sisuomi.com
 sisustuspalvelutminnanevalainen.fi
+sitakantabarikhardware.site
 sitakantanayak.com
 sivado-helsinki.com
 sixthhousefinland.com
@@ -13049,10 +13060,12 @@ smobiili-avaa.com
 smobiili-elakkeella.com
 smobiili-ellakkeella.com
 smobiili-fi.com
+smobiili-hae-fi.com
 smobiili-kampanja-pankki-fi.com
 smobiili-kampanja-spankki-fi.com
 smobiili-kampanja.com
 smobiili-kampanjafi.com
+smobiili-seniorituki.com
 smobiili-spankki.com
 smobiili-spankkifi.com
 smobiili-spannkki.com
@@ -13201,6 +13214,7 @@ soumia-elhadri-advisory.com
 soumia-henna.de
 soumia-hypnose.com
 soumia-laiourate.com
+soumia-shop.com
 soumia.app
 soumia.ch
 soumia.org
@@ -14284,6 +14298,7 @@ suomenf1.com
 suomenfi.site
 suomenfinanssipaasyohjelma.com
 suomenfutis.com
+suomenfutis.fi
 suomeng.cc
 suomeng.cn
 suomeng.lol
@@ -14452,6 +14467,7 @@ suomenlakipalvelufisd.info
 suomenlakipalvelufisi.info
 suomenlakipalvelufite.info
 suomenlakipalvelufivb.info
+suomenlakiturva.com
 suomenlampopuu.com
 suomenlapinkoira-welpen.de
 suomenlapset.com
@@ -14983,6 +14999,7 @@ suomi24casino.com
 suomi24treffit.net
 suomi24treffitfi.com
 suomi2u.com
+suomi3.online
 suomi333.work
 suomi360.biz
 suomi360.com
@@ -17580,6 +17597,7 @@ vahvistaheti.com
 vahvistajatuotteet.com
 vahvistajatuotteet.fi
 vahvistaminen-verkossa.net
+vahvistapuhelinnumero.info
 vahvistasuomi.com
 vahvistathan.info
 vahvistavacoach.com
@@ -18277,6 +18295,7 @@ vero-smart.com
 vero-smith.com
 vero-sms.com
 vero-sn.com
+vero-soft.com
 vero-soluta.site
 vero-solutions.co.uk
 vero-soto.com
